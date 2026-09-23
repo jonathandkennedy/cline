@@ -1,1113 +1,1113 @@
 {
-  "version": 1,
-  "SEO_OVERRIDES": {
-    "/": {
-      "title": "California Lemon Law Lawyers · Free Case Review | CLINE APC",
-      "description": "California lemon law attorneys at CLINE APC. Check your eligibility, estimate your buyback, and get a free case review. The manufacturer pays our fees."
-    },
-    "/contact": {
-      "title": "Get a Free California Lemon Law Case Review | CLINE APC",
-      "description": "Request a free California lemon law case review. A CLINE APC attorney personally reviews your vehicle's repair history, with no upfront fees, ever."
-    },
-    "/tool/eligibility-checker": {
-      "title": "California Lemon Law Eligibility Checker (Free) | CLINE APC",
-      "description": "Free California lemon law eligibility check. Answer a few questions about your warranty and repair visits to see if your car may qualify under Song-Beverly."
-    },
-    "/tool/buyback-calculator": {
-      "title": "California Lemon Law Buyback Calculator (Free) | CLINE APC",
-      "description": "Estimate your California lemon law buyback or lease refund from your price, payments, and the mileage offset. A free calculator built by attorneys."
-    },
-    "/tool/documentation-checklist": {
-      "title": "California Lemon Law Document Checklist (Free) | CLINE APC",
-      "description": "Free, private checklist to organize the records that support a California lemon law claim. Repair orders help if you have them; no window sticker required."
-    },
-    "/case-studies/mercedes-eqe-settlement-pattern": {
-      "title": "Mercedes EQE Electrical Defects: Lemon Law Case | CLINE APC",
-      "description": "Representative California lemon law case: a Mercedes EQE with intermittent electrical failures the dealer could not always reproduce, and how it settled."
-    },
-    "/case-studies/rivian-r1s-drive-unit-refund": {
-      "title": "Rivian R1S Drive Unit Defect: Lemon Law Refund | CLINE APC",
-      "description": "Representative California lemon law case: a Rivian R1S with recurring drive unit noise and vibration, the repair history, and the legal path to a refund."
-    },
-    "/case-studies/chevrolet-silverado-engine-buyback": {
-      "title": "Silverado Engine Stalling: Lemon Law Buyback | CLINE APC",
-      "description": "Representative California lemon law case: a Chevrolet Silverado with repeat engine misfires and stalling, the repair visits, and the path to a buyback."
-    },
-    "/case-studies/kia-telluride-engine-refund": {
-      "title": "Kia Telluride Engine Defect: Lemon Law Refund | CLINE APC",
-      "description": "Representative California lemon law case: a Kia Telluride that kept knocking and losing power after an engine campaign repair, and the path to a refund."
-    },
-    "/faq/what-is-substantial-impairment-under-california-lemon-law": {
-      "title": "What Is Substantial Impairment in CA Lemon Law? | CLINE APC",
-      "description": "What counts as substantial impairment under California lemon law: defects that significantly affect a vehicle's use, value, or safety, with common examples."
-    },
-    "/faq/can-i-still-have-a-claim-outside-the-presumption-window": {
-      "title": "Is the 18/18 Rule Required for a Lemon Law Case? | CLINE APC",
-      "description": "No. An 18-month / 18,000-mile timeline is not required for a California lemon law case. What matters is whether the defect first appeared under warranty."
-    },
-    "/faq/does-lemon-law-cover-motorcycles-rvs-and-boats": {
-      "title": "CA Lemon Law for RVs, Boats and Motorcycles | CLINE APC",
-      "description": "Yes, California lemon law can cover motorcycles, RVs, and boats sold with a manufacturer's written warranty. Learn how coverage and repair records apply."
-    },
-    "/blog/10-car-recalls-in-2024": {
-      "title": "10 Car Brands With Recalls in 2024: What to Know | CLINE APC",
-      "description": "A look at 10 car brands that issued recalls in 2024, what the defects were, and how a recall can affect your rights under California lemon law."
-    },
-    "/blog/2017-gmc-yukon-transmission-recall": {
-      "title": "2017 GMC Yukon Transmission Recall Explained | CLINE APC",
-      "description": "What 2017 GMC Yukon owners should know about the transmission recall, the symptoms to watch for, and when repeat problems may support a lemon law claim."
-    },
-    "/blog/2019-21-chevy-cruze-problem-what-you-need-to-know": {
-      "title": "2019–2021 Chevy Cruze Problems in California | CLINE APC",
-      "description": "Common 2019–2021 Chevy Cruze problems reported by owners, and what California drivers can do if repeated repairs fail under the manufacturer's warranty."
-    },
-    "/blog/4-lies-manufacturers-will-tell-consumers-in-the-buyback-process": {
-      "title": "4 Lies Manufacturers Tell in the Lemon Buyback | CLINE APC",
-      "description": "Four misleading claims automakers make during the California lemon law buyback process, and how to protect your refund when you negotiate with them."
-    },
-    "/blog/4-things-to-remember-for-a-successful-first-meeting-with-your-lemon-law-attorney": {
-      "title": "First Meeting With a Lemon Law Attorney: 4 Tips | CLINE APC",
-      "description": "How to prepare for your first meeting with a lemon law attorney: the documents to bring, the questions to ask, and what to expect from the conversation."
-    },
-    "/blog/4-tips-for-hiring-the-right-lemon-law-attorney": {
-      "title": "How to Hire the Right Lemon Law Attorney: 4 Tips | CLINE APC",
-      "description": "Four tips for hiring the right lemon law attorney in California: do your homework, keep your records, and watch for red flags like upfront costs."
-    },
-    "/blog/4-ways-california-lemon-lawyers-can-help-you-fight-against-a-faulty-auto-manufacturer": {
-      "title": "4 Ways a Lemon Lawyer Helps You Fight Automakers | CLINE APC",
-      "description": "Four ways a California lemon law attorney can help when a manufacturer won't stand behind a defective car, from building the claim to negotiating a buyback."
-    },
-    "/blog/5-sounds-that-might-indicate-your-vehicle-is-a-lemon": {
-      "title": "5 Car Noises That Might Mean You Have a Lemon | CLINE APC",
-      "description": "Knocking, whining, squeaking or grinding: five noises that can point to a serious engine, transmission, brake, or steering defect in a possible lemon."
-    },
-    "/blog/5-tips-to-win-a-lemon-claim-from-your-manufacturer": {
-      "title": "5 Tips to Win a Lemon Law Claim vs. an Automaker | CLINE APC",
-      "description": "Five tips to win a lemon law claim against your manufacturer: know the law, keep records ready, avoid the arbitration trap, and watch for lowball offers."
-    },
-    "/blog/6-sure-fire-signs-the-used-car-you-plan-to-buy-is-a-lemon": {
-      "title": "6 Signs the Used Car You Plan to Buy Is a Lemon | CLINE APC",
-      "description": "Six warning signs that a used car may be a lemon, and the checks to run before you buy so you don't inherit someone else's recurring defect."
-    },
-    "/blog/6-things-know-recreational-vehicle-lemon": {
-      "title": "6 Things to Know If Your RV Is a Lemon | CLINE APC",
-      "description": "Six things California RV and motorhome owners should know when their recreational vehicle keeps failing, from warranty coverage to documenting repairs."
-    },
-    "/blog/a-detailed-california-lemon-law-guide-for-los-angeles-residents": {
-      "title": "California Lemon Law Guide for Los Angeles | CLINE APC",
-      "description": "A detailed guide to California lemon law for Los Angeles residents: what qualifies as a lemon, how repair attempts count, and how to pursue a buyback."
-    },
-    "/blog/a-guide-to-california-lemon-law-for-rv-owners": {
-      "title": "California Lemon Law for RV Owners: What Changed | CLINE APC",
-      "description": "How California lemon law now protects new RV owners much like car buyers, what counts as a defect, and what to do when your motorhome keeps breaking down."
-    },
-    "/blog/a-new-ad-campaign-takes-aim-to-unmask-the-cjac": {
-      "title": "New Ad Campaign Aims to Unmask the CJAC | CLINE APC",
-      "description": "A new ad campaign targets the Civil Justice Association of California (CJAC) and its corporate backers. What it means for consumer and lemon law rights."
-    },
-    "/blog/are-illegal-car-sales-tactics-and-how-to-get-out-of-them": {
-      "title": "Illegal Car Sales Tactics and How to Get Out | CLINE APC",
-      "description": "How to spot illegal car sales tactics used by some dealerships, and the options California buyers have to get out of a deal that was made unfairly."
-    },
-    "/blog/are-maserati-cars-reliable": {
-      "title": "Are Maserati Cars Reliable? What to Know | CLINE APC",
-      "description": "Is a Maserati worth it? A look at Maserati reliability, common problems owners report, and what California lemon law offers if your car keeps failing."
-    },
-    "/blog/are-teslas-covered-by-lemon-laws-debunking-myths-and-misconceptions": {
-      "title": "Are Teslas Covered by Lemon Law? Myths Debunked | CLINE APC",
-      "description": "Yes, Teslas can be covered by California lemon law. We debunk common myths about Tesla defects, over-the-air updates, arbitration, and buybacks."
-    },
-    "/blog/assessing-the-vast-ripple-effect-of-self-driving-cars": {
-      "title": "The Ripple Effect of Self-Driving Cars | CLINE APC",
-      "description": "How self-driving cars could change safety, insurance, liability, and consumer protection, including what autonomous vehicles may mean for lemon law."
-    },
-    "/blog/audi-passenger-air-bag-issues": {
-      "title": "Audi Passenger Airbag Recalls: 4 Affected Models | CLINE APC",
-      "description": "Four Audi models recalled for passenger airbag issues since 2015, why airbag defects are so serious, and what owners can do if repairs don't fix them."
-    },
-    "/blog/automakers-avoid-manufacturer-buyback": {
-      "title": "4 Hidden Ways Automakers Avoid a Lemon Buyback | CLINE APC",
-      "description": "Four tactics manufacturers use to avoid a lemon law buyback in California, and how consumers can recognize them and protect their claim."
-    },
-    "/blog/avoid-buying-a-car-as-is-from-a-dealership": {
-      "title": "Why to Avoid Buying a Car As-Is From a Dealer | CLINE APC",
-      "description": "Why buying a used car as-is from a dealership is risky, what rights you may give up, and how warranty coverage affects your options under lemon law."
-    },
-    "/blog/begin-lemon-law-case-during-covid-19": {
-      "title": "Can You Start a Lemon Law Case During COVID-19? | CLINE APC",
-      "description": "Whether you could begin a lemon law case during COVID-19, how court and business closures affected claims, and how cases moved forward remotely."
-    },
-    "/blog/best-lemon-law-attorney-san-diego-key-qualities-to-look-for-in-2026": {
-      "title": "Choosing a San Diego Lemon Law Attorney in 2026 | CLINE APC",
-      "description": "Key qualities to look for in a San Diego lemon law attorney in 2026, from California lemon law experience to fee structure and how they evaluate your case."
-    },
-    "/blog/best-lemon-law-attorneys-in-los-angeles-for-used-car-claims": {
-      "title": "Los Angeles Lemon Law Attorneys for Used Cars | CLINE APC",
-      "description": "What to look for in a Los Angeles lemon law attorney for a used car claim, and when a used vehicle still under warranty may qualify under California law."
-    },
-    "/blog/big-news-governor-gavin-newsom-signs-new-ca-lemon-law-bill-despite-reservations": {
-      "title": "California Lemon Law Changes: What AB 1755 Means | CLINE APC",
-      "description": "What AB 1755 changes in California lemon law, signed by Governor Newsom, and what the new rules mean for consumers bringing a defective vehicle claim."
-    },
-    "/blog/buying-a-new-car-in-los-angeles-things-to-take-care": {
-      "title": "10 Tips for Buying a New Car in Los Angeles | CLINE APC",
-      "description": "Ten things to keep in mind when buying a new car in Los Angeles, from research and financing to inspections, so you avoid surprises and potential lemons."
-    },
-    "/blog/cadillac-lyriq-brake-recall-21000-vehicles": {
-      "title": "Cadillac LYRIQ Brake Recall: 21,000+ Vehicles | CLINE APC",
-      "description": "GM recalled more than 21,000 2023–2024 Cadillac LYRIQ AWD vehicles over a brake defect. What owners should know and when lemon law may apply."
-    },
-    "/blog/california-ab-1755-explained-new-pre-suit-notice-requirements-for-lemon-law-claims": {
-      "title": "CA AB 1755: New Lemon Law Pre-Suit Notice Rules | CLINE APC",
-      "description": "California AB 1755 explained: the new pre-suit notice requirement, manufacturer response periods, and mandatory mediation for lemon law claims."
-    },
-    "/blog/california-buyback-lemon-law-what-happens-to-lemon-vehicles": {
-      "title": "What Happens to a Lemon Car After a Buyback? | CLINE APC",
-      "description": "What happens to a lemon vehicle after a California manufacturer buyback, what manufacturers and dealers must do, and whether to buy a lemon buyback car."
-    },
-    "/blog/california-lemon-law-101-brush-knowledge-consulting-lawyer": {
-      "title": "California Lemon Law 101: Know Before You Call | CLINE APC",
-      "description": "California lemon law 101: the basics to know before consulting a lawyer, including what qualifies as a lemon, repair attempts, and possible remedies."
-    },
-    "/blog/california-lemon-law-and-business-vehicles-how-does-it-work": {
-      "title": "California Lemon Law for Business Vehicles | CLINE APC",
-      "description": "How California lemon law applies to business vehicles: which ones qualify, how the weight limit works, and when a civil penalty may be available."
-    },
-    "/blog/california-lemon-law-basics": {
-      "title": "California Lemon Law Basics Every Driver Needs | CLINE APC",
-      "description": "California lemon law basics every consumer should know: what a lemon is, coverage for used vehicles, what you're entitled to, and what a lawyer costs."
-    },
-    "/blog/california-lemon-law-buybacks-busted": {
-      "title": "3 Myths About California Lemon Law Buybacks | CLINE APC",
-      "description": "Three common myths about California lemon law buybacks, busted: what the law actually requires, who qualifies, and what a refund can include."
-    },
-    "/blog/california-lemon-law-claim-documents": {
-      "title": "Documents You Need for a California Lemon Claim | CLINE APC",
-      "description": "The documents you need for a California lemon law claim: the bill of sale, warranty terms, repair invoices, and receipts for incidental costs."
-    },
-    "/blog/california-lemon-law-for-different-state-vehicle": {
-      "title": "CA Lemon Law for Cars Bought in Another State | CLINE APC",
-      "description": "Does California lemon law apply to a vehicle bought in another state? Usually not, but there are exceptions. How federal and state lemon laws compare."
-    },
-    "/blog/california-lemon-law-presumption-what-qualifies-a-vehicle-as-a-lemon": {
-      "title": "California Lemon Law Presumption: What Qualifies | CLINE APC",
-      "description": "How the California lemon law presumption works, the defects that commonly support a claim, and what qualifies a new or used vehicle as a lemon."
-    },
-    "/blog/california-lemon-law-presumption": {
-      "title": "The California Lemon Law Presumption Explained | CLINE APC",
-      "description": "What California drivers need to know about the lemon law presumption, how it helps prove a claim, and what happens if your vehicle doesn't meet it."
-    },
-    "/blog/californias-lemon-law-controversy": {
-      "title": "California's Lemon Law Controversy Explained | CLINE APC",
-      "description": "What's behind California's lemon law controversy: the recent changes, the proposed fixes, and what they mean for drivers with defective vehicles."
-    },
-    "/blog/car-dealership-scams-to-look-out": {
-      "title": "6 Common Car Dealership Scams to Watch For | CLINE APC",
-      "description": "Six common car dealership scams to look out for, from hidden fees to financing tricks, and what California buyers can do if they have been misled."
-    },
-    "/blog/car-dealerships-vs-car-manufacturers-california-lemon-law": {
-      "title": "Dealer vs. Manufacturer Under CA Lemon Law | CLINE APC",
-      "description": "Car dealerships vs. manufacturers under California lemon law: who is responsible for defects, who pays for a buyback, and how private sales differ."
-    },
-    "/blog/car-defects-not-covered-under-lemon-law-california": {
-      "title": "5 Car Defects Not Covered by CA Lemon Law | CLINE APC",
-      "description": "Five types of car problems that California lemon law generally does not cover, from abuse and accident damage to issues outside the manufacturer warranty."
-    },
-    "/blog/car-purchase-contracts-and-cancellation-agreements": {
-      "title": "Car Purchase Contracts and Cancellation Options | CLINE APC",
-      "description": "What to know about car purchase contracts and cancellation agreements in California, and when you may be able to cancel, such as for fraud or a breach."
-    },
-    "/blog/cash-and-keep-settlement": {
-      "title": "Cash-and-Keep Lemon Law Settlements Explained | CLINE APC",
-      "description": "What a cash-and-keep lemon law settlement is, how it compares with a buyback, and the questions to weigh before deciding whether to accept an offer."
-    },
-    "/blog/certified-pre-owned-cars-ca-lemon-law-protection": {
-      "title": "Certified Pre-Owned Cars and CA Lemon Law | CLINE APC",
-      "description": "Why only manufacturer-certified pre-owned vehicles get lemon law protection in California, and how CPO warranties differ from dealer certification."
-    },
-    "/blog/chevrolet-evs-recall-over-risk-of-bursting-into-flames": {
-      "title": "Chevrolet EV Recall Over Fire Risk: What to Know | CLINE APC",
-      "description": "What Chevrolet EV owners should know about the recall over battery fire risk, the steps GM has taken, and when repeat defects may support a lemon claim."
-    },
-    "/blog/chevy-cruze-problems": {
-      "title": "Common Chevy Cruze Problems Owners Should Know | CLINE APC",
-      "description": "Common Chevy Cruze problems owners report, from engine and cooling issues to transmission trouble, and what to do if repairs under warranty keep failing."
-    },
-    "/blog/chevy-gmc-consumer-alert": {
-      "title": "Chevy and GMC Consumer Alerts: What to Know | CLINE APC",
-      "description": "A breakdown of recent Chevy and GMC consumer alerts: who is affected, whether the issue can qualify under lemon law, and the related class action."
-    },
-    "/blog/chrysler-pacifica-electric-hybrid-recall-should-you-contact-a-lawyer": {
-      "title": "Chrysler Pacifica Hybrid Recall: Call a Lawyer? | CLINE APC",
-      "description": "The Chrysler Pacifica Hybrid recall affected over 27,000 minivans. When owners should talk to a lemon law lawyer about repeat defects and a buyback."
-    },
-    "/blog/chrysler-pacifica-electric-hybrid-recall-what-is-it": {
-      "title": "Chrysler Pacifica Hybrid Recall: What It Covers | CLINE APC",
-      "description": "What the Chrysler Pacifica Hybrid recall is, which minivans are affected, the safety risk involved, and what owners should do next in California."
-    },
-    "/blog/common-bmw-defects-that-could-qualify-for-lemon-law-claims": {
-      "title": "Common BMW Defects That Can Qualify as a Lemon | CLINE APC",
-      "description": "Common BMW defects that may qualify for a California lemon law claim, from timing chain failures to fuel system issues, and how to file a claim."
-    },
-    "/blog/common-cadillac-lemon-law-issues": {
-      "title": "10 Common Problems in Cadillac Lemon Cars | CLINE APC",
-      "description": "Ten common issues found in Cadillac lemon cars, from transmission failures and electrical problems to engine misfires, and your options under lemon law."
-    },
-    "/blog/common-car-defects-in-lemon-car": {
-      "title": "Common Defects Found in Lemon Cars and Trucks | CLINE APC",
-      "description": "The most common defects found in lemon cars, including engine, transmission, electrical, and brake problems, and when they qualify under lemon law."
-    },
-    "/blog/common-challenges-california-lemon-law-process": {
-      "title": "5 Challenges in the California Lemon Law Process | CLINE APC",
-      "description": "Five common challenges in the California lemon law process, from proving the defect to manufacturer delays, and how consumers can get past them."
-    },
-    "/blog/common-challenges-faced-by-california-lemon-law-lawyers": {
-      "title": "Common Challenges California Lemon Lawyers Face | CLINE APC",
-      "description": "The common challenges California lemon law lawyers face when a dealer can't fix a car, and how an attorney works through them to resolve your claim."
-    },
-    "/blog/common-myths-lemon-law-lawyers": {
-      "title": "3 Common Myths About Lemon Law Lawyers Debunked | CLINE APC",
-      "description": "Three common myths about lemon law lawyers, debunked: that they delay the process, that arbitration is smarter, and that they put their own gains first."
-    },
-    "/blog/common-nissan-sentra-problems": {
-      "title": "Nissan Sentra Problems and California Lemon Law | CLINE APC",
-      "description": "Common Nissan Sentra problems, when a defective Sentra counts as a lemon, and how California lemon law protects owners of new and used Sentras."
-    },
-    "/blog/common-problems-chevy-equinox-models": {
-      "title": "Most Common Problems With the Chevy Equinox | CLINE APC",
-      "description": "The most common Chevy Equinox problems, including heater issues, oil overconsumption, and faulty ABS, plus recent recalls and your lemon law options."
-    },
-    "/blog/consumer-mistakes-that-doom-lemon-law-cases": {
-      "title": "5 Consumer Mistakes That Can Doom a Lemon Case | CLINE APC",
-      "description": "Five consumer mistakes that can doom a lemon law case, from complaints missing on service reports to confusing the dealer with the manufacturer."
-    },
-    "/blog/consumer-safety-groups-appeal-federal-ruling-enabling-car-dealers-to-conceal-recall-information": {
-      "title": "Safety Groups Appeal Ruling on Hidden Recalls | CLINE APC",
-      "description": "Consumer safety groups are appealing a federal ruling that lets car dealers conceal open recall information. What it means for used car buyers."
-    },
-    "/blog/consumers-speed-up-california-lemon-law-buyback-process": {
-      "title": "4 Ways to Speed Up a California Lemon Buyback | CLINE APC",
-      "description": "Four practical ways consumers can help speed up the California lemon law buyback process, from organized records to prompt responses."
-    },
-    "/blog/corruption-lemons-white-house-atty-allegedly-lied-for-toyota": {
-      "title": "White House Attorney Allegedly Lied for Toyota | CLINE APC",
-      "description": "A former WilmerHale attorney now at the White House is accused of lying under oath to help Toyota hide defects. What the case says about automakers."
-    },
-    "/blog/covid-19-hurt-lemon-law-case": {
-      "title": "Could COVID-19 Hurt Your Lemon Law Case? | CLINE APC",
-      "description": "How COVID-19 delays and closures could affect a lemon law case, from repair visits to court timelines, and what drivers can do to protect their claim."
-    },
-    "/blog/cpo-cars-in-san-diego-lemon-law-buyer-tips": {
-      "title": "Buying a Certified Pre-Owned Car in San Diego | CLINE APC",
-      "description": "What San Diego buyers should know before purchasing a certified pre-owned vehicle, including CPO warranties and when California lemon law applies."
-    },
-    "/blog/dealerships-holding-car-for-more-than-30-days-for-repair": {
-      "title": "Can a Dealer Keep Your Car 30+ Days for Repair? | CLINE APC",
-      "description": "What happens when a dealership holds your car for more than 30 days for warranty repairs, and how days out of service can support a lemon law claim."
-    },
-    "/blog/defective-car-causes-an-accident": {
-      "title": "What to Do When a Defective Car Causes a Crash | CLINE APC",
-      "description": "What to do if a factory defect causes a car accident: getting the defect investigated, checking lemon law eligibility, and when to talk to an attorney."
-    },
-    "/blog/defective-car-models-2024": {
-      "title": "The Most Defective Car Models of 2024 by Brand | CLINE APC",
-      "description": "The most defective car models of 2024 by brand, based on reported problems and recalls, and what owners can do if their vehicle keeps failing."
-    },
-    "/blog/defective-vehicle-purchase-rights": {
-      "title": "Your Rights After Buying a Defective Car in CA | CLINE APC",
-      "description": "What your rights are after buying a faulty car in California, including warranty repairs, lemon law buybacks, and when to talk to an attorney."
-    },
-    "/blog/did-you-lease-a-lemon-understand-your-situation-factors-in": {
-      "title": "Leased a Lemon? How Lemon Law Applies to Leases | CLINE APC",
-      "description": "Did you lease a lemon? How California lemon law applies to leased vehicles, what a lease buyback can include, and the steps to take next."
-    },
-    "/blog/differences-between-federal-lemon-law-and-california-lemon-law": {
-      "title": "Federal vs. California Lemon Law Differences | CLINE APC",
-      "description": "The key differences between federal lemon law (Magnuson-Moss) and California's Song-Beverly Act, and which protections apply to your vehicle."
-    },
-    "/blog/diy-lemon-law-vs-hiring-an-attorney": {
-      "title": "DIY Lemon Law Claim vs. Hiring an Attorney | CLINE APC",
-      "description": "The pros and cons of handling a lemon law claim yourself vs. hiring an attorney, and why California law makes the manufacturer pay your attorney fees."
-    },
-    "/blog/do-airbags-expire": {
-      "title": "Do Airbags Expire? What Drivers Should Know | CLINE APC",
-      "description": "Is there an expiration date on airbags? How long airbags last, the signs of an airbag problem, and what to do if your vehicle's airbag system is defective."
-    },
-    "/blog/do-all-states-have-used-vehicle-lemon-laws": {
-      "title": "Do All States Have Used Car Lemon Laws? | CLINE APC",
-      "description": "Not every state has a used vehicle lemon law. How California protects used car buyers with a warranty, and what to do if your state's law falls short."
-    },
-    "/blog/do-recreational-vehicles-fall-under-california-lemon-law": {
-      "title": "Are RVs Covered by California Lemon Law? | CLINE APC",
-      "description": "Do recreational vehicles fall under California lemon law? How coverage works for RVs and motorhomes, including chassis and coach defects."
-    },
-    "/blog/does-your-2020-or-newer-car-qualify-for-california-lemon-law": {
-      "title": "Does Your 2020 or Newer Car Qualify as a Lemon? | CLINE APC",
-      "description": "Whether your 2020 or newer car qualifies under California lemon law after AB 1755 and a recent Supreme Court ruling on used cars, and what to do next."
-    },
-    "/blog/essential-steps-filing-emon-law-claim": {
-      "title": "5 Essential Steps to Filing a Lemon Law Claim | CLINE APC",
-      "description": "The five essential steps to filing a lemon law claim in California, from documenting repairs and notifying the manufacturer to working with an attorney."
-    },
-    "/blog/fact-about-lemon-law-arbitration": {
-      "title": "The FAIR Act and Lemon Law Arbitration Explained | CLINE APC",
-      "description": "What the Forced Arbitration Injustice Repeal (FAIR) Act means for lemon law arbitration, and how forced arbitration clauses can affect consumers."
-    },
-    "/blog/fact-or-fiction-the-ultimate-california-lemon-law-factsheet": {
-      "title": "Fact or Fiction: California Lemon Law Factsheet | CLINE APC",
-      "description": "Separate fact from fiction with this California lemon law factsheet, covering common misconceptions about eligibility, repair attempts, and buybacks."
-    },
-    "/blog/factors-influence-ability-win-lemon-law-case": {
-      "title": "3 Key Factors That Affect a Lemon Law Case | CLINE APC",
-      "description": "Three key factors that influence your ability to win a California lemon law case, from the nature of the defect to your repair history and records."
-    },
-    "/blog/facts-and-myths-about-car-purchase-decisions-in-los-angeles": {
-      "title": "Facts and Myths About Buying a Car in LA | CLINE APC",
-      "description": "Common facts and myths about car purchase decisions in Los Angeles, and what buyers should know about warranties, dealers, and potential lemons."
-    },
-    "/blog/faulty-car-transmission-inspection": {
-      "title": "How to Tell If Your Car Transmission Is Faulty | CLINE APC",
-      "description": "The warning signs of a faulty car transmission, from slipping and delayed shifts to strange noises, and what to do if warranty repairs keep failing."
-    },
-    "/blog/file-lemon-law-claim-california": {
-      "title": "4 Tips to File a Lemon Law Claim in California | CLINE APC",
-      "description": "Four practical tips for filing a lemon law claim in California, so you avoid common mistakes and give your defective vehicle claim a strong start."
-    },
-    "/blog/find-trustworthy-california-lemon-law-attorney": {
-      "title": "How to Find a Trustworthy CA Lemon Law Attorney | CLINE APC",
-      "description": "How to find a trustworthy California lemon law attorney: their lemon law focus, reviews and past cases, questions to ask, and how fees work."
-    },
-    "/blog/ford-and-lemon-law-a-history-of-faulty-products": {
-      "title": "Ford and Lemon Law: A History of Faulty Products | CLINE APC",
-      "description": "A look at Ford's history of defective products and recalls, and what California Ford owners can do under lemon law when repairs don't fix the problem."
-    },
-    "/blog/ford-car-lemon-law": {
-      "title": "Ford Lemon Cars: Steps for Owners to Get Justice | CLINE APC",
-      "description": "What happens to owners of Ford lemon cars, and the steps to pursue a buyback or settlement under California lemon law when defects keep coming back."
-    },
-    "/blog/ford-car-recalls": {
-      "title": "Ford Recalls: An Overview of Ford's 2024 Recalls | CLINE APC",
-      "description": "A quick overview of Ford's 2024 recalls, the models and defects involved, and what Ford owners in California should do if repairs fail to fix them."
-    },
-    "/blog/getting-justice-from-general-motors": {
-      "title": "Getting Justice From GM: A GMC Sierra Lemon Case | CLINE APC",
-      "description": "How a California client with a defective 2016 GMC Sierra pursued a lemon law claim against General Motors, and what the case shows about the process."
-    },
-    "/blog/gmc-recalls-over-90000-vehicles-due-to-transmission-defect": {
-      "title": "GMC Recalls 90,000+ Vehicles Over Transmission | CLINE APC",
-      "description": "GMC recalled over 90,000 vehicles for a transmission control defect that could lock the wheels. What owners should know and when lemon law may apply."
-    },
-    "/blog/gmc-truck-recalls-models-that-have-been-recalled-recently": {
-      "title": "GMC Truck Recalls: Recently Recalled Models | CLINE APC",
-      "description": "A rundown of GMC truck and SUV models recalled recently, the defects involved, and what owners can do if the problem continues after repairs."
-    },
-    "/blog/gms-recent-transmission-defect": {
-      "title": "GM 8-Speed Automatic Transmission Lawsuit | CLINE APC",
-      "description": "What to know about the GM 8-speed automatic transmission defect and lawsuit, the symptoms owners report, and your options under California lemon law."
-    },
-    "/blog/guide-purchasing-lemon-law-buy-back": {
-      "title": "Buying a Lemon Law Buyback Car in California | CLINE APC",
-      "description": "What to know before buying a lemon law buyback car in California: the original defect, the warranty, manufacturer and dealer duties, and risks to weigh."
-    },
-    "/blog/guide-to-2022-volkswagen-taos-recall": {
-      "title": "2022 Volkswagen Taos Recalls: What to Know | CLINE APC",
-      "description": "Everything owners should know about the 2022 Volkswagen Taos recalls, the defects involved, and what to do if repeat repairs don't solve the problem."
-    },
-    "/blog/guide-to-common-bmw-problems": {
-      "title": "6 Common BMW Defects Across Most Models | CLINE APC",
-      "description": "Six common BMW defects, from faulty ignition coils and dead batteries to coolant system failures and oil filter gasket leaks, and when lemon law helps."
-    },
-    "/blog/guide-to-hyundai-car-recalls-in-2024": {
-      "title": "A Guide to Hyundai Car Recalls in 2024 | CLINE APC",
-      "description": "A guide to Hyundai's 2024 recalls: the models and defects involved, what owners should do, and when repeat problems may support a lemon law claim."
-    },
-    "/blog/handle-lemon-law-disputes-with-car-dealerships-in-orange-county": {
-      "title": "Lemon Law Disputes With Orange County Dealers | CLINE APC",
-      "description": "How to handle lemon law disputes with car dealerships in Orange County, from documenting repairs to involving the manufacturer and a lemon law attorney."
-    },
-    "/blog/honda-lemon-car-complaints": {
-      "title": "5 Honda Models With the Most Lemon Complaints | CLINE APC",
-      "description": "Five Honda models with the most owner complaints, the defects reported, and what California drivers can do under lemon law if repairs keep failing."
-    },
-    "/blog/how-california-lemon-law-protects-fleets-and-businesses": {
-      "title": "CA Lemon Law for Fleet and Commercial Vehicles | CLINE APC",
-      "description": "How California lemon law applies to fleet and commercial vehicles, which business vehicles can qualify, and what to do when a work truck keeps failing."
-    },
-    "/blog/how-does-a-product-recall-affect-lemon-law-claims": {
-      "title": "How Does a Recall Affect a Lemon Law Claim? | CLINE APC",
-      "description": "How a product recall affects a lemon law claim in California, whether recall repairs count as repair attempts, and what to do if the fix fails."
-    },
-    "/blog/how-does-lemon-law-affect-electric-cars": {
-      "title": "How Lemon Law Applies to Electric Cars | CLINE APC",
-      "description": "How California lemon law applies to electric cars, the new problems EV technology brings, and what to do if your electric vehicle turns out to be a lemon."
-    },
-    "/blog/how-does-open-repair-affect-lemon-law-claims": {
-      "title": "What Does Open Repair Mean for Lemon Law Claims? | CLINE APC",
-      "description": "What an open repair means and how it can affect a California lemon law claim, including repair orders, unresolved defects, and recall work."
-    },
-    "/blog/how-gm-is-working-to-dismantle-california-lemon-law": {
-      "title": "How GM Is Working to Dismantle CA Lemon Law | CLINE APC",
-      "description": "How General Motors has worked to weaken California's lemon law (Song-Beverly Act), and what those efforts could mean for drivers with defective cars."
-    },
-    "/blog/how-lemon-law-attorneys-work-on-a-contingency-fee-agreement": {
-      "title": "How Lemon Law Attorneys Work on Contingency | CLINE APC",
-      "description": "How lemon law attorneys work on a contingency fee agreement, how they get paid, and why you pay nothing out of pocket for a California lemon law case."
-    },
-    "/blog/how-mileage-offset-affects-your-california-lemon-law-repurchase-settlement": {
-      "title": "How Mileage Offset Affects Your Lemon Buyback | CLINE APC",
-      "description": "How the mileage offset is calculated in a California lemon law repurchase, and how it can reduce your refund. Learn the formula and what to check."
-    },
-    "/blog/how-the-best-lemon-law-attorney-in-san-diego-evaluates-defective-vehicle-cases": {
-      "title": "How San Diego Lemon Law Attorneys Evaluate Cases | CLINE APC",
-      "description": "How a San Diego lemon law attorney evaluates a defective vehicle case: repair history, warranty coverage, defect severity, and the documents that matter."
-    },
-    "/blog/how-to-avoid-buying-lemon-when-used-car-shopping": {
-      "title": "How to Avoid Buying a Lemon When Car Shopping | CLINE APC",
-      "description": "How to avoid buying a lemon when used car shopping: history reports, inspections, warranty checks, and red flags to watch for before you sign."
-    },
-    "/blog/how-to-get-lemon-law-legal-advice-during-covid-19": {
-      "title": "Getting Lemon Law Legal Advice During COVID-19 | CLINE APC",
-      "description": "How to get lemon law legal advice during COVID-19 when courts and offices closed, and how California lemon law cases continued to move forward remotely."
-    },
-    "/blog/how-to-get-the-most-from-your-manufacturer-when-life-gives-you-a-lemon": {
-      "title": "Getting the Most From Your Automaker for a Lemon | CLINE APC",
-      "description": "How to get the most from your manufacturer when you're stuck with a lemon, including arbitration pitfalls, manufacturer duties, and incidental damages."
-    },
-    "/blog/how-to-know-vehicle-lemon-history": {
-      "title": "How to Tell If a Car Has a Lemon History | CLINE APC",
-      "description": "How to tell if a used car has a reported lemon history, what to check before you buy, and whether you should avoid a lemon buyback vehicle."
-    },
-    "/blog/hyundai-car-recalls-2022": {
-      "title": "5 Hyundai Models Recalled in 2022: What to Know | CLINE APC",
-      "description": "Five Hyundai models recalled in 2022, the defects behind each recall, and what owners should do if the problem persists after the recall repair."
-    },
-    "/blog/hyundai-lawsuit-automaker-sanctioned-for-spoliation-of-engines": {
-      "title": "Hyundai Sanctioned for Spoliation of Engines | CLINE APC",
-      "description": "Why Hyundai was sanctioned for spoliation of engine evidence in a recent lawsuit, and what the case means for consumers with engine defect claims."
-    },
-    "/blog/implied-car-warranty-lemon-law-protection": {
-      "title": "Implied Car Warranties and Lemon Law Protection | CLINE APC",
-      "description": "How California lemon law protects consumers through the implied warranty of merchantability, and when it can help if your car is defective."
-    },
-    "/blog/inspection-guide-for-buying-a-used-vehicle": {
-      "title": "Pre-Purchase Inspection Guide for Used Cars | CLINE APC",
-      "description": "A pre-purchase car inspection guide for buying a used vehicle: what to check inside, outside, and under the hood so you don't end up with a lemon."
-    },
-    "/blog/is-mazda-a-reliable-car-brand": {
-      "title": "Is Mazda a Reliable Car Brand? What to Know | CLINE APC",
-      "description": "Is Mazda a reliable car brand? A look at Mazda's reliability record, common problems owners report, and your options if your Mazda turns out to be a lemon."
-    },
-    "/blog/is-there-a-time-limit-to-file-a-lemon-law-claim": {
-      "title": "Is There a Time Limit to File a Lemon Law Claim? | CLINE APC",
-      "description": "How long do you have to file a lemon law claim in California? This infographic explains the key timelines so a missed deadline doesn't sink your case."
-    },
-    "/blog/is-your-boat-a-lemon": {
-      "title": "Is Your Boat a Lemon? Signs and Steps to Take | CLINE APC",
-      "description": "Signs your boat may be a lemon and the steps to take, including how the Magnuson-Moss Warranty Act and California lemon law can apply to boats."
-    },
-    "/blog/is-your-chevrolet-a-lemon-signs-to-watch-for-and-what-to-do-next": {
-      "title": "Is Your Chevrolet a Lemon? Signs and Next Steps | CLINE APC",
-      "description": "Signs your Chevrolet may be a lemon, from recurring engine and transmission issues to electrical faults, and what to do next under California lemon law."
-    },
-    "/blog/is-your-vehicles-warranty-valid-for-a-california-lemon-law-claim": {
-      "title": "Is Your Warranty Valid for a CA Lemon Law Claim? | CLINE APC",
-      "description": "Which warranties support a California lemon law claim: manufacturer and dealer warranties, the implied warranty of merchantability, and as-is sales."
-    },
-    "/blog/issues-to-avoid-lemon-buy-backs": {
-      "title": "4 Major Issues to Avoid With Lemon Buybacks | CLINE APC",
-      "description": "Four issues to avoid in a lemon law buyback: negative equity, aggressive mileage offsets, manufacturer arbitration, and unlawful release forms."
-    },
-    "/blog/japanese-car-brands-with-the-most-reliability-concerns": {
-      "title": "Japanese Car Brands With Reliability Concerns | CLINE APC",
-      "description": "Japanese car brands with the most reliability concerns, the problems owners report, and what to do in California if your vehicle keeps failing."
-    },
-    "/blog/jeep-transmission-problems": {
-      "title": "Jeep Transmission Problems: What You Can Do | CLINE APC",
-      "description": "Common Jeep automatic transmission problems owners report, the warning signs to watch for, and what you can do under California lemon law."
-    },
-    "/blog/kia-models-with-the-most-lemon-law-complaints": {
-      "title": "Kia Models With the Most Lemon Law Complaints | CLINE APC",
-      "description": "The Kia models with the most lemon law complaints, the defects owners report, and what to do in California if your Kia keeps going back to the shop."
-    },
-    "/blog/know-differences-lemon-law-auto-fraud-avoid-getting-duped": {
-      "title": "Lemon Law vs. Auto Fraud: Know the Difference | CLINE APC",
-      "description": "The difference between lemon law and auto fraud, how each applies to a defective or misrepresented vehicle, and how California buyers can avoid getting duped."
-    },
-    "/blog/latest-consumer-complaint-report-lemon-law-claims": {
-      "title": "Consumer Complaint Report and CA Lemon Claims | CLINE APC",
-      "description": "What the latest Consumer Federation of America complaint report means for California lemon law claims and the auto issues consumers report most."
-    },
-    "/blog/leased-car-lemon-law": {
-      "title": "Leased Car Lemon Law: 5 Things to Know First | CLINE APC",
-      "description": "Five things to know before leasing a car to avoid a lemon, and how California lemon law protects you if your leased vehicle turns out to be defective."
-    },
-    "/blog/leasing-car-advantages-dodge-traps-car-leasing-companies": {
-      "title": "Car Leasing Traps and Leased Lemon Law Issues | CLINE APC",
-      "description": "How to dodge common traps set by car leasing companies, and how California lemon law applies when a leased vehicle turns out to be a lemon."
-    },
-    "/blog/lemon-driver-abuse": {
-      "title": "Lemon or Driver Abuse? Know Your Rights | CLINE APC",
-      "description": "What happens when a manufacturer blames driver abuse for your vehicle's defects, and how to protect your rights in a California lemon law claim."
-    },
-    "/blog/lemon-law-arbitration-why-you-shouldnt-do-it": {
-      "title": "Lemon Law Arbitration: Why You Should Avoid It | CLINE APC",
-      "description": "What lemon law arbitration is, why it tends to favor manufacturers, and why California consumers are not required to use it to resolve a lemon claim."
-    },
-    "/blog/lemon-law-buyback-process-california": {
-      "title": "The California Lemon Law Buyback Process | CLINE APC",
-      "description": "How the California lemon law buyback process works, what the manufacturer must refund, and the steps from first repair to a completed repurchase."
-    },
-    "/blog/lemon-law-buyback-vs-regular-refunds": {
-      "title": "Lemon Law Buyback vs. Regular Refund Explained | CLINE APC",
-      "description": "The difference between a lemon law buyback and a regular refund, what each includes, and why the distinction matters for California vehicle owners."
-    },
-    "/blog/lemon-law-buybacks-what-to-expect": {
-      "title": "California Lemon Law Buybacks: What to Expect | CLINE APC",
-      "description": "What to expect in a California lemon law buyback, from qualifying and negotiating with the manufacturer to how the refund and vehicle return work."
-    },
-    "/blog/lemon-law-case-prepare-for-the-trial": {
-      "title": "How to Prepare for a California Lemon Law Trial | CLINE APC",
-      "description": "Lemon law trials are rare, but here is how to prepare if your case goes to court: records to gather, testimony to expect, and how your attorney helps."
-    },
-    "/blog/lemon-law-case-worth-lemon-law-buyback-calculator": {
-      "title": "How Much Is Your Lemon Buyback? Calculator | CLINE APC",
-      "description": "How much is your lemon law buyback worth? The California buyback formula, the costs it always includes, and the incidental costs you can add."
-    },
-    "/blog/lemon-law-claims-and-software-glitches-in-a-car": {
-      "title": "Software Glitches and Lemon Law Claims | CLINE APC",
-      "description": "How software glitches and infotainment failures can support a lemon law claim in California, and what to document when your car's tech keeps failing."
-    },
-    "/blog/lemon-law-facts-and-stats-in-orange-county": {
-      "title": "Orange County Lemon Law Facts and Statistics | CLINE APC",
-      "description": "Orange County facts and statistics about lemon law and defective cars, and what OC drivers should know if their vehicle keeps going back to the shop."
-    },
-    "/blog/lemon-law-for-buyers-with-disabilities": {
-      "title": "Lemon Law for Car Buyers With Disabilities | CLINE APC",
-      "description": "What additional protections exist for car buyers with disabilities, including adapted vehicles, and how California lemon law applies when defects occur."
-    },
-    "/blog/lemon-law-for-private-vehicle-sale": {
-      "title": "Lemon Law and Private Vehicle Sales: Your Rights | CLINE APC",
-      "description": "What rights you have under lemon law after buying from a private seller, when a remaining manufacturer warranty may still protect you, and what to do."
-    },
-    "/blog/lemon-law-protections-for-high-end-vehicles-in-los-angeles": {
-      "title": "Lemon Law for Luxury Cars in Los Angeles | CLINE APC",
-      "description": "How lemon law protects luxury vehicles in Los Angeles, the challenges owners face, and preventive steps that help protect your warranty rights."
-    },
-    "/blog/lemon-law-recall-does-your-vehicle-qualify-for-legal-protections": {
-      "title": "Can a Recalled Car Qualify as a Lemon? | CLINE APC",
-      "description": "Can a vehicle repaired under a recall still qualify as a lemon? How recalls interact with California lemon law and when a recurring defect counts."
-    },
-    "/blog/lemon-law-vs-warranty-whats-the-difference": {
-      "title": "Lemon Law vs. Warranty: What's the Difference? | CLINE APC",
-      "description": "The difference between lemon law and your car warranty, how they work together in California, and what to do when warranty repairs don't fix the defect."
-    },
-    "/blog/lemon-product-liability": {
-      "title": "Lemon Law or Product Liability: Which Applies? | CLINE APC",
-      "description": "Lemon law vs. product liability: which applies when a defective vehicle causes loss or injury, and what benefits you may be entitled to in California."
-    },
-    "/blog/let-a-lemon-law-attorney-handle-your-case": {
-      "title": "Life Handed You a Lemon? Let an Attorney Help | CLINE APC",
-      "description": "Why letting a lemon law attorney handle your case can take the stress off, how the process works in California, and why the manufacturer pays our fees."
-    },
-    "/blog/litigation-arbitration-whats-better": {
-      "title": "Litigation or Arbitration Under CA Lemon Law? | CLINE APC",
-      "description": "Litigation vs. arbitration under California lemon law: how each process works, the tradeoffs involved, and which option may be better for your claim."
-    },
-    "/blog/luxury-vehicles-major-mechanical-problems": {
-      "title": "5 Luxury Cars Prone to Major Mechanical Problems | CLINE APC",
-      "description": "Five luxury vehicles most likely to have major mechanical problems, the defects owners report, and your options under California lemon law."
-    },
-    "/blog/manufacturers-defense-lawyers-ruin-california-lemon-law-claim": {
-      "title": "How Automaker Defense Lawyers Fight Lemon Claims | CLINE APC",
-      "description": "How manufacturers' defense lawyers try to undermine a California lemon law claim, and the steps you can take to protect your case from their tactics."
-    },
-    "/blog/measures-take-car-lemon": {
-      "title": "What to Do When Your Car Is a Lemon in CA | CLINE APC",
-      "description": "The steps to take when your car is a lemon in California: know your refund and replacement options, get legal advice, and don't wait too long."
-    },
-    "/blog/mistakes-avoid-during-lemon-law-buyback-process": {
-      "title": "4 Mistakes to Avoid in the Lemon Buyback Process | CLINE APC",
-      "description": "Four mistakes to avoid during the lemon law buyback process in California, so you don't weaken your claim or leave money on the table."
-    },
-    "/blog/most-reliable-cars-tructs-suvs-2022": {
-      "title": "Most and Least Reliable Cars and SUVs of 2022 | CLINE APC",
-      "description": "Consumer Reports' 10 most and least reliable cars, trucks, and SUVs of 2022, and what owners of less reliable models can do under California lemon law."
-    },
-    "/blog/most-sued-auto-manufacturers-in-los-angeles": {
-      "title": "5 Most Sued Auto Manufacturers in Los Angeles | CLINE APC",
-      "description": "The five auto manufacturers most commonly sued in Los Angeles, the defects behind the claims, and what LA drivers can do if their car is a lemon."
-    },
-    "/blog/new-car-keeps-breaking-down": {
-      "title": "What to Do If Your New Car Keeps Breaking Down | CLINE APC",
-      "description": "What to do if your new car keeps breaking down: document every repair, use the warranty, and learn when California lemon law may entitle you to a buyback."
-    },
-    "/blog/new-car-lemon-law-qa": {
-      "title": "California Lemon Law Q&A for New Car Owners | CLINE APC",
-      "description": "Answers to common questions about California lemon law for new cars: what qualifies, how to prove a lemon, leases, business vehicles, and arbitration."
-    },
-    "/blog/nhtsa-defective-car-complaint": {
-      "title": "How to File a Defective Car Complaint With NHTSA | CLINE APC",
-      "description": "How to file a defective car complaint with the NHTSA, what information to include, and how a safety complaint fits alongside a lemon law claim."
-    },
-    "/blog/no-cooling-off-period-in-california-lemon-law": {
-      "title": "No Cooling-Off Period for Car Sales in CA | CLINE APC",
-      "description": "What the no cooling-off period rule means for car buyers in California, when you can't return a car after signing, and how lemon law differs."
-    },
-    "/blog/prevailed-lemon-law-case-now-what": {
-      "title": "You Won Your Lemon Law Case: What Happens Next | CLINE APC",
-      "description": "You prevailed in your lemon law case. What happens next in California: choosing a refund or replacement, reimbursed expenses, and how long payment takes."
-    },
-    "/blog/primer-defects-repairs-californias-lemon-law": {
-      "title": "Defects and Repairs Under California Lemon Law | CLINE APC",
-      "description": "A primer on defects and repairs under California lemon law: what counts as a qualifying defect, how repair attempts are counted, and why records matter."
-    },
-    "/blog/proposals-and-recent-updates-to-california-lemon-law": {
-      "title": "The Future of Lemon Law: Proposed CA Reforms | CLINE APC",
-      "description": "Proposed reforms and recent updates to California lemon law, and their potential impact on consumers pursuing a claim for a defective vehicle."
-    },
-    "/blog/prove-car-delership-fraud": {
-      "title": "How to Prove Car Dealership Fraud in California | CLINE APC",
-      "description": "How to prove car dealership fraud in California: the evidence that matters, common forms of misrepresentation, and the options available to buyers."
-    },
-    "/blog/ram-trucks-with-lemon-law-issues": {
-      "title": "3 RAM Trucks With Known Lemon Law Issues | CLINE APC",
-      "description": "Three RAM truck models with known lemon law issues, the common problems owners report, and what to do in California if repairs keep failing."
-    },
-    "/blog/recalls-by-toyota": {
-      "title": "4 Recent Toyota Recalls You Should Know About | CLINE APC",
-      "description": "Four recent Toyota recalls owners should know about, the defects involved, and what to do if the problem continues after the recall repair."
-    },
-    "/blog/recent-developments-in-california-lemon-law": {
-      "title": "Recent Changes to California Lemon Law Explained | CLINE APC",
-      "description": "Recent changes to California lemon law, how corporate interests have pushed to limit consumer rights, and what drivers should know about the updates."
-    },
-    "/blog/recent-porsche-car-recalls": {
-      "title": "5 Recent Porsche Recalls for Factory Defects | CLINE APC",
-      "description": "Five recent Porsche recalls tied to manufacturing defects, the models affected, and what owners can do under California lemon law if problems persist."
-    },
-    "/blog/refund-law-private-sale": {
-      "title": "Can You Get a Refund From a Private Car Seller? | CLINE APC",
-      "description": "Can you get a refund after buying a car from a private seller? How refund laws for private sales work in California and when a warranty may still help."
-    },
-    "/blog/safety-concerns-ford-car-defects": {
-      "title": "Ford Car Defects and Safety Concerns to Know | CLINE APC",
-      "description": "Ford car defects that raise safety concerns, the models and components involved, and what owners can do under California lemon law when repairs fail."
-    },
-    "/blog/salvage-vs-reconstructed-titles-what-are-the-differences": {
-      "title": "Salvage vs. Reconstructed Titles Explained | CLINE APC",
-      "description": "The differences between salvage and reconstructed titles in California, what each means for a used car's value and safety, and what to check before buying."
-    },
-    "/blog/santa-ana-lemon-law-attorney-common-questions-about-california-lemon-law-claims": {
-      "title": "Santa Ana Lemon Law Attorney: Common Questions | CLINE APC",
-      "description": "A Santa Ana lemon law attorney answers common questions about California lemon law claims: eligibility, repair attempts, fees, and what to expect."
-    },
-    "/blog/santa-ana-lemon-law-attorney-guidance-for-california-vehicle-defect-claims": {
-      "title": "Santa Ana Lemon Law Guidance for Vehicle Defects | CLINE APC",
-      "description": "Guidance from a Santa Ana lemon law attorney on California vehicle defect claims: when repeated repairs point to a lemon and how to build your case."
-    },
-    "/blog/self-driving-cars-affect-lemon-law-three-bold-predictions": {
-      "title": "How Will Self-Driving Cars Affect Lemon Law? | CLINE APC",
-      "description": "How self-driving cars could affect lemon law: three predictions about defects, software, and manufacturer responsibility as autonomous vehicles grow."
-    },
-    "/blog/selling-a-lemon-car-in-california-what-to-know": {
-      "title": "Can I Sell My Lemon Car in California? | CLINE APC",
-      "description": "Can you sell a lemon car in California? Your options for dealer, private, and as-is sales, the disclosure rules, and how a lemon law lawyer can help."
-    },
-    "/blog/should-yo-buy-an-extended-warranty-for-cars": {
-      "title": "Should You Buy an Extended Car Warranty? | CLINE APC",
-      "description": "Should you buy an extended warranty for your car? How extended warranties differ from the manufacturer warranty, and what to weigh before you buy."
-    },
-    "/blog/signs-of-faulty-car-electric-systems": {
-      "title": "5 Signs Your Car Has a Faulty Electrical System | CLINE APC",
-      "description": "Five warning signs your car has a faulty electrical system, from battery problems and flickering lights to blown fuses, and what to do about them."
-    },
-    "/blog/signs-of-lemon-electric-car": {
-      "title": "10 Signs Your Electric Car Is a Lemon in CA | CLINE APC",
-      "description": "Ten signs your electric car may be a lemon, from battery and charging failures to software faults, and how California lemon law protects EV owners."
-    },
-    "/blog/signs-your-motorcycle-is-lemon": {
-      "title": "Is Your Motorcycle a Lemon? Signs and Next Steps | CLINE APC",
-      "description": "Signs your motorcycle may be a lemon, what to do next, and how California lemon law can protect riders when a new bike keeps failing under warranty."
-    },
-    "/blog/stuck-with-your-defective-car-know-how-lemon-law-can-help-you-to-take-it-out": {
-      "title": "Stuck With a Defective Car? How Lemon Law Helps | CLINE APC",
-      "description": "Stuck with a defective car? How California lemon law can help you get out of it, from qualifying repair attempts to a manufacturer buyback or refund."
-    },
-    "/blog/teslas-arbitration-agreement-hurt-lemon-law-case": {
-      "title": "Tesla's Arbitration Clause and Your Lemon Case | CLINE APC",
-      "description": "How Tesla's arbitration agreement can hurt your lemon law case, what the clause means for your rights, and what Tesla owners in California can do."
-    },
-    "/blog/the-components-of-a-lemon-law-refund-in-california": {
-      "title": "What a California Lemon Law Refund Includes | CLINE APC",
-      "description": "The components of a California lemon law refund: the purchase price, remaining loan balance, official costs, and incidental expenses, plus lease rules."
-    },
-    "/blog/the-impact-of-stop-and-go-traffic-on-vehicle-reliability": {
-      "title": "Stop-and-Go Traffic and Lemon Law in Los Angeles | CLINE APC",
-      "description": "How stop-and-go traffic affects vehicle reliability, and the lemon law considerations Los Angeles drivers should know when defects keep coming back."
-    },
-    "/blog/things-california-lemon-law-applies": {
-      "title": "Does CA Lemon Law Cover Products Besides Cars? | CLINE APC",
-      "description": "Does California lemon law cover products other than cars? Which vehicles and consumer products, such as appliances, the Song-Beverly Act covers."
-    },
-    "/blog/think-your-used-car-might-be-a-lemon-heres-what-you-can-do": {
-      "title": "Think Your Used Car Is a Lemon? What You Can Do | CLINE APC",
-      "description": "Think your used car might be a lemon? The steps you can take in California, including when a remaining manufacturer warranty can support a claim."
-    },
-    "/blog/tips-for-lemon-law-challenges-in-los-angeles": {
-      "title": "Lemon Law Challenges in Los Angeles: Tips | CLINE APC",
-      "description": "Tips for navigating lemon law challenges in Los Angeles, from documenting repairs to dealing with the manufacturer, from California lemon law attorneys."
-    },
-    "/blog/tips-for-negotiating-with-car-dealers-in-a-lemon-case": {
-      "title": "5 Tips for Negotiating in a Lemon Law Case | CLINE APC",
-      "description": "Five tips for negotiating with manufacturers and dealers in a lemon law case, so you protect your claim and understand the offers you receive."
-    },
-    "/blog/top-10-automakers-with-the-most-car-recalls-in-2023": {
-      "title": "Top 10 Car Brands With the Most Recalls in 2023 | CLINE APC",
-      "description": "The 10 car brands with the most recalls in 2023, the defects behind them, and what owners should know if recall repairs don't fix the problem."
-    },
-    "/blog/top-10-most-popular-cars-in-los-angeles-in-2024": {
-      "title": "Top 10 Most Popular Cars in Los Angeles in 2024 | CLINE APC",
-      "description": "The 10 most popular cars in Los Angeles in 2024, from the Toyota RAV4 to the Kia Forte, and what to do if your new or used vehicle is defective."
-    },
-    "/blog/top-audi-models-with-lemon-law-complaints": {
-      "title": "Audi Models With the Most Lemon Law Complaints | CLINE APC",
-      "description": "The Audi models with the most lemon law complaints, the defects owners report, and what to do in California if your Audi keeps going back to the shop."
-    },
-    "/blog/top-most-common-defects-in-ford-cars": {
-      "title": "Top 10 Most Common Defects in Ford Cars | CLINE APC",
-      "description": "The 10 most common defects in Ford cars, from transmission and engine issues to electrical faults, and what owners can do under California lemon law."
-    },
-    "/blog/toyota-8-speed-transmission-problems-trucks": {
-      "title": "Toyota 8-Speed Transmission Problems in Trucks | CLINE APC",
-      "description": "Toyota 8-speed transmission problems owners need to know about, the warning signs, the safety risks, and your options under California lemon law."
-    },
-    "/blog/toyota-car-recalls-2024": {
-      "title": "Toyota Car Recalls in 2024: What to Know | CLINE APC",
-      "description": "Toyota's 2024 car recalls: the models and defects involved, what owners should do, and when a problem that persists may support a lemon law claim."
-    },
-    "/blog/transmission-problems-fiat-500-fiat-500-defects-2013-fiat-500-problems": {
-      "title": "FIAT 500 Transmission Problems and Lemon Law | CLINE APC",
-      "description": "Transmission problems and other defects in 2012–2015 FIAT 500 models, gas or electric, and what California owners can do under lemon law."
-    },
-    "/blog/tricks-an-auto-fraud-attorney-can-help-you-avoid": {
-      "title": "20 Dealer Auto Fraud Tricks Used in Los Angeles | CLINE APC",
-      "description": "Twenty common tricks some Los Angeles dealerships use to commit auto fraud, how to spot them, and what buyers can do if they have been misled."
-    },
-    "/blog/trustworthy-lemon-law-attorneys-california": {
-      "title": "4 Priorities of Trustworthy Lemon Law Attorneys | CLINE APC",
-      "description": "The four top priorities of trustworthy lemon law attorneys in California, and how to tell whether a firm will put your interests first."
-    },
-    "/blog/understanding-lemon-law-basics-small-business-owners": {
-      "title": "Lemon Law Basics for Small Business Owners | CLINE APC",
-      "description": "Lemon law basics for small business owners and sole proprietors in California, and when a business vehicle can qualify for a buyback or refund."
-    },
-    "/blog/used-car-lemon-law-in-orange-county-buyer-beware": {
-      "title": "Orange County Used Car Lemon Law: Buyer Beware | CLINE APC",
-      "description": "The role of lemon law in Orange County's used car market: when a used vehicle is protected, what to check before you buy, and your options if it fails."
-    },
-    "/blog/used-car-no-warranty-lemon-law-california": {
-      "title": "Used Car With No Warranty: Does Lemon Law Apply? | CLINE APC",
-      "description": "Does California lemon law apply to a used car with no warranty? How warranty terms affect your rights, your options, and how to avoid a used lemon."
-    },
-    "/blog/using-a-leased-vehicle-in-orange-county": {
-      "title": "Leasing a Vehicle in Orange County: What to Know | CLINE APC",
-      "description": "What to know about leasing a vehicle in Orange County, including lease terms and how California lemon law protects you if your leased car is defective."
-    },
-    "/blog/vehicle-doesnt-meet-requirements-of-lemon-law": {
-      "title": "What If Your Car Doesn't Meet Lemon Law Rules? | CLINE APC",
-      "description": "What happens if your vehicle doesn't meet the exact lemon law requirements? Why you may still have a California claim outside the presumption."
-    },
-    "/blog/vehicle-recalls-and-lemon-laws-can-you-get-a-buyback-or-compensation": {
-      "title": "Vehicle Recalls and Lemon Law: Buyback Options | CLINE APC",
-      "description": "Can a recalled vehicle qualify for a lemon law buyback or compensation? How recalls and California lemon law interact when the defect isn't fixed."
-    },
-    "/blog/volvo-dealership-in-bakersfield-shuts-down": {
-      "title": "Bakersfield Volvo Dealer Closes: Your Rights | CLINE APC",
-      "description": "What happens if the dealership you bought from shuts down while your car is under warranty, and your rights under California lemon law."
-    },
-    "/blog/what-are-certified-pre-owned-car-scams": {
-      "title": "Certified Pre-Owned Car Scams: What to Know | CLINE APC",
-      "description": "What certified pre-owned car scams look like, how to spot a CPO vehicle that isn't what it seems, and your options if you've been misled."
-    },
-    "/blog/what-are-common-causes-of-car-accidents-in-los-angeles": {
-      "title": "Common Causes of Car Accidents in Los Angeles | CLINE APC",
-      "description": "The most common causes of car accidents in Los Angeles, including vehicle defects, and what to do if a mechanical problem contributed to a crash."
-    },
-    "/blog/what-are-the-impact-of-defects-on-ford-car-resale-value": {
-      "title": "How Defects Affect the Resale Value of a Ford | CLINE APC",
-      "description": "How defects affect the resale value of a Ford, why a lemon history matters to buyers, and what owners can do under California lemon law."
-    },
-    "/blog/what-are-the-major-obligations-and-penalties-tied-to-lemon-law": {
-      "title": "Lemon Law Obligations and Penalties Explained | CLINE APC",
-      "description": "The obligations lemon law places on manufacturers and retailers, what consumers can recover, and when a civil penalty may apply in California."
-    },
-    "/blog/what-counts-as-a-warranty-breach-under-the-song-beverly-consumer-warranty-act": {
-      "title": "What Counts as a Song-Beverly Warranty Breach? | CLINE APC",
-      "description": "What counts as a warranty breach under California's Song-Beverly Consumer Warranty Act, and how a breach can support a lemon law claim for your vehicle."
-    },
-    "/blog/what-happens-to-a-car-loan-in-a-lemon-case": {
-      "title": "What Happens to Your Car Loan in a Lemon Case? | CLINE APC",
-      "description": "What happens to your car loan in a California lemon law case, who is responsible for the payments, and how to get out of a lemon car loan."
-    },
-    "/blog/what-happens-when-a-vehicle-gets-recalled": {
-      "title": "What Happens When Your Vehicle Is Recalled? | CLINE APC",
-      "description": "What a vehicle recall is, what happens when your car is recalled, how repairs are handled, and how a recall can relate to a California lemon law claim."
-    },
-    "/blog/what-is-the-role-of-a-lemon-law-attorney-in-securing-fair-settlements": {
-      "title": "A Lemon Law Attorney's Role in Fair Settlements | CLINE APC",
-      "description": "The role a lemon law attorney plays in securing a fair settlement, from evaluating your claim to negotiating with the manufacturer under California law."
-    },
-    "/blog/what-records-are-needed-in-california-lemon-law-cases": {
-      "title": "Records to Keep for a California Lemon Law Case | CLINE APC",
-      "description": "The records you need to keep for a California lemon law case, from repair orders and contracts to communications with the dealer and manufacturer."
-    },
-    "/blog/what-to-do-if-you-have-a-defective-ford-car": {
-      "title": "What to Do If You Have a Defective Ford | CLINE APC",
-      "description": "What to do if you have a defective Ford: steps to document the problem, use your warranty, and pursue a buyback under California lemon law."
-    },
-    "/blog/what-to-expect-lemon-law-case-during-covid-19": {
-      "title": "What to Expect in a Lemon Case During COVID-19 | CLINE APC",
-      "description": "What to expect if your lemon law case was active during COVID-19, including delays, remote proceedings, and how claims continued to move forward."
-    },
-    "/blog/what-to-expect-when-you-win-a-lemon-lawsuit": {
-      "title": "What to Expect When You Win a Lemon Law Case | CLINE APC",
-      "description": "What to expect after you win a lemon law case in California: choosing a refund or replacement vehicle, reimbursed expenses, and the payment timeline."
-    },
-    "/blog/what-voids-car-warranty": {
-      "title": "What Voids a Car Warranty? What to Avoid | CLINE APC",
-      "description": "What can void a car warranty, from improper use and odometer tampering to aftermarket modifications, and how to keep your warranty intact."
-    },
-    "/blog/whats-changed-a-guide-to-updated-ca-lemon-law": {
-      "title": "What's Changed in California's Updated Lemon Law | CLINE APC",
-      "description": "A consumer's guide to California's updated lemon law: stricter filing deadlines, used vehicle changes, RV protections, and new notice requirements."
-    },
-    "/blog/when-a-lemon-law-attorney-can-help-with-a-defective-vehicle-claim": {
-      "title": "When a Lemon Law Attorney Can Help Your Claim | CLINE APC",
-      "description": "When a lemon law attorney can help with a defective vehicle claim in California, and the signs it's time to get a free case review of your repairs."
-    },
-    "/blog/which-cars-could-have-the-most-lemon-complaints": {
-      "title": "Which Cars Have the Most Lemon Complaints? | CLINE APC",
-      "description": "Which cars could have the most lemon complaints? The makes and models owners report problems with most, and what to know before you buy."
-    },
-    "/blog/why-hire-an-orange-county-lemon-law-lawyer-environmental-factors": {
-      "title": "Environmental Factors and OC Lemon Law Claims | CLINE APC",
-      "description": "How Orange County's environment, from sun and heat to coastal air and corrosion, can affect vehicle defects and California lemon law claims."
-    },
-    "/blog/why-lemon-law-protections-are-crucial-for-mercedes-owners": {
-      "title": "Why Lemon Law Matters for Mercedes-Benz Owners | CLINE APC",
-      "description": "Luxury doesn't mean perfect. Common Mercedes-Benz defects and why California lemon law protections matter when repairs don't solve the problem."
-    },
-    "/blog/why-the-repair-invoice-is-the-foundation-of-your-lemon-law-claim": {
-      "title": "Why Repair Invoices Anchor a Lemon Law Claim | CLINE APC",
-      "description": "Why the warranty repair invoice is the foundation of your lemon law claim, what each repair order should show, and how to keep your records complete."
-    },
-    "/blog/your-car-is-a-lemon-know-what-the-manufacturer-should-be-paying-you": {
-      "title": "Your Car Is a Lemon: What the Automaker Owes You | CLINE APC",
-      "description": "What the manufacturer should be paying you when your car is a lemon in California, from reimbursement of what you paid to collateral damages and expenses."
-    },
-    "/blog/your-rights-under-motorcycle-law-california": {
-      "title": "Motorcycle Lemon Law: Your Rights as a Rider | CLINE APC",
-      "description": "Motorcycle lemon law in California: your rights and protections as a rider when a new or used bike under warranty keeps failing, and what to do next."
-    },
-    "/locations/aliso-viejo-lemon-law": {
-      "title": "Aliso Viejo Lemon Law Attorney · Free Review | CLINE APC",
-      "description": "Aliso Viejo lemon law attorney for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/beaumont-california-lemon-law": {
-      "title": "Beaumont Lemon Law Attorney · Free Case Review | CLINE APC",
-      "description": "Beaumont lemon law attorney for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/beverly-hills-lemon-law-attorney": {
-      "title": "Beverly Hills Lemon Law Attorney · Free Review | CLINE APC",
-      "description": "Lemon law attorney serving Beverly Hills, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
-    },
-    "/locations/buena-park-california-lemon-law": {
-      "title": "Buena Park Lemon Law Attorney · Free Case Review | CLINE APC",
-      "description": "Buena Park lemon law attorney for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/carlsbad-lemon-law-lawyer": {
-      "title": "Carlsbad Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Need a lemon law lawyer in Carlsbad? CLINE APC helps drivers with defective cars pursue a buyback or refund. Free case review; the manufacturer pays our fees."
-    },
-    "/locations/chino-lemon-law": {
-      "title": "Chino Lemon Law Attorney · Free Case Review | CLINE APC",
-      "description": "Chino lemon law attorney for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/coronado-lemon-law-attorney": {
-      "title": "Coronado Lemon Law Attorney · Free Case Review | CLINE APC",
-      "description": "Lemon law attorney serving Coronado, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
-    },
-    "/locations/costa-mesa-lemon-law": {
-      "title": "Costa Mesa Lemon Law Attorney · Free Case Review | CLINE APC",
-      "description": "Costa Mesa lemon law attorney for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/fontana-lemon-law-attorney": {
-      "title": "Fontana Lemon Law Attorney · Free Case Review | CLINE APC",
-      "description": "Fontana lemon law attorney for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/fremont-lemon-law": {
-      "title": "Fremont Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Fremont lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/glendale-lemon-law-lawyer": {
-      "title": "Glendale Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Lemon law lawyer serving Glendale, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
-    },
-    "/locations/huntington-beach-lemon-law-attorney": {
-      "title": "Huntington Beach Lemon Law Lawyer · Free Review | CLINE APC",
-      "description": "Lemon law attorney serving Huntington Beach, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
-    },
-    "/locations/lemon-law-attorneys-in-sonoma-california": {
-      "title": "Sonoma Lemon Law Attorney · Free Case Review | CLINE APC",
-      "description": "Need a lemon law attorney in Sonoma? CLINE APC helps drivers with defective cars pursue a buyback or refund. Free case review; the manufacturer pays our fees."
-    },
-    "/locations/lemon-law-lawyer-anaheim": {
-      "title": "Anaheim Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Anaheim lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/lemon-law-lawyer-cathedral-city": {
-      "title": "Cathedral City Lemon Law Attorney · Free Review | CLINE APC",
-      "description": "Lemon law attorney serving Cathedral City, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
-    },
-    "/locations/lemon-law-lawyer-el-cajon": {
-      "title": "El Cajon Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Talk to an El Cajon lemon law lawyer about your defective vehicle. Free review of your repair history; the manufacturer pays our fees under California law."
-    },
-    "/locations/lemon-law-lawyer-in-irvine-california": {
-      "title": "Irvine Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Need a lemon law lawyer in Irvine? CLINE APC helps drivers with defective cars pursue a buyback or refund. Free case review; the manufacturer pays our fees."
-    },
-    "/locations/lemon-law-lawyer-in-stockton-california": {
-      "title": "Stockton Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Stockton lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/lemon-law-lawyer-la-jolla": {
-      "title": "La Jolla Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Lemon law lawyer serving La Jolla, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
-    },
-    "/locations/lemon-law-lawyer-long-beach": {
-      "title": "Long Beach Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Long Beach lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/lemon-law-lawyer-modesto": {
-      "title": "Modesto Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Need a lemon law lawyer in Modesto? CLINE APC helps drivers with defective cars pursue a buyback or refund. Free case review; the manufacturer pays our fees."
-    },
-    "/locations/lemon-law-lawyer-oceanside": {
-      "title": "Oceanside Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Oceanside lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/lemon-law-lawyer-oxnard-california": {
-      "title": "Oxnard Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Lemon law lawyer serving Oxnard, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
-    },
-    "/locations/lemon-law-lawyer-poway": {
-      "title": "Poway Lemon Law Attorney · Free Case Review | CLINE APC",
-      "description": "Talk to a Poway lemon law attorney about your defective vehicle. Free review of your repair history, and the manufacturer pays our fees under California law."
-    },
-    "/locations/lemon-law-lawyer-san-diego": {
-      "title": "San Diego Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "San Diego lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/lemon-law-lawyer-san-jose": {
-      "title": "San Jose Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "San Jose lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/lemon-law-lawyer-santa-ana": {
-      "title": "Santa Ana Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Lemon law lawyer serving Santa Ana, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
-    },
-    "/locations/lemon-law-lawyers-bakersfield-california": {
-      "title": "Bakersfield Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Bakersfield lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/lemon-law-lawyers-chula-vista-california": {
-      "title": "Chula Vista Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Chula Vista lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/lemon-law-lawyers-fresno-california": {
-      "title": "Fresno Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Fresno lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/lemon-law-lawyers-in-sacramento-california": {
-      "title": "Sacramento Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Lemon law lawyer serving Sacramento, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
-    },
-    "/locations/lemon-law-lawyers-los-angeles-california": {
-      "title": "Los Angeles Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Los Angeles lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/lemon-law-lawyers-napa-california": {
-      "title": "Napa Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Need a lemon law lawyer in Napa? CLINE APC helps drivers with defective cars pursue a buyback or refund. Free case review; the manufacturer pays our fees."
-    },
-    "/locations/lemon-law-lawyers-oakland-california": {
-      "title": "Oakland Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Oakland lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/lemon-law-lawyers-riverside-california": {
-      "title": "Riverside Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Lemon law lawyer serving Riverside, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
-    },
-    "/locations/lemon-law-lawyers-san-bernardino-california": {
-      "title": "San Bernardino Lemon Law Lawyer · Free Review | CLINE APC",
-      "description": "San Bernardino lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/lemon-law-lawyers-san-francisco-california": {
-      "title": "San Francisco Lemon Law Lawyer · Free Review | CLINE APC",
-      "description": "San Francisco lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/malibu-lemon-law-lawyer": {
-      "title": "Malibu Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Malibu lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/monterey-lemon-law-attorney": {
-      "title": "Monterey Lemon Law Attorney · Free Case Review | CLINE APC",
-      "description": "Lemon law attorney serving Monterey, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
-    },
-    "/locations/moreno-valley-lemon-law-lawyer": {
-      "title": "Moreno Valley Lemon Law Lawyer · Free Review | CLINE APC",
-      "description": "Moreno Valley lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/near-me": {
-      "title": "Lemon Law Lawyer Near Me · Statewide California | CLINE APC",
-      "description": "Looking for a lemon law lawyer near you? CLINE APC represents drivers across California, and most cases need no in-person meeting. Free case review."
-    },
-    "/locations/palm-springs-lemon-law-lawyer": {
-      "title": "Palm Springs Lemon Law Lawyer · Free Case Review | CLINE APC",
-      "description": "Palm Springs lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/santa-clarita-lemon-law": {
-      "title": "Santa Clarita Lemon Law Attorney · Free Review | CLINE APC",
-      "description": "Santa Clarita lemon law attorney for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/locations/santa-monica-lemon-law-attorney": {
-      "title": "Santa Monica Lemon Law Attorney · Free Review | CLINE APC",
-      "description": "Lemon law attorney serving Santa Monica, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
-    },
-    "/locations/santa-rosa-lemon-law-attorney": {
-      "title": "Santa Rosa Lemon Law Attorney · Free Case Review | CLINE APC",
-      "description": "Santa Rosa lemon law attorney for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
-    },
-    "/info/california-lemon-law-facts-and-statistics": {
-      "title": "California Lemon Law Facts and Statistics | CLINE APC",
-      "description": "California lemon law facts and statistics to know before you buy: car sales, new and used car warranties, lemon cases filed, and recalls by brand."
-    },
-    "/info/everything-you-need-to-know-about-california-lemon-law-claims": {
-      "title": "California Lemon Law Claims: A Complete Guide | CLINE APC",
-      "description": "A complete guide to California lemon law claims: what qualifies, common rip-offs and misconceptions, mistakes to avoid, and what to ask a lemon law firm."
-    },
-    "/info/fees": {
-      "title": "California Lemon Law Attorney Fees: You Pay $0 | CLINE APC",
-      "description": "At CLINE APC you never pay attorneys' fees, costs, or expenses for your California lemon law case. The manufacturer pays them when the case is resolved."
-    },
-    "/info/how-it-works": {
-      "title": "How California's Lemon Law Works (Song-Beverly) | CLINE APC",
-      "description": "How the California lemon law (Song-Beverly Act) works: what qualifies as a lemon, which vehicles are covered, what you may be owed, and how to get help."
-    },
-    "/info/privacy-policy": {
-      "title": "Privacy Policy · California Lemon Law Firm | CLINE APC",
-      "description": "How CLINE APC collects, uses, and protects the personal information you share on our website, and the choices available to you about how it is used."
-    }
-  }
+	"version": 1,
+	"SEO_OVERRIDES": {
+		"/": {
+			"title": "California Lemon Law Lawyers · Free Case Review | CLINE APC",
+			"description": "California lemon law attorneys at CLINE APC. Check your eligibility, estimate your buyback, and get a free case review. The manufacturer pays our fees."
+		},
+		"/contact": {
+			"title": "Get a Free California Lemon Law Case Review | CLINE APC",
+			"description": "Request a free California lemon law case review. A CLINE APC attorney personally reviews your vehicle's repair history, with no upfront fees, ever."
+		},
+		"/tool/eligibility-checker": {
+			"title": "California Lemon Law Eligibility Checker (Free) | CLINE APC",
+			"description": "Free California lemon law eligibility check. Answer a few questions about your warranty and repair visits to see if your car may qualify under Song-Beverly."
+		},
+		"/tool/buyback-calculator": {
+			"title": "California Lemon Law Buyback Calculator (Free) | CLINE APC",
+			"description": "Estimate your California lemon law buyback or lease refund from your price, payments, and the mileage offset. A free calculator built by attorneys."
+		},
+		"/tool/documentation-checklist": {
+			"title": "California Lemon Law Document Checklist (Free) | CLINE APC",
+			"description": "Free, private checklist to organize the records that support a California lemon law claim. Repair orders help if you have them; no window sticker required."
+		},
+		"/case-studies/mercedes-eqe-settlement-pattern": {
+			"title": "Mercedes EQE Electrical Defects: Lemon Law Case | CLINE APC",
+			"description": "Representative California lemon law case: a Mercedes EQE with intermittent electrical failures the dealer could not always reproduce, and how it settled."
+		},
+		"/case-studies/rivian-r1s-drive-unit-refund": {
+			"title": "Rivian R1S Drive Unit Defect: Lemon Law Refund | CLINE APC",
+			"description": "Representative California lemon law case: a Rivian R1S with recurring drive unit noise and vibration, the repair history, and the legal path to a refund."
+		},
+		"/case-studies/chevrolet-silverado-engine-buyback": {
+			"title": "Silverado Engine Stalling: Lemon Law Buyback | CLINE APC",
+			"description": "Representative California lemon law case: a Chevrolet Silverado with repeat engine misfires and stalling, the repair visits, and the path to a buyback."
+		},
+		"/case-studies/kia-telluride-engine-refund": {
+			"title": "Kia Telluride Engine Defect: Lemon Law Refund | CLINE APC",
+			"description": "Representative California lemon law case: a Kia Telluride that kept knocking and losing power after an engine campaign repair, and the path to a refund."
+		},
+		"/faq/what-is-substantial-impairment-under-california-lemon-law": {
+			"title": "What Is Substantial Impairment in CA Lemon Law? | CLINE APC",
+			"description": "What counts as substantial impairment under California lemon law: defects that significantly affect a vehicle's use, value, or safety, with common examples."
+		},
+		"/faq/can-i-still-have-a-claim-outside-the-presumption-window": {
+			"title": "Is the 18/18 Rule Required for a Lemon Law Case? | CLINE APC",
+			"description": "No. An 18-month / 18,000-mile timeline is not required for a California lemon law case. What matters is whether the defect first appeared under warranty."
+		},
+		"/faq/does-lemon-law-cover-motorcycles-rvs-and-boats": {
+			"title": "CA Lemon Law for RVs, Boats and Motorcycles | CLINE APC",
+			"description": "Yes, California lemon law can cover motorcycles, RVs, and boats sold with a manufacturer's written warranty. Learn how coverage and repair records apply."
+		},
+		"/blog/10-car-recalls-in-2024": {
+			"title": "10 Car Brands With Recalls in 2024: What to Know | CLINE APC",
+			"description": "A look at 10 car brands that issued recalls in 2024, what the defects were, and how a recall can affect your rights under California lemon law."
+		},
+		"/blog/2017-gmc-yukon-transmission-recall": {
+			"title": "2017 GMC Yukon Transmission Recall Explained | CLINE APC",
+			"description": "What 2017 GMC Yukon owners should know about the transmission recall, the symptoms to watch for, and when repeat problems may support a lemon law claim."
+		},
+		"/blog/2019-21-chevy-cruze-problem-what-you-need-to-know": {
+			"title": "2019–2021 Chevy Cruze Problems in California | CLINE APC",
+			"description": "Common 2019–2021 Chevy Cruze problems reported by owners, and what California drivers can do if repeated repairs fail under the manufacturer's warranty."
+		},
+		"/blog/4-lies-manufacturers-will-tell-consumers-in-the-buyback-process": {
+			"title": "4 Lies Manufacturers Tell in the Lemon Buyback | CLINE APC",
+			"description": "Four misleading claims automakers make during the California lemon law buyback process, and how to protect your refund when you negotiate with them."
+		},
+		"/blog/4-things-to-remember-for-a-successful-first-meeting-with-your-lemon-law-attorney": {
+			"title": "First Meeting With a Lemon Law Attorney: 4 Tips | CLINE APC",
+			"description": "How to prepare for your first meeting with a lemon law attorney: the documents to bring, the questions to ask, and what to expect from the conversation."
+		},
+		"/blog/4-tips-for-hiring-the-right-lemon-law-attorney": {
+			"title": "How to Hire the Right Lemon Law Attorney: 4 Tips | CLINE APC",
+			"description": "Four tips for hiring the right lemon law attorney in California: do your homework, keep your records, and watch for red flags like upfront costs."
+		},
+		"/blog/4-ways-california-lemon-lawyers-can-help-you-fight-against-a-faulty-auto-manufacturer": {
+			"title": "4 Ways a Lemon Lawyer Helps You Fight Automakers | CLINE APC",
+			"description": "Four ways a California lemon law attorney can help when a manufacturer won't stand behind a defective car, from building the claim to negotiating a buyback."
+		},
+		"/blog/5-sounds-that-might-indicate-your-vehicle-is-a-lemon": {
+			"title": "5 Car Noises That Might Mean You Have a Lemon | CLINE APC",
+			"description": "Knocking, whining, squeaking or grinding: five noises that can point to a serious engine, transmission, brake, or steering defect in a possible lemon."
+		},
+		"/blog/5-tips-to-win-a-lemon-claim-from-your-manufacturer": {
+			"title": "5 Tips to Win a Lemon Law Claim vs. an Automaker | CLINE APC",
+			"description": "Five tips to win a lemon law claim against your manufacturer: know the law, keep records ready, avoid the arbitration trap, and watch for lowball offers."
+		},
+		"/blog/6-sure-fire-signs-the-used-car-you-plan-to-buy-is-a-lemon": {
+			"title": "6 Signs the Used Car You Plan to Buy Is a Lemon | CLINE APC",
+			"description": "Six warning signs that a used car may be a lemon, and the checks to run before you buy so you don't inherit someone else's recurring defect."
+		},
+		"/blog/6-things-know-recreational-vehicle-lemon": {
+			"title": "6 Things to Know If Your RV Is a Lemon | CLINE APC",
+			"description": "Six things California RV and motorhome owners should know when their recreational vehicle keeps failing, from warranty coverage to documenting repairs."
+		},
+		"/blog/a-detailed-california-lemon-law-guide-for-los-angeles-residents": {
+			"title": "California Lemon Law Guide for Los Angeles | CLINE APC",
+			"description": "A detailed guide to California lemon law for Los Angeles residents: what qualifies as a lemon, how repair attempts count, and how to pursue a buyback."
+		},
+		"/blog/a-guide-to-california-lemon-law-for-rv-owners": {
+			"title": "California Lemon Law for RV Owners: What Changed | CLINE APC",
+			"description": "How California lemon law now protects new RV owners much like car buyers, what counts as a defect, and what to do when your motorhome keeps breaking down."
+		},
+		"/blog/a-new-ad-campaign-takes-aim-to-unmask-the-cjac": {
+			"title": "New Ad Campaign Aims to Unmask the CJAC | CLINE APC",
+			"description": "A new ad campaign targets the Civil Justice Association of California (CJAC) and its corporate backers. What it means for consumer and lemon law rights."
+		},
+		"/blog/are-illegal-car-sales-tactics-and-how-to-get-out-of-them": {
+			"title": "Illegal Car Sales Tactics and How to Get Out | CLINE APC",
+			"description": "How to spot illegal car sales tactics used by some dealerships, and the options California buyers have to get out of a deal that was made unfairly."
+		},
+		"/blog/are-maserati-cars-reliable": {
+			"title": "Are Maserati Cars Reliable? What to Know | CLINE APC",
+			"description": "Is a Maserati worth it? A look at Maserati reliability, common problems owners report, and what California lemon law offers if your car keeps failing."
+		},
+		"/blog/are-teslas-covered-by-lemon-laws-debunking-myths-and-misconceptions": {
+			"title": "Are Teslas Covered by Lemon Law? Myths Debunked | CLINE APC",
+			"description": "Yes, Teslas can be covered by California lemon law. We debunk common myths about Tesla defects, over-the-air updates, arbitration, and buybacks."
+		},
+		"/blog/assessing-the-vast-ripple-effect-of-self-driving-cars": {
+			"title": "The Ripple Effect of Self-Driving Cars | CLINE APC",
+			"description": "How self-driving cars could change safety, insurance, liability, and consumer protection, including what autonomous vehicles may mean for lemon law."
+		},
+		"/blog/audi-passenger-air-bag-issues": {
+			"title": "Audi Passenger Airbag Recalls: 4 Affected Models | CLINE APC",
+			"description": "Four Audi models recalled for passenger airbag issues since 2015, why airbag defects are so serious, and what owners can do if repairs don't fix them."
+		},
+		"/blog/automakers-avoid-manufacturer-buyback": {
+			"title": "4 Hidden Ways Automakers Avoid a Lemon Buyback | CLINE APC",
+			"description": "Four tactics manufacturers use to avoid a lemon law buyback in California, and how consumers can recognize them and protect their claim."
+		},
+		"/blog/avoid-buying-a-car-as-is-from-a-dealership": {
+			"title": "Why to Avoid Buying a Car As-Is From a Dealer | CLINE APC",
+			"description": "Why buying a used car as-is from a dealership is risky, what rights you may give up, and how warranty coverage affects your options under lemon law."
+		},
+		"/blog/begin-lemon-law-case-during-covid-19": {
+			"title": "Can You Start a Lemon Law Case During COVID-19? | CLINE APC",
+			"description": "Whether you could begin a lemon law case during COVID-19, how court and business closures affected claims, and how cases moved forward remotely."
+		},
+		"/blog/best-lemon-law-attorney-san-diego-key-qualities-to-look-for-in-2026": {
+			"title": "Choosing a San Diego Lemon Law Attorney in 2026 | CLINE APC",
+			"description": "Key qualities to look for in a San Diego lemon law attorney in 2026, from California lemon law experience to fee structure and how they evaluate your case."
+		},
+		"/blog/best-lemon-law-attorneys-in-los-angeles-for-used-car-claims": {
+			"title": "Los Angeles Lemon Law Attorneys for Used Cars | CLINE APC",
+			"description": "What to look for in a Los Angeles lemon law attorney for a used car claim, and when a used vehicle still under warranty may qualify under California law."
+		},
+		"/blog/big-news-governor-gavin-newsom-signs-new-ca-lemon-law-bill-despite-reservations": {
+			"title": "California Lemon Law Changes: What AB 1755 Means | CLINE APC",
+			"description": "What AB 1755 changes in California lemon law, signed by Governor Newsom, and what the new rules mean for consumers bringing a defective vehicle claim."
+		},
+		"/blog/buying-a-new-car-in-los-angeles-things-to-take-care": {
+			"title": "10 Tips for Buying a New Car in Los Angeles | CLINE APC",
+			"description": "Ten things to keep in mind when buying a new car in Los Angeles, from research and financing to inspections, so you avoid surprises and potential lemons."
+		},
+		"/blog/cadillac-lyriq-brake-recall-21000-vehicles": {
+			"title": "Cadillac LYRIQ Brake Recall: 21,000+ Vehicles | CLINE APC",
+			"description": "GM recalled more than 21,000 2023–2024 Cadillac LYRIQ AWD vehicles over a brake defect. What owners should know and when lemon law may apply."
+		},
+		"/blog/california-ab-1755-explained-new-pre-suit-notice-requirements-for-lemon-law-claims": {
+			"title": "CA AB 1755: New Lemon Law Pre-Suit Notice Rules | CLINE APC",
+			"description": "California AB 1755 explained: the new pre-suit notice requirement, manufacturer response periods, and mandatory mediation for lemon law claims."
+		},
+		"/blog/california-buyback-lemon-law-what-happens-to-lemon-vehicles": {
+			"title": "What Happens to a Lemon Car After a Buyback? | CLINE APC",
+			"description": "What happens to a lemon vehicle after a California manufacturer buyback, what manufacturers and dealers must do, and whether to buy a lemon buyback car."
+		},
+		"/blog/california-lemon-law-101-brush-knowledge-consulting-lawyer": {
+			"title": "California Lemon Law 101: Know Before You Call | CLINE APC",
+			"description": "California lemon law 101: the basics to know before consulting a lawyer, including what qualifies as a lemon, repair attempts, and possible remedies."
+		},
+		"/blog/california-lemon-law-and-business-vehicles-how-does-it-work": {
+			"title": "California Lemon Law for Business Vehicles | CLINE APC",
+			"description": "How California lemon law applies to business vehicles: which ones qualify, how the weight limit works, and when a civil penalty may be available."
+		},
+		"/blog/california-lemon-law-basics": {
+			"title": "California Lemon Law Basics Every Driver Needs | CLINE APC",
+			"description": "California lemon law basics every consumer should know: what a lemon is, coverage for used vehicles, what you're entitled to, and what a lawyer costs."
+		},
+		"/blog/california-lemon-law-buybacks-busted": {
+			"title": "3 Myths About California Lemon Law Buybacks | CLINE APC",
+			"description": "Three common myths about California lemon law buybacks, busted: what the law actually requires, who qualifies, and what a refund can include."
+		},
+		"/blog/california-lemon-law-claim-documents": {
+			"title": "Documents You Need for a California Lemon Claim | CLINE APC",
+			"description": "The documents you need for a California lemon law claim: the bill of sale, warranty terms, repair invoices, and receipts for incidental costs."
+		},
+		"/blog/california-lemon-law-for-different-state-vehicle": {
+			"title": "CA Lemon Law for Cars Bought in Another State | CLINE APC",
+			"description": "Does California lemon law apply to a vehicle bought in another state? Usually not, but there are exceptions. How federal and state lemon laws compare."
+		},
+		"/blog/california-lemon-law-presumption-what-qualifies-a-vehicle-as-a-lemon": {
+			"title": "California Lemon Law Presumption: What Qualifies | CLINE APC",
+			"description": "How the California lemon law presumption works, the defects that commonly support a claim, and what qualifies a new or used vehicle as a lemon."
+		},
+		"/blog/california-lemon-law-presumption": {
+			"title": "The California Lemon Law Presumption Explained | CLINE APC",
+			"description": "What California drivers need to know about the lemon law presumption, how it helps prove a claim, and what happens if your vehicle doesn't meet it."
+		},
+		"/blog/californias-lemon-law-controversy": {
+			"title": "California's Lemon Law Controversy Explained | CLINE APC",
+			"description": "What's behind California's lemon law controversy: the recent changes, the proposed fixes, and what they mean for drivers with defective vehicles."
+		},
+		"/blog/car-dealership-scams-to-look-out": {
+			"title": "6 Common Car Dealership Scams to Watch For | CLINE APC",
+			"description": "Six common car dealership scams to look out for, from hidden fees to financing tricks, and what California buyers can do if they have been misled."
+		},
+		"/blog/car-dealerships-vs-car-manufacturers-california-lemon-law": {
+			"title": "Dealer vs. Manufacturer Under CA Lemon Law | CLINE APC",
+			"description": "Car dealerships vs. manufacturers under California lemon law: who is responsible for defects, who pays for a buyback, and how private sales differ."
+		},
+		"/blog/car-defects-not-covered-under-lemon-law-california": {
+			"title": "5 Car Defects Not Covered by CA Lemon Law | CLINE APC",
+			"description": "Five types of car problems that California lemon law generally does not cover, from abuse and accident damage to issues outside the manufacturer warranty."
+		},
+		"/blog/car-purchase-contracts-and-cancellation-agreements": {
+			"title": "Car Purchase Contracts and Cancellation Options | CLINE APC",
+			"description": "What to know about car purchase contracts and cancellation agreements in California, and when you may be able to cancel, such as for fraud or a breach."
+		},
+		"/blog/cash-and-keep-settlement": {
+			"title": "Cash-and-Keep Lemon Law Settlements Explained | CLINE APC",
+			"description": "What a cash-and-keep lemon law settlement is, how it compares with a buyback, and the questions to weigh before deciding whether to accept an offer."
+		},
+		"/blog/certified-pre-owned-cars-ca-lemon-law-protection": {
+			"title": "Certified Pre-Owned Cars and CA Lemon Law | CLINE APC",
+			"description": "Why only manufacturer-certified pre-owned vehicles get lemon law protection in California, and how CPO warranties differ from dealer certification."
+		},
+		"/blog/chevrolet-evs-recall-over-risk-of-bursting-into-flames": {
+			"title": "Chevrolet EV Recall Over Fire Risk: What to Know | CLINE APC",
+			"description": "What Chevrolet EV owners should know about the recall over battery fire risk, the steps GM has taken, and when repeat defects may support a lemon claim."
+		},
+		"/blog/chevy-cruze-problems": {
+			"title": "Common Chevy Cruze Problems Owners Should Know | CLINE APC",
+			"description": "Common Chevy Cruze problems owners report, from engine and cooling issues to transmission trouble, and what to do if repairs under warranty keep failing."
+		},
+		"/blog/chevy-gmc-consumer-alert": {
+			"title": "Chevy and GMC Consumer Alerts: What to Know | CLINE APC",
+			"description": "A breakdown of recent Chevy and GMC consumer alerts: who is affected, whether the issue can qualify under lemon law, and the related class action."
+		},
+		"/blog/chrysler-pacifica-electric-hybrid-recall-should-you-contact-a-lawyer": {
+			"title": "Chrysler Pacifica Hybrid Recall: Call a Lawyer? | CLINE APC",
+			"description": "The Chrysler Pacifica Hybrid recall affected over 27,000 minivans. When owners should talk to a lemon law lawyer about repeat defects and a buyback."
+		},
+		"/blog/chrysler-pacifica-electric-hybrid-recall-what-is-it": {
+			"title": "Chrysler Pacifica Hybrid Recall: What It Covers | CLINE APC",
+			"description": "What the Chrysler Pacifica Hybrid recall is, which minivans are affected, the safety risk involved, and what owners should do next in California."
+		},
+		"/blog/common-bmw-defects-that-could-qualify-for-lemon-law-claims": {
+			"title": "Common BMW Defects That Can Qualify as a Lemon | CLINE APC",
+			"description": "Common BMW defects that may qualify for a California lemon law claim, from timing chain failures to fuel system issues, and how to file a claim."
+		},
+		"/blog/common-cadillac-lemon-law-issues": {
+			"title": "10 Common Problems in Cadillac Lemon Cars | CLINE APC",
+			"description": "Ten common issues found in Cadillac lemon cars, from transmission failures and electrical problems to engine misfires, and your options under lemon law."
+		},
+		"/blog/common-car-defects-in-lemon-car": {
+			"title": "Common Defects Found in Lemon Cars and Trucks | CLINE APC",
+			"description": "The most common defects found in lemon cars, including engine, transmission, electrical, and brake problems, and when they qualify under lemon law."
+		},
+		"/blog/common-challenges-california-lemon-law-process": {
+			"title": "5 Challenges in the California Lemon Law Process | CLINE APC",
+			"description": "Five common challenges in the California lemon law process, from proving the defect to manufacturer delays, and how consumers can get past them."
+		},
+		"/blog/common-challenges-faced-by-california-lemon-law-lawyers": {
+			"title": "Common Challenges California Lemon Lawyers Face | CLINE APC",
+			"description": "The common challenges California lemon law lawyers face when a dealer can't fix a car, and how an attorney works through them to resolve your claim."
+		},
+		"/blog/common-myths-lemon-law-lawyers": {
+			"title": "3 Common Myths About Lemon Law Lawyers Debunked | CLINE APC",
+			"description": "Three common myths about lemon law lawyers, debunked: that they delay the process, that arbitration is smarter, and that they put their own gains first."
+		},
+		"/blog/common-nissan-sentra-problems": {
+			"title": "Nissan Sentra Problems and California Lemon Law | CLINE APC",
+			"description": "Common Nissan Sentra problems, when a defective Sentra counts as a lemon, and how California lemon law protects owners of new and used Sentras."
+		},
+		"/blog/common-problems-chevy-equinox-models": {
+			"title": "Most Common Problems With the Chevy Equinox | CLINE APC",
+			"description": "The most common Chevy Equinox problems, including heater issues, oil overconsumption, and faulty ABS, plus recent recalls and your lemon law options."
+		},
+		"/blog/consumer-mistakes-that-doom-lemon-law-cases": {
+			"title": "5 Consumer Mistakes That Can Doom a Lemon Case | CLINE APC",
+			"description": "Five consumer mistakes that can doom a lemon law case, from complaints missing on service reports to confusing the dealer with the manufacturer."
+		},
+		"/blog/consumer-safety-groups-appeal-federal-ruling-enabling-car-dealers-to-conceal-recall-information": {
+			"title": "Safety Groups Appeal Ruling on Hidden Recalls | CLINE APC",
+			"description": "Consumer safety groups are appealing a federal ruling that lets car dealers conceal open recall information. What it means for used car buyers."
+		},
+		"/blog/consumers-speed-up-california-lemon-law-buyback-process": {
+			"title": "4 Ways to Speed Up a California Lemon Buyback | CLINE APC",
+			"description": "Four practical ways consumers can help speed up the California lemon law buyback process, from organized records to prompt responses."
+		},
+		"/blog/corruption-lemons-white-house-atty-allegedly-lied-for-toyota": {
+			"title": "White House Attorney Allegedly Lied for Toyota | CLINE APC",
+			"description": "A former WilmerHale attorney now at the White House is accused of lying under oath to help Toyota hide defects. What the case says about automakers."
+		},
+		"/blog/covid-19-hurt-lemon-law-case": {
+			"title": "Could COVID-19 Hurt Your Lemon Law Case? | CLINE APC",
+			"description": "How COVID-19 delays and closures could affect a lemon law case, from repair visits to court timelines, and what drivers can do to protect their claim."
+		},
+		"/blog/cpo-cars-in-san-diego-lemon-law-buyer-tips": {
+			"title": "Buying a Certified Pre-Owned Car in San Diego | CLINE APC",
+			"description": "What San Diego buyers should know before purchasing a certified pre-owned vehicle, including CPO warranties and when California lemon law applies."
+		},
+		"/blog/dealerships-holding-car-for-more-than-30-days-for-repair": {
+			"title": "Can a Dealer Keep Your Car 30+ Days for Repair? | CLINE APC",
+			"description": "What happens when a dealership holds your car for more than 30 days for warranty repairs, and how days out of service can support a lemon law claim."
+		},
+		"/blog/defective-car-causes-an-accident": {
+			"title": "What to Do When a Defective Car Causes a Crash | CLINE APC",
+			"description": "What to do if a factory defect causes a car accident: getting the defect investigated, checking lemon law eligibility, and when to talk to an attorney."
+		},
+		"/blog/defective-car-models-2024": {
+			"title": "The Most Defective Car Models of 2024 by Brand | CLINE APC",
+			"description": "The most defective car models of 2024 by brand, based on reported problems and recalls, and what owners can do if their vehicle keeps failing."
+		},
+		"/blog/defective-vehicle-purchase-rights": {
+			"title": "Your Rights After Buying a Defective Car in CA | CLINE APC",
+			"description": "What your rights are after buying a faulty car in California, including warranty repairs, lemon law buybacks, and when to talk to an attorney."
+		},
+		"/blog/did-you-lease-a-lemon-understand-your-situation-factors-in": {
+			"title": "Leased a Lemon? How Lemon Law Applies to Leases | CLINE APC",
+			"description": "Did you lease a lemon? How California lemon law applies to leased vehicles, what a lease buyback can include, and the steps to take next."
+		},
+		"/blog/differences-between-federal-lemon-law-and-california-lemon-law": {
+			"title": "Federal vs. California Lemon Law Differences | CLINE APC",
+			"description": "The key differences between federal lemon law (Magnuson-Moss) and California's Song-Beverly Act, and which protections apply to your vehicle."
+		},
+		"/blog/diy-lemon-law-vs-hiring-an-attorney": {
+			"title": "DIY Lemon Law Claim vs. Hiring an Attorney | CLINE APC",
+			"description": "The pros and cons of handling a lemon law claim yourself vs. hiring an attorney, and why California law makes the manufacturer pay your attorney fees."
+		},
+		"/blog/do-airbags-expire": {
+			"title": "Do Airbags Expire? What Drivers Should Know | CLINE APC",
+			"description": "Is there an expiration date on airbags? How long airbags last, the signs of an airbag problem, and what to do if your vehicle's airbag system is defective."
+		},
+		"/blog/do-all-states-have-used-vehicle-lemon-laws": {
+			"title": "Do All States Have Used Car Lemon Laws? | CLINE APC",
+			"description": "Not every state has a used vehicle lemon law. How California protects used car buyers with a warranty, and what to do if your state's law falls short."
+		},
+		"/blog/do-recreational-vehicles-fall-under-california-lemon-law": {
+			"title": "Are RVs Covered by California Lemon Law? | CLINE APC",
+			"description": "Do recreational vehicles fall under California lemon law? How coverage works for RVs and motorhomes, including chassis and coach defects."
+		},
+		"/blog/does-your-2020-or-newer-car-qualify-for-california-lemon-law": {
+			"title": "Does Your 2020 or Newer Car Qualify as a Lemon? | CLINE APC",
+			"description": "Whether your 2020 or newer car qualifies under California lemon law after AB 1755 and a recent Supreme Court ruling on used cars, and what to do next."
+		},
+		"/blog/essential-steps-filing-emon-law-claim": {
+			"title": "5 Essential Steps to Filing a Lemon Law Claim | CLINE APC",
+			"description": "The five essential steps to filing a lemon law claim in California, from documenting repairs and notifying the manufacturer to working with an attorney."
+		},
+		"/blog/fact-about-lemon-law-arbitration": {
+			"title": "The FAIR Act and Lemon Law Arbitration Explained | CLINE APC",
+			"description": "What the Forced Arbitration Injustice Repeal (FAIR) Act means for lemon law arbitration, and how forced arbitration clauses can affect consumers."
+		},
+		"/blog/fact-or-fiction-the-ultimate-california-lemon-law-factsheet": {
+			"title": "Fact or Fiction: California Lemon Law Factsheet | CLINE APC",
+			"description": "Separate fact from fiction with this California lemon law factsheet, covering common misconceptions about eligibility, repair attempts, and buybacks."
+		},
+		"/blog/factors-influence-ability-win-lemon-law-case": {
+			"title": "3 Key Factors That Affect a Lemon Law Case | CLINE APC",
+			"description": "Three key factors that influence your ability to win a California lemon law case, from the nature of the defect to your repair history and records."
+		},
+		"/blog/facts-and-myths-about-car-purchase-decisions-in-los-angeles": {
+			"title": "Facts and Myths About Buying a Car in LA | CLINE APC",
+			"description": "Common facts and myths about car purchase decisions in Los Angeles, and what buyers should know about warranties, dealers, and potential lemons."
+		},
+		"/blog/faulty-car-transmission-inspection": {
+			"title": "How to Tell If Your Car Transmission Is Faulty | CLINE APC",
+			"description": "The warning signs of a faulty car transmission, from slipping and delayed shifts to strange noises, and what to do if warranty repairs keep failing."
+		},
+		"/blog/file-lemon-law-claim-california": {
+			"title": "4 Tips to File a Lemon Law Claim in California | CLINE APC",
+			"description": "Four practical tips for filing a lemon law claim in California, so you avoid common mistakes and give your defective vehicle claim a strong start."
+		},
+		"/blog/find-trustworthy-california-lemon-law-attorney": {
+			"title": "How to Find a Trustworthy CA Lemon Law Attorney | CLINE APC",
+			"description": "How to find a trustworthy California lemon law attorney: their lemon law focus, reviews and past cases, questions to ask, and how fees work."
+		},
+		"/blog/ford-and-lemon-law-a-history-of-faulty-products": {
+			"title": "Ford and Lemon Law: A History of Faulty Products | CLINE APC",
+			"description": "A look at Ford's history of defective products and recalls, and what California Ford owners can do under lemon law when repairs don't fix the problem."
+		},
+		"/blog/ford-car-lemon-law": {
+			"title": "Ford Lemon Cars: Steps for Owners to Get Justice | CLINE APC",
+			"description": "What happens to owners of Ford lemon cars, and the steps to pursue a buyback or settlement under California lemon law when defects keep coming back."
+		},
+		"/blog/ford-car-recalls": {
+			"title": "Ford Recalls: An Overview of Ford's 2024 Recalls | CLINE APC",
+			"description": "A quick overview of Ford's 2024 recalls, the models and defects involved, and what Ford owners in California should do if repairs fail to fix them."
+		},
+		"/blog/getting-justice-from-general-motors": {
+			"title": "Getting Justice From GM: A GMC Sierra Lemon Case | CLINE APC",
+			"description": "How a California client with a defective 2016 GMC Sierra pursued a lemon law claim against General Motors, and what the case shows about the process."
+		},
+		"/blog/gmc-recalls-over-90000-vehicles-due-to-transmission-defect": {
+			"title": "GMC Recalls 90,000+ Vehicles Over Transmission | CLINE APC",
+			"description": "GMC recalled over 90,000 vehicles for a transmission control defect that could lock the wheels. What owners should know and when lemon law may apply."
+		},
+		"/blog/gmc-truck-recalls-models-that-have-been-recalled-recently": {
+			"title": "GMC Truck Recalls: Recently Recalled Models | CLINE APC",
+			"description": "A rundown of GMC truck and SUV models recalled recently, the defects involved, and what owners can do if the problem continues after repairs."
+		},
+		"/blog/gms-recent-transmission-defect": {
+			"title": "GM 8-Speed Automatic Transmission Lawsuit | CLINE APC",
+			"description": "What to know about the GM 8-speed automatic transmission defect and lawsuit, the symptoms owners report, and your options under California lemon law."
+		},
+		"/blog/guide-purchasing-lemon-law-buy-back": {
+			"title": "Buying a Lemon Law Buyback Car in California | CLINE APC",
+			"description": "What to know before buying a lemon law buyback car in California: the original defect, the warranty, manufacturer and dealer duties, and risks to weigh."
+		},
+		"/blog/guide-to-2022-volkswagen-taos-recall": {
+			"title": "2022 Volkswagen Taos Recalls: What to Know | CLINE APC",
+			"description": "Everything owners should know about the 2022 Volkswagen Taos recalls, the defects involved, and what to do if repeat repairs don't solve the problem."
+		},
+		"/blog/guide-to-common-bmw-problems": {
+			"title": "6 Common BMW Defects Across Most Models | CLINE APC",
+			"description": "Six common BMW defects, from faulty ignition coils and dead batteries to coolant system failures and oil filter gasket leaks, and when lemon law helps."
+		},
+		"/blog/guide-to-hyundai-car-recalls-in-2024": {
+			"title": "A Guide to Hyundai Car Recalls in 2024 | CLINE APC",
+			"description": "A guide to Hyundai's 2024 recalls: the models and defects involved, what owners should do, and when repeat problems may support a lemon law claim."
+		},
+		"/blog/handle-lemon-law-disputes-with-car-dealerships-in-orange-county": {
+			"title": "Lemon Law Disputes With Orange County Dealers | CLINE APC",
+			"description": "How to handle lemon law disputes with car dealerships in Orange County, from documenting repairs to involving the manufacturer and a lemon law attorney."
+		},
+		"/blog/honda-lemon-car-complaints": {
+			"title": "5 Honda Models With the Most Lemon Complaints | CLINE APC",
+			"description": "Five Honda models with the most owner complaints, the defects reported, and what California drivers can do under lemon law if repairs keep failing."
+		},
+		"/blog/how-california-lemon-law-protects-fleets-and-businesses": {
+			"title": "CA Lemon Law for Fleet and Commercial Vehicles | CLINE APC",
+			"description": "How California lemon law applies to fleet and commercial vehicles, which business vehicles can qualify, and what to do when a work truck keeps failing."
+		},
+		"/blog/how-does-a-product-recall-affect-lemon-law-claims": {
+			"title": "How Does a Recall Affect a Lemon Law Claim? | CLINE APC",
+			"description": "How a product recall affects a lemon law claim in California, whether recall repairs count as repair attempts, and what to do if the fix fails."
+		},
+		"/blog/how-does-lemon-law-affect-electric-cars": {
+			"title": "How Lemon Law Applies to Electric Cars | CLINE APC",
+			"description": "How California lemon law applies to electric cars, the new problems EV technology brings, and what to do if your electric vehicle turns out to be a lemon."
+		},
+		"/blog/how-does-open-repair-affect-lemon-law-claims": {
+			"title": "What Does Open Repair Mean for Lemon Law Claims? | CLINE APC",
+			"description": "What an open repair means and how it can affect a California lemon law claim, including repair orders, unresolved defects, and recall work."
+		},
+		"/blog/how-gm-is-working-to-dismantle-california-lemon-law": {
+			"title": "How GM Is Working to Dismantle CA Lemon Law | CLINE APC",
+			"description": "How General Motors has worked to weaken California's lemon law (Song-Beverly Act), and what those efforts could mean for drivers with defective cars."
+		},
+		"/blog/how-lemon-law-attorneys-work-on-a-contingency-fee-agreement": {
+			"title": "How Lemon Law Attorneys Work on Contingency | CLINE APC",
+			"description": "How lemon law attorneys work on a contingency fee agreement, how they get paid, and why you pay nothing out of pocket for a California lemon law case."
+		},
+		"/blog/how-mileage-offset-affects-your-california-lemon-law-repurchase-settlement": {
+			"title": "How Mileage Offset Affects Your Lemon Buyback | CLINE APC",
+			"description": "How the mileage offset is calculated in a California lemon law repurchase, and how it can reduce your refund. Learn the formula and what to check."
+		},
+		"/blog/how-the-best-lemon-law-attorney-in-san-diego-evaluates-defective-vehicle-cases": {
+			"title": "How San Diego Lemon Law Attorneys Evaluate Cases | CLINE APC",
+			"description": "How a San Diego lemon law attorney evaluates a defective vehicle case: repair history, warranty coverage, defect severity, and the documents that matter."
+		},
+		"/blog/how-to-avoid-buying-lemon-when-used-car-shopping": {
+			"title": "How to Avoid Buying a Lemon When Car Shopping | CLINE APC",
+			"description": "How to avoid buying a lemon when used car shopping: history reports, inspections, warranty checks, and red flags to watch for before you sign."
+		},
+		"/blog/how-to-get-lemon-law-legal-advice-during-covid-19": {
+			"title": "Getting Lemon Law Legal Advice During COVID-19 | CLINE APC",
+			"description": "How to get lemon law legal advice during COVID-19 when courts and offices closed, and how California lemon law cases continued to move forward remotely."
+		},
+		"/blog/how-to-get-the-most-from-your-manufacturer-when-life-gives-you-a-lemon": {
+			"title": "Getting the Most From Your Automaker for a Lemon | CLINE APC",
+			"description": "How to get the most from your manufacturer when you're stuck with a lemon, including arbitration pitfalls, manufacturer duties, and incidental damages."
+		},
+		"/blog/how-to-know-vehicle-lemon-history": {
+			"title": "How to Tell If a Car Has a Lemon History | CLINE APC",
+			"description": "How to tell if a used car has a reported lemon history, what to check before you buy, and whether you should avoid a lemon buyback vehicle."
+		},
+		"/blog/hyundai-car-recalls-2022": {
+			"title": "5 Hyundai Models Recalled in 2022: What to Know | CLINE APC",
+			"description": "Five Hyundai models recalled in 2022, the defects behind each recall, and what owners should do if the problem persists after the recall repair."
+		},
+		"/blog/hyundai-lawsuit-automaker-sanctioned-for-spoliation-of-engines": {
+			"title": "Hyundai Sanctioned for Spoliation of Engines | CLINE APC",
+			"description": "Why Hyundai was sanctioned for spoliation of engine evidence in a recent lawsuit, and what the case means for consumers with engine defect claims."
+		},
+		"/blog/implied-car-warranty-lemon-law-protection": {
+			"title": "Implied Car Warranties and Lemon Law Protection | CLINE APC",
+			"description": "How California lemon law protects consumers through the implied warranty of merchantability, and when it can help if your car is defective."
+		},
+		"/blog/inspection-guide-for-buying-a-used-vehicle": {
+			"title": "Pre-Purchase Inspection Guide for Used Cars | CLINE APC",
+			"description": "A pre-purchase car inspection guide for buying a used vehicle: what to check inside, outside, and under the hood so you don't end up with a lemon."
+		},
+		"/blog/is-mazda-a-reliable-car-brand": {
+			"title": "Is Mazda a Reliable Car Brand? What to Know | CLINE APC",
+			"description": "Is Mazda a reliable car brand? A look at Mazda's reliability record, common problems owners report, and your options if your Mazda turns out to be a lemon."
+		},
+		"/blog/is-there-a-time-limit-to-file-a-lemon-law-claim": {
+			"title": "Is There a Time Limit to File a Lemon Law Claim? | CLINE APC",
+			"description": "How long do you have to file a lemon law claim in California? This infographic explains the key timelines so a missed deadline doesn't sink your case."
+		},
+		"/blog/is-your-boat-a-lemon": {
+			"title": "Is Your Boat a Lemon? Signs and Steps to Take | CLINE APC",
+			"description": "Signs your boat may be a lemon and the steps to take, including how the Magnuson-Moss Warranty Act and California lemon law can apply to boats."
+		},
+		"/blog/is-your-chevrolet-a-lemon-signs-to-watch-for-and-what-to-do-next": {
+			"title": "Is Your Chevrolet a Lemon? Signs and Next Steps | CLINE APC",
+			"description": "Signs your Chevrolet may be a lemon, from recurring engine and transmission issues to electrical faults, and what to do next under California lemon law."
+		},
+		"/blog/is-your-vehicles-warranty-valid-for-a-california-lemon-law-claim": {
+			"title": "Is Your Warranty Valid for a CA Lemon Law Claim? | CLINE APC",
+			"description": "Which warranties support a California lemon law claim: manufacturer and dealer warranties, the implied warranty of merchantability, and as-is sales."
+		},
+		"/blog/issues-to-avoid-lemon-buy-backs": {
+			"title": "4 Major Issues to Avoid With Lemon Buybacks | CLINE APC",
+			"description": "Four issues to avoid in a lemon law buyback: negative equity, aggressive mileage offsets, manufacturer arbitration, and unlawful release forms."
+		},
+		"/blog/japanese-car-brands-with-the-most-reliability-concerns": {
+			"title": "Japanese Car Brands With Reliability Concerns | CLINE APC",
+			"description": "Japanese car brands with the most reliability concerns, the problems owners report, and what to do in California if your vehicle keeps failing."
+		},
+		"/blog/jeep-transmission-problems": {
+			"title": "Jeep Transmission Problems: What You Can Do | CLINE APC",
+			"description": "Common Jeep automatic transmission problems owners report, the warning signs to watch for, and what you can do under California lemon law."
+		},
+		"/blog/kia-models-with-the-most-lemon-law-complaints": {
+			"title": "Kia Models With the Most Lemon Law Complaints | CLINE APC",
+			"description": "The Kia models with the most lemon law complaints, the defects owners report, and what to do in California if your Kia keeps going back to the shop."
+		},
+		"/blog/know-differences-lemon-law-auto-fraud-avoid-getting-duped": {
+			"title": "Lemon Law vs. Auto Fraud: Know the Difference | CLINE APC",
+			"description": "The difference between lemon law and auto fraud, how each applies to a defective or misrepresented vehicle, and how California buyers can avoid getting duped."
+		},
+		"/blog/latest-consumer-complaint-report-lemon-law-claims": {
+			"title": "Consumer Complaint Report and CA Lemon Claims | CLINE APC",
+			"description": "What the latest Consumer Federation of America complaint report means for California lemon law claims and the auto issues consumers report most."
+		},
+		"/blog/leased-car-lemon-law": {
+			"title": "Leased Car Lemon Law: 5 Things to Know First | CLINE APC",
+			"description": "Five things to know before leasing a car to avoid a lemon, and how California lemon law protects you if your leased vehicle turns out to be defective."
+		},
+		"/blog/leasing-car-advantages-dodge-traps-car-leasing-companies": {
+			"title": "Car Leasing Traps and Leased Lemon Law Issues | CLINE APC",
+			"description": "How to dodge common traps set by car leasing companies, and how California lemon law applies when a leased vehicle turns out to be a lemon."
+		},
+		"/blog/lemon-driver-abuse": {
+			"title": "Lemon or Driver Abuse? Know Your Rights | CLINE APC",
+			"description": "What happens when a manufacturer blames driver abuse for your vehicle's defects, and how to protect your rights in a California lemon law claim."
+		},
+		"/blog/lemon-law-arbitration-why-you-shouldnt-do-it": {
+			"title": "Lemon Law Arbitration: Why You Should Avoid It | CLINE APC",
+			"description": "What lemon law arbitration is, why it tends to favor manufacturers, and why California consumers are not required to use it to resolve a lemon claim."
+		},
+		"/blog/lemon-law-buyback-process-california": {
+			"title": "The California Lemon Law Buyback Process | CLINE APC",
+			"description": "How the California lemon law buyback process works, what the manufacturer must refund, and the steps from first repair to a completed repurchase."
+		},
+		"/blog/lemon-law-buyback-vs-regular-refunds": {
+			"title": "Lemon Law Buyback vs. Regular Refund Explained | CLINE APC",
+			"description": "The difference between a lemon law buyback and a regular refund, what each includes, and why the distinction matters for California vehicle owners."
+		},
+		"/blog/lemon-law-buybacks-what-to-expect": {
+			"title": "California Lemon Law Buybacks: What to Expect | CLINE APC",
+			"description": "What to expect in a California lemon law buyback, from qualifying and negotiating with the manufacturer to how the refund and vehicle return work."
+		},
+		"/blog/lemon-law-case-prepare-for-the-trial": {
+			"title": "How to Prepare for a California Lemon Law Trial | CLINE APC",
+			"description": "Lemon law trials are rare, but here is how to prepare if your case goes to court: records to gather, testimony to expect, and how your attorney helps."
+		},
+		"/blog/lemon-law-case-worth-lemon-law-buyback-calculator": {
+			"title": "How Much Is Your Lemon Buyback? Calculator | CLINE APC",
+			"description": "How much is your lemon law buyback worth? The California buyback formula, the costs it always includes, and the incidental costs you can add."
+		},
+		"/blog/lemon-law-claims-and-software-glitches-in-a-car": {
+			"title": "Software Glitches and Lemon Law Claims | CLINE APC",
+			"description": "How software glitches and infotainment failures can support a lemon law claim in California, and what to document when your car's tech keeps failing."
+		},
+		"/blog/lemon-law-facts-and-stats-in-orange-county": {
+			"title": "Orange County Lemon Law Facts and Statistics | CLINE APC",
+			"description": "Orange County facts and statistics about lemon law and defective cars, and what OC drivers should know if their vehicle keeps going back to the shop."
+		},
+		"/blog/lemon-law-for-buyers-with-disabilities": {
+			"title": "Lemon Law for Car Buyers With Disabilities | CLINE APC",
+			"description": "What additional protections exist for car buyers with disabilities, including adapted vehicles, and how California lemon law applies when defects occur."
+		},
+		"/blog/lemon-law-for-private-vehicle-sale": {
+			"title": "Lemon Law and Private Vehicle Sales: Your Rights | CLINE APC",
+			"description": "What rights you have under lemon law after buying from a private seller, when a remaining manufacturer warranty may still protect you, and what to do."
+		},
+		"/blog/lemon-law-protections-for-high-end-vehicles-in-los-angeles": {
+			"title": "Lemon Law for Luxury Cars in Los Angeles | CLINE APC",
+			"description": "How lemon law protects luxury vehicles in Los Angeles, the challenges owners face, and preventive steps that help protect your warranty rights."
+		},
+		"/blog/lemon-law-recall-does-your-vehicle-qualify-for-legal-protections": {
+			"title": "Can a Recalled Car Qualify as a Lemon? | CLINE APC",
+			"description": "Can a vehicle repaired under a recall still qualify as a lemon? How recalls interact with California lemon law and when a recurring defect counts."
+		},
+		"/blog/lemon-law-vs-warranty-whats-the-difference": {
+			"title": "Lemon Law vs. Warranty: What's the Difference? | CLINE APC",
+			"description": "The difference between lemon law and your car warranty, how they work together in California, and what to do when warranty repairs don't fix the defect."
+		},
+		"/blog/lemon-product-liability": {
+			"title": "Lemon Law or Product Liability: Which Applies? | CLINE APC",
+			"description": "Lemon law vs. product liability: which applies when a defective vehicle causes loss or injury, and what benefits you may be entitled to in California."
+		},
+		"/blog/let-a-lemon-law-attorney-handle-your-case": {
+			"title": "Life Handed You a Lemon? Let an Attorney Help | CLINE APC",
+			"description": "Why letting a lemon law attorney handle your case can take the stress off, how the process works in California, and why the manufacturer pays our fees."
+		},
+		"/blog/litigation-arbitration-whats-better": {
+			"title": "Litigation or Arbitration Under CA Lemon Law? | CLINE APC",
+			"description": "Litigation vs. arbitration under California lemon law: how each process works, the tradeoffs involved, and which option may be better for your claim."
+		},
+		"/blog/luxury-vehicles-major-mechanical-problems": {
+			"title": "5 Luxury Cars Prone to Major Mechanical Problems | CLINE APC",
+			"description": "Five luxury vehicles most likely to have major mechanical problems, the defects owners report, and your options under California lemon law."
+		},
+		"/blog/manufacturers-defense-lawyers-ruin-california-lemon-law-claim": {
+			"title": "How Automaker Defense Lawyers Fight Lemon Claims | CLINE APC",
+			"description": "How manufacturers' defense lawyers try to undermine a California lemon law claim, and the steps you can take to protect your case from their tactics."
+		},
+		"/blog/measures-take-car-lemon": {
+			"title": "What to Do When Your Car Is a Lemon in CA | CLINE APC",
+			"description": "The steps to take when your car is a lemon in California: know your refund and replacement options, get legal advice, and don't wait too long."
+		},
+		"/blog/mistakes-avoid-during-lemon-law-buyback-process": {
+			"title": "4 Mistakes to Avoid in the Lemon Buyback Process | CLINE APC",
+			"description": "Four mistakes to avoid during the lemon law buyback process in California, so you don't weaken your claim or leave money on the table."
+		},
+		"/blog/most-reliable-cars-tructs-suvs-2022": {
+			"title": "Most and Least Reliable Cars and SUVs of 2022 | CLINE APC",
+			"description": "Consumer Reports' 10 most and least reliable cars, trucks, and SUVs of 2022, and what owners of less reliable models can do under California lemon law."
+		},
+		"/blog/most-sued-auto-manufacturers-in-los-angeles": {
+			"title": "5 Most Sued Auto Manufacturers in Los Angeles | CLINE APC",
+			"description": "The five auto manufacturers most commonly sued in Los Angeles, the defects behind the claims, and what LA drivers can do if their car is a lemon."
+		},
+		"/blog/new-car-keeps-breaking-down": {
+			"title": "What to Do If Your New Car Keeps Breaking Down | CLINE APC",
+			"description": "What to do if your new car keeps breaking down: document every repair, use the warranty, and learn when California lemon law may entitle you to a buyback."
+		},
+		"/blog/new-car-lemon-law-qa": {
+			"title": "California Lemon Law Q&A for New Car Owners | CLINE APC",
+			"description": "Answers to common questions about California lemon law for new cars: what qualifies, how to prove a lemon, leases, business vehicles, and arbitration."
+		},
+		"/blog/nhtsa-defective-car-complaint": {
+			"title": "How to File a Defective Car Complaint With NHTSA | CLINE APC",
+			"description": "How to file a defective car complaint with the NHTSA, what information to include, and how a safety complaint fits alongside a lemon law claim."
+		},
+		"/blog/no-cooling-off-period-in-california-lemon-law": {
+			"title": "No Cooling-Off Period for Car Sales in CA | CLINE APC",
+			"description": "What the no cooling-off period rule means for car buyers in California, when you can't return a car after signing, and how lemon law differs."
+		},
+		"/blog/prevailed-lemon-law-case-now-what": {
+			"title": "You Won Your Lemon Law Case: What Happens Next | CLINE APC",
+			"description": "You prevailed in your lemon law case. What happens next in California: choosing a refund or replacement, reimbursed expenses, and how long payment takes."
+		},
+		"/blog/primer-defects-repairs-californias-lemon-law": {
+			"title": "Defects and Repairs Under California Lemon Law | CLINE APC",
+			"description": "A primer on defects and repairs under California lemon law: what counts as a qualifying defect, how repair attempts are counted, and why records matter."
+		},
+		"/blog/proposals-and-recent-updates-to-california-lemon-law": {
+			"title": "The Future of Lemon Law: Proposed CA Reforms | CLINE APC",
+			"description": "Proposed reforms and recent updates to California lemon law, and their potential impact on consumers pursuing a claim for a defective vehicle."
+		},
+		"/blog/prove-car-delership-fraud": {
+			"title": "How to Prove Car Dealership Fraud in California | CLINE APC",
+			"description": "How to prove car dealership fraud in California: the evidence that matters, common forms of misrepresentation, and the options available to buyers."
+		},
+		"/blog/ram-trucks-with-lemon-law-issues": {
+			"title": "3 RAM Trucks With Known Lemon Law Issues | CLINE APC",
+			"description": "Three RAM truck models with known lemon law issues, the common problems owners report, and what to do in California if repairs keep failing."
+		},
+		"/blog/recalls-by-toyota": {
+			"title": "4 Recent Toyota Recalls You Should Know About | CLINE APC",
+			"description": "Four recent Toyota recalls owners should know about, the defects involved, and what to do if the problem continues after the recall repair."
+		},
+		"/blog/recent-developments-in-california-lemon-law": {
+			"title": "Recent Changes to California Lemon Law Explained | CLINE APC",
+			"description": "Recent changes to California lemon law, how corporate interests have pushed to limit consumer rights, and what drivers should know about the updates."
+		},
+		"/blog/recent-porsche-car-recalls": {
+			"title": "5 Recent Porsche Recalls for Factory Defects | CLINE APC",
+			"description": "Five recent Porsche recalls tied to manufacturing defects, the models affected, and what owners can do under California lemon law if problems persist."
+		},
+		"/blog/refund-law-private-sale": {
+			"title": "Can You Get a Refund From a Private Car Seller? | CLINE APC",
+			"description": "Can you get a refund after buying a car from a private seller? How refund laws for private sales work in California and when a warranty may still help."
+		},
+		"/blog/safety-concerns-ford-car-defects": {
+			"title": "Ford Car Defects and Safety Concerns to Know | CLINE APC",
+			"description": "Ford car defects that raise safety concerns, the models and components involved, and what owners can do under California lemon law when repairs fail."
+		},
+		"/blog/salvage-vs-reconstructed-titles-what-are-the-differences": {
+			"title": "Salvage vs. Reconstructed Titles Explained | CLINE APC",
+			"description": "The differences between salvage and reconstructed titles in California, what each means for a used car's value and safety, and what to check before buying."
+		},
+		"/blog/santa-ana-lemon-law-attorney-common-questions-about-california-lemon-law-claims": {
+			"title": "Santa Ana Lemon Law Attorney: Common Questions | CLINE APC",
+			"description": "A Santa Ana lemon law attorney answers common questions about California lemon law claims: eligibility, repair attempts, fees, and what to expect."
+		},
+		"/blog/santa-ana-lemon-law-attorney-guidance-for-california-vehicle-defect-claims": {
+			"title": "Santa Ana Lemon Law Guidance for Vehicle Defects | CLINE APC",
+			"description": "Guidance from a Santa Ana lemon law attorney on California vehicle defect claims: when repeated repairs point to a lemon and how to build your case."
+		},
+		"/blog/self-driving-cars-affect-lemon-law-three-bold-predictions": {
+			"title": "How Will Self-Driving Cars Affect Lemon Law? | CLINE APC",
+			"description": "How self-driving cars could affect lemon law: three predictions about defects, software, and manufacturer responsibility as autonomous vehicles grow."
+		},
+		"/blog/selling-a-lemon-car-in-california-what-to-know": {
+			"title": "Can I Sell My Lemon Car in California? | CLINE APC",
+			"description": "Can you sell a lemon car in California? Your options for dealer, private, and as-is sales, the disclosure rules, and how a lemon law lawyer can help."
+		},
+		"/blog/should-yo-buy-an-extended-warranty-for-cars": {
+			"title": "Should You Buy an Extended Car Warranty? | CLINE APC",
+			"description": "Should you buy an extended warranty for your car? How extended warranties differ from the manufacturer warranty, and what to weigh before you buy."
+		},
+		"/blog/signs-of-faulty-car-electric-systems": {
+			"title": "5 Signs Your Car Has a Faulty Electrical System | CLINE APC",
+			"description": "Five warning signs your car has a faulty electrical system, from battery problems and flickering lights to blown fuses, and what to do about them."
+		},
+		"/blog/signs-of-lemon-electric-car": {
+			"title": "10 Signs Your Electric Car Is a Lemon in CA | CLINE APC",
+			"description": "Ten signs your electric car may be a lemon, from battery and charging failures to software faults, and how California lemon law protects EV owners."
+		},
+		"/blog/signs-your-motorcycle-is-lemon": {
+			"title": "Is Your Motorcycle a Lemon? Signs and Next Steps | CLINE APC",
+			"description": "Signs your motorcycle may be a lemon, what to do next, and how California lemon law can protect riders when a new bike keeps failing under warranty."
+		},
+		"/blog/stuck-with-your-defective-car-know-how-lemon-law-can-help-you-to-take-it-out": {
+			"title": "Stuck With a Defective Car? How Lemon Law Helps | CLINE APC",
+			"description": "Stuck with a defective car? How California lemon law can help you get out of it, from qualifying repair attempts to a manufacturer buyback or refund."
+		},
+		"/blog/teslas-arbitration-agreement-hurt-lemon-law-case": {
+			"title": "Tesla's Arbitration Clause and Your Lemon Case | CLINE APC",
+			"description": "How Tesla's arbitration agreement can hurt your lemon law case, what the clause means for your rights, and what Tesla owners in California can do."
+		},
+		"/blog/the-components-of-a-lemon-law-refund-in-california": {
+			"title": "What a California Lemon Law Refund Includes | CLINE APC",
+			"description": "The components of a California lemon law refund: the purchase price, remaining loan balance, official costs, and incidental expenses, plus lease rules."
+		},
+		"/blog/the-impact-of-stop-and-go-traffic-on-vehicle-reliability": {
+			"title": "Stop-and-Go Traffic and Lemon Law in Los Angeles | CLINE APC",
+			"description": "How stop-and-go traffic affects vehicle reliability, and the lemon law considerations Los Angeles drivers should know when defects keep coming back."
+		},
+		"/blog/things-california-lemon-law-applies": {
+			"title": "Does CA Lemon Law Cover Products Besides Cars? | CLINE APC",
+			"description": "Does California lemon law cover products other than cars? Which vehicles and consumer products, such as appliances, the Song-Beverly Act covers."
+		},
+		"/blog/think-your-used-car-might-be-a-lemon-heres-what-you-can-do": {
+			"title": "Think Your Used Car Is a Lemon? What You Can Do | CLINE APC",
+			"description": "Think your used car might be a lemon? The steps you can take in California, including when a remaining manufacturer warranty can support a claim."
+		},
+		"/blog/tips-for-lemon-law-challenges-in-los-angeles": {
+			"title": "Lemon Law Challenges in Los Angeles: Tips | CLINE APC",
+			"description": "Tips for navigating lemon law challenges in Los Angeles, from documenting repairs to dealing with the manufacturer, from California lemon law attorneys."
+		},
+		"/blog/tips-for-negotiating-with-car-dealers-in-a-lemon-case": {
+			"title": "5 Tips for Negotiating in a Lemon Law Case | CLINE APC",
+			"description": "Five tips for negotiating with manufacturers and dealers in a lemon law case, so you protect your claim and understand the offers you receive."
+		},
+		"/blog/top-10-automakers-with-the-most-car-recalls-in-2023": {
+			"title": "Top 10 Car Brands With the Most Recalls in 2023 | CLINE APC",
+			"description": "The 10 car brands with the most recalls in 2023, the defects behind them, and what owners should know if recall repairs don't fix the problem."
+		},
+		"/blog/top-10-most-popular-cars-in-los-angeles-in-2024": {
+			"title": "Top 10 Most Popular Cars in Los Angeles in 2024 | CLINE APC",
+			"description": "The 10 most popular cars in Los Angeles in 2024, from the Toyota RAV4 to the Kia Forte, and what to do if your new or used vehicle is defective."
+		},
+		"/blog/top-audi-models-with-lemon-law-complaints": {
+			"title": "Audi Models With the Most Lemon Law Complaints | CLINE APC",
+			"description": "The Audi models with the most lemon law complaints, the defects owners report, and what to do in California if your Audi keeps going back to the shop."
+		},
+		"/blog/top-most-common-defects-in-ford-cars": {
+			"title": "Top 10 Most Common Defects in Ford Cars | CLINE APC",
+			"description": "The 10 most common defects in Ford cars, from transmission and engine issues to electrical faults, and what owners can do under California lemon law."
+		},
+		"/blog/toyota-8-speed-transmission-problems-trucks": {
+			"title": "Toyota 8-Speed Transmission Problems in Trucks | CLINE APC",
+			"description": "Toyota 8-speed transmission problems owners need to know about, the warning signs, the safety risks, and your options under California lemon law."
+		},
+		"/blog/toyota-car-recalls-2024": {
+			"title": "Toyota Car Recalls in 2024: What to Know | CLINE APC",
+			"description": "Toyota's 2024 car recalls: the models and defects involved, what owners should do, and when a problem that persists may support a lemon law claim."
+		},
+		"/blog/transmission-problems-fiat-500-fiat-500-defects-2013-fiat-500-problems": {
+			"title": "FIAT 500 Transmission Problems and Lemon Law | CLINE APC",
+			"description": "Transmission problems and other defects in 2012–2015 FIAT 500 models, gas or electric, and what California owners can do under lemon law."
+		},
+		"/blog/tricks-an-auto-fraud-attorney-can-help-you-avoid": {
+			"title": "20 Dealer Auto Fraud Tricks Used in Los Angeles | CLINE APC",
+			"description": "Twenty common tricks some Los Angeles dealerships use to commit auto fraud, how to spot them, and what buyers can do if they have been misled."
+		},
+		"/blog/trustworthy-lemon-law-attorneys-california": {
+			"title": "4 Priorities of Trustworthy Lemon Law Attorneys | CLINE APC",
+			"description": "The four top priorities of trustworthy lemon law attorneys in California, and how to tell whether a firm will put your interests first."
+		},
+		"/blog/understanding-lemon-law-basics-small-business-owners": {
+			"title": "Lemon Law Basics for Small Business Owners | CLINE APC",
+			"description": "Lemon law basics for small business owners and sole proprietors in California, and when a business vehicle can qualify for a buyback or refund."
+		},
+		"/blog/used-car-lemon-law-in-orange-county-buyer-beware": {
+			"title": "Orange County Used Car Lemon Law: Buyer Beware | CLINE APC",
+			"description": "The role of lemon law in Orange County's used car market: when a used vehicle is protected, what to check before you buy, and your options if it fails."
+		},
+		"/blog/used-car-no-warranty-lemon-law-california": {
+			"title": "Used Car With No Warranty: Does Lemon Law Apply? | CLINE APC",
+			"description": "Does California lemon law apply to a used car with no warranty? How warranty terms affect your rights, your options, and how to avoid a used lemon."
+		},
+		"/blog/using-a-leased-vehicle-in-orange-county": {
+			"title": "Leasing a Vehicle in Orange County: What to Know | CLINE APC",
+			"description": "What to know about leasing a vehicle in Orange County, including lease terms and how California lemon law protects you if your leased car is defective."
+		},
+		"/blog/vehicle-doesnt-meet-requirements-of-lemon-law": {
+			"title": "What If Your Car Doesn't Meet Lemon Law Rules? | CLINE APC",
+			"description": "What happens if your vehicle doesn't meet the exact lemon law requirements? Why you may still have a California claim outside the presumption."
+		},
+		"/blog/vehicle-recalls-and-lemon-laws-can-you-get-a-buyback-or-compensation": {
+			"title": "Vehicle Recalls and Lemon Law: Buyback Options | CLINE APC",
+			"description": "Can a recalled vehicle qualify for a lemon law buyback or compensation? How recalls and California lemon law interact when the defect isn't fixed."
+		},
+		"/blog/volvo-dealership-in-bakersfield-shuts-down": {
+			"title": "Bakersfield Volvo Dealer Closes: Your Rights | CLINE APC",
+			"description": "What happens if the dealership you bought from shuts down while your car is under warranty, and your rights under California lemon law."
+		},
+		"/blog/what-are-certified-pre-owned-car-scams": {
+			"title": "Certified Pre-Owned Car Scams: What to Know | CLINE APC",
+			"description": "What certified pre-owned car scams look like, how to spot a CPO vehicle that isn't what it seems, and your options if you've been misled."
+		},
+		"/blog/what-are-common-causes-of-car-accidents-in-los-angeles": {
+			"title": "Common Causes of Car Accidents in Los Angeles | CLINE APC",
+			"description": "The most common causes of car accidents in Los Angeles, including vehicle defects, and what to do if a mechanical problem contributed to a crash."
+		},
+		"/blog/what-are-the-impact-of-defects-on-ford-car-resale-value": {
+			"title": "How Defects Affect the Resale Value of a Ford | CLINE APC",
+			"description": "How defects affect the resale value of a Ford, why a lemon history matters to buyers, and what owners can do under California lemon law."
+		},
+		"/blog/what-are-the-major-obligations-and-penalties-tied-to-lemon-law": {
+			"title": "Lemon Law Obligations and Penalties Explained | CLINE APC",
+			"description": "The obligations lemon law places on manufacturers and retailers, what consumers can recover, and when a civil penalty may apply in California."
+		},
+		"/blog/what-counts-as-a-warranty-breach-under-the-song-beverly-consumer-warranty-act": {
+			"title": "What Counts as a Song-Beverly Warranty Breach? | CLINE APC",
+			"description": "What counts as a warranty breach under California's Song-Beverly Consumer Warranty Act, and how a breach can support a lemon law claim for your vehicle."
+		},
+		"/blog/what-happens-to-a-car-loan-in-a-lemon-case": {
+			"title": "What Happens to Your Car Loan in a Lemon Case? | CLINE APC",
+			"description": "What happens to your car loan in a California lemon law case, who is responsible for the payments, and how to get out of a lemon car loan."
+		},
+		"/blog/what-happens-when-a-vehicle-gets-recalled": {
+			"title": "What Happens When Your Vehicle Is Recalled? | CLINE APC",
+			"description": "What a vehicle recall is, what happens when your car is recalled, how repairs are handled, and how a recall can relate to a California lemon law claim."
+		},
+		"/blog/what-is-the-role-of-a-lemon-law-attorney-in-securing-fair-settlements": {
+			"title": "A Lemon Law Attorney's Role in Fair Settlements | CLINE APC",
+			"description": "The role a lemon law attorney plays in securing a fair settlement, from evaluating your claim to negotiating with the manufacturer under California law."
+		},
+		"/blog/what-records-are-needed-in-california-lemon-law-cases": {
+			"title": "Records to Keep for a California Lemon Law Case | CLINE APC",
+			"description": "The records you need to keep for a California lemon law case, from repair orders and contracts to communications with the dealer and manufacturer."
+		},
+		"/blog/what-to-do-if-you-have-a-defective-ford-car": {
+			"title": "What to Do If You Have a Defective Ford | CLINE APC",
+			"description": "What to do if you have a defective Ford: steps to document the problem, use your warranty, and pursue a buyback under California lemon law."
+		},
+		"/blog/what-to-expect-lemon-law-case-during-covid-19": {
+			"title": "What to Expect in a Lemon Case During COVID-19 | CLINE APC",
+			"description": "What to expect if your lemon law case was active during COVID-19, including delays, remote proceedings, and how claims continued to move forward."
+		},
+		"/blog/what-to-expect-when-you-win-a-lemon-lawsuit": {
+			"title": "What to Expect When You Win a Lemon Law Case | CLINE APC",
+			"description": "What to expect after you win a lemon law case in California: choosing a refund or replacement vehicle, reimbursed expenses, and the payment timeline."
+		},
+		"/blog/what-voids-car-warranty": {
+			"title": "What Voids a Car Warranty? What to Avoid | CLINE APC",
+			"description": "What can void a car warranty, from improper use and odometer tampering to aftermarket modifications, and how to keep your warranty intact."
+		},
+		"/blog/whats-changed-a-guide-to-updated-ca-lemon-law": {
+			"title": "What's Changed in California's Updated Lemon Law | CLINE APC",
+			"description": "A consumer's guide to California's updated lemon law: stricter filing deadlines, used vehicle changes, RV protections, and new notice requirements."
+		},
+		"/blog/when-a-lemon-law-attorney-can-help-with-a-defective-vehicle-claim": {
+			"title": "When a Lemon Law Attorney Can Help Your Claim | CLINE APC",
+			"description": "When a lemon law attorney can help with a defective vehicle claim in California, and the signs it's time to get a free case review of your repairs."
+		},
+		"/blog/which-cars-could-have-the-most-lemon-complaints": {
+			"title": "Which Cars Have the Most Lemon Complaints? | CLINE APC",
+			"description": "Which cars could have the most lemon complaints? The makes and models owners report problems with most, and what to know before you buy."
+		},
+		"/blog/why-hire-an-orange-county-lemon-law-lawyer-environmental-factors": {
+			"title": "Environmental Factors and OC Lemon Law Claims | CLINE APC",
+			"description": "How Orange County's environment, from sun and heat to coastal air and corrosion, can affect vehicle defects and California lemon law claims."
+		},
+		"/blog/why-lemon-law-protections-are-crucial-for-mercedes-owners": {
+			"title": "Why Lemon Law Matters for Mercedes-Benz Owners | CLINE APC",
+			"description": "Luxury doesn't mean perfect. Common Mercedes-Benz defects and why California lemon law protections matter when repairs don't solve the problem."
+		},
+		"/blog/why-the-repair-invoice-is-the-foundation-of-your-lemon-law-claim": {
+			"title": "Why Repair Invoices Anchor a Lemon Law Claim | CLINE APC",
+			"description": "Why the warranty repair invoice is the foundation of your lemon law claim, what each repair order should show, and how to keep your records complete."
+		},
+		"/blog/your-car-is-a-lemon-know-what-the-manufacturer-should-be-paying-you": {
+			"title": "Your Car Is a Lemon: What the Automaker Owes You | CLINE APC",
+			"description": "What the manufacturer should be paying you when your car is a lemon in California, from reimbursement of what you paid to collateral damages and expenses."
+		},
+		"/blog/your-rights-under-motorcycle-law-california": {
+			"title": "Motorcycle Lemon Law: Your Rights as a Rider | CLINE APC",
+			"description": "Motorcycle lemon law in California: your rights and protections as a rider when a new or used bike under warranty keeps failing, and what to do next."
+		},
+		"/locations/aliso-viejo-lemon-law": {
+			"title": "Aliso Viejo Lemon Law Attorney · Free Review | CLINE APC",
+			"description": "Aliso Viejo lemon law attorney for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/beaumont-california-lemon-law": {
+			"title": "Beaumont Lemon Law Attorney · Free Case Review | CLINE APC",
+			"description": "Beaumont lemon law attorney for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/beverly-hills-lemon-law-attorney": {
+			"title": "Beverly Hills Lemon Law Attorney · Free Review | CLINE APC",
+			"description": "Lemon law attorney serving Beverly Hills, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
+		},
+		"/locations/buena-park-california-lemon-law": {
+			"title": "Buena Park Lemon Law Attorney · Free Case Review | CLINE APC",
+			"description": "Buena Park lemon law attorney for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/carlsbad-lemon-law-lawyer": {
+			"title": "Carlsbad Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Need a lemon law lawyer in Carlsbad? CLINE APC helps drivers with defective cars pursue a buyback or refund. Free case review; the manufacturer pays our fees."
+		},
+		"/locations/chino-lemon-law": {
+			"title": "Chino Lemon Law Attorney · Free Case Review | CLINE APC",
+			"description": "Chino lemon law attorney for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/coronado-lemon-law-attorney": {
+			"title": "Coronado Lemon Law Attorney · Free Case Review | CLINE APC",
+			"description": "Lemon law attorney serving Coronado, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
+		},
+		"/locations/costa-mesa-lemon-law": {
+			"title": "Costa Mesa Lemon Law Attorney · Free Case Review | CLINE APC",
+			"description": "Costa Mesa lemon law attorney for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/fontana-lemon-law-attorney": {
+			"title": "Fontana Lemon Law Attorney · Free Case Review | CLINE APC",
+			"description": "Fontana lemon law attorney for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/fremont-lemon-law": {
+			"title": "Fremont Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Fremont lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/glendale-lemon-law-lawyer": {
+			"title": "Glendale Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Lemon law lawyer serving Glendale, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
+		},
+		"/locations/huntington-beach-lemon-law-attorney": {
+			"title": "Huntington Beach Lemon Law Lawyer · Free Review | CLINE APC",
+			"description": "Lemon law attorney serving Huntington Beach, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
+		},
+		"/locations/lemon-law-attorneys-in-sonoma-california": {
+			"title": "Sonoma Lemon Law Attorney · Free Case Review | CLINE APC",
+			"description": "Need a lemon law attorney in Sonoma? CLINE APC helps drivers with defective cars pursue a buyback or refund. Free case review; the manufacturer pays our fees."
+		},
+		"/locations/lemon-law-lawyer-anaheim": {
+			"title": "Anaheim Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Anaheim lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/lemon-law-lawyer-cathedral-city": {
+			"title": "Cathedral City Lemon Law Attorney · Free Review | CLINE APC",
+			"description": "Lemon law attorney serving Cathedral City, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
+		},
+		"/locations/lemon-law-lawyer-el-cajon": {
+			"title": "El Cajon Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Talk to an El Cajon lemon law lawyer about your defective vehicle. Free review of your repair history; the manufacturer pays our fees under California law."
+		},
+		"/locations/lemon-law-lawyer-in-irvine-california": {
+			"title": "Irvine Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Need a lemon law lawyer in Irvine? CLINE APC helps drivers with defective cars pursue a buyback or refund. Free case review; the manufacturer pays our fees."
+		},
+		"/locations/lemon-law-lawyer-in-stockton-california": {
+			"title": "Stockton Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Stockton lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/lemon-law-lawyer-la-jolla": {
+			"title": "La Jolla Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Lemon law lawyer serving La Jolla, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
+		},
+		"/locations/lemon-law-lawyer-long-beach": {
+			"title": "Long Beach Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Long Beach lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/lemon-law-lawyer-modesto": {
+			"title": "Modesto Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Need a lemon law lawyer in Modesto? CLINE APC helps drivers with defective cars pursue a buyback or refund. Free case review; the manufacturer pays our fees."
+		},
+		"/locations/lemon-law-lawyer-oceanside": {
+			"title": "Oceanside Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Oceanside lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/lemon-law-lawyer-oxnard-california": {
+			"title": "Oxnard Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Lemon law lawyer serving Oxnard, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
+		},
+		"/locations/lemon-law-lawyer-poway": {
+			"title": "Poway Lemon Law Attorney · Free Case Review | CLINE APC",
+			"description": "Talk to a Poway lemon law attorney about your defective vehicle. Free review of your repair history, and the manufacturer pays our fees under California law."
+		},
+		"/locations/lemon-law-lawyer-san-diego": {
+			"title": "San Diego Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "San Diego lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/lemon-law-lawyer-san-jose": {
+			"title": "San Jose Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "San Jose lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/lemon-law-lawyer-santa-ana": {
+			"title": "Santa Ana Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Lemon law lawyer serving Santa Ana, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
+		},
+		"/locations/lemon-law-lawyers-bakersfield-california": {
+			"title": "Bakersfield Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Bakersfield lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/lemon-law-lawyers-chula-vista-california": {
+			"title": "Chula Vista Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Chula Vista lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/lemon-law-lawyers-fresno-california": {
+			"title": "Fresno Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Fresno lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/lemon-law-lawyers-in-sacramento-california": {
+			"title": "Sacramento Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Lemon law lawyer serving Sacramento, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
+		},
+		"/locations/lemon-law-lawyers-los-angeles-california": {
+			"title": "Los Angeles Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Los Angeles lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/lemon-law-lawyers-napa-california": {
+			"title": "Napa Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Need a lemon law lawyer in Napa? CLINE APC helps drivers with defective cars pursue a buyback or refund. Free case review; the manufacturer pays our fees."
+		},
+		"/locations/lemon-law-lawyers-oakland-california": {
+			"title": "Oakland Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Oakland lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/lemon-law-lawyers-riverside-california": {
+			"title": "Riverside Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Lemon law lawyer serving Riverside, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
+		},
+		"/locations/lemon-law-lawyers-san-bernardino-california": {
+			"title": "San Bernardino Lemon Law Lawyer · Free Review | CLINE APC",
+			"description": "San Bernardino lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/lemon-law-lawyers-san-francisco-california": {
+			"title": "San Francisco Lemon Law Lawyer · Free Review | CLINE APC",
+			"description": "San Francisco lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/malibu-lemon-law-lawyer": {
+			"title": "Malibu Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Malibu lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/monterey-lemon-law-attorney": {
+			"title": "Monterey Lemon Law Attorney · Free Case Review | CLINE APC",
+			"description": "Lemon law attorney serving Monterey, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
+		},
+		"/locations/moreno-valley-lemon-law-lawyer": {
+			"title": "Moreno Valley Lemon Law Lawyer · Free Review | CLINE APC",
+			"description": "Moreno Valley lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/near-me": {
+			"title": "Lemon Law Lawyer Near Me · Statewide California | CLINE APC",
+			"description": "Looking for a lemon law lawyer near you? CLINE APC represents drivers across California, and most cases need no in-person meeting. Free case review."
+		},
+		"/locations/palm-springs-lemon-law-lawyer": {
+			"title": "Palm Springs Lemon Law Lawyer · Free Case Review | CLINE APC",
+			"description": "Palm Springs lemon law lawyer for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/santa-clarita-lemon-law": {
+			"title": "Santa Clarita Lemon Law Attorney · Free Review | CLINE APC",
+			"description": "Santa Clarita lemon law attorney for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/locations/santa-monica-lemon-law-attorney": {
+			"title": "Santa Monica Lemon Law Attorney · Free Review | CLINE APC",
+			"description": "Lemon law attorney serving Santa Monica, CA. If repeated repairs haven't fixed your car, get a free case review. The manufacturer pays our fees, not you."
+		},
+		"/locations/santa-rosa-lemon-law-attorney": {
+			"title": "Santa Rosa Lemon Law Attorney · Free Case Review | CLINE APC",
+			"description": "Santa Rosa lemon law attorney for drivers whose car keeps going back to the shop. Get a free case review. You pay no attorney fees; the manufacturer does."
+		},
+		"/info/california-lemon-law-facts-and-statistics": {
+			"title": "California Lemon Law Facts and Statistics | CLINE APC",
+			"description": "California lemon law facts and statistics to know before you buy: car sales, new and used car warranties, lemon cases filed, and recalls by brand."
+		},
+		"/info/everything-you-need-to-know-about-california-lemon-law-claims": {
+			"title": "California Lemon Law Claims: A Complete Guide | CLINE APC",
+			"description": "A complete guide to California lemon law claims: what qualifies, common rip-offs and misconceptions, mistakes to avoid, and what to ask a lemon law firm."
+		},
+		"/info/fees": {
+			"title": "California Lemon Law Attorney Fees: You Pay $0 | CLINE APC",
+			"description": "At CLINE APC you never pay attorneys' fees, costs, or expenses for your California lemon law case. The manufacturer pays them when the case is resolved."
+		},
+		"/info/how-it-works": {
+			"title": "How California's Lemon Law Works (Song-Beverly) | CLINE APC",
+			"description": "How the California lemon law (Song-Beverly Act) works: what qualifies as a lemon, which vehicles are covered, what you may be owed, and how to get help."
+		},
+		"/info/privacy-policy": {
+			"title": "Privacy Policy · California Lemon Law Firm | CLINE APC",
+			"description": "How CLINE APC collects, uses, and protects the personal information you share on our website, and the choices available to you about how it is used."
+		}
+	}
 }

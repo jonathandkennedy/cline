@@ -20,7 +20,10 @@ export function proxy(request: NextRequest) {
 	const destination = resolveRedirect(pathname);
 	const toCanonicalHost = host === APEX_HOST && APEX_HOST !== CANONICAL.host;
 	if (destination || toCanonicalHost) {
-		const target = new URL(destination ?? pathname, toCanonicalHost ? SITE_URL : request.nextUrl.origin);
+		const target = new URL(
+			destination ?? pathname,
+			toCanonicalHost ? SITE_URL : request.nextUrl.origin,
+		);
 		target.search = request.nextUrl.search;
 		return NextResponse.redirect(target, 301);
 	}

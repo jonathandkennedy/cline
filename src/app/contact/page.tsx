@@ -36,11 +36,11 @@ export default function ContactPage() {
 						</h1>
 						<div className="mt-5 max-w-2xl space-y-4 text-[16px] leading-relaxed text-muted">
 							<p>
-								If your new or used vehicle keeps going back to the dealer for the same problem, tell
-								us about it. A {BRAND.name} attorney reviews every request and follows up to explain
-								whether California&rsquo;s lemon law, the Song-Beverly Consumer Warranty Act, is
-								likely to apply and what a repurchase, replacement or cash settlement could look
-								like.
+								If your new or used vehicle keeps going back to the dealer for the same problem,
+								tell us about it. A {BRAND.name} attorney reviews every request and follows up to
+								explain whether California&rsquo;s lemon law, the Song-Beverly Consumer Warranty
+								Act, is likely to apply and what a repurchase, replacement or cash settlement could
+								look like.
 							</p>
 							<p>
 								The review is free. If we take your case you do not pay attorney fees out of pocket:
@@ -89,7 +89,10 @@ export default function ContactPage() {
 						<ul className="mt-4 grid gap-2 text-[15px] sm:grid-cols-2">
 							{RELATED_LINKS.map((link) => (
 								<li key={link.href}>
-									<Link href={link.href} className="text-muted underline-offset-4 hover:text-gold hover:underline">
+									<Link
+										href={link.href}
+										className="text-muted underline-offset-4 hover:text-gold hover:underline"
+									>
 										{link.label}
 									</Link>
 								</li>

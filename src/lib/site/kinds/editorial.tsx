@@ -238,35 +238,6 @@ function editorialHubPageHref(basePath: string, page: number): string {
 	return `${basePath}/page/${page}`;
 }
 
-function buildPaginationPages(currentPage: number, totalPages: number): Array<number | 'ellipsis'> {
-	if (totalPages <= 7) {
-		return Array.from({ length: totalPages }, (_, index) => index + 1);
-	}
-	const pages = new Set<number>([1, totalPages, currentPage]);
-	if (currentPage > 1) pages.add(currentPage - 1);
-	if (currentPage < totalPages) pages.add(currentPage + 1);
-	if (currentPage <= 3) {
-		pages.add(2);
-		pages.add(3);
-	}
-	if (currentPage >= totalPages - 2) {
-		pages.add(totalPages - 1);
-		pages.add(totalPages - 2);
-	}
-	const sorted = [...pages].sort((a, b) => a - b);
-	const result: Array<number | 'ellipsis'> = [];
-	for (let index = 0; index < sorted.length; index += 1) {
-		const page = sorted[index];
-		if (page === undefined) continue;
-		const previous = sorted[index - 1];
-		if (previous !== undefined && page - previous > 1) {
-			result.push('ellipsis');
-		}
-		result.push(page);
-	}
-	return result;
-}
-
 function EditorialPagination({
 	basePath,
 	currentPage,
@@ -277,7 +248,8 @@ function EditorialPagination({
 	totalPages: number;
 }) {
 	if (totalPages <= 1) return null;
-	const pages = buildPaginationPages(currentPage, totalPages);
+	// Every page is linked so no archive page is more than one click from the hub.
+	const pages = Array.from({ length: totalPages }, (_, index) => index + 1);
 	const controlClass =
 		'inline-flex min-h-10 items-center gap-1.5 px-3 text-[13px] font-semibold transition';
 	const navButtonClass = cn(controlClass, 'text-cta hover:text-gold-soft');
@@ -304,34 +276,24 @@ function EditorialPagination({
 				</span>
 			)}
 			<div className="flex flex-wrap items-center gap-1.5">
-				{pages.map((page, index) =>
-					page === 'ellipsis' ? (
-						<span
-							key={`ellipsis-${index}`}
-							className="inline-flex min-h-10 items-center px-1 text-subtle"
-							aria-hidden
-						>
-							…
-						</span>
-					) : (
-						<Link
-							key={page}
-							href={editorialHubPageHref(basePath, page)}
-							aria-label={`Page ${page}`}
-							aria-current={page === currentPage ? 'page' : undefined}
-							scroll
-							className={cn(
-								controlClass,
-								'min-w-10 justify-center rounded-md border px-3',
-								page === currentPage
-									? 'border-gold/35 bg-gold/10 text-gold'
-									: 'border-line/35 text-subtle hover:border-gold/30 hover:text-gold-soft',
-							)}
-						>
-							{page}
-						</Link>
-					),
-				)}
+				{pages.map((page) => (
+					<Link
+						key={page}
+						href={editorialHubPageHref(basePath, page)}
+						aria-label={`Page ${page}`}
+						aria-current={page === currentPage ? 'page' : undefined}
+						scroll
+						className={cn(
+							controlClass,
+							'min-w-10 justify-center rounded-md border px-3',
+							page === currentPage
+								? 'border-gold/35 bg-gold/10 text-gold'
+								: 'border-line/35 text-subtle hover:border-gold/30 hover:text-gold-soft',
+						)}
+					>
+						{page}
+					</Link>
+				))}
 			</div>
 			{currentPage < totalPages ? (
 				<Link

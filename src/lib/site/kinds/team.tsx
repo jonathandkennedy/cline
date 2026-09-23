@@ -5,6 +5,8 @@ import { useEffect, useId, useState } from 'react';
 import { CaseReviewCtaButton, PhoneCta, Reveal } from '@/components';
 import { cn } from '@/kit/ui/functions/cn';
 import { TEAM_MEMBERS, TEAM_PAGE } from '@/lib/site';
+import { teamMemberPath } from '@/lib/cms/tables/team';
+import { Link } from '@/components/link';
 import type { SiteComponentKindMap } from '@/kit/catalog';
 import { ResourceBand } from '@/kit/blocks/spotlight';
 
@@ -97,6 +99,15 @@ function TeamRosterPanel() {
 									<p key={paragraph.slice(0, 32)}>{paragraph}</p>
 								))}
 							</div>
+						) : null}
+
+						{selected.profile ? (
+							<Link
+								href={teamMemberPath(selected.id)}
+								className="text-[15px] font-semibold text-gold underline-offset-4 hover:underline"
+							>
+								Read {selected.name}&rsquo;s full biography
+							</Link>
 						) : null}
 
 						<div className="flex flex-wrap gap-3 pt-1">

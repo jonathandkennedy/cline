@@ -53,7 +53,8 @@ function buildExactMap(): Map<string, string> {
 		if (rule.source.includes(':')) continue; // pattern rules are handled in code below
 		add(rule.source, rule.destination);
 	}
-	for (const [source, destination] of Object.entries(TEAM_ANCHOR_REDIRECTS)) add(source, destination);
+	for (const [source, destination] of Object.entries(TEAM_ANCHOR_REDIRECTS))
+		add(source, destination);
 
 	// Collapse any chains so every source resolves to its final destination in one hop.
 	for (const [source, destination] of map) {
