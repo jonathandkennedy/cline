@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { JsonLd } from '@/components';
+import { Footer, JsonLd } from '@/components';
+import { ToolGuideArticle } from '@/components/tools/guide';
 import { toolQueryModeFromSearchParams } from '@/lib/lookup';
 import {
 	getTool,
@@ -48,6 +49,12 @@ export default async function ToolPage({
 		<>
 			{ld && <JsonLd data={ld} />}
 			<ToolClient slug={tool.slug as ToolSlug} queryMode={queryMode} />
+			{!queryMode.embed && (
+				<>
+					<ToolGuideArticle slug={tool.slug} />
+					<Footer />
+				</>
+			)}
 		</>
 	);
 }

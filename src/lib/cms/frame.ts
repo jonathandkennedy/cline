@@ -34,8 +34,6 @@ export function siteMetadata(): Metadata {
 		description: meta.description,
 		applicationName: meta.applicationName,
 		authors: meta.authors,
-		keywords: meta.keywords,
-		alternates: { canonical: '/' },
 		openGraph: {
 			...meta.openGraph,
 			images: [
@@ -75,8 +73,8 @@ export function siteManifest(): MetadataRoute.Manifest {
 		id: `${SITE_URL}/`,
 		start_url: '/',
 		display: 'standalone',
-		background_color: '#0a0a0b',
-		theme_color: '#0a0a0b',
+		background_color: '#010F27',
+		theme_color: '#010F27',
 		icons: [
 			{
 				src: '/icon.png',

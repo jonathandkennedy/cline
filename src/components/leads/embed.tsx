@@ -10,7 +10,14 @@ import { cn } from '@/kit/shared';
 import { useEmbedBridge } from '@/lib/embed/hook';
 import { embedChromeFlags, parseEmbedChrome, type EmbedChromeVariant } from '@/lib/lookup';
 
-export function LeadCaptureEmbed({ context }: { context: string }) {
+export function LeadCaptureEmbed({
+	context,
+	inline = false,
+}: {
+	context: string;
+	/** Render inside a larger page (no standalone shell / <main>). */
+	inline?: boolean;
+}) {
 	useEmbedBridge(true);
 	const [chrome, setChrome] = useState<EmbedChromeVariant>('full');
 
@@ -44,17 +51,21 @@ export function LeadCaptureEmbed({ context }: { context: string }) {
 		lockScroll: false,
 	});
 
+	const Root = inline ? 'div' : 'main';
 	return (
 		<div
 			ref={dialogRef}
 			data-embed-root
 			className={cn(
-				'tool-shell tool-shell--standalone min-h-full bg-base',
+				!inline && 'tool-shell tool-shell--standalone min-h-full bg-base',
 				flags.cardOnly && 'tool-shell--chrome-card',
 				flags.hideBg && 'tool-shell--chrome-no-bg',
 			)}
 		>
-			<main id="main" className="mx-auto w-full max-w-lg px-4 py-6">
+			<Root
+				id={inline ? undefined : 'main'}
+				className={cn('mx-auto w-full max-w-lg', !inline && 'px-4 py-6')}
+			>
 				<div className="rounded-xl border border-line bg-surface p-6 sm:p-7">
 					<div className={components.capturePanelBody}>
 						{showSuccess ? (
@@ -83,7 +94,7 @@ export function LeadCaptureEmbed({ context }: { context: string }) {
 				<div className="mt-4">
 					<LeadCaptureTrustBar />
 				</div>
-			</main>
+			</Root>
 		</div>
 	);
 }

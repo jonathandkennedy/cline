@@ -1,6 +1,12 @@
+import type { Metadata } from 'next';
 import { ArrowLeft, Compass } from 'lucide-react';
 import { Footer, Link } from '@/components';
 import { TOOLS } from '@/lib/cms';
+
+export const metadata: Metadata = {
+	title: { absolute: 'Page Not Found | CLINE APC' },
+	robots: { index: false, follow: true },
+};
 
 export default function NotFound() {
 	return (

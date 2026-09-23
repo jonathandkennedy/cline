@@ -2,6 +2,7 @@
 
 import { cn } from '@/kit/shared';
 import { useCountUp } from '@/hooks';
+import { formatNumber } from '@/lib/numbers';
 
 export function CountUp({
 	to,
@@ -29,5 +30,11 @@ export function CountUp({
 		animateOnChange,
 	});
 
-	return <span ref={ref} className={cn(className)} />;
+	// Final value is in the server HTML (crawlers and no-JS readers see the real number); the
+	// hook takes over the text node and animates the count-up once the element is in view.
+	return (
+		<span ref={ref} className={cn(className)} suppressHydrationWarning>
+			{`${prefix}${formatNumber(to, decimals)}${suffix}`}
+		</span>
+	);
 }

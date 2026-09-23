@@ -620,3 +620,22 @@ export function infoDetailLd(slug: string) {
 		],
 	);
 }
+
+export function contactLd() {
+	const url = `${SITE_URL}/contact`;
+	return {
+		'@context': SCHEMA_CONTEXT,
+		'@graph': [
+			{
+				'@type': 'ContactPage' as const,
+				'@id': url,
+				name: 'Free California Lemon Law Case Review',
+				url,
+				isPartOf: webSiteRef(),
+				about: publisherRef(),
+				inLanguage: 'en-US',
+			},
+			absoluteBreadcrumbListLd([SITE_HOME_BREADCRUMB, { label: 'Contact', href: '/contact' }]),
+		],
+	};
+}
