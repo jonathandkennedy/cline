@@ -1,5 +1,7 @@
 import wpRedirects from '@/data/settings/redirects.json';
 import blogLegacyRedirects from '@/data/settings/legacy.json';
+import faqsTable from '@/data/items/faqs.json';
+import guidebookTable from '@/data/items/guidebook.json';
 
 /**
  * Legacy-URL resolution for the WordPress → Next.js migration.

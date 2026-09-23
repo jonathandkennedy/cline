@@ -1,48 +1,37 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import type { SitePageId } from '@/lib/cms/catalog';
-import { JsonLd } from '@/components';
-import { SiteCatalogPage } from '@/lib/site/catalog';
-import {
-	faqDetailPath,
-	getFaqBySlug,
-	listFaqSlugs,
-	slugSegmentGenerateMetadata,
-	slugSegmentStaticParams,
-} from '@/lib/site';
-import { faqDetailLd } from '@/lib/structured';
+import { FaqTopicPage, faqTopicDescription, faqTopicTitle } from '@/components/faq/topic';
+import { faqCategoryIdForTopicSlug, faqTopicPath, listFaqTopicSlugs } from '@/lib/cms';
+import { pageMetadata } from '@/lib/seo';
 
-const PAGE_ID = 'faq-detail' satisfies SitePageId;
-
+/**
+ * Six topical FAQ pages replace the 24 single-answer pages; the old /faq/<question> URLs
+ * 301 to /faq/<topic>#<question> (see src/lib/redirects.ts).
+ */
 export const dynamicParams = false;
 
 export function generateStaticParams() {
-	return slugSegmentStaticParams(listFaqSlugs);
+	return listFaqTopicSlugs().map((slug) => ({ slug }));
 }
 
-export function generateMetadata({
+export async function generateMetadata({
 	params,
 }: {
 	params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
-	return slugSegmentGenerateMetadata(
-		{ params },
-		{
-			resolve: getFaqBySlug,
-			canonicalPath: faqDetailPath,
-			notFoundTitle: 'FAQ not found',
-		},
-	);
+	const { slug } = await params;
+	const categoryId = faqCategoryIdForTopicSlug(slug);
+	if (!categoryId) return {};
+	return pageMetadata({
+		title: `${faqTopicTitle(categoryId).replace(': California Lemon Law FAQ', '')} | Lemon Law FAQ | CLINE APC`,
+		description: faqTopicDescription(categoryId),
+		canonical: faqTopicPath(categoryId),
+	});
 }
 
-export default async function FaqDetailRoute({ params }: { params: Promise<{ slug: string }> }) {
+export default async function FaqTopicRoute({ params }: { params: Promise<{ slug: string }> }) {
 	const { slug } = await params;
-	if (!getFaqBySlug(slug)) notFound();
-	const ld = faqDetailLd(slug);
-	return (
-		<>
-			{ld ? <JsonLd data={ld} /> : null}
-			<SiteCatalogPage pageId={PAGE_ID} />
-		</>
-	);
+	const categoryId = faqCategoryIdForTopicSlug(slug);
+	if (!categoryId) notFound();
+	return <FaqTopicPage categoryId={categoryId} />;
 }

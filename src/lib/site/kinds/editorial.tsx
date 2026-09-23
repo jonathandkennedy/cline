@@ -2,6 +2,7 @@
 
 import { ArrowRight, Check, ChevronLeft, ChevronRight } from 'lucide-react';
 import Image from 'next/image';
+import { BlogPostRelated } from '@/components/blog/related';
 import { useParams, usePathname } from 'next/navigation';
 import { type ReactNode, Suspense } from 'react';
 
@@ -574,6 +575,7 @@ function createEditorialDetailBlocks(
 					<ResourceProse>
 						<EditorialBlocks blocks={page.blocks} />
 					</ResourceProse>
+					{page.kind === 'blog' ? <BlogPostRelated post={page} /> : null}
 				</div>
 			</ResourceBand>
 		),

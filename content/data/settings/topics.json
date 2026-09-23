@@ -1,0 +1,63 @@
+{
+	"version": 1,
+	"BLOG_TOPICS": [
+		{
+			"slug": "buybacks-and-refunds",
+			"label": "Buybacks & Refunds",
+			"description": "How California lemon law buybacks, refunds and settlements are calculated and negotiated.",
+			"pattern": "buy-?backs?|refunds?|repurchase|restitution|settlements?|calculator"
+		},
+		{
+			"slug": "used-and-cpo-vehicles",
+			"label": "Used & CPO Vehicles",
+			"description": "Lemon law protection for used, certified pre-owned and as-is vehicles in California.",
+			"pattern": "used (?:car|vehicle|truck)s?|pre-owned|\\bcpo\\b|as-is|private (?:sale|seller)"
+		},
+		{
+			"slug": "recalls",
+			"label": "Recalls & Defects",
+			"description": "Manufacturer recalls, known defects and what they mean for a lemon law claim.",
+			"pattern": "recall(?:s|ed)?"
+		},
+		{
+			"slug": "claim-process",
+			"label": "The Claim Process",
+			"description": "Filing a California lemon law claim: deadlines, evidence, arbitration and litigation.",
+			"pattern": "arbitration|litigation|lawsuit|statute of limitations|pre-suit|repair orders?|deposition|trial"
+		},
+		{
+			"slug": "leased-vehicles",
+			"label": "Leased Vehicles",
+			"description": "How the Song-Beverly Act applies when you lease rather than buy.",
+			"pattern": "leas(?:e|ed|es|ing)"
+		},
+		{
+			"slug": "electric-vehicles",
+			"label": "Electric & Hybrid Vehicles",
+			"description": "Battery, charging, software and drive-unit problems in EVs and hybrids.",
+			"pattern": "electric vehicles?|\\bevs?\\b|hybrid|high-voltage|charging|battery"
+		},
+		{
+			"slug": "hiring-a-lemon-law-attorney",
+			"label": "Hiring an Attorney",
+			"description": "Choosing a California lemon law attorney and how contingency and fee-shifting work.",
+			"pattern": "hir(?:e|ing) (?:a|the right)|contingency|attorney'?s? fees|lemon law (?:attorney|lawyer)s? (?:can|will|work)"
+		},
+		{
+			"slug": "lemon-law-basics",
+			"label": "Lemon Law Basics",
+			"description": "What California's Song-Beverly Consumer Warranty Act covers and how to tell if your vehicle qualifies.",
+			"pattern": "song-beverly|qualif(?:y|ies|ied)|presumption|substantial(?:ly)? impair",
+			"fallback": true
+		}
+	],
+	"BRAND_ALIASES": {
+		"chevrolet": ["chevrolet", "chevy"],
+		"mercedes-benz": ["mercedes-benz", "mercedes"],
+		"volkswagen": ["volkswagen", "vw"],
+		"gmc": ["gmc"],
+		"ram": ["ram 1500", "ram 2500", "ram truck", "ram trucks"],
+		"bmw": ["bmw"],
+		"lexus": ["lexus"]
+	}
+}

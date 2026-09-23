@@ -14,17 +14,37 @@ mkdirSync(outDir, { recursive: true });
 const CARDS: { name: string; source: string; label: string }[] = [
 	{ name: 'default', source: 'images/hero-banner.jpg', label: 'California Lemon Law Attorneys' },
 	{ name: 'blog', source: 'images/hero-banner.jpg', label: 'Lemon Law Blog' },
-	{ name: 'locations', source: 'images/cta-california.jpg', label: 'Lemon Law Attorneys Across California' },
-	{ name: 'manufacturers', source: 'images/hubs/manufacturers.jpg', label: 'Lemon Law by Manufacturer' },
+	{
+		name: 'locations',
+		source: 'images/cta-california.jpg',
+		label: 'Lemon Law Attorneys Across California',
+	},
+	{
+		name: 'manufacturers',
+		source: 'images/hubs/manufacturers.jpg',
+		label: 'Lemon Law by Manufacturer',
+	},
 	{ name: 'faq', source: 'images/hubs/faq.jpg', label: 'California Lemon Law FAQ' },
 	{ name: 'reviews', source: 'images/hubs/reviews.jpg', label: 'Client Reviews' },
 	{ name: 'case-studies', source: 'images/hubs/case-studies.jpg', label: 'Lemon Law Case Studies' },
 	{ name: 'guidebook', source: 'images/hubs/guidebook.jpg', label: 'California Lemon Law Guide' },
 	{ name: 'learn', source: 'images/hubs/learn.jpg', label: 'Learn California Lemon Law' },
 	{ name: 'firm', source: 'images/hubs/firm.jpg', label: 'About CLINE APC' },
-	{ name: 'tool-buyback-calculator', source: 'images/tools/buyback-bg.jpg', label: 'Free Lemon Law Buyback Calculator' },
-	{ name: 'tool-eligibility-checker', source: 'images/tools/eligibility-bg.jpg', label: 'Free Lemon Law Eligibility Checker' },
-	{ name: 'tool-documentation-checklist', source: 'images/tools/checklist-bg.jpg', label: 'Free Lemon Law Case Checklist' },
+	{
+		name: 'tool-buyback-calculator',
+		source: 'images/tools/buyback-bg.jpg',
+		label: 'Free Lemon Law Buyback Calculator',
+	},
+	{
+		name: 'tool-eligibility-checker',
+		source: 'images/tools/eligibility-bg.jpg',
+		label: 'Free Lemon Law Eligibility Checker',
+	},
+	{
+		name: 'tool-documentation-checklist',
+		source: 'images/tools/checklist-bg.jpg',
+		label: 'Free Lemon Law Case Checklist',
+	},
 ];
 
 function escapeXml(value: string) {

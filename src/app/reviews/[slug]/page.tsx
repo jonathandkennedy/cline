@@ -31,6 +31,8 @@ export function generateMetadata({
 			resolve: getReviewBySlug,
 			canonicalPath: reviewDetailPath,
 			notFoundTitle: 'Review not found',
+			// One quote per page is thin; the /reviews hub carries every quote and is indexed.
+			noindex: true,
 		},
 	);
 }

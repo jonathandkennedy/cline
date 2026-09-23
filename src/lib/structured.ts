@@ -4,9 +4,7 @@ import {
 	breadcrumbListJsonLd,
 	buildCaseStudiesHubBreadcrumbs,
 	buildCaseStudyDetailBreadcrumbs,
-	buildFaqDetailBreadcrumbs,
 	buildFaqHubBreadcrumbs,
-	buildGuidebookChapterBreadcrumbs,
 	buildGuidebookHubBreadcrumbs,
 	buildLearnHubBreadcrumbs,
 	buildBlogHubBreadcrumbs,
@@ -23,10 +21,8 @@ import {
 	CASE_STUDIES_HUB_SEO,
 	CASE_STUDY_DETAILS,
 	caseStudyDetailPath,
-	FAQ_DETAILS,
 	FAQ_HUB_PATH,
 	FAQ_HUB_SEO,
-	faqDetailPath,
 	GUIDEBOOK_CHAPTERS,
 	GUIDEBOOK_HUB_PATH,
 	GUIDEBOOK_HUB_SEO,
@@ -48,8 +44,6 @@ import {
 	getLocationPageBySlug,
 	getEditorialPageBySlug,
 	getCaseStudyBySlug,
-	getFaqBySlug,
-	getGuidebookChapterBySlug,
 	getManufacturerPageBySlug,
 	getReviewBySlug,
 	getTool,
@@ -91,13 +85,6 @@ function telephoneSchemaValue() {
 	return BRAND.phoneHref.replace(/^tel:/i, '');
 }
 
-function faqQuestionEntity(q: string, a: string) {
-	return {
-		'@type': 'Question' as const,
-		name: q,
-		acceptedAnswer: { '@type': 'Answer' as const, text: a },
-	};
-}
 
 function webPageNode(title: string, description: string, url: string) {
 	return {
@@ -417,33 +404,7 @@ export function faqHubLd() {
 		'@context': SCHEMA_CONTEXT,
 		'@graph': [
 			webPageNode(FAQ_HUB_SEO.seoTitle, FAQ_HUB_SEO.seoDescription, url),
-			{
-				'@type': 'FAQPage',
-				'@id': `${url}#faq`,
-				isPartOf: webSiteRef(),
-				mainEntity: FAQ_DETAILS.map((f) => faqQuestionEntity(f.q, f.a)),
-			},
 			absoluteBreadcrumbListLd(buildFaqHubBreadcrumbs()),
-		],
-	};
-}
-
-export function faqDetailLd(slug: string) {
-	const detail = getFaqBySlug(slug);
-	if (!detail) return null;
-	const path = faqDetailPath(slug);
-	const url = `${SITE_URL}${path}`;
-	return {
-		'@context': SCHEMA_CONTEXT,
-		'@graph': [
-			webPageNode(detail.seoTitle, detail.seoDescription, url),
-			{
-				'@type': 'FAQPage',
-				'@id': `${url}#faq`,
-				isPartOf: webSiteRef(),
-				mainEntity: faqQuestionEntity(detail.q, detail.a),
-			},
-			absoluteBreadcrumbListLd(buildFaqDetailBreadcrumbs(slug)),
 		],
 	};
 }
@@ -473,29 +434,6 @@ export function learnHubLd() {
 	};
 }
 
-export function guidebookChapterLd(slug: string) {
-	const detail = getGuidebookChapterBySlug(slug);
-	if (!detail) return null;
-	const path = guidebookChapterPath(slug);
-	const url = `${SITE_URL}${path}`;
-	return resourcePageGraph(
-		buildGuidebookChapterBreadcrumbs(slug),
-		detail.seoTitle,
-		detail.seoDescription,
-		path,
-		[
-			{
-				'@type': 'Article' as const,
-				'@id': `${url}#article`,
-				headline: detail.title,
-				description: detail.summary,
-				timeRequired: `PT${detail.estimatedReadMinutes}M`,
-				author: authorRef(),
-				publisher: publisherRef(),
-			},
-		],
-	);
-}
 
 export function blogHubLd() {
 	const entries = BLOG_POSTS.map((post) => ({

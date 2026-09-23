@@ -26,6 +26,7 @@ type SlugDetailMetadataOptions = {
 	resolve: (slug: string) => RouteSegmentSeo | undefined;
 	canonicalPath: (slug: string) => string;
 	notFoundTitle: string;
+	noindex?: boolean;
 };
 
 export async function slugSegmentGenerateMetadata(
@@ -42,6 +43,7 @@ export async function slugSegmentGenerateMetadata(
 		title: page.seoTitle,
 		description: page.seoDescription,
 		canonical: options.canonicalPath(slug),
+		noindex: options.noindex,
 		type: isArticle ? 'article' : 'website',
 		publishedTime: page.date,
 		modifiedTime: page.modified,

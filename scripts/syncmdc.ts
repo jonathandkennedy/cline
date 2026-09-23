@@ -1,6 +1,8 @@
 import { readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join, resolve } from 'node:path';
-import { editorialRecordFromMdc } from '../src/lib/cms/content/mdc';
+import { editorialRecordFromMdc, splitMdc } from '../src/lib/cms/content/mdc';
+import manufacturersTable from '../content/data/items/manufacturers.json';
+import topicsTable from '../content/data/settings/topics.json';
 
 const repoRoot = resolve(import.meta.dirname, '..');
 const collectionsRoot = join(repoRoot, 'content/collections');
@@ -25,6 +27,57 @@ const COLLECTIONS: CollectionSpec[] = [
 	},
 ];
 
+function escapeRegExp(value: string) {
+	return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+const FALLBACK_TOPIC = topicsTable.BLOG_TOPICS.find((topic) => 'fallback' in topic)!.slug;
+
+const SUBJECT_TOPICS = topicsTable.BLOG_TOPICS.filter((topic) => !('fallback' in topic)).map(
+	(topic) => ({
+		slug: topic.slug,
+		pattern: new RegExp(`\\b(?:${topic.pattern})\\b`, 'gi'),
+	}),
+);
+
+const BRAND_ALIASES = topicsTable.BRAND_ALIASES as Record<string, string[]>;
+const BRAND_TOPICS = manufacturersTable.MANUFACTURERS.map((brand) => {
+	const aliases = BRAND_ALIASES[brand.slug] ?? [brand.name.toLowerCase()];
+	return {
+		slug: brand.slug,
+		pattern: new RegExp(`\\b(?:${aliases.map(escapeRegExp).join('|')})\\b`, 'gi'),
+	};
+});
+
+function countMatches(pattern: RegExp, text: string) {
+	return text.match(pattern)?.length ?? 0;
+}
+
+/**
+ * Tags a blog post with subject topics and manufacturer brands for topic hubs, related posts
+ * and manufacturer → article links. Headline matches count heavily; body mentions need to be
+ * repeated so a passing reference doesn't tag the post.
+ */
+function classifyPost(raw: string) {
+	const { frontmatter, body } = splitMdc(raw);
+	const headline = `${frontmatter.title} ${frontmatter.slug.replace(/-/g, ' ')}`;
+	const text = body.replace(/\]\([^)]*\)/g, ']');
+	const score = (pattern: RegExp) =>
+		countMatches(pattern, headline) * 5 + countMatches(pattern, text);
+	const pick = (candidates: { slug: string; pattern: RegExp }[], min: number, max: number) =>
+		candidates
+			.map((candidate) => ({ slug: candidate.slug, score: score(candidate.pattern) }))
+			.filter((candidate) => candidate.score >= min)
+			.sort((a, b) => b.score - a.score)
+			.slice(0, max)
+			.map((candidate) => candidate.slug);
+	const topics = pick(SUBJECT_TOPICS, 6, 3);
+	return {
+		topics: topics.length > 0 ? topics : [FALLBACK_TOPIC],
+		brands: pick(BRAND_TOPICS, 3, 2),
+	};
+}
+
 function indexEntryFromMdc(raw: string) {
 	const record = editorialRecordFromMdc(raw);
 	return {
@@ -40,6 +93,7 @@ function indexEntryFromMdc(raw: string) {
 		seoDescription: record.seoDescription,
 		...(record.thumbnail ? { thumbnail: record.thumbnail } : {}),
 		...(record.thumbnailAlt ? { thumbnailAlt: record.thumbnailAlt } : {}),
+		...(record.kind === 'blog' ? classifyPost(raw) : {}),
 	};
 }
 

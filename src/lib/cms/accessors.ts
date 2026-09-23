@@ -45,6 +45,9 @@ export {
 export {
 	caseStudyDetailPath,
 	faqDetailPath,
+	faqTopicPath,
+	faqCategoryIdForTopicSlug,
+	listFaqTopicSlugs,
 	guidebookChapterPath,
 	manufacturerDetailPath,
 	reviewDetailPath,
