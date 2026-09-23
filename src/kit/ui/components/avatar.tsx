@@ -46,7 +46,7 @@ function AvatarComponent({ name, src, size = 36, className = '' }: AvatarProps) 
 					alt=""
 					width={px}
 					height={px}
-					unoptimized
+					unoptimized={src.endsWith('.svg')}
 					className={components.avatar.image}
 					sizes={`${px}px`}
 				/>

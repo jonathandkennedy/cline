@@ -58,6 +58,17 @@ function buildExactMap(): Map<string, string> {
 	for (const [source, destination] of Object.entries(TEAM_ANCHOR_REDIRECTS))
 		add(source, destination);
 
+	// Guidebook chapters are sections of the single guidebook page.
+	for (const chapter of guidebookTable.GUIDEBOOK_CHAPTERS) {
+		add(`/guidebook/${chapter.slug}`, `/guidebook#${chapter.slug}`);
+	}
+
+	// Single-answer FAQ pages were consolidated into six topical pages.
+	const faqTopicSlugs = faqsTable.FAQ_CATEGORY_SLUGS as Record<string, string>;
+	for (const faq of faqsTable.FAQ_DETAILS) {
+		add(`/faq/${faq.slug}`, `/faq/${faqTopicSlugs[faq.categoryId]}#${faq.slug}`);
+	}
+
 	// Collapse any chains so every source resolves to its final destination in one hop.
 	for (const [source, destination] of map) {
 		let final = destination;

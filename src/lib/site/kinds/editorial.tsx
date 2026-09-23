@@ -2,7 +2,8 @@
 
 import { ArrowRight, Check, ChevronLeft, ChevronRight } from 'lucide-react';
 import Image from 'next/image';
-import { BlogPostRelated } from '@/components/blog/related';
+import { BlogPostRelated, NearbyLocations } from '@/components/blog/related';
+import { useEditorialRecord } from '@/lib/cms/content/current';
 import { useParams, usePathname } from 'next/navigation';
 import { type ReactNode, Suspense } from 'react';
 
@@ -39,9 +40,6 @@ import {
 	EDITORIAL_DETAIL_SECTIONS,
 	EDITORIAL_PAGES,
 	emptyBlockMap,
-	getBlogBySlug,
-	getEditorialPageBySlug,
-	getLocationPageBySlug,
 	HERO_TRUST_ITEMS,
 	INFO_HUB_GRID,
 	INFO_HUB_HERO,
@@ -73,7 +71,6 @@ type EditorialCollection = {
 	hero: typeof BLOG_HUB_HERO;
 	detailPath: (slug: string) => string;
 	hubPath?: string;
-	getBySlug: (slug: string) => EditorialRecord | undefined;
 	buildDetailBreadcrumbs: (slug: string) => ReturnType<typeof buildBlogDetailBreadcrumbs>;
 };
 
@@ -85,7 +82,6 @@ const COLLECTIONS: Record<EditorialCollectionId, EditorialCollection> = {
 		hero: BLOG_HUB_HERO,
 		detailPath: blogDetailPath,
 		hubPath: BLOG_HUB_PATH,
-		getBySlug: getBlogBySlug,
 		buildDetailBreadcrumbs: buildBlogDetailBreadcrumbs,
 	},
 	locations: {
@@ -94,7 +90,6 @@ const COLLECTIONS: Record<EditorialCollectionId, EditorialCollection> = {
 		grid: LOCATIONS_HUB_GRID,
 		hero: LOCATIONS_HUB_HERO,
 		detailPath: locationDetailPath,
-		getBySlug: getLocationPageBySlug,
 		buildDetailBreadcrumbs: buildLocationDetailBreadcrumbs,
 	},
 	info: {
@@ -103,7 +98,6 @@ const COLLECTIONS: Record<EditorialCollectionId, EditorialCollection> = {
 		grid: INFO_HUB_GRID,
 		hero: INFO_HUB_HERO,
 		detailPath: infoDetailPath,
-		getBySlug: getEditorialPageBySlug,
 		buildDetailBreadcrumbs: buildInfoDetailBreadcrumbs,
 	},
 };
@@ -498,9 +492,9 @@ function useEditorialSlug(): string {
 function createEditorialDetailBlocks(
 	collection: EditorialCollection,
 	slug: string,
+	page: EditorialRecord | null,
 	leadContextId?: unknown,
 ): ResourceBlockRenderer<EditorialDetailBlockId> {
-	const page = collection.getBySlug(slug);
 	if (!page) {
 		return emptyBlockMap<EditorialDetailBlockId>(['hero', 'body', 'pathways', 'funnel']);
 	}
@@ -556,7 +550,20 @@ function createEditorialDetailBlocks(
 							<span className="eyebrow">{collection.hero.eyebrow}</span>
 							<h1 className={components.resourceUi.answer.k002}>{page.title}</h1>
 							<p className={components.resourceUi.shared.k002}>
-								{EDITORIAL_DETAIL_SECTIONS.publishedLabel} {formatDate(page.date)}
+								{page.kind === 'blog' ? (
+									<>
+										By{' '}
+										<Link
+											href="/team/brian-cline"
+											className="font-semibold text-fg hover:text-gold"
+										>
+											Brian K. Cline
+										</Link>
+										, Managing Attorney ·{' '}
+									</>
+								) : null}
+								{EDITORIAL_DETAIL_SECTIONS.publishedLabel}{' '}
+								<time dateTime={page.date}>{formatDate(page.date)}</time>
 								{page.modified !== page.date ? (
 									<>
 										{' '}
@@ -576,6 +583,7 @@ function createEditorialDetailBlocks(
 						<EditorialBlocks blocks={page.blocks} />
 					</ResourceProse>
 					{page.kind === 'blog' ? <BlogPostRelated post={page} /> : null}
+					{page.kind === 'location' ? <NearbyLocations slug={page.slug} /> : null}
 				</div>
 			</ResourceBand>
 		),
@@ -595,7 +603,13 @@ function EditorialDetailBlock({
 }) {
 	const collection = collectionFromProps({ collection: rawCollection });
 	const slug = useEditorialSlug();
-	const blocks = createEditorialDetailBlocks(collection, slug, leadContextId);
+	const record = useEditorialRecord();
+	const blocks = createEditorialDetailBlocks(
+		collection,
+		slug,
+		record?.slug === slug ? record : null,
+		leadContextId,
+	);
 	return blocks[id]();
 }
 

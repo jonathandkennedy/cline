@@ -4,6 +4,7 @@ import './globals.css';
 import { DesktopTelNotice, SiteToaster, UaDesktopHint } from '@/components/chrome';
 import { LayoutProvider, RouteTransition, SiteHeader } from '@/components/layout';
 import { EMBED_MODE_SCRIPT } from '@/components/layout/shell';
+import { Analytics } from '@/components/analytics';
 import { JsonLd } from '@/components/markup';
 import { siteMetadata, siteViewport } from '@/lib/cms';
 import { organizationLd, webSiteLd } from '@/lib/structured';
@@ -61,6 +62,7 @@ export default function RootLayout({
 				</LayoutProvider>
 				<DesktopTelNotice />
 				<SiteToaster />
+				<Analytics />
 				<JsonLd data={organizationLd()} />
 				<JsonLd data={webSiteLd()} />
 			</body>

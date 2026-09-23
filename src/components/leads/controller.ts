@@ -1,4 +1,5 @@
 import { zodResolver } from '@hookform/resolvers/zod';
+import { trackEvent } from '@/lib/analytics';
 import type { AttachmentItem } from '@/kit/forms';
 import { useCallback, useEffect, useId, useLayoutEffect, useRef, useState } from 'react';
 import { useForm } from 'react-hook-form';
@@ -240,6 +241,7 @@ export function useLeadModal(
 				attachments: acceptAttachments ? readyAttachments : [],
 			});
 			setPersistedSubmitted(true);
+			trackEvent('generate_lead', { form_context: context });
 			notifyEmbedLeadSubmitted(payload, context, prefill?.estimate);
 			toast.success(UI_COPY.leadModal.requestSentToast, {
 				description: UI_COPY.leadModal.reachOutToast,

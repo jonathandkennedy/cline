@@ -20,7 +20,9 @@ function ResultCard({ r }: { r: CaseResult }) {
 			href={href}
 			className="group grid w-[min(100%,300px)] shrink-0 grid-cols-[minmax(0,1fr)_auto] grid-rows-2 items-center gap-x-2.5 gap-y-0.5 overflow-hidden rounded-xl border border-line bg-surface/70 px-2.5 py-2 transition hover:border-gold/35 hover:bg-surface/90 sm:w-[300px]"
 		>
-			<div className="truncate text-[11.5px] font-medium text-subtle">{r.vehicle}</div>
+			<div className="truncate text-[11.5px] font-medium text-subtle">
+				{r.vehicle} · <span className="font-semibold text-fg/90">Composite example</span>
+			</div>
 			{logo ? (
 				<BrandLogo
 					src={logo}
@@ -44,7 +46,7 @@ export function SuccessTicker() {
 		<div
 			role="region"
 			className="ticker-mask relative overflow-hidden py-1"
-			aria-label="Recent representative case results"
+			aria-label="Representative composite outcomes, not actual client results"
 		>
 			<div className="marquee gap-1">
 				<MarqueeTrack<CaseResult>

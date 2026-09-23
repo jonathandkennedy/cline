@@ -40,9 +40,6 @@ import {
 	INFO_HUB_SEO,
 	EDITORIAL_PAGES,
 	infoDetailPath,
-	getBlogBySlug,
-	getLocationPageBySlug,
-	getEditorialPageBySlug,
 	getCaseStudyBySlug,
 	getManufacturerPageBySlug,
 	getReviewBySlug,
@@ -64,6 +61,11 @@ import {
 	webSiteLdName,
 } from '@/lib/cms';
 import { getSitePageDefinition } from '@/lib/cms/catalog';
+import {
+	getBlogBySlug,
+	getEditorialPageBySlug,
+	getLocationPageBySlug,
+} from '@/lib/cms/content/records';
 
 const SCHEMA_CONTEXT = 'https://schema.org';
 const ORGANIZATION_ID = `${BRAND.site}/#organization`;
@@ -84,7 +86,6 @@ function webSiteRef() {
 function telephoneSchemaValue() {
 	return BRAND.phoneHref.replace(/^tel:/i, '');
 }
-
 
 function webPageNode(title: string, description: string, url: string) {
 	return {
@@ -433,7 +434,6 @@ export function learnHubLd() {
 		],
 	};
 }
-
 
 export function blogHubLd() {
 	const entries = BLOG_POSTS.map((post) => ({

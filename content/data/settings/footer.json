@@ -28,6 +28,14 @@
 		{
 			"href": "/contact",
 			"label": "Contact Us"
+		},
+		{
+			"href": "/info/privacy-policy",
+			"label": "Privacy Policy"
+		},
+		{
+			"href": "/info/disclaimer",
+			"label": "Disclaimer & Terms"
 		}
 	]
 }

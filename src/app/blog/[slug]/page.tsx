@@ -3,9 +3,10 @@ import { notFound } from 'next/navigation';
 import type { SitePageId } from '@/lib/cms/catalog';
 import { JsonLd } from '@/components';
 import { SiteCatalogPage } from '@/lib/site/catalog';
+import { getBlogBySlug } from '@/lib/cms/content/records';
+import { EditorialRecordProvider } from '@/lib/cms/content/current';
 import {
 	blogDetailPath,
-	getBlogBySlug,
 	listBlogSlugs,
 	slugSegmentGenerateMetadata,
 	slugSegmentStaticParams,
@@ -37,12 +38,15 @@ export function generateMetadata({
 
 export default async function BlogDetailRoute({ params }: { params: Promise<{ slug: string }> }) {
 	const { slug } = await params;
-	if (!getBlogBySlug(slug)) notFound();
+	const record = getBlogBySlug(slug);
+	if (!record) notFound();
 	const ld = blogDetailLd(slug);
 	return (
 		<>
 			{ld ? <JsonLd data={ld} /> : null}
-			<SiteCatalogPage pageId={PAGE_ID} />
+			<EditorialRecordProvider record={record}>
+				<SiteCatalogPage pageId={PAGE_ID} />
+			</EditorialRecordProvider>
 		</>
 	);
 }

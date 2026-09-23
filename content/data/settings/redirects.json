@@ -1650,6 +1650,26 @@
 			"source": "/is-my-car-a-lemon",
 			"destination": "/blog/is-my-car-a-lemon",
 			"permanent": true
+		},
+		{
+			"source": "/terms-of-use",
+			"destination": "/info/disclaimer",
+			"permanent": true
+		},
+		{
+			"source": "/terms",
+			"destination": "/info/disclaimer",
+			"permanent": true
+		},
+		{
+			"source": "/disclaimer",
+			"destination": "/info/disclaimer",
+			"permanent": true
+		},
+		{
+			"source": "/legal-disclaimer",
+			"destination": "/info/disclaimer",
+			"permanent": true
 		}
 	]
 }

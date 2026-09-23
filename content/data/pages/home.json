@@ -161,7 +161,8 @@
 		}
 	],
 	"HOME_SOCIAL_PROOF": {
-		"successStoriesCaption": "Thousands of California success stories"
+		"successStoriesCaption": "Rated {{rating}} from {{reviewCount}} Google & Yelp reviews",
+		"resultsDisclaimer": "Representative outcomes, composited; not actual client results. Past results do not guarantee future outcomes."
 	},
 	"FOUNDER_STATS": [
 		{

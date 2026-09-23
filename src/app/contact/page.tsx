@@ -37,8 +37,8 @@ export default function ContactPage() {
 						<div className="mt-5 max-w-2xl space-y-4 text-[16px] leading-relaxed text-muted">
 							<p>
 								If your new or used vehicle keeps going back to the dealer for the same problem,
-								tell us about it. A {BRAND.name} attorney reviews every request and follows up to
-								explain whether California&rsquo;s lemon law, the Song-Beverly Consumer Warranty
+								tell us about it. {`A ${BRAND.name} attorney`} reviews every request and follows up
+								to explain whether California&rsquo;s lemon law, the Song-Beverly Consumer Warranty
 								Act, is likely to apply and what a repurchase, replacement or cash settlement could
 								look like.
 							</p>

@@ -120,6 +120,18 @@ function TeamRosterPanel() {
 				</Reveal>
 			</div>
 
+			<nav aria-label="Attorney biographies" className="text-[14px] text-muted">
+				<span className="mr-2 font-semibold text-fg">Full biographies:</span>
+				{TEAM_MEMBERS.filter((member) => member.profile).map((member, index) => (
+					<span key={member.id}>
+						{index > 0 ? ' · ' : null}
+						<Link href={teamMemberPath(member.id)} className="text-gold hover:underline">
+							{member.name}
+						</Link>
+					</span>
+				))}
+			</nav>
+
 			{/* Compact portrait selector — lighter than v1 card grid */}
 			<div className="space-y-5 border-t border-line/50 pt-8 md:pt-10">
 				<Reveal delay={90}>

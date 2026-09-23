@@ -47,6 +47,11 @@ export function siteMetadata(): Metadata {
 		},
 		twitter: meta.twitter,
 		robots: meta.robots,
+		// Search Console: prefer DNS verification (survives platform moves); this meta tag is a
+		// fallback when NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION is set.
+		...(process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION
+			? { verification: { google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION } }
+			: {}),
 	};
 }
 

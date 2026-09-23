@@ -1,5 +1,10 @@
 import { Link } from '@/components/link';
-import { blogDetailPath, type EditorialIndexRecord } from '@/lib/cms';
+import {
+	blogDetailPath,
+	LOCATION_PAGES,
+	locationDetailPath,
+	type EditorialIndexRecord,
+} from '@/lib/cms';
 import { blogTopicPath, relatedPosts, topicsForPost, type BlogTopic } from '@/lib/topics';
 
 function formatDate(value: string) {
@@ -81,6 +86,43 @@ export function BlogPostRelated({ post }: { post: EditorialIndexRecord }) {
 				Related articles
 			</h2>
 			<PostList posts={related} headingLevel="h3" />
+		</section>
+	);
+}
+
+/**
+ * Six other city pages, taken in order around the list, so every city page is linked from
+ * several others rather than only from the /locations hub.
+ */
+export function NearbyLocations({ slug }: { slug: string }) {
+	const index = LOCATION_PAGES.findIndex((page) => page.slug === slug);
+	if (index === -1) return null;
+	const others = Array.from(
+		{ length: Math.min(6, LOCATION_PAGES.length - 1) },
+		(_, offset) => LOCATION_PAGES[(index + offset + 1) % LOCATION_PAGES.length],
+	);
+	return (
+		<section aria-labelledby="other-cities" className="mt-12 border-t border-line/50 pt-10">
+			<h2 id="other-cities" className="text-xl font-semibold text-fg">
+				Lemon law help in other California cities
+			</h2>
+			<ul className="mt-4 grid gap-2 text-[15px] sm:grid-cols-2">
+				{others.map((page) => (
+					<li key={page.slug}>
+						<Link
+							href={locationDetailPath(page.slug)}
+							className="text-muted underline-offset-4 hover:text-gold hover:underline"
+						>
+							{page.title}
+						</Link>
+					</li>
+				))}
+			</ul>
+			<p className="mt-4">
+				<Link href="/locations" className="font-semibold text-gold hover:underline">
+					All California cities we serve
+				</Link>
+			</p>
 		</section>
 	);
 }
