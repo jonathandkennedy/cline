@@ -1,0 +1,227 @@
+{
+	"version": 1,
+	"GUIDEBOOK_CHAPTERS": [
+		{
+			"slug": "know-your-rights",
+			"title": "Know Your California Lemon Law Rights",
+			"summary": "Song-Beverly basics, warranty timing, and what substantial impairment means in plain English.",
+			"estimatedReadMinutes": 8,
+			"thumbnail": "/images/guidebook/chapters/know-your-rights.jpg",
+			"thumbnailAlt": "California courthouse columns at golden hour",
+			"icon": "scale",
+			"hubTopics": ["Warranty timing", "Substantial impairment", "Attorney fees"],
+			"sections": [
+				{
+					"id": "presumptions",
+					"title": "What actually matters for a case",
+					"paragraphs": [
+						"What we care about is whether the defect first occurred during the original manufacturer warranty. Manufacturers sometimes push an 18-month / 18,000-mile story online. That window is not required to have a case, and it does not decide whether you have a good case.",
+						"Repair history and days in the shop help show the manufacturer has not cured the problem."
+					]
+				},
+				{
+					"id": "impairment",
+					"title": "Substantial impairment in real life",
+					"paragraphs": [
+						"Courts and manufacturers look at whether the defect affects how you use the car, what it is worth, or whether it is safe. Chronic stalling, brake issues, and repeat powertrain failures usually qualify. Minor rattles alone often do not.",
+						"Keep a simple log: date, mileage, symptom, and how it affected your commute or family plans."
+					]
+				},
+				{
+					"id": "fees",
+					"title": "Who pays the attorney",
+					"paragraphs": [
+						"Manufacturers always pay our attorney fees, or the representation is free. Clients of CLINE APC do not pay any fees, ever."
+					]
+				}
+			],
+			"nextChapterSlug": "buyback-process",
+			"seoTitle": "California Lemon Law Rights Guide | CLINE APC",
+			"seoDescription": "Chapter 1 of the CLINE APC guidebook on warranty timing, impairment, and fee-shifting under Song-Beverly."
+		},
+		{
+			"slug": "buyback-process",
+			"title": "The Buyback & Settlement Process",
+			"summary": "From repair records to manufacturer demand: how buybacks, replacements, and cash settlements work.",
+			"estimatedReadMinutes": 9,
+			"thumbnail": "/images/guidebook/chapters/buyback-process.jpg",
+			"thumbnailAlt": "Stack of automotive repair records",
+			"icon": "banknote",
+			"hubTopics": ["Documentation", "Mileage offset", "Buyback vs settlement"],
+			"sections": [
+				{
+					"id": "documentation",
+					"title": "Records that help a claim",
+					"paragraphs": [
+						"Repair orders help if you have them. A purchase or lease contract is useful. We often take cases when the account is clear and believable even without a complete file.",
+						"The documentation checklist organizes records on hand. We do not need a window sticker."
+					]
+				},
+				{
+					"id": "mileage-offset",
+					"title": "Mileage offset",
+					"paragraphs": [
+						"Buybacks include a statutory usage deduction based on miles driven before the first repair for the defect. Our buyback calculator models the formula for a directional estimate."
+					]
+				},
+				{
+					"id": "remedies",
+					"title": "Buyback, replacement, or cash",
+					"paragraphs": [
+						"Manufacturers may offer repurchase, a comparable replacement, or a negotiated cash settlement. The best path depends on your loan balance, how long you have been without a reliable vehicle, and whether the defect is safety-related."
+					]
+				}
+			],
+			"nextChapterSlug": "documentation-that-wins",
+			"seoTitle": "Lemon Law Buyback Process | CLINE APC Guidebook",
+			"seoDescription": "Chapter 2 on documentation, manufacturer negotiations, and buyback math in California."
+		},
+		{
+			"slug": "documentation-that-wins",
+			"title": "Documentation That Wins Claims",
+			"summary": "Repair orders, notices, and timelines that prove repeat defects and days out of service.",
+			"estimatedReadMinutes": 7,
+			"thumbnail": "/images/guidebook/chapters/documentation-that-wins.jpg",
+			"thumbnailAlt": "Organized folder of automotive repair invoices",
+			"icon": "file-check",
+			"hubTopics": ["Repair orders", "Manufacturer notice", "Checklist"],
+			"sections": [
+				{
+					"id": "repair-orders",
+					"title": "Repair orders that tell the story",
+					"paragraphs": [
+						"Each visit should capture your complaint, mileage in and out, dates in the shop, parts replaced, and diagnostic codes. Ask for copies before you leave the service drive.",
+						"“Could not duplicate” visits still matter when you have video or a pattern of return visits."
+					]
+				},
+				{
+					"id": "notice",
+					"title": "Written notice to the manufacturer",
+					"paragraphs": [
+						"Your warranty booklet usually explains how to notify the automaker. Certified mail and portal messages create a dated record that you gave the manufacturer a chance to cure the defect."
+					]
+				},
+				{
+					"id": "checklist",
+					"title": "A checklist for records on hand",
+					"paragraphs": [
+						"The documentation checklist organizes repair orders, a contract, and other records you already have. We do not need a window sticker, and we do not need a complete packet to take your case."
+					]
+				}
+			],
+			"nextChapterSlug": "arbitration-and-settlement",
+			"seoTitle": "Lemon Law Documentation Guide | CLINE APC",
+			"seoDescription": "Chapter 3 on repair orders, manufacturer notice, and building a lawyer-ready file."
+		},
+		{
+			"slug": "arbitration-and-settlement",
+			"title": "Arbitration, Demands & Settlement",
+			"summary": "How warranty arbitration fits with Song-Beverly court remedies and what happens after a demand letter.",
+			"estimatedReadMinutes": 8,
+			"thumbnail": "/images/guidebook/chapters/arbitration-and-settlement.jpg",
+			"thumbnailAlt": "Conference table with legal files and pen",
+			"icon": "handshake",
+			"hubTopics": ["Arbitration", "Demand letters", "Settlement timing"],
+			"sections": [
+				{
+					"id": "arbitration",
+					"title": "Manufacturer arbitration programs",
+					"paragraphs": [
+						"Many warranties reference state-certified arbitration (such as BBB AUTO LINE). Arbitration is not always mandatory before hiring counsel, but your warranty language matters.",
+						"Whether you arbitrate first or move directly to an attorney depends on your repair history and deadlines."
+					]
+				},
+				{
+					"id": "demand",
+					"title": "Structured demands",
+					"paragraphs": [
+						"A strong demand packages the warranty-period defect, repair history you have, and the requested remedy (buyback, replacement, or settlement). We build that file - you do not need to complete it before you call."
+					]
+				},
+				{
+					"id": "timeline",
+					"title": "Typical settlement timeline",
+					"paragraphs": [
+						"Many matters resolve in a few months when records are clear. Litigation takes longer but remains available if the manufacturer refuses a fair remedy."
+					]
+				}
+			],
+			"nextChapterSlug": "deadlines-and-limitations",
+			"seoTitle": "Lemon Law Arbitration & Settlement | CLINE APC",
+			"seoDescription": "Chapter 4 on arbitration, demands, and settlement timing under California Lemon Law."
+		},
+		{
+			"slug": "deadlines-and-limitations",
+			"title": "Deadlines & Statute of Limitations",
+			"summary": "When the clock starts, why early action protects your records, and how four years usually applies.",
+			"estimatedReadMinutes": 6,
+			"thumbnail": "/images/guidebook/chapters/deadlines-and-limitations.jpg",
+			"thumbnailAlt": "Calendar and car keys on a desk",
+			"icon": "calendar-clock",
+			"hubTopics": ["Statute of limitations", "Warranty timing", "Act early"],
+			"sections": [
+				{
+					"id": "four-years",
+					"title": "The four-year window",
+					"paragraphs": [
+						"Song-Beverly claims generally must be filed within four years, but the start date can be earlier than owners expect, often when you knew or should have known about the defect and the failure to repair."
+					]
+				},
+				{
+					"id": "presumption-window",
+					"title": "Warranty timing vs. the filing deadline",
+					"paragraphs": [
+						"Whether the defect first occurred during the original manufacturer warranty is a case question. The statute of limitations is a separate filing deadline. Do not assume an 18-month / 18,000-mile story ends your rights - call us."
+					]
+				},
+				{
+					"id": "act-early",
+					"title": "Why act while records are fresh",
+					"paragraphs": [
+						"Dealers merge and service writers leave. Getting repair orders now is easier than reconstructing a timeline years later."
+					]
+				}
+			],
+			"nextChapterSlug": "working-with-cline-apc",
+			"seoTitle": "Lemon Law Deadlines in California | CLINE APC",
+			"seoDescription": "Chapter 5 on statute of limitations and acting early on Song-Beverly claims."
+		},
+		{
+			"slug": "working-with-cline-apc",
+			"title": "Working With CLINE APC",
+			"summary": "What to expect after a free case review: timelines, communication, and how we take on manufacturers.",
+			"estimatedReadMinutes": 6,
+			"thumbnail": "/images/guidebook/chapters/working-with-cline-apc.jpg",
+			"thumbnailAlt": "Professional law office consultation setting",
+			"icon": "users",
+			"hubTopics": ["Free case review", "Communication", "Statewide"],
+			"sections": [
+				{
+					"id": "case-review",
+					"title": "Start with a free review",
+					"paragraphs": [
+						"Share your vehicle, what went wrong, and your goals. We confirm warranty timing, deadlines, and the best remedy path.",
+						"If we take your case, we handle manufacturer communications while you focus on getting a reliable vehicle back. You never pay our fees."
+					]
+				},
+				{
+					"id": "communication",
+					"title": "How we communicate",
+					"paragraphs": [
+						"You receive plain-English updates as the manufacturer responds. Manufacturers always pay our fees, or the representation is free. You never pay our fees."
+					]
+				},
+				{
+					"id": "statewide",
+					"title": "Statewide representation",
+					"paragraphs": [
+						"We represent California drivers from San Diego to Sacramento and the Bay Area. Your repair records control what is possible, not your zip code."
+					]
+				}
+			],
+			"nextChapterSlug": null,
+			"seoTitle": "Working With CLINE APC | Guidebook Chapter 6",
+			"seoDescription": "How a California Lemon Law case moves after your free review with CLINE APC."
+		}
+	]
+}

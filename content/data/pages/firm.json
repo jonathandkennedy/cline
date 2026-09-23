@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"THE_FIRM_SECTIONS": {
+		"mission": {
+			"eyebrow": "Our mission",
+			"headline": "Force manufacturers to make it right.",
+			"paragraphs": [
+				"California Lemon Law exists so drivers are not stuck paying for vehicles that never work. CLINE APC was built to level the field against national automakers and their defense teams.",
+				"Lemon Law claims are a core of the practice: repurchase, replacement, or cash compensation when repairs fail within a reasonable number of attempts. We also take other consumer cases. We prepare your file, negotiate with the manufacturer, and litigate when they will not move."
+			]
+		},
+		"statewide": {
+			"eyebrow": "Areas we serve",
+			"headline": "Serving drivers throughout California.",
+			"body": "CLINE APC is a statewide firm. We handle Lemon Law claims and other consumer matters from San Diego and Los Angeles through Fresno, Bakersfield, the Bay Area, and Sacramento. Most clients start by phone or email - info@clineapc.com - without visiting an office. Our La Jolla and Poway locations serve San Diego County with scheduled appointments or local meetings when that helps your case.",
+			"regions": [
+				"San Diego County",
+				"Los Angeles & Orange County",
+				"Bay Area & Sacramento",
+				"Central Valley & Inland Empire"
+			]
+		},
+		"founder": {
+			"eyebrow": "Leadership",
+			"headline": "California's Premier Lemon Law Legal Group.",
+			"paragraphs": [
+				"Attorney Brian Cline has been practicing law since 2006 and handling California Lemon Law since 2006. He opened CLINE APC in 2015 after seeing how uneven the fight feels when a single driver faces a billion-dollar manufacturer alone.",
+				"Today the firm pursues Lemon Law recoveries against more than twenty major brands and takes other consumer cases. Our attorneys and staff know warranty law, repair timelines, and the evidence manufacturers try to minimize. You never pay our fees."
+			],
+			"roleLabel": "Founder · CLINE APC",
+			"ctaLabel": "Request a Free Case Review"
+		}
+	}
+}

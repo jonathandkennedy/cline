@@ -1,0 +1,351 @@
+{
+	"version": 1,
+	"FAQ_DETAILS": [
+		{
+			"slug": "what-qualifies-as-a-lemon-in-california",
+			"categoryId": "basics",
+			"q": "What qualifies as a lemon in California?",
+			"a": "Under the Song-Beverly Consumer Warranty Act, a vehicle may be a lemon if it has a defect that substantially impairs its use, value, or safety and the manufacturer cannot fix it within a reasonable number of attempts. What we care about is whether the defect first occurred during the original manufacturer warranty. Manufacturers sometimes push an 18-month / 18,000-mile story online. That window is not required to have a case, and it does not decide whether you have a good case.",
+			"seoTitle": "What Qualifies as a Lemon in California? | CLINE APC",
+			"seoDescription": "Warranty timing, repair attempts, and days out of service. Plain-English guidance from California Lemon Law attorneys.",
+			"relatedQuestionSlugs": [
+				"what-is-substantial-impairment-under-california-lemon-law",
+				"does-lemon-law-cover-used-and-leased-vehicles",
+				"how-long-do-i-have-to-file-a-lemon-law-claim"
+			],
+			"statuteLinks": [
+				{
+					"label": "Song-Beverly Consumer Warranty Act (overview)",
+					"href": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1793.2"
+				},
+				{
+					"label": "Civil Code § 1793.22: 18/18 exists on paper, but it is not required to have a case",
+					"href": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1793.22"
+				}
+			],
+			"keyPoints": [
+				"The key question is whether the defect first occurred during the original manufacturer warranty.",
+				"An 18-month / 18,000-mile timeline is not required to have a case.",
+				"Repeat repairs or time in the shop help show the manufacturer has not cured the problem.",
+				"A CLINE APC attorney can review your repair history for free."
+			]
+		},
+		{
+			"slug": "what-is-substantial-impairment-under-california-lemon-law",
+			"categoryId": "basics",
+			"q": "What is “substantial impairment” under California Lemon Law?",
+			"a": "Substantial impairment means a defect that significantly affects the vehicle’s use, value, or safety. Examples courts and manufacturers often recognize include repeated engine or transmission failures, chronic stalling, brake or steering problems, persistent electrical failures that leave the car unreliable, and safety systems that fail intermittently. Cosmetic issues alone usually do not qualify unless they also affect safety or resale value in a meaningful way.",
+			"seoTitle": "Substantial Impairment Under California Lemon Law | CLINE APC",
+			"seoDescription": "How California courts and manufacturers evaluate use, value, and safety impairment under Song-Beverly.",
+			"relatedQuestionSlugs": [
+				"what-qualifies-as-a-lemon-in-california",
+				"can-i-still-have-a-claim-outside-the-presumption-window"
+			],
+			"keyPoints": [
+				"The defect must meaningfully affect use, value, or safety, not minor annoyances.",
+				"Safety-related defects can support a claim with fewer repair visits.",
+				"Document how the problem affects your daily driving and costs."
+			]
+		},
+		{
+			"slug": "what-is-the-song-beverly-consumer-warranty-act",
+			"categoryId": "basics",
+			"q": "What is the Song-Beverly Consumer Warranty Act?",
+			"a": "The Song-Beverly Consumer Warranty Act is California’s primary Lemon Law statute (California Civil Code sections 1790 et seq.). It requires manufacturers to honor express and implied warranties on consumer goods, including motor vehicles sold or leased in California. When a warranted defect cannot be repaired after a reasonable number of attempts, the manufacturer must offer a buyback, replacement, or cash settlement. Manufacturers always pay our attorney fees, or the representation is free - you never pay our fees.",
+			"seoTitle": "Song-Beverly Consumer Warranty Act Explained | CLINE APC",
+			"seoDescription": "Overview of California’s core Lemon Law statute, warranties, and consumer remedies.",
+			"relatedQuestionSlugs": [
+				"what-qualifies-as-a-lemon-in-california",
+				"how-much-does-a-lemon-law-attorney-cost"
+			],
+			"statuteLinks": [
+				{
+					"label": "Civil Code § 1790 et seq. (Song-Beverly)",
+					"href": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.7.&part=4.&chapter=1.&article=1."
+				}
+			]
+		},
+		{
+			"slug": "can-i-still-have-a-claim-outside-the-presumption-window",
+			"categoryId": "basics",
+			"q": "Do I need an 18-month / 18,000-mile timeline to have a case?",
+			"a": "No. An 18-month / 18,000-mile timeline is not required to have a California Lemon Law case. Manufacturers have pushed a lot of false information online about that window. What we care about is whether the defect first occurred during the original manufacturer warranty. A CLINE APC attorney can sort out the timeline with your repair history.",
+			"seoTitle": "Is the 18/18 Window Required for a California Lemon Law Case? | CLINE APC",
+			"seoDescription": "Why an 18-month / 18,000-mile window is not required to have a California Lemon Law case.",
+			"relatedQuestionSlugs": [
+				"what-qualifies-as-a-lemon-in-california",
+				"how-long-do-i-have-to-file-a-lemon-law-claim"
+			]
+		},
+		{
+			"slug": "does-lemon-law-cover-used-and-leased-vehicles",
+			"categoryId": "coverage",
+			"q": "Does the Lemon Law cover used and leased vehicles?",
+			"a": "Yes. California’s Lemon Law can apply to new, certified pre-owned, and many used vehicles, whether purchased or leased, as long as the defect arose and was reported while the vehicle was still covered by the manufacturer’s warranty. It also covers cars, trucks, SUVs, motorcycles, boats, and RVs sold with a manufacturer warranty in California.",
+			"seoTitle": "Does California Lemon Law Cover Used & Leased Vehicles?",
+			"seoDescription": "Warranty timing, CPO, and leased vehicles under the Song-Beverly Act. Answered by CLINE APC.",
+			"relatedQuestionSlugs": [
+				"what-qualifies-as-a-lemon-in-california",
+				"are-certified-pre-owned-vehicles-covered"
+			],
+			"keyPoints": [
+				"Used, CPO, and leased vehicles can qualify when defects arise under warranty.",
+				"Cars, trucks, SUVs, motorcycles, boats, and RVs may be covered.",
+				"Report defects while the manufacturer warranty is still in effect."
+			]
+		},
+		{
+			"slug": "does-lemon-law-cover-motorcycles-rvs-and-boats",
+			"categoryId": "coverage",
+			"q": "Does Lemon Law cover motorcycles, RVs, and boats in California?",
+			"a": "Yes, when they are consumer vehicles sold with a manufacturer’s written warranty and the defect substantially impairs use, value, or safety. RV claims often turn on whether the defective component (chassis, coach, or appliance) is covered by the manufacturer warranty and whether repair attempts are documented. Boats and motorcycles follow the same substantial-impairment and reasonable-repair-attempt framework as passenger cars.",
+			"seoTitle": "California Lemon Law for RVs, Boats & Motorcycles | CLINE APC",
+			"seoDescription": "Warranty coverage and repair records for non-car vehicles under Song-Beverly.",
+			"relatedQuestionSlugs": [
+				"does-lemon-law-cover-used-and-leased-vehicles",
+				"what-documents-do-i-need-for-a-strong-case"
+			]
+		},
+		{
+			"slug": "are-certified-pre-owned-vehicles-covered",
+			"categoryId": "coverage",
+			"q": "Are certified pre-owned (CPO) vehicles covered?",
+			"a": "Often yes. CPO vehicles typically include a manufacturer-backed warranty extension. If a defect appears during that coverage and the manufacturer cannot repair it after a reasonable number of attempts, Song-Beverly remedies may apply the same way they do for new cars. Keep the CPO inspection report, warranty booklet, and every repair order from authorized dealers.",
+			"seoTitle": "CPO Lemon Law Coverage in California | CLINE APC",
+			"seoDescription": "How manufacturer CPO warranties interact with California Lemon Law warranty timing.",
+			"relatedQuestionSlugs": [
+				"does-lemon-law-cover-used-and-leased-vehicles",
+				"what-should-a-repair-order-include-for-lemon-law"
+			]
+		},
+		{
+			"slug": "does-lemon-law-apply-if-i-live-outside-california",
+			"categoryId": "coverage",
+			"q": "Does California Lemon Law apply if I bought the car here but moved?",
+			"a": "Song-Beverly generally protects consumers who buy or lease warranted vehicles in California. If you purchased in California and the defect was reported during warranty, you may still have California remedies even if you later moved. If you bought out of state, another state’s Lemon Law may apply instead. Where you bought, where warranty repairs occurred, and where the manufacturer is sued all matter. CLINE APC focuses on California-purchased vehicles.",
+			"seoTitle": "California Lemon Law When You Move Out of State | CLINE APC",
+			"seoDescription": "Purchase location, warranty repairs, and forum questions for Song-Beverly claims.",
+			"relatedQuestionSlugs": [
+				"how-long-do-i-have-to-file-a-lemon-law-claim",
+				"does-lemon-law-cover-used-and-leased-vehicles"
+			]
+		},
+		{
+			"slug": "how-much-does-a-lemon-law-attorney-cost",
+			"categoryId": "fees",
+			"q": "How much does a Lemon Law attorney cost?",
+			"a": "Nothing. Manufacturers always pay our fees, or the representation is free. Clients of CLINE APC do not pay any fees, ever - not a retainer, not a contingency cut from your recovery, not if the case does not succeed.",
+			"seoTitle": "Lemon Law Attorney Cost in California | CLINE APC",
+			"seoDescription": "You never pay CLINE APC fees. Manufacturers always pay, or the representation is free.",
+			"relatedQuestionSlugs": [
+				"what-can-i-recover-in-a-lemon-law-claim",
+				"do-i-pay-anything-if-my-claim-is-unsuccessful"
+			],
+			"statuteLinks": [
+				{
+					"label": "Civil Code § 1794(d): attorney fees in consumer warranty actions",
+					"href": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1794"
+				}
+			],
+			"keyPoints": [
+				"Manufacturers always pay our attorney fees, or the representation is free.",
+				"You never pay CLINE APC any fees, ever.",
+				"You do not pay legal fees from your recovery."
+			]
+		},
+		{
+			"slug": "do-i-pay-anything-if-my-claim-is-unsuccessful",
+			"categoryId": "fees",
+			"q": "Do I pay anything if my Lemon Law claim is unsuccessful?",
+			"a": "No. Clients of CLINE APC do not pay any fees, ever - including if a case does not succeed. Manufacturers always pay our fees, or the representation is free.",
+			"seoTitle": "Cost If You Lose a Lemon Law Case | CLINE APC",
+			"seoDescription": "Contingency representation and fee-shifting when a California Lemon Law claim does not succeed.",
+			"relatedQuestionSlugs": [
+				"how-much-does-a-lemon-law-attorney-cost",
+				"how-long-does-a-lemon-law-case-take"
+			]
+		},
+		{
+			"slug": "who-pays-expert-or-appraisal-costs",
+			"categoryId": "fees",
+			"q": "Who pays for experts or appraisal costs?",
+			"a": "In many Song-Beverly cases, reasonable litigation costs can be recovered from the manufacturer when you prevail, alongside attorney fees. Whether an expert inspection or appraisal is needed depends on the defect (for example, intermittent electrical issues or prior collision disputes). CLINE APC evaluates that need during case review and explains how costs are handled before you commit.",
+			"seoTitle": "Expert & Appraisal Costs in Lemon Law | CLINE APC",
+			"seoDescription": "When inspections help a claim and how fee-shifting affects litigation costs in California.",
+			"relatedQuestionSlugs": [
+				"how-much-does-a-lemon-law-attorney-cost",
+				"what-documents-do-i-need-for-a-strong-case"
+			]
+		},
+		{
+			"slug": "can-the-manufacturer-make-me-pay-its-attorney-fees",
+			"categoryId": "fees",
+			"q": "Can the manufacturer make me pay its attorney fees?",
+			"a": "Manufacturers sometimes threaten fee shifts, but Song-Beverly is designed to protect consumers who pursue warranty rights in good faith. Fee awards against consumers are uncommon in standard Lemon Law buyback cases. If a manufacturer cites a prior arbitration agreement or special warranty language, your attorney reviews those terms before filing. Do not let a fee threat stop you from getting a free case review.",
+			"seoTitle": "Manufacturer Attorney Fee Threats | California Lemon Law",
+			"seoDescription": "How Song-Beverly fee-shifting works and why consumer fee awards are rare in lemon cases.",
+			"relatedQuestionSlugs": [
+				"do-i-have-to-use-manufacturer-arbitration-first",
+				"how-much-does-a-lemon-law-attorney-cost"
+			]
+		},
+		{
+			"slug": "what-can-i-recover-in-a-lemon-law-claim",
+			"categoryId": "recovery",
+			"q": "What can I recover in a Lemon Law claim?",
+			"a": "Depending on your situation, you may be entitled to a buyback (repurchase), a replacement vehicle, or a cash settlement. A buyback generally includes your down payment, monthly payments, and related costs, minus a statutory mileage offset for your use before the first repair. In some cases a civil penalty of up to two times your damages may also apply when the manufacturer willfully fails to comply.",
+			"seoTitle": "What Can You Recover in a California Lemon Law Claim?",
+			"seoDescription": "Buybacks, replacements, cash settlements, and mileage offsets. Educational overview from CLINE APC.",
+			"relatedQuestionSlugs": [
+				"how-is-the-mileage-offset-calculated",
+				"what-incidental-costs-are-included-in-a-buyback"
+			],
+			"statuteLinks": [
+				{
+					"label": "Civil Code § 1794: buyback, replacement, and damages",
+					"href": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1794"
+				}
+			]
+		},
+		{
+			"slug": "how-is-the-mileage-offset-calculated",
+			"categoryId": "recovery",
+			"q": "How is the mileage offset (usage deduction) calculated?",
+			"a": "When a manufacturer buys back your vehicle, the law allows a deduction for the miles you drove before the first repair attempt for the defect. It is calculated by multiplying the cash price or lease total by the miles at first repair divided by 120,000. The buyback calculator applies a similar formula to give you a directional estimate.",
+			"seoTitle": "California Lemon Law Mileage Offset Explained | CLINE APC",
+			"seoDescription": "How the usage deduction works on a Song-Beverly buyback using cash price or lease total, plus a directional calculator.",
+			"relatedQuestionSlugs": [
+				"what-can-i-recover-in-a-lemon-law-claim",
+				"buyback-vs-replacement-which-remedy-should-i-choose"
+			]
+		},
+		{
+			"slug": "buyback-vs-replacement-which-remedy-should-i-choose",
+			"categoryId": "recovery",
+			"q": "Buyback vs. replacement: which remedy should I choose?",
+			"a": "A buyback returns you to your financial position before the defective vehicle, minus the mileage offset. A replacement provides a comparable new vehicle, which can make sense if you trust the model line but your VIN is problematic. Cash settlements are negotiated when a full buyback or replacement is impractical. Your loan balance, how long you have been without a reliable car, and whether the defect is safety-related all affect the best choice.",
+			"seoTitle": "Buyback vs. Replacement Under Song-Beverly | CLINE APC",
+			"seoDescription": "Compare repurchase, replacement, and cash settlement paths in California Lemon Law.",
+			"relatedQuestionSlugs": [
+				"what-can-i-recover-in-a-lemon-law-claim",
+				"how-is-the-mileage-offset-calculated"
+			]
+		},
+		{
+			"slug": "what-incidental-costs-are-included-in-a-buyback",
+			"categoryId": "recovery",
+			"q": "What incidental costs are included in a buyback?",
+			"a": "Song-Beverly buybacks can include amounts you paid toward the vehicle (down payment, finance charges, registration, taxes) and sometimes collateral charges such as towing, rental cars, and repair deductibles tied to the defect. Exact items depend on your contract and negotiation. Keep every receipt related to the defect; they support reimbursement during settlement.",
+			"seoTitle": "Incidental Costs in a California Lemon Buyback | CLINE APC",
+			"seoDescription": "Towing, rentals, taxes, and finance charges often considered in Song-Beverly repurchases.",
+			"relatedQuestionSlugs": [
+				"what-can-i-recover-in-a-lemon-law-claim",
+				"what-documents-do-i-need-for-a-strong-case"
+			]
+		},
+		{
+			"slug": "how-long-do-i-have-to-file-a-lemon-law-claim",
+			"categoryId": "process",
+			"q": "How long do I have to file a Lemon Law claim?",
+			"a": "California’s statute of limitations for a Song-Beverly claim is generally four years, but the clock can start earlier than people expect, often when you knew or should have known about the defect and the manufacturer’s failure to repair. Act while repair records are easy to obtain and witnesses are available. A free case review confirms whether you are within the deadline.",
+			"seoTitle": "Lemon Law Statute of Limitations in California | CLINE APC",
+			"seoDescription": "When the clock starts on a Song-Beverly claim and why acting early protects your records.",
+			"relatedQuestionSlugs": [
+				"how-long-does-a-lemon-law-case-take",
+				"can-i-still-have-a-claim-outside-the-presumption-window"
+			]
+		},
+		{
+			"slug": "how-long-does-a-lemon-law-case-take",
+			"categoryId": "process",
+			"q": "How long does a Lemon Law case take?",
+			"a": "Many claims resolve in a few months, though timelines vary with the manufacturer, the strength of your documentation, and whether the case settles or proceeds toward litigation. Strong repair records and a clear timeline typically move things faster.",
+			"seoTitle": "How Long Does a California Lemon Law Case Take?",
+			"seoDescription": "Typical timelines, documentation, and manufacturer factors from CLINE APC.",
+			"relatedQuestionSlugs": [
+				"how-long-do-i-have-to-file-a-lemon-law-claim",
+				"do-i-have-to-use-manufacturer-arbitration-first"
+			]
+		},
+		{
+			"slug": "do-i-have-to-use-manufacturer-arbitration-first",
+			"categoryId": "process",
+			"q": "Do I have to use manufacturer arbitration first?",
+			"a": "Many warranties include a state-certified arbitration program (for example, BBB AUTO LINE or a manufacturer program). Song-Beverly still allows court remedies, and arbitration is not always mandatory before hiring counsel. Some consumers arbitrate first; others move directly to an attorney when repair records already show a clear lemon. Your warranty booklet and prior notices determine the best sequence.",
+			"seoTitle": "Manufacturer Arbitration vs. Lemon Law Attorney | CLINE APC",
+			"seoDescription": "When warranty arbitration applies and how it interacts with Song-Beverly court claims.",
+			"relatedQuestionSlugs": [
+				"how-long-does-a-lemon-law-case-take",
+				"should-i-send-a-formal-notice-to-the-manufacturer"
+			]
+		},
+		{
+			"slug": "what-role-does-the-dealer-play-after-i-hire-an-attorney",
+			"categoryId": "process",
+			"q": "What role does the dealer play after I hire an attorney?",
+			"a": "The dealer is usually where warranty repairs happen, but the manufacturer is the Song-Beverly defendant. After you hire counsel, communications about repurchase or replacement typically go through the manufacturer’s Lemon Law department or defense firm, not your salesperson. Continue to document any new repair visits, but let your attorney coordinate demands and deadlines.",
+			"seoTitle": "Dealer vs. Manufacturer in Lemon Law | CLINE APC",
+			"seoDescription": "Why repair orders from the dealer still matter after you hire California Lemon Law counsel.",
+			"relatedQuestionSlugs": [
+				"what-documents-do-i-need-for-a-strong-case",
+				"how-long-does-a-lemon-law-case-take"
+			]
+		},
+		{
+			"slug": "what-documents-do-i-need-for-a-strong-case",
+			"categoryId": "documentation",
+			"q": "What documents do I need for a strong case?",
+			"a": "You do not need a complete file to talk with us. Repair orders help most if you have them; a purchase or lease contract is useful. We do not need a window sticker / Monroney label. We often take cases when the account is clear and believable even without paperwork in hand.",
+			"seoTitle": "Documents for a Strong California Lemon Law Case",
+			"seoDescription": "Repair orders help if you have them. No window sticker. A complete file is not required to start a case review.",
+			"relatedQuestionSlugs": [
+				"what-should-a-repair-order-include-for-lemon-law",
+				"can-i-use-an-independent-shop-for-warranty-repairs"
+			]
+		},
+		{
+			"slug": "what-should-a-repair-order-include-for-lemon-law",
+			"categoryId": "documentation",
+			"q": "What should a repair order include for Lemon Law?",
+			"a": "Insist that each repair order list your complaint in your words, mileage in and out, dates the vehicle was in the shop, parts replaced, diagnostic codes, and whether the problem was verified or could not be duplicated. “Could not duplicate” visits still count toward your timeline if you have video or repeat visits showing the defect. Never leave without a signed copy.",
+			"seoTitle": "Repair Orders for California Lemon Law | CLINE APC",
+			"seoDescription": "What to capture on dealer repair orders to prove repeat defects and days out of service.",
+			"relatedQuestionSlugs": [
+				"what-documents-do-i-need-for-a-strong-case",
+				"what-qualifies-as-a-lemon-in-california"
+			]
+		},
+		{
+			"slug": "can-i-use-an-independent-shop-for-warranty-repairs",
+			"categoryId": "documentation",
+			"q": "Can I use an independent shop for warranty repairs?",
+			"a": "Manufacturer warranties usually require authorized dealer repairs unless the manufacturer directs otherwise. Paying an independent shop out of pocket without authorization may not count toward Song-Beverly repair attempts. If no dealer can see you promptly, document every call and ask the manufacturer in writing for authorization or a rental. Those records still help your timeline.",
+			"seoTitle": "Independent Shop Repairs & Lemon Law | CLINE APC",
+			"seoDescription": "Why authorized dealer records help a Song-Beverly claim - and why you can still call without them.",
+			"relatedQuestionSlugs": [
+				"what-documents-do-i-need-for-a-strong-case",
+				"what-should-a-repair-order-include-for-lemon-law"
+			]
+		},
+		{
+			"slug": "should-i-send-a-formal-notice-to-the-manufacturer",
+			"categoryId": "documentation",
+			"q": "Should I send a formal notice to the manufacturer?",
+			"a": "A clear written notice creates a dated record that you gave the manufacturer a chance to cure the defect. Many warranties describe how to notify the automaker (often by certified mail to the address in your warranty booklet). Even before counsel is involved, keeping copies of emails, portal messages, and certified mail receipts helps your attorney open with a complete timeline.",
+			"seoTitle": "Notifying the Manufacturer in a Lemon Law Case | CLINE APC",
+			"seoDescription": "Why written notice and certified mail matter before a Song-Beverly buyback demand.",
+			"relatedQuestionSlugs": [
+				"do-i-have-to-use-manufacturer-arbitration-first",
+				"what-documents-do-i-need-for-a-strong-case"
+			]
+		}
+	],
+	"FAQ_CATEGORY_LABELS": {
+		"basics": "Lemon Law Basics",
+		"coverage": "Coverage & Vehicles",
+		"fees": "Fees & Cost",
+		"recovery": "Recovery & Buybacks",
+		"process": "Timeline & Process",
+		"documentation": "Documents & Proof"
+	}
+}

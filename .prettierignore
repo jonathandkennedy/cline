@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+public
+content/collections
+**/mdc-bundle.ts
+bun.lock
+package-lock.json
+wordpress

@@ -1,0 +1,503 @@
+{
+	"version": 1,
+	"CASE_STUDY_DETAILS": [
+		{
+			"slug": "tesla-model-y-repeat-drivetrain-buyback",
+			"headline": "Repeat drivetrain repairs on a Model Y",
+			"vehicle": "2024 Tesla Model Y",
+			"manufacturerSlug": "tesla",
+			"outcomeType": "Buyback",
+			"representativeAmount": 61500,
+			"cardImage": "/images/case-studies/tesla-model-y-repeat-drivetrain-buyback.jpg",
+			"cardImageAlt": "Electric SUV on a California road",
+			"situation": "A Bay Area owner reported recurring powertrain warnings after multiple service visits within the first year.",
+			"defectSummary": "Same drivetrain fault logged on four repair orders; cumulative days out of service exceeded the Song-Beverly guideline.",
+			"legalPath": "After documentation was organized, CLINE APC confirmed the defect first occurred during the original manufacturer warranty and negotiated directly with the manufacturer.",
+			"outcomeSummary": "Manufacturer repurchase with fees shifted. Client paid nothing out of pocket for legal work.",
+			"timeline": [
+				{
+					"label": "Month 1–4",
+					"detail": "Repeated dealer repairs for the same fault."
+				},
+				{
+					"label": "Month 5",
+					"detail": "Free eligibility review and case file assembly."
+				},
+				{
+					"label": "Month 6–8",
+					"detail": "Manufacturer buyback completed."
+				}
+			],
+			"documentHighlights": [
+				"Repair orders showing identical fault codes",
+				"Purchase agreement and payment history",
+				"Manufacturer correspondence"
+			],
+			"lessons": [
+				"Keep every repair order. Dates and mileage help, but you can call with none.",
+				"Report defects while still under warranty."
+			],
+			"relatedFaqSlugs": [
+				"what-qualifies-as-a-lemon-in-california",
+				"what-can-i-recover-in-a-lemon-law-claim"
+			],
+			"relatedReviewSlugs": ["priya-s-tesla-model-y-2"],
+			"seoTitle": "Tesla Model Y Lemon Law Buyback (Representative) | CLINE APC",
+			"seoDescription": "How repeat drivetrain repairs can trigger a California buyback. Representative case study, not a guaranteed result."
+		},
+		{
+			"slug": "ford-f-150-lightning-battery-buyback",
+			"headline": "High-voltage battery defects on an F-150 Lightning",
+			"vehicle": "2023 Ford F-150 Lightning",
+			"manufacturerSlug": "ford",
+			"outcomeType": "Buyback",
+			"representativeAmount": 58200,
+			"cardImage": "/images/case-studies/ford-f-150-lightning-battery-buyback.jpg",
+			"cardImageAlt": "Electric pickup truck at a charging station",
+			"situation": "A Central Valley owner experienced charging failures and repeated battery module replacements.",
+			"defectSummary": "Substantial impairment to daily use; safety-related warnings documented on multiple visits.",
+			"legalPath": "Song-Beverly fee-shifting applied; manufacturer engaged after a structured demand with complete repair history.",
+			"outcomeSummary": "Repurchase with mileage offset applied per statute.",
+			"timeline": [
+				{
+					"label": "Early ownership",
+					"detail": "First battery-related repair."
+				},
+				{
+					"label": "Warranty period",
+					"detail": "Third and fourth attempts for same defect."
+				},
+				{
+					"label": "Resolution",
+					"detail": "Buyback finalized after audit of shop days."
+				}
+			],
+			"documentHighlights": [
+				"Battery module replacement invoices",
+				"Tow and rental receipts",
+				"Warranty booklet and VIN-specific bulletins"
+			],
+			"lessons": [
+				"Track days out of service across all visits. They add up.",
+				"Safety warnings strengthen the impairment story."
+			],
+			"relatedFaqSlugs": ["what-documents-do-i-need-for-a-strong-case"],
+			"relatedReviewSlugs": ["marcus-t-ford-f-150-1"],
+			"seoTitle": "Ford F-150 Lightning Lemon Law Case Study | CLINE APC",
+			"seoDescription": "Representative buyback case study for battery defects on an F-150 Lightning under California Lemon Law."
+		},
+		{
+			"slug": "mercedes-eqe-settlement-pattern",
+			"headline": "Electrical gremlins on a Mercedes EQE",
+			"vehicle": "2024 Mercedes-Benz EQE",
+			"manufacturerSlug": "mercedes-benz",
+			"outcomeType": "Settlement",
+			"representativeAmount": 54300,
+			"cardImage": "/images/case-studies/mercedes-eqe-settlement-pattern.jpg",
+			"cardImageAlt": "Luxury electric sedan in an urban setting",
+			"situation": "Intermittent electrical failures affected usability; dealer could not reproduce on every visit.",
+			"defectSummary": "Documented failures on repair orders plus video evidence of impairment between visits.",
+			"legalPath": "Negotiated cash settlement after warranty-timing review and expert review of shop records.",
+			"outcomeSummary": "Cash settlement covered remaining loan balance and incidental costs.",
+			"timeline": [
+				{
+					"label": "Reporting",
+					"detail": "Defects logged during the original manufacturer warranty."
+				},
+				{
+					"label": "Documentation",
+					"detail": "Repair records organized for the demand."
+				},
+				{
+					"label": "Settlement",
+					"detail": "Manufacturer paid fees under Song-Beverly."
+				}
+			],
+			"documentHighlights": [
+				"Video of failure events",
+				"Loan payoff statement",
+				"Dealer-issued repair summaries"
+			],
+			"lessons": [
+				"Intermittent defects still count when documented consistently.",
+				"Supplement dealer records with your own dated notes."
+			],
+			"relatedFaqSlugs": ["how-long-does-a-lemon-law-case-take"],
+			"relatedReviewSlugs": [],
+			"seoTitle": "Mercedes EQE Lemon Law Settlement (Representative) | CLINE APC",
+			"seoDescription": "Representative settlement path for electrical defects on a Mercedes EQE in California."
+		},
+		{
+			"slug": "gmc-sierra-transmission-buyback",
+			"headline": "Transmission shudder on a Sierra 1500",
+			"vehicle": "2022 GMC Sierra 1500",
+			"manufacturerSlug": "gmc",
+			"outcomeType": "Buyback",
+			"representativeAmount": 57800,
+			"cardImage": "/images/case-studies/gmc-sierra-transmission-buyback.jpg",
+			"cardImageAlt": "Full-size pickup on a California highway",
+			"situation": "A Southern California contractor relied on the truck daily but faced repeat transmission repairs under warranty.",
+			"defectSummary": "Four repair attempts for the same shudder and harsh shifts during the original manufacturer warranty; more than 30 days out of service.",
+			"legalPath": "Demand letter sent with complete repair history; manufacturer authorized repurchase after audit.",
+			"outcomeSummary": "Buyback included down payment and finance charges minus mileage offset.",
+			"timeline": [
+				{
+					"label": "Months 1–10",
+					"detail": "Repeat transmission repairs at authorized dealer."
+				},
+				{
+					"label": "Month 11",
+					"detail": "Free case review. Repair records organized afterward."
+				},
+				{
+					"label": "Month 14",
+					"detail": "Repurchase completed."
+				}
+			],
+			"documentHighlights": [
+				"Transmission flush and module replacement orders",
+				"Loan statements and purchase contract",
+				"Rental truck receipts during long repairs"
+			],
+			"lessons": [
+				"Note every day the truck was in the shop, even for short visits.",
+				"Business use does not waive consumer Song-Beverly rights for personal vehicles."
+			],
+			"relatedFaqSlugs": [
+				"what-qualifies-as-a-lemon-in-california",
+				"how-is-the-mileage-offset-calculated"
+			],
+			"relatedReviewSlugs": [],
+			"seoTitle": "GMC Sierra Lemon Law Buyback (Representative) | CLINE APC",
+			"seoDescription": "Representative transmission defect buyback for a GMC Sierra 1500 in California."
+		},
+		{
+			"slug": "ram-1500-electrical-refund",
+			"headline": "Electrical failures on a RAM 1500 Limited",
+			"vehicle": "2023 RAM 1500 Limited",
+			"manufacturerSlug": "ram",
+			"outcomeType": "Refund",
+			"representativeAmount": 51200,
+			"cardImage": "/images/case-studies/ram-1500-electrical-refund.jpg",
+			"cardImageAlt": "Luxury trim pickup at dusk",
+			"situation": "Repeated Uconnect, lighting, and start-stop failures left the owner without a reliable daily driver.",
+			"defectSummary": "Same electrical fault family on three repair orders plus two related module replacements.",
+			"legalPath": "Structured demand under Civil Code § 1794; manufacturer opted for refund rather than further module swaps.",
+			"outcomeSummary": "Refund covered payoff and incidental towing costs.",
+			"timeline": [
+				{
+					"label": "Warranty period",
+					"detail": "First electrical failure documented."
+				},
+				{
+					"label": "Month 8",
+					"detail": "Third repeat visit for same symptom group."
+				},
+				{
+					"label": "Month 10",
+					"detail": "Refund finalized."
+				}
+			],
+			"documentHighlights": [
+				"Module replacement invoices",
+				"Tow receipts",
+				"Manufacturer case number emails"
+			],
+			"lessons": [
+				"Group related electrical symptoms on your timeline even if the dealer codes them differently.",
+				"Save screenshots when infotainment fails between visits."
+			],
+			"relatedFaqSlugs": ["what-should-a-repair-order-include-for-lemon-law"],
+			"relatedReviewSlugs": [],
+			"seoTitle": "RAM 1500 Lemon Law Refund (Representative) | CLINE APC",
+			"seoDescription": "Representative refund for repeat electrical defects on a RAM 1500 Limited."
+		},
+		{
+			"slug": "audi-q5e-battery-refund",
+			"headline": "Battery management faults on an Audi Q5 e",
+			"vehicle": "2024 Audi Q5 e",
+			"manufacturerSlug": "audi",
+			"outcomeType": "Refund",
+			"representativeAmount": 49750,
+			"cardImage": "/images/case-studies/audi-q5e-battery-refund.jpg",
+			"cardImageAlt": "Plug-in SUV at a home charger",
+			"situation": "A Bay Area commuter could not depend on hybrid range after repeated high-voltage system repairs.",
+			"defectSummary": "Substantial impairment to daily commuting; four warranty visits for charging and hybrid system faults.",
+			"legalPath": "Song-Beverly demand with expert summary of battery management errors; manufacturer approved refund.",
+			"outcomeSummary": "Refund included taxes and registration fees paid at purchase.",
+			"timeline": [
+				{
+					"label": "First year",
+					"detail": "Hybrid system warnings and reduced electric range."
+				},
+				{
+					"label": "Case intake",
+					"detail": "Repair orders and photos organized after the free case review."
+				},
+				{
+					"label": "Resolution",
+					"detail": "Refund issued within four months of demand."
+				}
+			],
+			"documentHighlights": [
+				"High-voltage system repair orders",
+				"Photos of dash warnings",
+				"Lease buyout quote"
+			],
+			"lessons": [
+				"Photograph warning lights the same day they appear.",
+				"Plug-in hybrids qualify the same as full EVs when defects repeat under warranty."
+			],
+			"relatedFaqSlugs": ["does-lemon-law-cover-used-and-leased-vehicles"],
+			"relatedReviewSlugs": [],
+			"seoTitle": "Audi Q5 e Lemon Law Refund (Representative) | CLINE APC",
+			"seoDescription": "Representative refund for hybrid system defects on an Audi Q5 e in California."
+		},
+		{
+			"slug": "rivian-r1s-drive-unit-refund",
+			"headline": "Drive unit vibration on a Rivian R1S",
+			"vehicle": "2024 Rivian R1S",
+			"manufacturerSlug": "rivian",
+			"outcomeType": "Refund",
+			"representativeAmount": 68400,
+			"cardImage": "/images/case-studies/rivian-r1s-drive-unit-refund.jpg",
+			"cardImageAlt": "Electric SUV on a forest road",
+			"situation": "An adventure-focused owner could not use the vehicle off pavement due to recurring drive unit noise and vibration.",
+			"defectSummary": "Repeat drive unit service with substantial impairment to intended use; safety concern at highway speeds.",
+			"legalPath": "Manufacturer engaged after organized repair history and video of vibration; refund negotiated.",
+			"outcomeSummary": "Refund covered accessories and home charger install receipts tied to the vehicle.",
+			"timeline": [
+				{
+					"label": "Delivery–month 6",
+					"detail": "First drive unit repair."
+				},
+				{
+					"label": "Month 9",
+					"detail": "Fourth attempt; owner hired CLINE APC."
+				},
+				{
+					"label": "Month 12",
+					"detail": "Refund completed."
+				}
+			],
+			"documentHighlights": [
+				"Drive unit replacement orders",
+				"Video of vibration at speed",
+				"Purchase invoice and accessory receipts"
+			],
+			"lessons": [
+				"New EV brands still must honor Song-Beverly when defects repeat.",
+				"Video evidence helps when dealers cannot reproduce intermittent vibration."
+			],
+			"relatedFaqSlugs": ["what-is-substantial-impairment-under-california-lemon-law"],
+			"relatedReviewSlugs": [],
+			"seoTitle": "Rivian R1S Lemon Law Refund (Representative) | CLINE APC",
+			"seoDescription": "Representative refund for drive unit defects on a Rivian R1S."
+		},
+		{
+			"slug": "porsche-macan-settlement",
+			"headline": "PDK transmission defects on a Macan",
+			"vehicle": "2023 Porsche Macan",
+			"manufacturerSlug": "porsche",
+			"outcomeType": "Settlement",
+			"representativeAmount": 63800,
+			"cardImage": "/images/case-studies/porsche-macan-settlement.jpg",
+			"cardImageAlt": "Compact luxury SUV on a coastal road",
+			"situation": "Harsh PDK shifts and hesitation made the Macan unpleasant and unsafe in traffic.",
+			"defectSummary": "Three transmission-related repairs plus software updates that did not cure the defect.",
+			"legalPath": "Cash settlement after warranty-timing and repair-history review; client kept loan payoff flexibility.",
+			"outcomeSummary": "Settlement exceeded loan balance and included rental reimbursement.",
+			"timeline": [
+				{
+					"label": "Year 1",
+					"detail": "Transmission software flashes and hardware repairs."
+				},
+				{
+					"label": "Demand",
+					"detail": "Complete file sent to Porsche Lemon Law unit."
+				},
+				{
+					"label": "Settlement",
+					"detail": "Cash settlement in lieu of repurchase."
+				}
+			],
+			"documentHighlights": [
+				"PDK repair orders",
+				"Independent shop second opinion (authorized later)",
+				"Loan payoff letter"
+			],
+			"lessons": [
+				"Luxury vehicles follow the same Song-Beverly warranty-timing analysis.",
+				"Cash settlement can be faster than physical repurchase logistics."
+			],
+			"relatedFaqSlugs": ["buyback-vs-replacement-which-remedy-should-i-choose"],
+			"relatedReviewSlugs": [],
+			"seoTitle": "Porsche Macan Lemon Law Settlement | CLINE APC",
+			"seoDescription": "Representative settlement for PDK transmission defects on a Porsche Macan."
+		},
+		{
+			"slug": "chevrolet-silverado-engine-buyback",
+			"headline": "Engine failure pattern on a Silverado",
+			"vehicle": "2024 Chevrolet Silverado",
+			"manufacturerSlug": "chevrolet",
+			"outcomeType": "Buyback",
+			"representativeAmount": 56100,
+			"cardImage": "/images/case-studies/chevrolet-silverado-engine-buyback.jpg",
+			"cardImageAlt": "Full-size truck at a job site",
+			"situation": "Repeat engine misfire and stalling left the owner afraid to haul family loads.",
+			"defectSummary": "Safety-related stalling documented on two visits plus two additional attempts for the same misfire code.",
+			"legalPath": "Safety-related stalling during the original manufacturer warranty supported the buyback demand; manufacturer authorized repurchase.",
+			"outcomeSummary": "Buyback with mileage offset; attorney fees shifted to manufacturer.",
+			"timeline": [
+				{
+					"label": "Month 2",
+					"detail": "First stall event logged on repair order."
+				},
+				{
+					"label": "Month 5",
+					"detail": "Fourth repair attempt for misfire."
+				},
+				{
+					"label": "Month 7",
+					"detail": "Buyback completed."
+				}
+			],
+			"documentHighlights": [
+				"Engine misfire and stall repair orders",
+				"Dash camera clip of stall event",
+				"Purchase and finance contracts"
+			],
+			"lessons": [
+				"Safety stalls can support a claim with fewer repair visits. Call either way.",
+				"Dash camera footage supports dealer logs when stalls are intermittent."
+			],
+			"relatedFaqSlugs": ["what-qualifies-as-a-lemon-in-california"],
+			"relatedReviewSlugs": ["jennifer-l-chevrolet-equinox-ev-6"],
+			"seoTitle": "Chevrolet Silverado Lemon Law Buyback | CLINE APC",
+			"seoDescription": "Representative buyback for engine stalling on a Chevrolet Silverado."
+		},
+		{
+			"slug": "volvo-xc90-recharge-replacement",
+			"headline": "Hybrid system faults on an XC90 Recharge",
+			"vehicle": "2022 Volvo XC90 Recharge",
+			"manufacturerSlug": "volvo",
+			"outcomeType": "Replacement",
+			"representativeAmount": 47300,
+			"cardImage": "/images/case-studies/volvo-xc90-recharge-replacement.jpg",
+			"cardImageAlt": "Hybrid SUV parked near the coast",
+			"situation": "The family SUV repeatedly entered reduced-power mode during school commutes.",
+			"defectSummary": "Hybrid system warnings on four visits; vehicle undriveable for cumulative weeks.",
+			"legalPath": "Client chose a comparable replacement SUV after the manufacturer conceded the warranty-period defect.",
+			"outcomeSummary": "Replacement VIN delivered; fees paid by manufacturer under Song-Beverly.",
+			"timeline": [
+				{
+					"label": "Year 1",
+					"detail": "Hybrid system repairs and software updates."
+				},
+				{
+					"label": "Intake",
+					"detail": "Case file built from Volvo dealer records."
+				},
+				{
+					"label": "Replacement",
+					"detail": "New VIN delivered at same trim level."
+				}
+			],
+			"documentHighlights": [
+				"Hybrid fault codes on repair orders",
+				"Loaner agreements during long repairs",
+				"Family commute log showing impairment"
+			],
+			"lessons": [
+				"Replacement can be ideal when you trust the model but not your VIN.",
+				"Log how the defect affects daily family use."
+			],
+			"relatedFaqSlugs": ["buyback-vs-replacement-which-remedy-should-i-choose"],
+			"relatedReviewSlugs": [],
+			"seoTitle": "Volvo XC90 Recharge Lemon Law Replacement | CLINE APC",
+			"seoDescription": "Representative replacement for hybrid defects on a Volvo XC90 Recharge."
+		},
+		{
+			"slug": "kia-telluride-engine-refund",
+			"headline": "Engine failure on a Telluride",
+			"vehicle": "2023 Kia Telluride",
+			"manufacturerSlug": "kia",
+			"outcomeType": "Refund",
+			"representativeAmount": 44750,
+			"cardImage": "/images/case-studies/kia-telluride-engine-refund.jpg",
+			"cardImageAlt": "Three-row SUV in a suburban driveway",
+			"situation": "After a engine campaign repair, the Telluride continued to knock and lose power.",
+			"defectSummary": "Repeat engine repairs under warranty; substantial impairment for a three-row family vehicle.",
+			"legalPath": "Refund demand with campaign documentation; Kia authorized repurchase-style refund.",
+			"outcomeSummary": "Refund covered payoff and registration; client leased a different brand.",
+			"timeline": [
+				{
+					"label": "Campaign repair",
+					"detail": "First engine-related service under recall."
+				},
+				{
+					"label": "Follow-up failures",
+					"detail": "Knock returned within 1,000 miles."
+				},
+				{
+					"label": "Refund",
+					"detail": "Manufacturer issued refund check."
+				}
+			],
+			"documentHighlights": [
+				"Recall and follow-up repair orders",
+				"Engine noise video",
+				"Lease or finance payoff quote"
+			],
+			"lessons": [
+				"Recall repairs that fail to fix the problem still count toward your timeline.",
+				"Keep campaign letters with your repair orders."
+			],
+			"relatedFaqSlugs": ["what-documents-do-i-need-for-a-strong-case"],
+			"relatedReviewSlugs": ["angela-m-kia-telluride-4"],
+			"seoTitle": "Kia Telluride Lemon Law Refund | CLINE APC",
+			"seoDescription": "Representative refund for engine defects on a Kia Telluride."
+		},
+		{
+			"slug": "volkswagen-atlas-transmission-settlement",
+			"headline": "Transmission defects on an Atlas",
+			"vehicle": "2023 Volkswagen Atlas",
+			"manufacturerSlug": "volkswagen",
+			"outcomeType": "Settlement",
+			"representativeAmount": 39900,
+			"cardImage": "/images/case-studies/volkswagen-atlas-transmission-settlement.jpg",
+			"cardImageAlt": "Family SUV at a California beach parking lot",
+			"situation": "Harsh shifts and unexpected downshifts made the Atlas uncomfortable for family trips.",
+			"defectSummary": "Three transmission repairs plus software flashes; defect persisted on highway grades.",
+			"legalPath": "Settlement after organized repair history; client used funds to exit loan early.",
+			"outcomeSummary": "Cash settlement covered loan balance and two rental weeks.",
+			"timeline": [
+				{
+					"label": "Year 1",
+					"detail": "Transmission shudder first reported."
+				},
+				{
+					"label": "Documentation",
+					"detail": "Checklist and eligibility review."
+				},
+				{
+					"label": "Settlement",
+					"detail": "Manufacturer paid settlement and fees."
+				}
+			],
+			"documentHighlights": [
+				"Transmission repair orders",
+				"Highway test drive notes from service advisor",
+				"Loan statement"
+			],
+			"lessons": [
+				"Ask advisors to note symptoms on the repair order in your words.",
+				"Settlement can be practical when you already plan to change vehicles."
+			],
+			"relatedFaqSlugs": ["how-long-does-a-lemon-law-case-take"],
+			"relatedReviewSlugs": [],
+			"seoTitle": "Volkswagen Atlas Lemon Law Settlement | CLINE APC",
+			"seoDescription": "Representative settlement for transmission defects on a Volkswagen Atlas."
+		}
+	]
+}

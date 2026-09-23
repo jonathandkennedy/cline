@@ -1,0 +1,377 @@
+{
+	"version": 1,
+	"MANUFACTURERS_HUB_PAGE_MAIN": [
+		{
+			"type": "block",
+			"id": "hero"
+		},
+		{
+			"type": "block",
+			"id": "grid"
+		},
+		{
+			"type": "block",
+			"id": "pathways"
+		},
+		{
+			"type": "block",
+			"id": "funnel"
+		}
+	],
+	"REVIEWS_HUB_PAGE_MAIN": [
+		{
+			"type": "block",
+			"id": "hero"
+		},
+		{
+			"type": "block",
+			"id": "grid"
+		},
+		{
+			"type": "block",
+			"id": "explore"
+		},
+		{
+			"type": "block",
+			"id": "pathways"
+		},
+		{
+			"type": "block",
+			"id": "funnel"
+		}
+	],
+	"CASE_STUDIES_HUB_PAGE_MAIN": [
+		{
+			"type": "block",
+			"id": "hero"
+		},
+		{
+			"type": "block",
+			"id": "grid"
+		},
+		{
+			"type": "block",
+			"id": "pathways"
+		},
+		{
+			"type": "block",
+			"id": "funnel"
+		}
+	],
+	"FAQ_HUB_PAGE_MAIN": [
+		{
+			"type": "block",
+			"id": "hero"
+		},
+		{
+			"type": "block",
+			"id": "categories"
+		},
+		{
+			"type": "block",
+			"id": "pathways"
+		},
+		{
+			"type": "block",
+			"id": "funnel"
+		}
+	],
+	"GUIDEBOOK_HUB_PAGE_MAIN": [
+		{
+			"type": "block",
+			"id": "hero"
+		},
+		{
+			"type": "block",
+			"id": "chapters"
+		},
+		{
+			"type": "block",
+			"id": "pathways"
+		},
+		{
+			"type": "block",
+			"id": "funnel"
+		}
+	],
+	"LEARN_HUB_PAGE_MAIN": [
+		{
+			"type": "block",
+			"id": "hero"
+		},
+		{
+			"type": "block",
+			"id": "introVideo"
+		},
+		{
+			"type": "block",
+			"id": "feed"
+		},
+		{
+			"type": "block",
+			"id": "funnel"
+		}
+	],
+	"THE_FIRM_PAGE_MAIN": [
+		{
+			"type": "block",
+			"id": "hero"
+		},
+		{
+			"type": "block",
+			"id": "mission"
+		},
+		{
+			"type": "block",
+			"id": "pillars"
+		},
+		{
+			"type": "block",
+			"id": "founder"
+		},
+		{
+			"type": "block",
+			"id": "statewide"
+		},
+		{
+			"type": "block",
+			"id": "funnel"
+		}
+	],
+	"REVIEW_DETAIL_PAGE_MAIN": [
+		{
+			"type": "block",
+			"id": "hero"
+		},
+		{
+			"type": "block",
+			"id": "story"
+		},
+		{
+			"type": "block",
+			"id": "relatedQuestions"
+		},
+		{
+			"type": "block",
+			"id": "funnel"
+		},
+		{
+			"type": "block",
+			"id": "keepExploring"
+		}
+	],
+	"CASE_STUDY_DETAIL_PAGE_MAIN": [
+		{
+			"type": "block",
+			"id": "hero"
+		},
+		{
+			"type": "block",
+			"id": "narrative"
+		},
+		{
+			"type": "block",
+			"id": "relatedQuestions"
+		},
+		{
+			"type": "block",
+			"id": "funnel"
+		},
+		{
+			"type": "block",
+			"id": "relatedContent"
+		}
+	],
+	"FAQ_DETAIL_PAGE_MAIN": [
+		{
+			"type": "block",
+			"id": "hero"
+		},
+		{
+			"type": "block",
+			"id": "answer"
+		},
+		{
+			"type": "block",
+			"id": "relatedQuestions"
+		},
+		{
+			"type": "block",
+			"id": "statuteLinks"
+		},
+		{
+			"type": "block",
+			"id": "funnel"
+		}
+	],
+	"GUIDEBOOK_CHAPTER_PAGE_MAIN": [
+		{
+			"type": "block",
+			"id": "hero"
+		},
+		{
+			"type": "block",
+			"id": "sections"
+		},
+		{
+			"type": "block",
+			"id": "chapterNav"
+		},
+		{
+			"type": "block",
+			"id": "funnel"
+		}
+	],
+	"MANUFACTURER_DETAIL_PAGE_MAIN": [
+		{
+			"type": "block",
+			"id": "hero"
+		},
+		{
+			"type": "block",
+			"id": "commonIssues"
+		},
+		{
+			"type": "block",
+			"id": "howWeHandle"
+		},
+		{
+			"type": "block",
+			"id": "rights"
+		},
+		{
+			"type": "block",
+			"id": "relatedQuestions"
+		},
+		{
+			"type": "block",
+			"id": "funnel"
+		},
+		{
+			"type": "block",
+			"id": "relatedContent"
+		}
+	],
+	"BLOG_HUB_PAGE_MAIN": [
+		{
+			"type": "block",
+			"id": "hero"
+		},
+		{
+			"type": "block",
+			"id": "grid"
+		},
+		{
+			"type": "block",
+			"id": "pathways"
+		},
+		{
+			"type": "block",
+			"id": "funnel"
+		}
+	],
+	"LOCATIONS_HUB_PAGE_MAIN": [
+		{
+			"type": "block",
+			"id": "hero"
+		},
+		{
+			"type": "block",
+			"id": "grid"
+		},
+		{
+			"type": "block",
+			"id": "pathways"
+		},
+		{
+			"type": "block",
+			"id": "funnel"
+		}
+	],
+	"INFO_HUB_PAGE_MAIN": [
+		{
+			"type": "block",
+			"id": "hero"
+		},
+		{
+			"type": "block",
+			"id": "grid"
+		},
+		{
+			"type": "block",
+			"id": "pathways"
+		},
+		{
+			"type": "block",
+			"id": "funnel"
+		}
+	],
+	"BLOG_DETAIL_PAGE_MAIN": [
+		{
+			"type": "block",
+			"id": "hero"
+		},
+		{
+			"type": "block",
+			"id": "body"
+		},
+		{
+			"type": "block",
+			"id": "pathways"
+		},
+		{
+			"type": "block",
+			"id": "funnel"
+		}
+	],
+	"LOCATION_DETAIL_PAGE_MAIN": [
+		{
+			"type": "block",
+			"id": "hero"
+		},
+		{
+			"type": "block",
+			"id": "body"
+		},
+		{
+			"type": "block",
+			"id": "pathways"
+		},
+		{
+			"type": "block",
+			"id": "funnel"
+		}
+	],
+	"INFO_DETAIL_PAGE_MAIN": [
+		{
+			"type": "block",
+			"id": "hero"
+		},
+		{
+			"type": "block",
+			"id": "body"
+		},
+		{
+			"type": "block",
+			"id": "pathways"
+		},
+		{
+			"type": "block",
+			"id": "funnel"
+		}
+	],
+	"TEAM_PAGE_MAIN": [
+		{
+			"type": "block",
+			"id": "hero"
+		},
+		{
+			"type": "block",
+			"id": "roster"
+		},
+		{
+			"type": "block",
+			"id": "funnel"
+		}
+	]
+}

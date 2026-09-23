@@ -1,0 +1,81 @@
+{
+	"version": 1,
+	"RESULTS": [
+		{
+			"vehicle": "2024 Tesla Model Y",
+			"make": "Tesla",
+			"amount": 61500,
+			"type": "Buyback"
+		},
+		{
+			"vehicle": "2023 Ford F-150 Lightning",
+			"make": "Ford",
+			"amount": 58200,
+			"type": "Buyback"
+		},
+		{
+			"vehicle": "2022 GMC Sierra 1500",
+			"make": "GMC",
+			"amount": 57800,
+			"type": "Buyback"
+		},
+		{
+			"vehicle": "2024 Mercedes-Benz EQE",
+			"make": "Mercedes-Benz",
+			"amount": 54300,
+			"type": "Settlement"
+		},
+		{
+			"vehicle": "2023 RAM 1500 Limited",
+			"make": "RAM",
+			"amount": 51200,
+			"type": "Refund"
+		},
+		{
+			"vehicle": "2024 Audi Q5 e",
+			"make": "Audi",
+			"amount": 49750,
+			"type": "Refund"
+		},
+		{
+			"vehicle": "2024 Rivian R1S",
+			"make": "Rivian",
+			"amount": 68400,
+			"type": "Refund"
+		},
+		{
+			"vehicle": "2023 Porsche Macan",
+			"make": "Porsche",
+			"amount": 63800,
+			"type": "Settlement"
+		},
+		{
+			"vehicle": "2024 Chevrolet Silverado",
+			"make": "Chevrolet",
+			"amount": 56100,
+			"type": "Buyback"
+		},
+		{
+			"vehicle": "2022 Volvo XC90 Recharge",
+			"make": "Volvo",
+			"amount": 47300,
+			"type": "Replacement"
+		},
+		{
+			"vehicle": "2023 Kia Telluride",
+			"make": "Kia",
+			"amount": 44750,
+			"type": "Refund"
+		},
+		{
+			"vehicle": "2023 Volkswagen Atlas",
+			"make": "Volkswagen",
+			"amount": 39900,
+			"type": "Settlement"
+		}
+	],
+	"RESULT_BADGE_CLASS": {
+		"Settlement": "badge badge-gold",
+		"default": "badge badge-recovery"
+	}
+}

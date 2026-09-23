@@ -1,0 +1,72 @@
+{
+	"version": 1,
+	"BRAND": {
+		"name": "CLINE APC",
+		"legalName": "CLINE APC, California's Premier Lemon Law Legal Group",
+		"tagline": "California's Premier Lemon Law Legal Group",
+		"founder": "Brian K. Cline",
+		"practicingSince": 2006,
+		"lemonLawSince": 2006,
+		"firmEstablished": 2015,
+		"phoneDisplay": "888-982-6915",
+		"phoneHref": "tel:+18889826915",
+		"email": "info@clineapc.com",
+		"rating": "4.9",
+		"reviewCount": 142,
+		"site": "https://www.lemonlawlawyerscalifornia.com",
+		"toolsUrl": "https://tools.lemonlawlawyerscalifornia.com",
+		"googleReviewCount": 88,
+		"yelpReviewCount": 54
+	},
+	"BRAND_COLORS": {
+		"primary": "#BC8F0D",
+		"secondary": "#010F27"
+	},
+	"BRAND_LOGO": {
+		"width": 454,
+		"heightNoTagline": 152,
+		"heightWithTagline": 241,
+		"aspectNoTagline": 2.986842105263158,
+		"aspectWithTagline": 1.883817427385892,
+		"paths": {
+			"primary": "/images/logos/primary.svg",
+			"primaryTagline": "/images/logos/primary-tagline.svg",
+			"light": "/images/logos/light.svg",
+			"lightTagline": "/images/logos/light-tagline.svg",
+			"dark": "/images/logos/dark.svg",
+			"darkTagline": "/images/logos/dark-tagline.svg"
+		}
+	},
+	"LAYOUT_CHROME": {
+		"defaultTitle": "Lemon Law",
+		"defaultSubtitle": "Since 2006",
+		"siteDomain": "lemonlawlawyerscalifornia.com"
+	},
+	"TOOL_HEADER_TITLES": {
+		"eligibility-checker": "Eligibility Checker",
+		"buyback-calculator": "Buyback Calculator",
+		"documentation-checklist": "Case Checklist"
+	},
+	"OFFICES": [
+		{
+			"city": "La Jolla",
+			"address": "7855 Ivanhoe Avenue, Suite 400",
+			"region": "La Jolla, CA 92037"
+		},
+		{
+			"city": "Poway",
+			"address": "14280 Danielson Street",
+			"region": "Poway, CA 92064"
+		}
+	],
+	"CASE_REVIEW_URL": "/contact",
+	"LAW": {
+		"repairAttempts": 4,
+		"safetyRepairAttempts": 2,
+		"daysOutOfService": 30,
+		"presumptionMonths": 18,
+		"presumptionMiles": 18000,
+		"mileageOffsetDenominator": 120000,
+		"civilPenaltyMultiple": 2
+	}
+}

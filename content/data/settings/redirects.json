@@ -1,0 +1,1660 @@
+{
+	"version": 1,
+	"WP_REDIRECTS": [
+		{
+			"source": "/contact-us",
+			"destination": "/contact",
+			"permanent": true
+		},
+		{
+			"source": "/calculator",
+			"destination": "/tool/buyback-calculator",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-calculator",
+			"destination": "/tool/buyback-calculator",
+			"permanent": true
+		},
+		{
+			"source": "/ca-lemon-law-faqs",
+			"destination": "/faq",
+			"permanent": true
+		},
+		{
+			"source": "/about-the-lemon-law-firm",
+			"destination": "/the-firm",
+			"permanent": true
+		},
+		{
+			"source": "/about",
+			"destination": "/the-firm",
+			"permanent": true
+		},
+		{
+			"source": "/team/brian-cline",
+			"destination": "/team",
+			"permanent": true
+		},
+		{
+			"source": "/:year(\\d{4})/:month(\\d{2})/:slug",
+			"destination": "/blog/:slug",
+			"permanent": true
+		},
+		{
+			"source": "/tesla-lemon-law",
+			"destination": "/manufacturers/tesla",
+			"permanent": true
+		},
+		{
+			"source": "/tesla-lemon-law-california",
+			"destination": "/manufacturers/tesla",
+			"permanent": true
+		},
+		{
+			"source": "/ford-lemon-law",
+			"destination": "/manufacturers/ford",
+			"permanent": true
+		},
+		{
+			"source": "/ford-lemon-law-california",
+			"destination": "/manufacturers/ford",
+			"permanent": true
+		},
+		{
+			"source": "/chevrolet-lemon-law",
+			"destination": "/manufacturers/chevrolet",
+			"permanent": true
+		},
+		{
+			"source": "/chevrolet-lemon-law-california",
+			"destination": "/manufacturers/chevrolet",
+			"permanent": true
+		},
+		{
+			"source": "/gmc-lemon-law",
+			"destination": "/manufacturers/gmc",
+			"permanent": true
+		},
+		{
+			"source": "/gmc-lemon-law-california",
+			"destination": "/manufacturers/gmc",
+			"permanent": true
+		},
+		{
+			"source": "/ram-lemon-law",
+			"destination": "/manufacturers/ram",
+			"permanent": true
+		},
+		{
+			"source": "/ram-lemon-law-california",
+			"destination": "/manufacturers/ram",
+			"permanent": true
+		},
+		{
+			"source": "/mercedes-benz-lemon-law",
+			"destination": "/manufacturers/mercedes-benz",
+			"permanent": true
+		},
+		{
+			"source": "/mercedes-benz-lemon-law-california",
+			"destination": "/manufacturers/mercedes-benz",
+			"permanent": true
+		},
+		{
+			"source": "/audi-lemon-law",
+			"destination": "/manufacturers/audi",
+			"permanent": true
+		},
+		{
+			"source": "/audi-lemon-law-california",
+			"destination": "/manufacturers/audi",
+			"permanent": true
+		},
+		{
+			"source": "/porsche-lemon-law",
+			"destination": "/manufacturers/porsche",
+			"permanent": true
+		},
+		{
+			"source": "/porsche-lemon-law-california",
+			"destination": "/manufacturers/porsche",
+			"permanent": true
+		},
+		{
+			"source": "/volkswagen-lemon-law",
+			"destination": "/manufacturers/volkswagen",
+			"permanent": true
+		},
+		{
+			"source": "/volkswagen-lemon-law-california",
+			"destination": "/manufacturers/volkswagen",
+			"permanent": true
+		},
+		{
+			"source": "/volvo-lemon-law",
+			"destination": "/manufacturers/volvo",
+			"permanent": true
+		},
+		{
+			"source": "/volvo-lemon-law-california",
+			"destination": "/manufacturers/volvo",
+			"permanent": true
+		},
+		{
+			"source": "/kia-lemon-law",
+			"destination": "/manufacturers/kia",
+			"permanent": true
+		},
+		{
+			"source": "/kia-lemon-law-california",
+			"destination": "/manufacturers/kia",
+			"permanent": true
+		},
+		{
+			"source": "/jaguar-lemon-law",
+			"destination": "/manufacturers/jaguar",
+			"permanent": true
+		},
+		{
+			"source": "/jaguar-lemon-law-california",
+			"destination": "/manufacturers/jaguar",
+			"permanent": true
+		},
+		{
+			"source": "/rivian-lemon-law",
+			"destination": "/manufacturers/rivian",
+			"permanent": true
+		},
+		{
+			"source": "/rivian-lemon-law-california",
+			"destination": "/manufacturers/rivian",
+			"permanent": true
+		},
+		{
+			"source": "/bmw-lemon-law",
+			"destination": "/manufacturers/bmw",
+			"permanent": true
+		},
+		{
+			"source": "/bmw-lemon-law-california",
+			"destination": "/manufacturers/bmw",
+			"permanent": true
+		},
+		{
+			"source": "/toyota-lemon-law",
+			"destination": "/manufacturers/toyota",
+			"permanent": true
+		},
+		{
+			"source": "/toyota-lemon-law-california",
+			"destination": "/manufacturers/toyota",
+			"permanent": true
+		},
+		{
+			"source": "/honda-lemon-law",
+			"destination": "/manufacturers/honda",
+			"permanent": true
+		},
+		{
+			"source": "/honda-lemon-law-california",
+			"destination": "/manufacturers/honda",
+			"permanent": true
+		},
+		{
+			"source": "/nissan-lemon-law",
+			"destination": "/manufacturers/nissan",
+			"permanent": true
+		},
+		{
+			"source": "/nissan-lemon-law-california",
+			"destination": "/manufacturers/nissan",
+			"permanent": true
+		},
+		{
+			"source": "/lexus-lemon-law",
+			"destination": "/manufacturers/lexus",
+			"permanent": true
+		},
+		{
+			"source": "/lexus-lemon-law-california",
+			"destination": "/manufacturers/lexus",
+			"permanent": true
+		},
+		{
+			"source": "/hyundai-lemon-law",
+			"destination": "/manufacturers/hyundai",
+			"permanent": true
+		},
+		{
+			"source": "/hyundai-lemon-law-california",
+			"destination": "/manufacturers/hyundai",
+			"permanent": true
+		},
+		{
+			"source": "/jeep-lemon-law",
+			"destination": "/manufacturers/jeep",
+			"permanent": true
+		},
+		{
+			"source": "/jeep-lemon-law-california",
+			"destination": "/manufacturers/jeep",
+			"permanent": true
+		},
+		{
+			"source": "/dodge-lemon-law",
+			"destination": "/manufacturers/dodge",
+			"permanent": true
+		},
+		{
+			"source": "/dodge-lemon-law-california",
+			"destination": "/manufacturers/dodge",
+			"permanent": true
+		},
+		{
+			"source": "/chrysler-lemon-law",
+			"destination": "/manufacturers/chrysler",
+			"permanent": true
+		},
+		{
+			"source": "/chrysler-lemon-law-california",
+			"destination": "/manufacturers/chrysler",
+			"permanent": true
+		},
+		{
+			"source": "/mazda-lemon-law",
+			"destination": "/manufacturers/mazda",
+			"permanent": true
+		},
+		{
+			"source": "/mazda-lemon-law-california",
+			"destination": "/manufacturers/mazda",
+			"permanent": true
+		},
+		{
+			"source": "/maserati-lemon-law",
+			"destination": "/manufacturers/maserati",
+			"permanent": true
+		},
+		{
+			"source": "/maserati-lemon-law-california",
+			"destination": "/manufacturers/maserati",
+			"permanent": true
+		},
+		{
+			"source": "/aliso-viejo-lemon-law",
+			"destination": "/locations/aliso-viejo-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/beaumont-california-lemon-law",
+			"destination": "/locations/beaumont-california-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/beverly-hills-lemon-law-attorney",
+			"destination": "/locations/beverly-hills-lemon-law-attorney",
+			"permanent": true
+		},
+		{
+			"source": "/buena-park-california-lemon-law",
+			"destination": "/locations/buena-park-california-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/carlsbad-lemon-law-lawyer",
+			"destination": "/locations/carlsbad-lemon-law-lawyer",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyer-cathedral-city",
+			"destination": "/locations/lemon-law-lawyer-cathedral-city",
+			"permanent": true
+		},
+		{
+			"source": "/chino-lemon-law",
+			"destination": "/locations/chino-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/coronado-lemon-law-attorney",
+			"destination": "/locations/coronado-lemon-law-attorney",
+			"permanent": true
+		},
+		{
+			"source": "/costa-mesa-lemon-law",
+			"destination": "/locations/costa-mesa-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/near-me",
+			"destination": "/locations/near-me",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyer-el-cajon",
+			"destination": "/locations/lemon-law-lawyer-el-cajon",
+			"permanent": true
+		},
+		{
+			"source": "/fontana-lemon-law-attorney",
+			"destination": "/locations/fontana-lemon-law-attorney",
+			"permanent": true
+		},
+		{
+			"source": "/fremont-lemon-law",
+			"destination": "/locations/fremont-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/huntington-beach-lemon-law-attorney",
+			"destination": "/locations/huntington-beach-lemon-law-attorney",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyer-la-jolla",
+			"destination": "/locations/lemon-law-lawyer-la-jolla",
+			"permanent": true
+		},
+		{
+			"source": "/glendale-lemon-law-lawyer",
+			"destination": "/locations/glendale-lemon-law-lawyer",
+			"permanent": true
+		},
+		{
+			"source": "/santa-clarita-lemon-law",
+			"destination": "/locations/santa-clarita-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-attorneys-in-sonoma-california",
+			"destination": "/locations/lemon-law-attorneys-in-sonoma-california",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyer-anaheim",
+			"destination": "/locations/lemon-law-lawyer-anaheim",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyer-in-irvine-california",
+			"destination": "/locations/lemon-law-lawyer-in-irvine-california",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyer-long-beach",
+			"destination": "/locations/lemon-law-lawyer-long-beach",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyer-modesto",
+			"destination": "/locations/lemon-law-lawyer-modesto",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyer-oxnard-california",
+			"destination": "/locations/lemon-law-lawyer-oxnard-california",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyer-san-jose",
+			"destination": "/locations/lemon-law-lawyer-san-jose",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyer-santa-ana",
+			"destination": "/locations/lemon-law-lawyer-santa-ana",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyer-in-stockton-california",
+			"destination": "/locations/lemon-law-lawyer-in-stockton-california",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyers-bakersfield-california",
+			"destination": "/locations/lemon-law-lawyers-bakersfield-california",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyers-chula-vista-california",
+			"destination": "/locations/lemon-law-lawyers-chula-vista-california",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyers-fresno-california",
+			"destination": "/locations/lemon-law-lawyers-fresno-california",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyers-in-sacramento-california",
+			"destination": "/locations/lemon-law-lawyers-in-sacramento-california",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyers-los-angeles-california",
+			"destination": "/locations/lemon-law-lawyers-los-angeles-california",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyers-napa-california",
+			"destination": "/locations/lemon-law-lawyers-napa-california",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyers-oakland-california",
+			"destination": "/locations/lemon-law-lawyers-oakland-california",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyer-san-diego",
+			"destination": "/locations/lemon-law-lawyer-san-diego",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyers-san-francisco-california",
+			"destination": "/locations/lemon-law-lawyers-san-francisco-california",
+			"permanent": true
+		},
+		{
+			"source": "/malibu-lemon-law-lawyer",
+			"destination": "/locations/malibu-lemon-law-lawyer",
+			"permanent": true
+		},
+		{
+			"source": "/monterey-lemon-law-attorney",
+			"destination": "/locations/monterey-lemon-law-attorney",
+			"permanent": true
+		},
+		{
+			"source": "/moreno-valley-lemon-law-lawyer",
+			"destination": "/locations/moreno-valley-lemon-law-lawyer",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyer-oceanside",
+			"destination": "/locations/lemon-law-lawyer-oceanside",
+			"permanent": true
+		},
+		{
+			"source": "/palm-springs-lemon-law-lawyer",
+			"destination": "/locations/palm-springs-lemon-law-lawyer",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyer-poway",
+			"destination": "/locations/lemon-law-lawyer-poway",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyers-riverside-california",
+			"destination": "/locations/lemon-law-lawyers-riverside-california",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-lawyers-san-bernardino-california",
+			"destination": "/locations/lemon-law-lawyers-san-bernardino-california",
+			"permanent": true
+		},
+		{
+			"source": "/santa-monica-lemon-law-attorney",
+			"destination": "/locations/santa-monica-lemon-law-attorney",
+			"permanent": true
+		},
+		{
+			"source": "/santa-rosa-lemon-law-attorney",
+			"destination": "/locations/santa-rosa-lemon-law-attorney",
+			"permanent": true
+		},
+		{
+			"source": "/a-comprehensive-guide-to-california-lemon-law",
+			"destination": "/info/a-comprehensive-guide-to-california-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/cadillac-lemon-law",
+			"destination": "/info/cadillac-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/california-lemon-law-facts-and-statistics",
+			"destination": "/info/california-lemon-law-facts-and-statistics",
+			"permanent": true
+		},
+		{
+			"source": "/everything-you-need-to-know-about-california-lemon-law-claims",
+			"destination": "/info/everything-you-need-to-know-about-california-lemon-law-claims",
+			"permanent": true
+		},
+		{
+			"source": "/fees",
+			"destination": "/info/fees",
+			"permanent": true
+		},
+		{
+			"source": "/how-it-works",
+			"destination": "/info/how-it-works",
+			"permanent": true
+		},
+		{
+			"source": "/lincoln-lemon-law-california",
+			"destination": "/info/lincoln-lemon-law-california",
+			"permanent": true
+		},
+		{
+			"source": "/privacy-policy",
+			"destination": "/info/privacy-policy",
+			"permanent": true
+		},
+		{
+			"source": "/california-ab-1755-explained-new-pre-suit-notice-requirements-for-lemon-law-claims",
+			"destination": "/blog/california-ab-1755-explained-new-pre-suit-notice-requirements-for-lemon-law-claims",
+			"permanent": true
+		},
+		{
+			"source": "/california-lemon-law-presumption-what-qualifies-a-vehicle-as-a-lemon",
+			"destination": "/blog/california-lemon-law-presumption-what-qualifies-a-vehicle-as-a-lemon",
+			"permanent": true
+		},
+		{
+			"source": "/best-lemon-law-attorney-san-diego-key-qualities-to-look-for-in-2026",
+			"destination": "/blog/best-lemon-law-attorney-san-diego-key-qualities-to-look-for-in-2026",
+			"permanent": true
+		},
+		{
+			"source": "/santa-ana-lemon-law-attorney-common-questions-about-california-lemon-law-claims",
+			"destination": "/blog/santa-ana-lemon-law-attorney-common-questions-about-california-lemon-law-claims",
+			"permanent": true
+		},
+		{
+			"source": "/how-the-best-lemon-law-attorney-in-san-diego-evaluates-defective-vehicle-cases",
+			"destination": "/blog/how-the-best-lemon-law-attorney-in-san-diego-evaluates-defective-vehicle-cases",
+			"permanent": true
+		},
+		{
+			"source": "/when-a-lemon-law-attorney-can-help-with-a-defective-vehicle-claim",
+			"destination": "/blog/when-a-lemon-law-attorney-can-help-with-a-defective-vehicle-claim",
+			"permanent": true
+		},
+		{
+			"source": "/best-lemon-law-attorneys-in-los-angeles-for-used-car-claims",
+			"destination": "/blog/best-lemon-law-attorneys-in-los-angeles-for-used-car-claims",
+			"permanent": true
+		},
+		{
+			"source": "/santa-ana-lemon-law-attorney-guidance-for-california-vehicle-defect-claims",
+			"destination": "/blog/santa-ana-lemon-law-attorney-guidance-for-california-vehicle-defect-claims",
+			"permanent": true
+		},
+		{
+			"source": "/japanese-car-brands-with-the-most-reliability-concerns",
+			"destination": "/blog/japanese-car-brands-with-the-most-reliability-concerns",
+			"permanent": true
+		},
+		{
+			"source": "/whats-changed-a-guide-to-updated-ca-lemon-law",
+			"destination": "/blog/whats-changed-a-guide-to-updated-ca-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/cpo-cars-in-san-diego-lemon-law-buyer-tips",
+			"destination": "/blog/cpo-cars-in-san-diego-lemon-law-buyer-tips",
+			"permanent": true
+		},
+		{
+			"source": "/a-guide-to-california-lemon-law-for-rv-owners",
+			"destination": "/blog/a-guide-to-california-lemon-law-for-rv-owners",
+			"permanent": true
+		},
+		{
+			"source": "/certified-pre-owned-cars-ca-lemon-law-protection",
+			"destination": "/blog/certified-pre-owned-cars-ca-lemon-law-protection",
+			"permanent": true
+		},
+		{
+			"source": "/does-your-2020-or-newer-car-qualify-for-california-lemon-law",
+			"destination": "/blog/does-your-2020-or-newer-car-qualify-for-california-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/cadillac-lyriq-brake-recall-21000-vehicles",
+			"destination": "/blog/cadillac-lyriq-brake-recall-21000-vehicles",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-for-buyers-with-disabilities",
+			"destination": "/blog/lemon-law-for-buyers-with-disabilities",
+			"permanent": true
+		},
+		{
+			"source": "/how-california-lemon-law-protects-fleets-and-businesses",
+			"destination": "/blog/how-california-lemon-law-protects-fleets-and-businesses",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-recall-does-your-vehicle-qualify-for-legal-protections",
+			"destination": "/blog/lemon-law-recall-does-your-vehicle-qualify-for-legal-protections",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-claims-and-software-glitches-in-a-car",
+			"destination": "/blog/lemon-law-claims-and-software-glitches-in-a-car",
+			"permanent": true
+		},
+		{
+			"source": "/are-teslas-covered-by-lemon-laws-debunking-myths-and-misconceptions",
+			"destination": "/blog/are-teslas-covered-by-lemon-laws-debunking-myths-and-misconceptions",
+			"permanent": true
+		},
+		{
+			"source": "/how-mileage-offset-affects-your-california-lemon-law-repurchase-settlement",
+			"destination": "/blog/how-mileage-offset-affects-your-california-lemon-law-repurchase-settlement",
+			"permanent": true
+		},
+		{
+			"source": "/kia-models-with-the-most-lemon-law-complaints",
+			"destination": "/blog/kia-models-with-the-most-lemon-law-complaints",
+			"permanent": true
+		},
+		{
+			"source": "/what-is-the-role-of-a-lemon-law-attorney-in-securing-fair-settlements",
+			"destination": "/blog/what-is-the-role-of-a-lemon-law-attorney-in-securing-fair-settlements",
+			"permanent": true
+		},
+		{
+			"source": "/why-lemon-law-protections-are-crucial-for-mercedes-owners",
+			"destination": "/blog/why-lemon-law-protections-are-crucial-for-mercedes-owners",
+			"permanent": true
+		},
+		{
+			"source": "/what-counts-as-a-warranty-breach-under-the-song-beverly-consumer-warranty-act",
+			"destination": "/blog/what-counts-as-a-warranty-breach-under-the-song-beverly-consumer-warranty-act",
+			"permanent": true
+		},
+		{
+			"source": "/top-audi-models-with-lemon-law-complaints",
+			"destination": "/blog/top-audi-models-with-lemon-law-complaints",
+			"permanent": true
+		},
+		{
+			"source": "/gmc-recalls-over-90000-vehicles-due-to-transmission-defect",
+			"destination": "/blog/gmc-recalls-over-90000-vehicles-due-to-transmission-defect",
+			"permanent": true
+		},
+		{
+			"source": "/vehicle-recalls-and-lemon-laws-can-you-get-a-buyback-or-compensation",
+			"destination": "/blog/vehicle-recalls-and-lemon-laws-can-you-get-a-buyback-or-compensation",
+			"permanent": true
+		},
+		{
+			"source": "/do-all-states-have-used-vehicle-lemon-laws",
+			"destination": "/blog/do-all-states-have-used-vehicle-lemon-laws",
+			"permanent": true
+		},
+		{
+			"source": "/is-your-chevrolet-a-lemon-signs-to-watch-for-and-what-to-do-next",
+			"destination": "/blog/is-your-chevrolet-a-lemon-signs-to-watch-for-and-what-to-do-next",
+			"permanent": true
+		},
+		{
+			"source": "/californias-lemon-law-controversy",
+			"destination": "/blog/californias-lemon-law-controversy",
+			"permanent": true
+		},
+		{
+			"source": "/common-bmw-defects-that-could-qualify-for-lemon-law-claims",
+			"destination": "/blog/common-bmw-defects-that-could-qualify-for-lemon-law-claims",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-buyback-vs-regular-refunds",
+			"destination": "/blog/lemon-law-buyback-vs-regular-refunds",
+			"permanent": true
+		},
+		{
+			"source": "/10-car-recalls-in-2024",
+			"destination": "/blog/10-car-recalls-in-2024",
+			"permanent": true
+		},
+		{
+			"source": "/salvage-vs-reconstructed-titles-what-are-the-differences",
+			"destination": "/blog/salvage-vs-reconstructed-titles-what-are-the-differences",
+			"permanent": true
+		},
+		{
+			"source": "/ford-car-recalls",
+			"destination": "/blog/ford-car-recalls",
+			"permanent": true
+		},
+		{
+			"source": "/how-gm-is-working-to-dismantle-california-lemon-law",
+			"destination": "/blog/how-gm-is-working-to-dismantle-california-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/chevrolet-evs-recall-over-risk-of-bursting-into-flames",
+			"destination": "/blog/chevrolet-evs-recall-over-risk-of-bursting-into-flames",
+			"permanent": true
+		},
+		{
+			"source": "/big-news-governor-gavin-newsom-signs-new-ca-lemon-law-bill-despite-reservations",
+			"destination": "/blog/big-news-governor-gavin-newsom-signs-new-ca-lemon-law-bill-despite-reservations",
+			"permanent": true
+		},
+		{
+			"source": "/guide-to-hyundai-car-recalls-in-2024",
+			"destination": "/blog/guide-to-hyundai-car-recalls-in-2024",
+			"permanent": true
+		},
+		{
+			"source": "/are-illegal-car-sales-tactics-and-how-to-get-out-of-them",
+			"destination": "/blog/are-illegal-car-sales-tactics-and-how-to-get-out-of-them",
+			"permanent": true
+		},
+		{
+			"source": "/gmc-truck-recalls-models-that-have-been-recalled-recently",
+			"destination": "/blog/gmc-truck-recalls-models-that-have-been-recalled-recently",
+			"permanent": true
+		},
+		{
+			"source": "/car-purchase-contracts-and-cancellation-agreements",
+			"destination": "/blog/car-purchase-contracts-and-cancellation-agreements",
+			"permanent": true
+		},
+		{
+			"source": "/toyota-car-recalls-2024",
+			"destination": "/blog/toyota-car-recalls-2024",
+			"permanent": true
+		},
+		{
+			"source": "/should-yo-buy-an-extended-warranty-for-cars",
+			"destination": "/blog/should-yo-buy-an-extended-warranty-for-cars",
+			"permanent": true
+		},
+		{
+			"source": "/honda-car-recalls-in-2024",
+			"destination": "/blog/honda-car-recalls-in-2024",
+			"permanent": true
+		},
+		{
+			"source": "/no-cooling-off-period-in-california-lemon-law",
+			"destination": "/blog/no-cooling-off-period-in-california-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/what-to-do-if-you-have-a-defective-ford-car",
+			"destination": "/blog/what-to-do-if-you-have-a-defective-ford-car",
+			"permanent": true
+		},
+		{
+			"source": "/what-are-the-impact-of-defects-on-ford-car-resale-value",
+			"destination": "/blog/what-are-the-impact-of-defects-on-ford-car-resale-value",
+			"permanent": true
+		},
+		{
+			"source": "/safety-concerns-ford-car-defects",
+			"destination": "/blog/safety-concerns-ford-car-defects",
+			"permanent": true
+		},
+		{
+			"source": "/top-most-common-defects-in-ford-cars",
+			"destination": "/blog/top-most-common-defects-in-ford-cars",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-protections-for-high-end-vehicles-in-los-angeles",
+			"destination": "/blog/lemon-law-protections-for-high-end-vehicles-in-los-angeles",
+			"permanent": true
+		},
+		{
+			"source": "/common-challenges-faced-by-california-lemon-law-lawyers",
+			"destination": "/blog/common-challenges-faced-by-california-lemon-law-lawyers",
+			"permanent": true
+		},
+		{
+			"source": "/handle-lemon-law-disputes-with-car-dealerships-in-orange-county",
+			"destination": "/blog/handle-lemon-law-disputes-with-car-dealerships-in-orange-county",
+			"permanent": true
+		},
+		{
+			"source": "/facts-and-myths-about-car-purchase-decisions-in-los-angeles",
+			"destination": "/blog/facts-and-myths-about-car-purchase-decisions-in-los-angeles",
+			"permanent": true
+		},
+		{
+			"source": "/what-are-certified-pre-owned-car-scams",
+			"destination": "/blog/what-are-certified-pre-owned-car-scams",
+			"permanent": true
+		},
+		{
+			"source": "/the-impact-of-stop-and-go-traffic-on-vehicle-reliability",
+			"destination": "/blog/the-impact-of-stop-and-go-traffic-on-vehicle-reliability",
+			"permanent": true
+		},
+		{
+			"source": "/using-a-leased-vehicle-in-orange-county",
+			"destination": "/blog/using-a-leased-vehicle-in-orange-county",
+			"permanent": true
+		},
+		{
+			"source": "/buying-a-new-car-in-los-angeles-things-to-take-care",
+			"destination": "/blog/buying-a-new-car-in-los-angeles-things-to-take-care",
+			"permanent": true
+		},
+		{
+			"source": "/the-components-of-a-lemon-law-refund-in-california",
+			"destination": "/blog/the-components-of-a-lemon-law-refund-in-california",
+			"permanent": true
+		},
+		{
+			"source": "/a-detailed-california-lemon-law-guide-for-los-angeles-residents",
+			"destination": "/blog/a-detailed-california-lemon-law-guide-for-los-angeles-residents",
+			"permanent": true
+		},
+		{
+			"source": "/tricks-an-auto-fraud-attorney-can-help-you-avoid",
+			"destination": "/blog/tricks-an-auto-fraud-attorney-can-help-you-avoid",
+			"permanent": true
+		},
+		{
+			"source": "/used-car-lemon-law-in-orange-county-buyer-beware",
+			"destination": "/blog/used-car-lemon-law-in-orange-county-buyer-beware",
+			"permanent": true
+		},
+		{
+			"source": "/selling-a-lemon-car-in-california-what-to-know",
+			"destination": "/blog/selling-a-lemon-car-in-california-what-to-know",
+			"permanent": true
+		},
+		{
+			"source": "/why-hire-an-orange-county-lemon-law-lawyer-environmental-factors",
+			"destination": "/blog/why-hire-an-orange-county-lemon-law-lawyer-environmental-factors",
+			"permanent": true
+		},
+		{
+			"source": "/most-sued-auto-manufacturers-in-los-angeles",
+			"destination": "/blog/most-sued-auto-manufacturers-in-los-angeles",
+			"permanent": true
+		},
+		{
+			"source": "/top-10-most-popular-cars-in-los-angeles-in-2024",
+			"destination": "/blog/top-10-most-popular-cars-in-los-angeles-in-2024",
+			"permanent": true
+		},
+		{
+			"source": "/what-records-are-needed-in-california-lemon-law-cases",
+			"destination": "/blog/what-records-are-needed-in-california-lemon-law-cases",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-facts-and-stats-in-orange-county",
+			"destination": "/blog/lemon-law-facts-and-stats-in-orange-county",
+			"permanent": true
+		},
+		{
+			"source": "/what-are-common-causes-of-car-accidents-in-los-angeles",
+			"destination": "/blog/what-are-common-causes-of-car-accidents-in-los-angeles",
+			"permanent": true
+		},
+		{
+			"source": "/tips-for-lemon-law-challenges-in-los-angeles",
+			"destination": "/blog/tips-for-lemon-law-challenges-in-los-angeles",
+			"permanent": true
+		},
+		{
+			"source": "/top-10-automakers-with-the-most-car-recalls-in-2023",
+			"destination": "/blog/top-10-automakers-with-the-most-car-recalls-in-2023",
+			"permanent": true
+		},
+		{
+			"source": "/your-rights-under-motorcycle-law-california",
+			"destination": "/blog/your-rights-under-motorcycle-law-california",
+			"permanent": true
+		},
+		{
+			"source": "/tips-for-negotiating-with-car-dealers-in-a-lemon-case",
+			"destination": "/blog/tips-for-negotiating-with-car-dealers-in-a-lemon-case",
+			"permanent": true
+		},
+		{
+			"source": "/proposals-and-recent-updates-to-california-lemon-law",
+			"destination": "/blog/proposals-and-recent-updates-to-california-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/california-buyback-lemon-law-what-happens-to-lemon-vehicles",
+			"destination": "/blog/california-buyback-lemon-law-what-happens-to-lemon-vehicles",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-vs-warranty-whats-the-difference",
+			"destination": "/blog/lemon-law-vs-warranty-whats-the-difference",
+			"permanent": true
+		},
+		{
+			"source": "/recent-developments-in-california-lemon-law",
+			"destination": "/blog/recent-developments-in-california-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/how-lemon-law-attorneys-work-on-a-contingency-fee-agreement",
+			"destination": "/blog/how-lemon-law-attorneys-work-on-a-contingency-fee-agreement",
+			"permanent": true
+		},
+		{
+			"source": "/is-your-boat-a-lemon",
+			"destination": "/blog/is-your-boat-a-lemon",
+			"permanent": true
+		},
+		{
+			"source": "/differences-between-federal-lemon-law-and-california-lemon-law",
+			"destination": "/blog/differences-between-federal-lemon-law-and-california-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/diy-lemon-law-vs-hiring-an-attorney",
+			"destination": "/blog/diy-lemon-law-vs-hiring-an-attorney",
+			"permanent": true
+		},
+		{
+			"source": "/signs-your-motorcycle-is-lemon",
+			"destination": "/blog/signs-your-motorcycle-is-lemon",
+			"permanent": true
+		},
+		{
+			"source": "/are-maserati-cars-reliable",
+			"destination": "/blog/are-maserati-cars-reliable",
+			"permanent": true
+		},
+		{
+			"source": "/dealerships-holding-car-for-more-than-30-days-for-repair",
+			"destination": "/blog/dealerships-holding-car-for-more-than-30-days-for-repair",
+			"permanent": true
+		},
+		{
+			"source": "/faulty-car-transmission-inspection",
+			"destination": "/blog/faulty-car-transmission-inspection",
+			"permanent": true
+		},
+		{
+			"source": "/recent-porsche-car-recalls",
+			"destination": "/blog/recent-porsche-car-recalls",
+			"permanent": true
+		},
+		{
+			"source": "/is-mazda-a-reliable-car-brand",
+			"destination": "/blog/is-mazda-a-reliable-car-brand",
+			"permanent": true
+		},
+		{
+			"source": "/do-recreational-vehicles-fall-under-california-lemon-law",
+			"destination": "/blog/do-recreational-vehicles-fall-under-california-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/models-to-avoid-while-purchasing-a-lexus-car",
+			"destination": "/blog/models-to-avoid-while-purchasing-a-lexus-car",
+			"permanent": true
+		},
+		{
+			"source": "/cash-and-keep-settlement",
+			"destination": "/blog/cash-and-keep-settlement",
+			"permanent": true
+		},
+		{
+			"source": "/ram-trucks-with-lemon-law-issues",
+			"destination": "/blog/ram-trucks-with-lemon-law-issues",
+			"permanent": true
+		},
+		{
+			"source": "/warning-sings-of-a-faulty-car-engine",
+			"destination": "/blog/warning-sings-of-a-faulty-car-engine",
+			"permanent": true
+		},
+		{
+			"source": "/common-cadillac-lemon-law-issues",
+			"destination": "/blog/common-cadillac-lemon-law-issues",
+			"permanent": true
+		},
+		{
+			"source": "/common-car-defects-in-lemon-car",
+			"destination": "/blog/common-car-defects-in-lemon-car",
+			"permanent": true
+		},
+		{
+			"source": "/nhtsa-defective-car-complaint",
+			"destination": "/blog/nhtsa-defective-car-complaint",
+			"permanent": true
+		},
+		{
+			"source": "/guide-to-common-bmw-problems",
+			"destination": "/blog/guide-to-common-bmw-problems",
+			"permanent": true
+		},
+		{
+			"source": "/guide-to-2022-volkswagen-taos-recall",
+			"destination": "/blog/guide-to-2022-volkswagen-taos-recall",
+			"permanent": true
+		},
+		{
+			"source": "/signs-of-faulty-car-electric-systems",
+			"destination": "/blog/signs-of-faulty-car-electric-systems",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-buybacks-what-to-expect",
+			"destination": "/blog/lemon-law-buybacks-what-to-expect",
+			"permanent": true
+		},
+		{
+			"source": "/honda-lemon-car-complaints",
+			"destination": "/blog/honda-lemon-car-complaints",
+			"permanent": true
+		},
+		{
+			"source": "/what-voids-car-warranty",
+			"destination": "/blog/what-voids-car-warranty",
+			"permanent": true
+		},
+		{
+			"source": "/hyundai-car-recalls-2022",
+			"destination": "/blog/hyundai-car-recalls-2022",
+			"permanent": true
+		},
+		{
+			"source": "/do-airbags-expire",
+			"destination": "/blog/do-airbags-expire",
+			"permanent": true
+		},
+		{
+			"source": "/signs-of-lemon-electric-car",
+			"destination": "/blog/signs-of-lemon-electric-car",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-know-vehicle-lemon-history",
+			"destination": "/blog/how-to-know-vehicle-lemon-history",
+			"permanent": true
+		},
+		{
+			"source": "/recalls-by-toyota",
+			"destination": "/blog/recalls-by-toyota",
+			"permanent": true
+		},
+		{
+			"source": "/toyota-8-speed-transmission-problems-trucks",
+			"destination": "/blog/toyota-8-speed-transmission-problems-trucks",
+			"permanent": true
+		},
+		{
+			"source": "/leasing-car-advantages-dodge-traps-car-leasing-companies",
+			"destination": "/blog/leasing-car-advantages-dodge-traps-car-leasing-companies",
+			"permanent": true
+		},
+		{
+			"source": "/2017-gmc-yukon-transmission-recall",
+			"destination": "/blog/2017-gmc-yukon-transmission-recall",
+			"permanent": true
+		},
+		{
+			"source": "/most-reliable-cars-tructs-suvs-2022",
+			"destination": "/blog/most-reliable-cars-tructs-suvs-2022",
+			"permanent": true
+		},
+		{
+			"source": "/gms-recent-transmission-defect",
+			"destination": "/blog/gms-recent-transmission-defect",
+			"permanent": true
+		},
+		{
+			"source": "/2019-21-chevy-cruze-problem-what-you-need-to-know",
+			"destination": "/blog/2019-21-chevy-cruze-problem-what-you-need-to-know",
+			"permanent": true
+		},
+		{
+			"source": "/california-lemon-law-basics",
+			"destination": "/blog/california-lemon-law-basics",
+			"permanent": true
+		},
+		{
+			"source": "/audi-passenger-air-bag-issues",
+			"destination": "/blog/audi-passenger-air-bag-issues",
+			"permanent": true
+		},
+		{
+			"source": "/california-lemon-law-claim-documents",
+			"destination": "/blog/california-lemon-law-claim-documents",
+			"permanent": true
+		},
+		{
+			"source": "/ford-car-lemon-law",
+			"destination": "/blog/ford-car-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/refund-law-private-sale",
+			"destination": "/blog/refund-law-private-sale",
+			"permanent": true
+		},
+		{
+			"source": "/jeep-transmission-problems",
+			"destination": "/blog/jeep-transmission-problems",
+			"permanent": true
+		},
+		{
+			"source": "/used-car-no-warranty-lemon-law-california",
+			"destination": "/blog/used-car-no-warranty-lemon-law-california",
+			"permanent": true
+		},
+		{
+			"source": "/consumer-safety-groups-appeal-federal-ruling-enabling-car-dealers-to-conceal-recall-information",
+			"destination": "/blog/consumer-safety-groups-appeal-federal-ruling-enabling-car-dealers-to-conceal-recall-information",
+			"permanent": true
+		},
+		{
+			"source": "/a-new-ad-campaign-takes-aim-to-unmask-the-cjac",
+			"destination": "/blog/a-new-ad-campaign-takes-aim-to-unmask-the-cjac",
+			"permanent": true
+		},
+		{
+			"source": "/hyundai-lawsuit-automaker-sanctioned-for-spoliation-of-engines",
+			"destination": "/blog/hyundai-lawsuit-automaker-sanctioned-for-spoliation-of-engines",
+			"permanent": true
+		},
+		{
+			"source": "/common-nissan-sentra-problems",
+			"destination": "/blog/common-nissan-sentra-problems",
+			"permanent": true
+		},
+		{
+			"source": "/defective-car-models-2024",
+			"destination": "/blog/defective-car-models-2024",
+			"permanent": true
+		},
+		{
+			"source": "/california-lemon-law-for-different-state-vehicle",
+			"destination": "/blog/california-lemon-law-for-different-state-vehicle",
+			"permanent": true
+		},
+		{
+			"source": "/car-defects-not-covered-under-lemon-law-california",
+			"destination": "/blog/car-defects-not-covered-under-lemon-law-california",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-for-private-vehicle-sale",
+			"destination": "/blog/lemon-law-for-private-vehicle-sale",
+			"permanent": true
+		},
+		{
+			"source": "/litigation-arbitration-whats-better",
+			"destination": "/blog/litigation-arbitration-whats-better",
+			"permanent": true
+		},
+		{
+			"source": "/leased-car-lemon-law",
+			"destination": "/blog/leased-car-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/prove-car-delership-fraud",
+			"destination": "/blog/prove-car-delership-fraud",
+			"permanent": true
+		},
+		{
+			"source": "/new-car-keeps-breaking-down",
+			"destination": "/blog/new-car-keeps-breaking-down",
+			"permanent": true
+		},
+		{
+			"source": "/defective-vehicle-purchase-rights",
+			"destination": "/blog/defective-vehicle-purchase-rights",
+			"permanent": true
+		},
+		{
+			"source": "/implied-car-warranty-lemon-law-protection",
+			"destination": "/blog/implied-car-warranty-lemon-law-protection",
+			"permanent": true
+		},
+		{
+			"source": "/things-california-lemon-law-applies",
+			"destination": "/blog/things-california-lemon-law-applies",
+			"permanent": true
+		},
+		{
+			"source": "/new-car-lemon-law-qa",
+			"destination": "/blog/new-car-lemon-law-qa",
+			"permanent": true
+		},
+		{
+			"source": "/common-lemon-law-faqs",
+			"destination": "/blog/common-lemon-law-faqs",
+			"permanent": true
+		},
+		{
+			"source": "/chevy-cruze-problems",
+			"destination": "/blog/chevy-cruze-problems",
+			"permanent": true
+		},
+		{
+			"source": "/guide-purchasing-lemon-law-buy-back",
+			"destination": "/blog/guide-purchasing-lemon-law-buy-back",
+			"permanent": true
+		},
+		{
+			"source": "/common-problems-chevy-equinox-models",
+			"destination": "/blog/common-problems-chevy-equinox-models",
+			"permanent": true
+		},
+		{
+			"source": "/trustworthy-lemon-law-attorneys-california",
+			"destination": "/blog/trustworthy-lemon-law-attorneys-california",
+			"permanent": true
+		},
+		{
+			"source": "/factors-influence-ability-win-lemon-law-case",
+			"destination": "/blog/factors-influence-ability-win-lemon-law-case",
+			"permanent": true
+		},
+		{
+			"source": "/common-myths-lemon-law-lawyers",
+			"destination": "/blog/common-myths-lemon-law-lawyers",
+			"permanent": true
+		},
+		{
+			"source": "/common-challenges-california-lemon-law-process",
+			"destination": "/blog/common-challenges-california-lemon-law-process",
+			"permanent": true
+		},
+		{
+			"source": "/california-lemon-law-and-business-vehicles-how-does-it-work",
+			"destination": "/blog/california-lemon-law-and-business-vehicles-how-does-it-work",
+			"permanent": true
+		},
+		{
+			"source": "/what-happens-to-a-car-loan-in-a-lemon-case",
+			"destination": "/blog/what-happens-to-a-car-loan-in-a-lemon-case",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-driver-abuse",
+			"destination": "/blog/lemon-driver-abuse",
+			"permanent": true
+		},
+		{
+			"source": "/4-lies-manufacturers-will-tell-consumers-in-the-buyback-process",
+			"destination": "/blog/4-lies-manufacturers-will-tell-consumers-in-the-buyback-process",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-product-liability",
+			"destination": "/blog/lemon-product-liability",
+			"permanent": true
+		},
+		{
+			"source": "/ford-and-lemon-law-a-history-of-faulty-products",
+			"destination": "/blog/ford-and-lemon-law-a-history-of-faulty-products",
+			"permanent": true
+		},
+		{
+			"source": "/what-happens-when-a-vehicle-gets-recalled",
+			"destination": "/blog/what-happens-when-a-vehicle-gets-recalled",
+			"permanent": true
+		},
+		{
+			"source": "/is-your-vehicles-warranty-valid-for-a-california-lemon-law-claim",
+			"destination": "/blog/is-your-vehicles-warranty-valid-for-a-california-lemon-law-claim",
+			"permanent": true
+		},
+		{
+			"source": "/fact-or-fiction-the-ultimate-california-lemon-law-factsheet",
+			"destination": "/blog/fact-or-fiction-the-ultimate-california-lemon-law-factsheet",
+			"permanent": true
+		},
+		{
+			"source": "/car-dealerships-vs-car-manufacturers-california-lemon-law",
+			"destination": "/blog/car-dealerships-vs-car-manufacturers-california-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/consumers-speed-up-california-lemon-law-buyback-process",
+			"destination": "/blog/consumers-speed-up-california-lemon-law-buyback-process",
+			"permanent": true
+		},
+		{
+			"source": "/corruption-lemons-white-house-atty-allegedly-lied-for-toyota",
+			"destination": "/blog/corruption-lemons-white-house-atty-allegedly-lied-for-toyota",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-case-prepare-for-the-trial",
+			"destination": "/blog/lemon-law-case-prepare-for-the-trial",
+			"permanent": true
+		},
+		{
+			"source": "/fact-about-lemon-law-arbitration",
+			"destination": "/blog/fact-about-lemon-law-arbitration",
+			"permanent": true
+		},
+		{
+			"source": "/automakers-avoid-manufacturer-buyback",
+			"destination": "/blog/automakers-avoid-manufacturer-buyback",
+			"permanent": true
+		},
+		{
+			"source": "/latest-consumer-complaint-report-lemon-law-claims",
+			"destination": "/blog/latest-consumer-complaint-report-lemon-law-claims",
+			"permanent": true
+		},
+		{
+			"source": "/teslas-arbitration-agreement-hurt-lemon-law-case",
+			"destination": "/blog/teslas-arbitration-agreement-hurt-lemon-law-case",
+			"permanent": true
+		},
+		{
+			"source": "/manufacturers-defense-lawyers-ruin-california-lemon-law-claim",
+			"destination": "/blog/manufacturers-defense-lawyers-ruin-california-lemon-law-claim",
+			"permanent": true
+		},
+		{
+			"source": "/chrysler-pacifica-electric-hybrid-recall-what-is-it",
+			"destination": "/blog/chrysler-pacifica-electric-hybrid-recall-what-is-it",
+			"permanent": true
+		},
+		{
+			"source": "/chrysler-pacifica-electric-hybrid-recall-should-you-contact-a-lawyer",
+			"destination": "/blog/chrysler-pacifica-electric-hybrid-recall-should-you-contact-a-lawyer",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-case-worth-lemon-law-buyback-calculator",
+			"destination": "/blog/lemon-law-case-worth-lemon-law-buyback-calculator",
+			"permanent": true
+		},
+		{
+			"source": "/find-trustworthy-california-lemon-law-attorney",
+			"destination": "/blog/find-trustworthy-california-lemon-law-attorney",
+			"permanent": true
+		},
+		{
+			"source": "/prevailed-lemon-law-case-now-what",
+			"destination": "/blog/prevailed-lemon-law-case-now-what",
+			"permanent": true
+		},
+		{
+			"source": "/mistakes-avoid-during-lemon-law-buyback-process",
+			"destination": "/blog/mistakes-avoid-during-lemon-law-buyback-process",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-buyback-process-california",
+			"destination": "/blog/lemon-law-buyback-process-california",
+			"permanent": true
+		},
+		{
+			"source": "/file-lemon-law-claim-california",
+			"destination": "/blog/file-lemon-law-claim-california",
+			"permanent": true
+		},
+		{
+			"source": "/what-to-expect-lemon-law-case-during-covid-19",
+			"destination": "/blog/what-to-expect-lemon-law-case-during-covid-19",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-get-lemon-law-legal-advice-during-covid-19",
+			"destination": "/blog/how-to-get-lemon-law-legal-advice-during-covid-19",
+			"permanent": true
+		},
+		{
+			"source": "/covid-19-hurt-lemon-law-case",
+			"destination": "/blog/covid-19-hurt-lemon-law-case",
+			"permanent": true
+		},
+		{
+			"source": "/begin-lemon-law-case-during-covid-19",
+			"destination": "/blog/begin-lemon-law-case-during-covid-19",
+			"permanent": true
+		},
+		{
+			"source": "/luxury-vehicles-major-mechanical-problems",
+			"destination": "/blog/luxury-vehicles-major-mechanical-problems",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-avoid-buying-lemon-when-used-car-shopping",
+			"destination": "/blog/how-to-avoid-buying-lemon-when-used-car-shopping",
+			"permanent": true
+		},
+		{
+			"source": "/which-cars-could-have-the-most-lemon-complaints",
+			"destination": "/blog/which-cars-could-have-the-most-lemon-complaints",
+			"permanent": true
+		},
+		{
+			"source": "/essential-steps-filing-emon-law-claim",
+			"destination": "/blog/essential-steps-filing-emon-law-claim",
+			"permanent": true
+		},
+		{
+			"source": "/chevy-gmc-consumer-alert",
+			"destination": "/blog/chevy-gmc-consumer-alert",
+			"permanent": true
+		},
+		{
+			"source": "/how-does-open-repair-affect-lemon-law-claims",
+			"destination": "/blog/how-does-open-repair-affect-lemon-law-claims",
+			"permanent": true
+		},
+		{
+			"source": "/why-the-repair-invoice-is-the-foundation-of-your-lemon-law-claim",
+			"destination": "/blog/why-the-repair-invoice-is-the-foundation-of-your-lemon-law-claim",
+			"permanent": true
+		},
+		{
+			"source": "/getting-justice-from-general-motors",
+			"destination": "/blog/getting-justice-from-general-motors",
+			"permanent": true
+		},
+		{
+			"source": "/volvo-dealership-in-bakersfield-shuts-down",
+			"destination": "/blog/volvo-dealership-in-bakersfield-shuts-down",
+			"permanent": true
+		},
+		{
+			"source": "/what-are-the-major-obligations-and-penalties-tied-to-lemon-law",
+			"destination": "/blog/what-are-the-major-obligations-and-penalties-tied-to-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/is-there-a-time-limit-to-file-a-lemon-law-claim",
+			"destination": "/blog/is-there-a-time-limit-to-file-a-lemon-law-claim",
+			"permanent": true
+		},
+		{
+			"source": "/consumer-mistakes-that-doom-lemon-law-cases",
+			"destination": "/blog/consumer-mistakes-that-doom-lemon-law-cases",
+			"permanent": true
+		},
+		{
+			"source": "/issues-to-avoid-lemon-buy-backs",
+			"destination": "/blog/issues-to-avoid-lemon-buy-backs",
+			"permanent": true
+		},
+		{
+			"source": "/inspection-guide-for-buying-a-used-vehicle",
+			"destination": "/blog/inspection-guide-for-buying-a-used-vehicle",
+			"permanent": true
+		},
+		{
+			"source": "/lemon-law-arbitration-why-you-shouldnt-do-it",
+			"destination": "/blog/lemon-law-arbitration-why-you-shouldnt-do-it",
+			"permanent": true
+		},
+		{
+			"source": "/vehicle-doesnt-meet-requirements-of-lemon-law",
+			"destination": "/blog/vehicle-doesnt-meet-requirements-of-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/defective-car-causes-an-accident",
+			"destination": "/blog/defective-car-causes-an-accident",
+			"permanent": true
+		},
+		{
+			"source": "/truth-behind-extended-car-warranties",
+			"destination": "/blog/truth-behind-extended-car-warranties",
+			"permanent": true
+		},
+		{
+			"source": "/assessing-the-vast-ripple-effect-of-self-driving-cars",
+			"destination": "/blog/assessing-the-vast-ripple-effect-of-self-driving-cars",
+			"permanent": true
+		},
+		{
+			"source": "/how-does-lemon-law-affect-electric-cars",
+			"destination": "/blog/how-does-lemon-law-affect-electric-cars",
+			"permanent": true
+		},
+		{
+			"source": "/avoid-buying-a-car-as-is-from-a-dealership",
+			"destination": "/blog/avoid-buying-a-car-as-is-from-a-dealership",
+			"permanent": true
+		},
+		{
+			"source": "/5-sounds-that-might-indicate-your-vehicle-is-a-lemon",
+			"destination": "/blog/5-sounds-that-might-indicate-your-vehicle-is-a-lemon",
+			"permanent": true
+		},
+		{
+			"source": "/how-does-a-product-recall-affect-lemon-law-claims",
+			"destination": "/blog/how-does-a-product-recall-affect-lemon-law-claims",
+			"permanent": true
+		},
+		{
+			"source": "/car-dealership-scams-to-look-out",
+			"destination": "/blog/car-dealership-scams-to-look-out",
+			"permanent": true
+		},
+		{
+			"source": "/did-you-lease-a-lemon-understand-your-situation-factors-in",
+			"destination": "/blog/did-you-lease-a-lemon-understand-your-situation-factors-in",
+			"permanent": true
+		},
+		{
+			"source": "/self-driving-cars-affect-lemon-law-three-bold-predictions",
+			"destination": "/blog/self-driving-cars-affect-lemon-law-three-bold-predictions",
+			"permanent": true
+		},
+		{
+			"source": "/6-sure-fire-signs-the-used-car-you-plan-to-buy-is-a-lemon",
+			"destination": "/blog/6-sure-fire-signs-the-used-car-you-plan-to-buy-is-a-lemon",
+			"permanent": true
+		},
+		{
+			"source": "/4-things-to-remember-for-a-successful-first-meeting-with-your-lemon-law-attorney",
+			"destination": "/blog/4-things-to-remember-for-a-successful-first-meeting-with-your-lemon-law-attorney",
+			"permanent": true
+		},
+		{
+			"source": "/california-lemon-law-buybacks-busted",
+			"destination": "/blog/california-lemon-law-buybacks-busted",
+			"permanent": true
+		},
+		{
+			"source": "/california-lemon-law-presumption",
+			"destination": "/blog/california-lemon-law-presumption",
+			"permanent": true
+		},
+		{
+			"source": "/4-ways-california-lemon-lawyers-can-help-you-fight-against-a-faulty-auto-manufacturer",
+			"destination": "/blog/4-ways-california-lemon-lawyers-can-help-you-fight-against-a-faulty-auto-manufacturer",
+			"permanent": true
+		},
+		{
+			"source": "/4-tips-for-hiring-the-right-lemon-law-attorney",
+			"destination": "/blog/4-tips-for-hiring-the-right-lemon-law-attorney",
+			"permanent": true
+		},
+		{
+			"source": "/think-your-used-car-might-be-a-lemon-heres-what-you-can-do",
+			"destination": "/blog/think-your-used-car-might-be-a-lemon-heres-what-you-can-do",
+			"permanent": true
+		},
+		{
+			"source": "/what-to-expect-when-you-win-a-lemon-lawsuit",
+			"destination": "/blog/what-to-expect-when-you-win-a-lemon-lawsuit",
+			"permanent": true
+		},
+		{
+			"source": "/how-to-get-the-most-from-your-manufacturer-when-life-gives-you-a-lemon",
+			"destination": "/blog/how-to-get-the-most-from-your-manufacturer-when-life-gives-you-a-lemon",
+			"permanent": true
+		},
+		{
+			"source": "/stuck-with-your-defective-car-know-how-lemon-law-can-help-you-to-take-it-out",
+			"destination": "/blog/stuck-with-your-defective-car-know-how-lemon-law-can-help-you-to-take-it-out",
+			"permanent": true
+		},
+		{
+			"source": "/let-a-lemon-law-attorney-handle-your-case",
+			"destination": "/blog/let-a-lemon-law-attorney-handle-your-case",
+			"permanent": true
+		},
+		{
+			"source": "/5-tips-to-win-a-lemon-claim-from-your-manufacturer",
+			"destination": "/blog/5-tips-to-win-a-lemon-claim-from-your-manufacturer",
+			"permanent": true
+		},
+		{
+			"source": "/your-car-is-a-lemon-know-what-the-manufacturer-should-be-paying-you",
+			"destination": "/blog/your-car-is-a-lemon-know-what-the-manufacturer-should-be-paying-you",
+			"permanent": true
+		},
+		{
+			"source": "/understanding-lemon-law-basics-small-business-owners",
+			"destination": "/blog/understanding-lemon-law-basics-small-business-owners",
+			"permanent": true
+		},
+		{
+			"source": "/measures-take-car-lemon",
+			"destination": "/blog/measures-take-car-lemon",
+			"permanent": true
+		},
+		{
+			"source": "/know-differences-lemon-law-auto-fraud-avoid-getting-duped",
+			"destination": "/blog/know-differences-lemon-law-auto-fraud-avoid-getting-duped",
+			"permanent": true
+		},
+		{
+			"source": "/primer-defects-repairs-californias-lemon-law",
+			"destination": "/blog/primer-defects-repairs-californias-lemon-law",
+			"permanent": true
+		},
+		{
+			"source": "/california-lemon-law-101-brush-knowledge-consulting-lawyer",
+			"destination": "/blog/california-lemon-law-101-brush-knowledge-consulting-lawyer",
+			"permanent": true
+		},
+		{
+			"source": "/6-things-know-recreational-vehicle-lemon",
+			"destination": "/blog/6-things-know-recreational-vehicle-lemon",
+			"permanent": true
+		},
+		{
+			"source": "/transmission-problems-fiat-500-fiat-500-defects-2013-fiat-500-problems",
+			"destination": "/blog/transmission-problems-fiat-500-fiat-500-defects-2013-fiat-500-problems",
+			"permanent": true
+		},
+		{
+			"source": "/california-lemon-law-tips",
+			"destination": "/blog/california-lemon-law-tips",
+			"permanent": true
+		},
+		{
+			"source": "/is-my-car-a-lemon",
+			"destination": "/blog/is-my-car-a-lemon",
+			"permanent": true
+		}
+	]
+}

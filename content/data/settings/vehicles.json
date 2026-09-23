@@ -1,0 +1,4 @@
+{
+	"version": 1,
+	"VEHICLE_TYPES": ["New", "Certified Pre-Owned", "Used"]
+}

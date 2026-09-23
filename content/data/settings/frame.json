@@ -1,0 +1,64 @@
+{
+	"version": 1,
+	"metadata": {
+		"metadataBase": "https://tools.lemonlawlawyerscalifornia.com",
+		"title": {
+			"default": "California Lemon Law Attorneys | {{brand.name}}",
+			"template": "%s · {{brand.name}} Lemon Law Tools"
+		},
+		"description": "California lemon law lawyer and attorney at {{brand.name}}. Free, attorney-built tools. Check eligibility, estimate buyback recovery, and organize your file in minutes. You never pay our fees.",
+		"applicationName": "{{brand.name}} Lemon Law Tools",
+		"keywords": [
+			"California Lemon Law",
+			"California lemon law lawyer",
+			"California lemon law attorney",
+			"Lemon Law calculator",
+			"buyback calculator",
+			"Song-Beverly Act",
+			"vehicle buyback",
+			"Lemon Law attorney"
+		],
+		"openGraph": {
+			"type": "website",
+			"title": "California Lemon Law Attorneys | {{brand.name}}",
+			"description": "California lemon law lawyer and attorney. Check eligibility, estimate your recovery, and organize your file in minutes.",
+			"siteName": "{{brand.name}} Lemon Law Tools",
+			"image": {
+				"url": "/images/hero-banner.jpg",
+				"width": 1200,
+				"height": 630,
+				"alt": "{{brand.name}} · California Lemon Law Attorneys"
+			}
+		},
+		"twitter": {
+			"card": "summary_large_image",
+			"title": "California Lemon Law Attorneys | {{brand.name}}",
+			"description": "California lemon law lawyer and attorney. Check eligibility, estimate your recovery, and organize your file in minutes."
+		},
+		"authors": [{ "name": "{{brand.legalName}}" }],
+		"robots": { "index": true, "follow": true }
+	},
+	"viewport": {
+		"themeColor": "#010F27",
+		"colorScheme": "dark",
+		"viewportFit": "cover"
+	},
+	"manifest": {
+		"name": "{{brand.name}} · California Lemon Law Tools",
+		"short_name": "{{brand.name}} Tools",
+		"description": "Free attorney-built California Lemon Law tools: eligibility, buyback estimate, and case documentation."
+	},
+	"notFound": {
+		"title": "Page not found",
+		"body": "This page is not in the site catalog. Return home or use a free tool to research your claim."
+	},
+	"error": {
+		"eyebrow": "Error",
+		"title": "Something went wrong",
+		"bodyPrefix": "Try refreshing the page. Need help now? Call us at "
+	},
+	"aria": {
+		"callPrefix": "Call",
+		"atPhone": "at"
+	}
+}

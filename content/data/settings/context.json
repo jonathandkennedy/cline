@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"LEAD_CAPTURE_CONTEXT_BY_ID": {
+		"home-final-cta": "Home: Final CTA",
+		"home-atf": "Home: Above the Fold",
+		"manufacturers-hub": "Manufacturers Hub",
+		"manufacturer-detail": "Manufacturer Detail",
+		"reviews-hub": "Reviews Hub",
+		"review-detail": "Review Detail",
+		"case-studies-hub": "Case Studies Hub",
+		"case-study-detail": "Case Study Detail",
+		"faq-hub": "FAQ Hub",
+		"faq-detail": "FAQ Detail",
+		"guidebook-hub": "Guidebook Hub",
+		"guidebook-chapter": "Guidebook Chapter",
+		"guidebook-thank-you": "Guidebook: Thank You",
+		"learn-hub": "Learn Hub",
+		"the-firm": "About",
+		"blog-hub": "Blog Hub",
+		"blog-detail": "Blog Article",
+		"locations-hub": "Locations Hub",
+		"location-detail": "Location Page",
+		"info-hub": "Guides Hub",
+		"info-detail": "Guide Page",
+		"eligibility-results": "Eligibility Results",
+		"tool-intro": "Tool Intro",
+		"tool-shell": "Tool Shell",
+		"shell": "Site Header",
+		"embed-case-review": "WordPress: Case Review Form",
+		"team": "Team"
+	}
+}

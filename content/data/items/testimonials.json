@@ -1,0 +1,167 @@
+{
+	"version": 1,
+	"TESTIMONIALS": [
+		{
+			"quote": "I had an excellent experience with Cline APC handling my lemon law case. From the beginning, the team was knowledgeable, professional, and kept me informed throughout the entire process. They made what could have been a…",
+			"name": "Annette Shepherd",
+			"location": "California",
+			"vehicle": "California Lemon Law client",
+			"outcome": "Client Review",
+			"source": "google",
+			"rating": 5
+		},
+		{
+			"quote": "If you're looking for a lemon law attorney, I highly recommend Cline APC. From start to finish, they were professional, responsive, and kept me informed throughout the entire process. Communication was excellent, and I…",
+			"name": "Eric K.",
+			"location": "Chula Vista, CA",
+			"vehicle": "California Lemon Law client",
+			"outcome": "Settlement",
+			"source": "yelp",
+			"rating": 5
+		},
+		{
+			"quote": "Eric Natenstedt and his team are absolute gems in this Lemon lawsuit field! From start to finish, Eric explained everything in detail and not once did I feel unsure of this process as I knew my husband and I were in the…",
+			"name": "Jenna C",
+			"location": "California",
+			"vehicle": "California Lemon Law client",
+			"outcome": "Client Review",
+			"source": "google",
+			"rating": 5
+		},
+		{
+			"quote": "These guys are the absolute best. I thought my truck was shot, as I had issues with my transmission over and over again. I gave them a call for a free consult, as a \"what the heck... let's see what they have to say.\"…",
+			"name": "Brian T.",
+			"location": "San Diego, CA",
+			"vehicle": "California Lemon Law client",
+			"outcome": "Client Review",
+			"source": "yelp",
+			"rating": 5
+		},
+		{
+			"quote": "Brian and his team at Cline APC are excellent. After a frustrating experience with another firm, they went above and beyond to resolve my vehicle issues. They were always easy to reach, provided clear guidance every…",
+			"name": "Alex Mikha",
+			"location": "California",
+			"vehicle": "California Lemon Law client",
+			"outcome": "Client Review",
+			"source": "google",
+			"rating": 5
+		},
+		{
+			"quote": "Mr. Cline set up a phone call with me to answer my questions and was an incredible help. There are so many lemon law firms that have the intake manager or someone explain things that are not always true. He helped me…",
+			"name": "Matthew Coan",
+			"location": "California",
+			"vehicle": "California Lemon Law client",
+			"outcome": "Client Review",
+			"source": "google",
+			"rating": 5
+		},
+		{
+			"quote": "Cline APC is professional, efficient and extremely knowledgeable about the exact nature of the law! Not only that, they go above and beyond to reach a settlement for their clients, beyond what is expected! They show a…",
+			"name": "Hilary Carlucci",
+			"location": "California",
+			"vehicle": "California Lemon Law client",
+			"outcome": "Settlement",
+			"source": "google",
+			"rating": 5
+		},
+		{
+			"quote": "I had a great experience with Cline APC. Got me full buyback on my Jeep Wrangler 4Xe. FCA, the manufacturer was a nightmare and Cline APC negotiated a great deal to make me whole.",
+			"name": "Josh Glandorf",
+			"location": "California",
+			"vehicle": "Jeep Wrangler 4Xe",
+			"outcome": "Buyback",
+			"source": "google",
+			"rating": 5
+		},
+		{
+			"quote": "I have a great experience with Cline APC. They were always available and walked me through the process of lemon law for my Jeep Wrangler 4Xe. Full buyback! Brian, Diana and Ashley are fantastic! Thank you!",
+			"name": "Josh G.",
+			"location": "Westminster, CA",
+			"vehicle": "Jeep Wrangler 4Xe",
+			"outcome": "Buyback",
+			"source": "yelp",
+			"rating": 5
+		},
+		{
+			"quote": "My beautiful 2021 Bronco, which I bought used, was a total lemon. Less than 10,000 miles and still under the original warranty when I bought it. After Ford denied a buyback, a friend recommended Cline APC. The process…",
+			"name": "Althea Wildhaber",
+			"location": "California",
+			"vehicle": "Ford denied a buyback, a friend recommended",
+			"outcome": "Buyback",
+			"source": "google",
+			"rating": 5
+		},
+		{
+			"quote": "Cline APC and all its professionals that we dealt with in the duration of our experience were amazing. They provided us with a service full of good character and positivity from the very beginning up until the very end.…",
+			"name": "Edgar Rufino",
+			"location": "Sacramento, CA",
+			"vehicle": "California Lemon Law client",
+			"outcome": "Client Review",
+			"source": "google",
+			"rating": 5
+		},
+		{
+			"quote": "The smoothness and professionalism with which Eric, Diana and the extended Cline APC team handled my case truly exceeded my expectations. I especially appreciated Eric’s genuine enthusiasm, thoroughness and proactive…",
+			"name": "Jose Portocarrero",
+			"location": "California",
+			"vehicle": "California Lemon Law client",
+			"outcome": "Buyback",
+			"source": "google",
+			"rating": 5
+		},
+		{
+			"quote": "When I first start researching Lemon Law, I found Cline APC's website provide excellent information on the CA lemon law, paperwork to prepare, and steps to take to start a claim. When I knew I had case, I was able to…",
+			"name": "Rahul Mohan",
+			"location": "Chatsworth, CA",
+			"vehicle": "California Lemon Law client",
+			"outcome": "Client Review",
+			"source": "google",
+			"rating": 5
+		},
+		{
+			"quote": "I highly recommend Brain and his team, they are professional and know how to deal with any lemon related issues you may have with your new car.",
+			"name": "M A.",
+			"location": "San Diego, CA",
+			"vehicle": "California Lemon Law client",
+			"outcome": "Replacement",
+			"source": "yelp",
+			"rating": 5
+		},
+		{
+			"quote": "Simply the best, I've used them twice! Got great results against GM and VW. Don't look around, just call them.",
+			"name": "Josh L.",
+			"location": "Vista, CA",
+			"vehicle": "California Lemon Law client",
+			"outcome": "Client Review",
+			"source": "yelp",
+			"rating": 5
+		},
+		{
+			"quote": "I reached out to Brian in December 2023 via his website/phone. I heard back within a day and also a quick scheduled call to discuss the details of my case. I shared documents with Brian and Stephanie before the call. I…",
+			"name": "Zee D.",
+			"location": "Sunnyvale, CA",
+			"vehicle": "California Lemon Law client",
+			"outcome": "Client Review",
+			"source": "yelp",
+			"rating": 5
+		},
+		{
+			"quote": "Brian, Mark, and the team were excellent all the way through this complicated and messy lemon law matter. They were always responsive and stuck with this even when the manufacturer delayed and challenged the matter.…",
+			"name": "Lawrence D.",
+			"location": "San Mateo, CA",
+			"vehicle": "California Lemon Law client",
+			"outcome": "Client Review",
+			"source": "yelp",
+			"rating": 5
+		},
+		{
+			"quote": "I'm very thankful for Brian Cline and his talented staff. After purchasing a 2 year old, certified pre-owned vehicle from a dealership, I quickly noticed that there were some issues that weren't reported or disclosed to…",
+			"name": "Brie A.",
+			"location": "Hermosa Beach, CA",
+			"vehicle": "California Lemon Law client",
+			"outcome": "Settlement",
+			"source": "yelp",
+			"rating": 5
+		}
+	]
+}

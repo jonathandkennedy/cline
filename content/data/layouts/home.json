@@ -1,0 +1,64 @@
+{
+	"version": 1,
+	"HOME_PAGE_MAIN": [
+		{
+			"type": "group",
+			"className": "home-atf flex flex-col",
+			"children": [
+				{
+					"type": "block",
+					"id": "hero"
+				},
+				{
+					"type": "block",
+					"id": "socialProof"
+				}
+			]
+		},
+		{
+			"type": "block",
+			"id": "stats"
+		},
+		{
+			"type": "block",
+			"id": "tools"
+		},
+		{
+			"type": "block",
+			"id": "process"
+		},
+		{
+			"type": "block",
+			"id": "qualify"
+		},
+		{
+			"type": "block",
+			"id": "testimonials"
+		},
+		{
+			"type": "block",
+			"id": "resources"
+		},
+		{
+			"type": "block",
+			"id": "founder"
+		},
+		{
+			"type": "block",
+			"id": "faq"
+		},
+		{
+			"type": "block",
+			"id": "guidebook"
+		},
+		{
+			"type": "block",
+			"id": "manufacturers"
+		},
+		{
+			"type": "block",
+			"id": "finalCta"
+		}
+	],
+	"HOME_PAGE_FOOTER_BLOCKS": ["scrollMarker", "footer", "scrollFlag", "backToTop"]
+}

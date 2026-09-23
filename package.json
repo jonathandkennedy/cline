@@ -1,0 +1,54 @@
+{
+	"name": "cline-apc",
+	"version": "0.1.0",
+	"description": "CLINE APC marketing site and Lemon Law tools (Next.js).",
+	"private": true,
+	"packageManager": "bun@1.3.13",
+	"scripts": {
+		"dev": "bun scripts/syncmdc.ts && next dev --turbopack --port=5000",
+		"build": "bun scripts/syncmdc.ts && bun scripts/plugin.ts && next build",
+		"start": "next start",
+		"lint": "eslint .",
+		"format": "prettier --write .",
+		"typecheck": "tsc --noEmit",
+		"sync:mdc": "bun scripts/syncmdc.ts"
+	},
+	"dependencies": {
+		"@hookform/resolvers": "5.4.0",
+		"lucide-react": "1.26.0",
+		"motion": "12.42.2",
+		"next": "16.2.11",
+		"react": "19.2.8",
+		"react-dom": "19.2.8",
+		"react-hook-form": "7.82.0",
+		"sonner": "2.0.7",
+		"zod": "4.4.3"
+	},
+	"devDependencies": {
+		"@tailwindcss/postcss": "4.3.3",
+		"@types/node": "26.1.1",
+		"@types/react": "19.2.17",
+		"@types/react-dom": "19.2.3",
+		"eslint": "9.39.4",
+		"eslint-config-next": "16.2.11",
+		"playwright": "1.61.1",
+		"prettier": "3.6.2",
+		"sharp": "0.35.3",
+		"tailwindcss": "4.3.3",
+		"typescript": "5.9.3",
+		"vitest": "4.1.10"
+	},
+	"ignoreScripts": [
+		"sharp",
+		"unrs-resolver"
+	],
+	"trustedDependencies": [
+		"sharp",
+		"unrs-resolver"
+	],
+	"overrides": {
+		"minimatch": "10.2.5",
+		"postcss": "8.5.22",
+		"sharp": "0.35.3"
+	}
+}

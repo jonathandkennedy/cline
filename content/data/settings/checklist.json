@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"CHECKLIST_FOOT_DISCLAIMER_ITEMS": [
+		"Repair orders and your purchase or lease contract help most - everything else here is optional. We never need a window sticker, and we often take cases with no documents at all when the account is clear and believable."
+	],
+	"CHECKLIST_FOOT_LINK_ITEMS": [
+		{
+			"path": "/contact",
+			"campaign": "documentation",
+			"label": "Send your notes for a free review"
+		}
+	],
+	"CHECKLIST_UI": {
+		"packetProgressEyebrow": "Packet Progress",
+		"packetCompleteTitle": "Packet complete",
+		"packetCompleteBody": "Send what you have to CLINE APC for a free review.",
+		"reportCopiedShort": "Copied • Print",
+		"reportCopiedLong": "Copied • Open Print View",
+		"reportGenerateShort": "Generate Notes",
+		"reportGenerateLong": "Generate & Print Notes",
+		"sendToCline": "Send This to CLINE APC",
+		"privacyNote": "Everything stays private in your browser until you choose to send or print it.",
+		"stickyCompleteLabel": "Packet complete",
+		"stickyProgressLabel": "Packet progress",
+		"stickySendPacket": "Send Packet",
+		"caseNotesLabel": "Case Notes",
+		"caseNotesAria": "Case notes",
+		"selectAll": "Select all",
+		"clearAll": "Clear all",
+		"uploadEyebrow": "Documents (optional)",
+		"uploadButton": "Add files",
+		"uploadRemoveAria": "Remove file"
+	}
+}

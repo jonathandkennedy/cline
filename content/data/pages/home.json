@@ -1,0 +1,376 @@
+{
+	"version": 1,
+	"PAGE": {
+		"sections": [
+			{
+				"type": "group",
+				"config": {
+					"className": "home-atf flex flex-col"
+				},
+				"sections": [
+					{
+						"type": "hero",
+						"data": {
+							"$ref": "settings/copy.homeHero"
+						},
+						"config": {
+							"valueProps": {
+								"$ref": "pages/home.VALUE_PROPS"
+							},
+							"trustItems": {
+								"$ref": "pages/home.HERO_TRUST_ITEMS"
+							},
+							"primaryCta": {
+								"label": "Get a Free Case Review"
+							},
+							"leadContextId": "home-atf"
+						}
+					},
+					{
+						"type": "socialProof"
+					}
+				]
+			},
+			{
+				"type": "stats"
+			},
+			{
+				"type": "tools"
+			},
+			{
+				"type": "process"
+			},
+			{
+				"type": "qualify"
+			},
+			{
+				"type": "testimonials"
+			},
+			{
+				"type": "resources"
+			},
+			{
+				"type": "founder"
+			},
+			{
+				"type": "faq"
+			},
+			{
+				"type": "guidebook"
+			},
+			{
+				"type": "manufacturers"
+			},
+			{
+				"type": "finalCta"
+			}
+		]
+	},
+	"PAGE_FOOTER": ["scrollMarker", "footer", "scrollFlag", "backToTop"],
+	"VALUE_PROPS": [
+		{
+			"icon": "shield-check",
+			"title": "You Never Pay Our Fees",
+			"body": "Manufacturers always pay our attorney fees, or the representation is free. Clients of {{brand.name}} do not pay any fees, ever."
+		},
+		{
+			"icon": "banknote",
+			"title": "Buyback, Refund or Cash",
+			"body": "We pursue a full repurchase, replacement, or cash settlement for your defective vehicle, whichever is best for you."
+		},
+		{
+			"icon": "scale",
+			"title": "Statewide Practice",
+			"body": "Lemon Law is a core of the practice, and we also take other consumer cases. We represent drivers across California."
+		}
+	],
+	"HERO_TRUST_ITEMS": ["No upfront fees", "You never pay our fees", "100% confidential"],
+	"HOME_STATS": [
+		{
+			"kind": "static",
+			"staticValue": "$0",
+			"label": "Upfront / Out of Pocket",
+			"href": "/learn"
+		},
+		{
+			"kind": "count",
+			"countTo": 4.9,
+			"countDecimals": 1,
+			"withStar": true,
+			"label": "Average Client Rating",
+			"href": "/reviews"
+		},
+		{
+			"kind": "count",
+			"countTo": 22,
+			"countSuffix": "+",
+			"label": "Manufacturers Taken On",
+			"href": "/manufacturers"
+		},
+		{
+			"kind": "static",
+			"staticValue": "2015",
+			"label": "Firm Founded",
+			"href": "/the-firm"
+		}
+	],
+	"PROCESS_STEPS": [
+		{
+			"n": "01",
+			"title": "Check If You Qualify",
+			"body": "Answer a few questions about warranty timing and repairs to see whether California Lemon Law may apply.",
+			"href": "/tool/eligibility-checker",
+			"ctaLabel": "Check Eligibility"
+		},
+		{
+			"n": "02",
+			"title": "Estimate Your Recovery",
+			"body": "See a directional figure from cash price or lease total, minus the mileage offset.",
+			"href": "/tool/buyback-calculator",
+			"ctaLabel": "Estimate Recovery"
+		},
+		{
+			"n": "03",
+			"title": "Build Your Case File",
+			"body": "Check off records you already have. Repair orders help most; we do not need a window sticker.",
+			"href": "/tool/documentation-checklist",
+			"ctaLabel": "Open Checklist"
+		},
+		{
+			"n": "04",
+			"title": "We Take It From Here",
+			"body": "We pursue the manufacturer. You never pay our fees. You can call before you finish a tool or gather records.",
+			"href": "tel:+18889826915",
+			"ctaLabel": "Call for a Free Review"
+		}
+	],
+	"QUALIFY_ITEMS": [
+		"A defect that first occurred during the original manufacturer warranty.",
+		"The defect substantially impairs the vehicle's use, value, or safety.",
+		"The manufacturer has not fixed it after a reasonable number of repair attempts, or the vehicle spent extended time in the shop.",
+		"You do not need an 18-month / 18,000-mile timeline. That window is not required to have a case."
+	],
+	"FINAL_CTA_TRUST": [
+		{
+			"icon": "map-pin",
+			"text": "Serving all of California"
+		},
+		{
+			"icon": "shield-check",
+			"text": "You never pay our fees"
+		}
+	],
+	"HOME_SOCIAL_PROOF": {
+		"successStoriesCaption": "Thousands of California success stories"
+	},
+	"FOUNDER_STATS": [
+		{
+			"stat": "Since 2006",
+			"label": "California Lemon Law"
+		},
+		{
+			"stat": "$0",
+			"label": "Out-of-Pocket to Start"
+		},
+		{
+			"stat": "22+",
+			"label": "Manufacturers Taken On"
+		},
+		{
+			"stat": "Statewide",
+			"label": "We Come to You"
+		}
+	],
+	"EXAMPLE_RECOVERY": {
+		"total": 54760,
+		"breakdown": [
+			{
+				"key": "Price + Fees",
+				"value": "$56.6k"
+			},
+			{
+				"key": "− Use Offset",
+				"value": "$3.9k"
+			},
+			{
+				"key": "+ Damages",
+				"value": "$2.1k"
+			}
+		]
+	},
+	"CHECKLIST": [
+		{
+			"name": "Purchase & ownership",
+			"items": [
+				"Purchase or lease contract / agreement (helpful if you have it)",
+				"Finance or lease paperwork",
+				"Payment records or statements",
+				"Proof of down payment or trade-in"
+			]
+		},
+		{
+			"name": "Repair records",
+			"items": [
+				"Repair orders / invoices (most helpful if you have them)",
+				"Diagnostic reports and technician notes",
+				"Warranty repair authorizations",
+				"Photos or videos of the defect",
+				"Rental car or loaner agreements during repairs"
+			]
+		},
+		{
+			"name": "Communications & timeline",
+			"items": [
+				"Emails and letters with the manufacturer or dealer",
+				"Notes from phone calls",
+				"Service appointment confirmations",
+				"Warranty coverage denial letters"
+			]
+		}
+	],
+	"TRUST_STATS": [
+		{
+			"value": "$0",
+			"label": "Upfront / Out of Pocket"
+		},
+		{
+			"value": "4.9★",
+			"label": "Average Client Rating"
+		},
+		{
+			"value": "22+",
+			"label": "Manufacturers Taken On"
+		},
+		{
+			"value": "2015",
+			"label": "Firm Founded"
+		}
+	],
+	"HOME_PREVIEW_LIMITS": {
+		"reviews": 6,
+		"faqs": 6,
+		"socialProofAvatars": 5
+	},
+	"HOME_RESOURCE_CTAS": {
+		"reviews": {
+			"href": "/reviews",
+			"label": "Read All Client Reviews"
+		},
+		"faq": {
+			"href": "/faq",
+			"label": "Browse Full FAQ"
+		},
+		"caseStudies": {
+			"href": "/case-studies",
+			"label": "View Case Studies",
+			"expandLabel": "More"
+		},
+		"manufacturers": {
+			"href": "/manufacturers",
+			"label": "Browse All Manufacturers"
+		}
+	},
+	"HOME_CLAIM_PATH": {
+		"eyebrow": "Resource library",
+		"headline": "Guides, outcomes, and brand strategy.",
+		"body": "Guides, FAQs, real outcomes, and manufacturer-specific strategy. Everything here is written for California Lemon Law, not generic legal blogs.",
+		"tiles": [
+			{
+				"id": "manufacturers",
+				"title": "Manufacturers",
+				"body": "Defect patterns, TSBs, and Song-Beverly strategy for the major automakers we cover.",
+				"href": "/manufacturers",
+				"cta": "Browse Brands",
+				"icon": "factory",
+				"image": "/images/hubs/manufacturers.jpg"
+			},
+			{
+				"id": "case-studies",
+				"title": "Case Studies",
+				"body": "Timelines, repair counts, and buyback math you can compare to your own file.",
+				"href": "/case-studies",
+				"cta": "View Studies",
+				"icon": "file-text",
+				"image": "/images/hubs/case-studies.jpg"
+			},
+			{
+				"id": "faq",
+				"title": "FAQ",
+				"body": "Fees, timelines, documents, and qualification in plain English with related answers.",
+				"href": "/faq",
+				"cta": "Browse FAQ",
+				"icon": "help-circle",
+				"image": "/images/hubs/faq.jpg"
+			},
+			{
+				"id": "reviews",
+				"title": "Client Reviews",
+				"body": "What California drivers report after we pursue their manufacturer.",
+				"href": "/reviews",
+				"cta": "Read Reviews",
+				"icon": "star",
+				"image": "/images/hubs/reviews.jpg"
+			},
+			{
+				"id": "guidebook",
+				"title": "Lemon Law Guidebook",
+				"body": "Chapter-by-chapter walkthrough of how claims work from first repair to buyback.",
+				"href": "/guidebook",
+				"cta": "Open Guidebook",
+				"icon": "book",
+				"image": "/images/hubs/guidebook.jpg"
+			},
+			{
+				"id": "learn",
+				"title": "Learn Hub",
+				"body": "Short videos and updates on California Lemon Law news and practical tips.",
+				"href": "/learn",
+				"cta": "Watch & Read",
+				"icon": "graduation",
+				"image": "/images/hubs/learn.jpg"
+			}
+		]
+	},
+	"HOME_SECTIONS": {
+		"tools": {
+			"eyebrow": "Three Free Tools · One Clear Path",
+			"headline": "Know exactly where you stand.",
+			"aside": "Each tool is private, runs entirely in your browser, and hands you something useful. No email required to start."
+		},
+		"process": {
+			"eyebrow": "How It Works",
+			"headline": "Four steps from questions to counsel."
+		},
+		"qualify": {
+			"eyebrow": "Do You Have a Lemon?",
+			"headline": "California's Lemon Law may be on your side.",
+			"intro": "Under the Song-Beverly Consumer Warranty Act, your new or used vehicle may qualify as a lemon if a warranted defect cannot be repaired in a reasonable number of attempts. What we care about most is whether the defect first occurred during the original manufacturer warranty:",
+			"ctaLabel": "Call for a Free Review",
+			"recoveryEyebrow": "Example Recovery",
+			"recoveryNote": "Directional estimate for a $52k SUV, first repair at ~9k miles. Taxes + incidentals included, mileage offset applied. Your situation will differ. The calculator shows yours live.",
+			"recoveryCta": "Open the Buyback Calculator"
+		},
+		"testimonials": {
+			"ratingCaption": "from {reviewCount}+ California clients"
+		},
+		"founder": {
+			"eyebrow": "Why CLINE APC",
+			"headline": "Built to make manufacturers pay.",
+			"roleLabel": "Founder · CLINE APC",
+			"portraitHref": "/team#brian-cline",
+			"paragraphs": [
+				"The auto industry is represented by some of the largest defense firms in California. CLINE APC was created with one mission: aggressively force manufacturers to buy back defective vehicles. Lemon Law is a core of the practice, and we also take other consumer cases.",
+				"Attorney {founder} has been practicing law since 2006 and handling California Lemon Law since 2006. He opened CLINE APC in 2015 and has since secured recoveries against major manufacturers. Our team represents drivers statewide, from San Diego and Los Angeles to the Bay Area and Sacramento."
+			],
+			"ctaLabel": "Request a Free Case Review"
+		},
+		"faq": {
+			"eyebrow": "Questions, Answered",
+			"headline": "California Lemon Law, in plain English.",
+			"subhead": "Fees, repair timelines, and what actually qualifies under Song-Beverly, explained without the legalese. Browse every topic in the full FAQ."
+		},
+		"manufacturers": {
+			"eyebrow": "We take on major manufacturers"
+		}
+	}
+}

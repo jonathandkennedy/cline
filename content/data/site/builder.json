@@ -1,0 +1,158 @@
+{
+	"version": 1,
+	"description": "Visual builder contract: block kinds map to registry ids in data/site/catalog.json.",
+	"nodeKinds": ["group", "block"],
+	"shells": ["home", "resource", "tool", "minimal"],
+	"registries": {
+		"home": {
+			"blocks": [
+				"hero",
+				"socialProof",
+				"stats",
+				"tools",
+				"process",
+				"qualify",
+				"testimonials",
+				"resources",
+				"founder",
+				"faq",
+				"guidebook",
+				"manufacturers",
+				"finalCta"
+			],
+			"footer": ["scrollMarker", "footer", "scrollFlag", "backToTop"]
+		},
+		"manufacturers-hub": {
+			"blocks": ["hero", "grid", "pathways", "funnel"]
+		},
+		"reviews-hub": {
+			"blocks": ["hero", "grid", "explore", "pathways", "funnel"]
+		},
+		"case-studies-hub": {
+			"blocks": ["hero", "grid", "pathways", "funnel"]
+		},
+		"faq-hub": {
+			"blocks": ["hero", "categories", "pathways", "funnel"]
+		},
+		"guidebook-hub": {
+			"blocks": ["hero", "chapters", "pathways", "funnel"]
+		},
+		"learn-hub": {
+			"blocks": ["hero", "feed", "funnel"]
+		},
+		"the-firm": {
+			"blocks": ["hero", "mission", "pillars", "founder", "statewide", "funnel"]
+		},
+		"team": {
+			"blocks": ["hero", "roster", "funnel"]
+		},
+		"review-detail": {
+			"blocks": ["hero", "story", "relatedQuestions", "funnel", "keepExploring"]
+		},
+		"case-study-detail": {
+			"blocks": ["hero", "narrative", "relatedQuestions", "funnel", "relatedContent"]
+		},
+		"faq-detail": {
+			"blocks": ["hero", "answer", "relatedQuestions", "statuteLinks", "funnel"]
+		},
+		"guidebook-chapter": {
+			"blocks": ["hero", "sections", "chapterNav", "funnel"]
+		},
+		"manufacturer-detail": {
+			"blocks": [
+				"hero",
+				"commonIssues",
+				"howWeHandle",
+				"rights",
+				"relatedQuestions",
+				"relatedContent",
+				"funnel"
+			]
+		},
+		"blog-hub": {
+			"blocks": ["hero", "grid", "pathways", "funnel"]
+		},
+		"locations-hub": {
+			"blocks": ["hero", "grid", "pathways", "funnel"]
+		},
+		"info-hub": {
+			"blocks": ["hero", "grid", "pathways", "funnel"]
+		},
+		"blog-detail": {
+			"blocks": ["hero", "body", "pathways", "funnel"]
+		},
+		"location-detail": {
+			"blocks": ["hero", "body", "pathways", "funnel"]
+		},
+		"info-detail": {
+			"blocks": ["hero", "body", "pathways", "funnel"]
+		},
+		"tool-shell": {
+			"chrome": ["embedHeader", "scrollMarker", "footer", "scrollFlag", "backToTop"]
+		}
+	},
+	"copyRefs": {
+		"homeSections": "pages/home.HOME_SECTIONS",
+		"hubHeroes": "pages/heroes",
+		"firmSections": "pages/firm.THE_FIRM_SECTIONS",
+		"team": "items/team",
+		"brand": "settings/brand",
+		"chrome": "settings/chrome",
+		"copy": "settings/copy",
+		"eligibility": "settings/eligibility",
+		"embed": "settings/embed",
+		"footer": "settings/footer",
+		"nav": "settings/nav",
+		"paths": "settings/paths",
+		"vehicles": "settings/vehicles",
+		"widgets": "settings/widgets",
+		"faqs": "items/faqs",
+		"guidebook": "items/guidebook",
+		"manufacturers": "items/manufacturers",
+		"profiles": "items/profiles",
+		"results": "items/results",
+		"reviews": "items/reviews",
+		"studies": "items/studies",
+		"testimonials": "items/testimonials",
+		"blog": "items/blog",
+		"locations": "items/locations",
+		"editorial": "items/editorial"
+	},
+	"dataIndex": [
+		"layouts/home",
+		"layouts/hubs",
+		"layouts/shell",
+		"pages/home",
+		"pages/heroes",
+		"pages/firm",
+		"settings/brand",
+		"settings/buyback",
+		"settings/checklist",
+		"settings/chrome",
+		"settings/context",
+		"settings/copy",
+		"settings/eligibility",
+		"settings/embed",
+		"settings/footer",
+		"settings/nav",
+		"settings/paths",
+		"settings/redirects",
+		"settings/legacy",
+		"settings/vehicles",
+		"settings/widgets",
+		"items/faqs",
+		"items/guidebook",
+		"items/manufacturers",
+		"items/profiles",
+		"items/results",
+		"items/reviews",
+		"items/studies",
+		"items/testimonials",
+		"items/blog",
+		"items/locations",
+		"items/editorial",
+		"site/catalog",
+		"site/builder",
+		"site/components"
+	]
+}

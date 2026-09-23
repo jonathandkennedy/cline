@@ -1,0 +1,60 @@
+{
+	"version": 1,
+	"EMBED_QUERY_ITEMS": [
+		{
+			"param": "embed",
+			"value": "1"
+		},
+		{
+			"param": "iframe",
+			"value": "1"
+		}
+	],
+	"FAQ_INTRO_CTA_ITEMS": [
+		{
+			"id": "eligibility",
+			"type": "case-review",
+			"label": "Call for a Free Review",
+			"variant": "primary",
+			"leadContextId": "faq-hub"
+		},
+		{
+			"id": "faq",
+			"type": "link",
+			"href": "/faq",
+			"label": "Browse Full FAQ",
+			"variant": "secondary"
+		}
+	],
+	"LEARN_HUB_CTA": {
+		"href": "/learn",
+		"label": "Open Learn Hub"
+	},
+	"GUIDEBOOK_CTA": {
+		"pill": "Free Attorney Guide",
+		"title": "The California Lemon Law Guidebook",
+		"description": "Plain-English rights, the buyback process, and how to protect yourself against major manufacturers, written by the attorneys at CLINE APC.",
+		"ctaHref": "/guidebook",
+		"ctaLabel": "Read the Guidebook",
+		"coverSrc": "/images/guidebook-cover.png",
+		"coverAlt": "3D cover of The California Lemon Law Guidebook by CLINE APC",
+		"coverWidth": 420,
+		"coverHeight": 546,
+		"coverSizes": "(max-width: 768px) 160px, 208px",
+		"glowClassName": "glow -left-20 top-0 h-56 w-56 bg-gold/15"
+	},
+	"PRIMARY_ELIGIBILITY_CTA": {
+		"label": "Call for a Free Case Review"
+	},
+	"REVEAL_DELAY_CLASS": {
+		"80": "reveal-delay-80",
+		"90": "reveal-delay-90",
+		"160": "reveal-delay-160",
+		"180": "reveal-delay-180",
+		"270": "reveal-delay-270"
+	},
+	"SECONDARY_CASE_REVIEW_CTA": {
+		"label": "Free Case Review"
+	},
+	"STICKY_CTA_ITEMS": []
+}

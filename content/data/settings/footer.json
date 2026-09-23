@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"FOOTER_LINK_ITEMS": [
+		{
+			"href": "/the-firm",
+			"label": "About CLINE APC"
+		},
+		{
+			"href": "/team",
+			"label": "Meet the Team"
+		},
+		{
+			"href": "/info/how-it-works",
+			"label": "How It Works"
+		},
+		{
+			"href": "/info/fees",
+			"label": "Fees"
+		},
+		{
+			"href": "/blog",
+			"label": "Blog"
+		},
+		{
+			"href": "/locations",
+			"label": "California Cities"
+		},
+		{
+			"href": "/contact",
+			"label": "Contact Us"
+		}
+	]
+}

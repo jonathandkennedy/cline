@@ -1,0 +1,175 @@
+{
+	"version": 1,
+	"description": "One-to-one redirects for legacy WordPress blog URLs that are not published on the new site. Next.js preserves query strings on these redirects.",
+	"sitemapComparison": {
+		"liveWpPostSitemapLocs": 223,
+		"newSiteBlogSitemapLocs": 223,
+		"liveWpPublishedPosts": 222,
+		"newSiteBlogPosts": 222,
+		"ticketLegacyPostCount": 279,
+		"ticketMissingEstimate": 56,
+		"note": "The public Yoast post-sitemap on lemonlawlawyerscalifornia.com already lists the blog hub plus 222 posts (223 loc). No remaining public snapshot of a 279-URL post sitemap was available. Mapped URLs are every dated or /blog/ slug still referenced in imported editorial content that is absent from BLOG_POSTS."
+	},
+	"mappings": [
+		{
+			"slug": "2022-ford-f-150-recalled-over-flickering-parking-lights",
+			"legacyPaths": ["/2023/12/2022-ford-f-150-recalled-over-flickering-parking-lights"],
+			"destination": "/blog/ford-car-recalls",
+			"rationale": "Ford F-150 recall article; live replacement is the Ford recalls post."
+		},
+		{
+			"slug": "45622-high-density-and-high-concentrations-cars",
+			"legacyPaths": ["/2010/08/45622-high-density-and-high-concentrations-cars"],
+			"destination": "/blog",
+			"rationale": "2010 traffic-density note with no equivalent post; closest live surface is the blog hub, not the homepage."
+		},
+		{
+			"slug": "auto-lemon-index-cap-cars-fg-may22-1",
+			"legacyPaths": [
+				"/2022/05/Auto-Lemon-Index-CAP-CARS-FG-May22-1",
+				"/2022/05/auto-lemon-index-cap-cars-fg-may22-1"
+			],
+			"destination": "/blog/most-reliable-cars-tructs-suvs-2022",
+			"rationale": "Attachment/infographic for an Auto Lemon Index ranking; closest live post is the 2022 reliability roundup."
+		},
+		{
+			"slug": "car-fuse-facts-what-you-need-to-know-about-automotive-fuses",
+			"legacyPaths": [],
+			"destination": "/blog/common-car-defects-in-lemon-car",
+			"rationale": "Electrical/fuse explainer; closest live post covers common lemon defects including electrical issues."
+		},
+		{
+			"slug": "car-recalls-2024-see-the-full-list-of-612k-hyundai-kia-mercedes-benz-and-chrysler-vehicles-recalled",
+			"legacyPaths": [
+				"/2024/04/car-recalls-2024-see-the-full-list-of-612k-hyundai-kia-mercedes-benz-and-chrysler-vehicles-recalled"
+			],
+			"destination": "/blog/guide-to-hyundai-car-recalls-in-2024",
+			"rationale": "2024 multi-brand recall roundup; Hyundai 2024 recalls post is the closest live equivalent (also see Kia/Mercedes manufacturer hubs)."
+		},
+		{
+			"slug": "chevy-equinox-blazer-blazer-ev-and-gmc-terrain-recalled-for-fracturing-door-striker",
+			"legacyPaths": [
+				"/2023/12/chevy-equinox-blazer-blazer-ev-and-gmc-terrain-recalled-for-fracturing-door-striker"
+			],
+			"destination": "/blog/chevy-gmc-consumer-alert",
+			"rationale": "Chevy/GMC recall; live Chevy-GMC consumer alert is the matching topic."
+		},
+		{
+			"slug": "fiat-500-problems-common-issues-and-repair-costs",
+			"legacyPaths": [],
+			"destination": "/blog/transmission-problems-fiat-500-fiat-500-defects-2013-fiat-500-problems",
+			"rationale": "Direct Fiat 500 problems replacement."
+		},
+		{
+			"slug": "ftc-announces-cars-rule-fight-scams-vehicle-shopping",
+			"legacyPaths": ["/2023/12/ftc-announces-cars-rule-fight-scams-vehicle-shopping"],
+			"destination": "/blog/are-illegal-car-sales-tactics-and-how-to-get-out-of-them",
+			"rationale": "FTC vehicle-shopping scam rule; closest live post is illegal car-sales tactics."
+		},
+		{
+			"slug": "gm-issues-stop-sale-order-on-some-2024-gmc-canyon-pickups",
+			"legacyPaths": ["/2024/09/gm-issues-stop-sale-order-on-some-2024-gmc-canyon-pickups"],
+			"destination": "/manufacturers/gmc",
+			"rationale": "GMC Canyon stop-sale; manufacturer hub is the live GMC destination."
+		},
+		{
+			"slug": "gmc-sierra-and-yukon-recalled-for-failing-brake-fluid-loss-detection",
+			"legacyPaths": [
+				"/2024/09/gmc-sierra-and-yukon-recalled-for-failing-brake-fluid-loss-detection"
+			],
+			"destination": "/blog/2017-gmc-yukon-transmission-recall",
+			"rationale": "GMC Sierra/Yukon recall; closest live Yukon/GMC recall post."
+		},
+		{
+			"slug": "is-there-a-time-limit-to-file-a-lemon-law-claim-scaled",
+			"legacyPaths": [
+				"/2019/07/Is-There-a-Time-Limit-to-File-a-Lemon-Law-Claim-scaled",
+				"/2019/07/is-there-a-time-limit-to-file-a-lemon-law-claim-scaled"
+			],
+			"destination": "/blog/is-there-a-time-limit-to-file-a-lemon-law-claim",
+			"rationale": "WordPress image attachment of the live time-limit infographic post."
+		},
+		{
+			"slug": "most-common-problems-in-maseratis-how-to-avoid-them",
+			"legacyPaths": [],
+			"destination": "/manufacturers/maserati",
+			"rationale": "Maserati problems guide; live manufacturer page is the topical destination."
+		},
+		{
+			"slug": "nissan-sentra-reliability-and-common-problems",
+			"legacyPaths": [],
+			"destination": "/manufacturers/nissan",
+			"rationale": "Nissan Sentra reliability; live Nissan manufacturer page."
+		},
+		{
+			"slug": "ram-1500-named-2025-motortrend-truck-year",
+			"legacyPaths": ["/2024/52/ram-1500-named-2025-motortrend-truck-year"],
+			"destination": "/manufacturers/ram",
+			"rationale": "RAM 1500 news item; live RAM manufacturer page."
+		},
+		{
+			"slug": "settlement-reached-in-class-action-over-chevy-equinox-gmc-terrain-oil-consumption-here-are-the-details",
+			"legacyPaths": [],
+			"destination": "/blog/common-problems-chevy-equinox-models",
+			"rationale": "Equinox/Terrain oil-consumption settlement; live Equinox problems post."
+		},
+		{
+			"slug": "signs-of-suspension-failure",
+			"legacyPaths": [],
+			"destination": "/blog/common-car-defects-in-lemon-car",
+			"rationale": "Suspension failure signs; closest live defects overview."
+		},
+		{
+			"slug": "tesla-scares-customers-worthless-ndas-daily-kanban-talks-lawyers",
+			"legacyPaths": ["/2016/06/tesla-scares-customers-worthless-ndas-daily-kanban-talks-lawyers"],
+			"destination": "/blog/teslas-arbitration-agreement-hurt-lemon-law-case",
+			"rationale": "Tesla NDA/lawyer pressure piece; closest live Tesla procedure post is arbitration agreements."
+		},
+		{
+			"slug": "the-gm-8-speed-transmission-just-needs-to-go-away-asap",
+			"legacyPaths": ["/2019/06/the-gm-8-speed-transmission-just-needs-to-go-away-asap"],
+			"destination": "/blog/gms-recent-transmission-defect",
+			"rationale": "GM 8-speed transmission rant; live GM transmission defect post."
+		},
+		{
+			"slug": "the-re-emergence-of-rotary-engines",
+			"legacyPaths": ["/2022/07/the-re-emergence-of-rotary-engines"],
+			"destination": "/manufacturers/mazda",
+			"rationale": "Rotary-engine feature; Mazda is the live manufacturer destination."
+		},
+		{
+			"slug": "thinking-of-buying-a-tesla-heres-what-you-need-to-be-aware-of-if-its-defective",
+			"legacyPaths": [
+				"/2019/03/thinking-of-buying-a-tesla-heres-what-you-need-to-be-aware-of-if-its-defective"
+			],
+			"destination": "/blog/are-teslas-covered-by-lemon-laws-debunking-myths-and-misconceptions",
+			"rationale": "Buying a defective Tesla; live Tesla lemon-law coverage post."
+		},
+		{
+			"slug": "toyota-tops-fiat-flops-in-autoguide-s-1st-annual-lemon-list",
+			"legacyPaths": ["/2016/01/toyota-tops-fiat-flops-in-autoguide-s-1st-annual-lemon-list"],
+			"destination": "/blog/most-reliable-cars-tructs-suvs-2022",
+			"rationale": "AutoGuide lemon-list ranking; closest live reliability ranking post."
+		},
+		{
+			"slug": "under-warranty-used-cars-not-eligible-for-lemon-law-according-to-california-court",
+			"legacyPaths": [
+				"/2024/11/under-warranty-used-cars-not-eligible-for-lemon-law-according-to-california-court"
+			],
+			"destination": "/blog/used-car-no-warranty-lemon-law-california",
+			"rationale": "Used-car warranty eligibility ruling; live used-car California lemon-law post."
+		},
+		{
+			"slug": "understanding-injuries-caused-by-airbag-deployment-what-you-need-to-know",
+			"legacyPaths": [],
+			"destination": "/blog/honda-car-recalls-in-2024",
+			"rationale": "Airbag-injury explainer linked from Honda recall coverage; live Honda 2024 recalls post covers airbag/OCS defects."
+		}
+	],
+	"unmappedForReview": [
+		{
+			"id": "historical-post-sitemap-delta",
+			"detail": "Ticket expected ~56 URLs from a 279-vs-223 post sitemap comparison. Live Yoast post-sitemap is already 223 locs (hub + 222 posts), matching the new site. Wayback Machine snapshots through 2026-01 also sit at ~215–223 locs. Remaining ~33 URLs from the 279 figure are not in any current public sitemap, WP REST posts, or in-repo permalinks. Provide Search Console / Screaming Frog rows for those paths before launch if they still receive traffic."
+		}
+	]
+}

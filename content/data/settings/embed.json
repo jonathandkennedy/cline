@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"ELFSIGHT_LEARN_FEED": {
+		"appId": "3a9f15a7-2790-439c-aa54-4b4312c13dd2",
+		"platformScript": "https://elfsightcdn.com/platform.js"
+	},
+	"CASE_REVIEW_EMBED": {
+		"id": "case-review",
+		"path": "/embed/case-review",
+		"defaultHeight": 920,
+		"title": "Free case review",
+		"description": "Request a free California Lemon Law case review from CLINE APC."
+	},
+	"LEARN_FEED_PLACEHOLDER": {
+		"loadingMessage": "Loading the latest tips…",
+		"emptyMessage": "If the feed does not appear, open Instagram:",
+		"instagramHandle": "@lemonlawlegalgroup",
+		"instagramHref": "https://www.instagram.com/lemonlawlegalgroup/"
+	}
+}

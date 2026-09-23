@@ -1,0 +1,165 @@
+{
+	"version": 1,
+	"BUYBACK_DEFAULTS": {
+		"price": 52000,
+		"months": 11,
+		"miles": 9000,
+		"attempts": 4,
+		"days": 32
+	},
+	"BUYBACK_PRESETS": [
+		{
+			"label": "New SUV, 4 repairs",
+			"state": {
+				"price": 62000,
+				"months": 9,
+				"miles": 8000,
+				"attempts": 4,
+				"days": 22
+			}
+		},
+		{
+			"label": "EV, 35 days in shop",
+			"state": {
+				"price": 55000,
+				"months": 12,
+				"miles": 11000,
+				"attempts": 3,
+				"days": 35
+			}
+		},
+		{
+			"label": "Truck, safety defect",
+			"state": {
+				"price": 48000,
+				"months": 8,
+				"miles": 7000,
+				"attempts": 2,
+				"days": 18
+			}
+		},
+		{
+			"label": "Sedan, long repair",
+			"state": {
+				"price": 32000,
+				"months": 15,
+				"miles": 16000,
+				"attempts": 5,
+				"days": 41
+			}
+		}
+	],
+	"BUYBACK_BREAKDOWN_ROWS": [
+		{
+			"key": "price",
+			"label": "Cash Price / Lease Total",
+			"dotClass": "bg-recovery",
+			"sign": ""
+		},
+		{
+			"key": "collateral",
+			"label": "Taxes & Fees",
+			"dotClass": "bg-gold",
+			"sign": "+"
+		},
+		{
+			"key": "incidentals",
+			"label": "Incidentals",
+			"dotClass": "bg-cta",
+			"sign": "+"
+		},
+		{
+			"key": "offset",
+			"label": "Mileage Offset",
+			"dotClass": "bg-danger",
+			"sign": "−"
+		}
+	],
+	"BUYBACK_COMPOSITION_SEGMENTS": [
+		{
+			"key": "price",
+			"label": "Cash price / lease total",
+			"color": "var(--color-recovery)"
+		},
+		{
+			"key": "collateral",
+			"label": "Taxes & fees",
+			"color": "var(--color-gold)"
+		},
+		{
+			"key": "incidentals",
+			"label": "Incidental damages",
+			"color": "var(--color-cta)"
+		}
+	],
+	"BUYBACK_PRESUMPTION_ITEMS": [
+		{
+			"metKey": "meetsRepair",
+			"label": "Repeat Repair Visits"
+		},
+		{
+			"metKey": "meetsDays",
+			"label": "Extended Time in the Shop"
+		}
+	],
+	"BUYBACK_SLIDER_FIELDS": [
+		{
+			"key": "price",
+			"label": "Cash Price / Lease Total",
+			"min": 15000,
+			"max": 145000,
+			"step": 500,
+			"minLabel": "$15k",
+			"maxLabel": "$145k"
+		},
+		{
+			"key": "months",
+			"label": "Months Since Delivery",
+			"min": 1,
+			"max": 66,
+			"minLabel": "1 mo",
+			"maxLabel": "5.5 yrs"
+		},
+		{
+			"key": "miles",
+			"label": "Miles at First Repair Attempt",
+			"min": 500,
+			"max": 60000,
+			"step": 500,
+			"minLabel": "500",
+			"maxLabel": "60k"
+		},
+		{
+			"key": "attempts",
+			"label": "Repair Attempts (Same Defect)",
+			"min": 0,
+			"max": 9,
+			"minLabel": "0",
+			"maxLabel": "9+"
+		},
+		{
+			"key": "days",
+			"label": "Days Out of Service for Repairs",
+			"min": 0,
+			"max": 115,
+			"minLabel": "0 days",
+			"maxLabel": "115 days",
+			"fullWidth": true
+		}
+	],
+	"BUYBACK_RAIL_CHROME": {
+		"estimatedRecoveryEyebrow": "Estimated Recovery",
+		"strongIndicators": "Strong Indicators",
+		"keepDocumenting": "Keep Documenting",
+		"directionalOnly": "Directional only",
+		"grossLabel": "Gross",
+		"offsetLabel": "− Offset",
+		"statutoryPresumptionLabel": "Repair History",
+		"yourVehicleLabel": "Your Vehicle",
+		"recoveryBreakdownLabel": "Recovery Breakdown",
+		"recoveryBreakdownGrid": "mt-3 grid min-w-0 grid-cols-2 gap-x-4 gap-y-4 sm:grid-cols-4 sm:gap-x-3 sm:gap-y-1",
+		"recoveryBreakdownCell": "min-w-0",
+		"recoveryBreakdownCaption": "flex min-w-0 items-start gap-1.5 text-[10.5px] leading-snug uppercase tracking-wide text-subtle",
+		"recoveryBreakdownValue": "tabular mt-1 break-all text-[17px] font-semibold leading-tight text-fg sm:break-normal sm:text-[19px]"
+	}
+}

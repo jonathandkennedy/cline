@@ -1,0 +1,593 @@
+{
+	"version": 1,
+	"registries": {
+		"home": {
+			"main": {
+				"hero": {
+					"kind": "home.hero",
+					"props": {
+						"leadContextId": "home-atf"
+					}
+				},
+				"socialProof": {
+					"kind": "home.socialProof"
+				},
+				"stats": {
+					"kind": "home.stats"
+				},
+				"tools": {
+					"kind": "home.tools"
+				},
+				"process": {
+					"kind": "home.process"
+				},
+				"qualify": {
+					"kind": "home.qualify"
+				},
+				"testimonials": {
+					"kind": "home.testimonials"
+				},
+				"resources": {
+					"kind": "home.resources"
+				},
+				"founder": {
+					"kind": "home.founder"
+				},
+				"faq": {
+					"kind": "home.faq"
+				},
+				"guidebook": {
+					"kind": "home.guidebook"
+				},
+				"manufacturers": {
+					"kind": "home.manufacturers"
+				},
+				"finalCta": {
+					"kind": "home.finalCta"
+				}
+			},
+			"footer": {
+				"scrollMarker": {
+					"kind": "chrome.marker"
+				},
+				"footer": {
+					"kind": "chrome.footer"
+				},
+				"scrollFlag": {
+					"kind": "chrome.end"
+				},
+				"stickyCta": {
+					"kind": "chrome.stickyCta"
+				},
+				"backToTop": {
+					"kind": "chrome.backToTop"
+				}
+			}
+		},
+		"manufacturers-hub": {
+			"main": {
+				"hero": {
+					"kind": "resource.hubHero",
+					"props": {
+						"leadContextId": "manufacturers-hub",
+						"heroKey": "MANUFACTURERS_HUB_HERO",
+						"breadcrumb": "manufacturers-hub"
+					}
+				},
+				"grid": {
+					"kind": "resource.manufacturerGrid"
+				},
+				"pathways": {
+					"kind": "resource.pathways",
+					"props": {
+						"variant": "manufacturers-hub"
+					}
+				},
+				"funnel": {
+					"kind": "resource.funnel",
+					"props": {
+						"leadContextId": "manufacturers-hub"
+					}
+				}
+			}
+		},
+		"reviews-hub": {
+			"main": {
+				"hero": {
+					"kind": "resource.hubHero",
+					"props": {
+						"leadContextId": "reviews-hub",
+						"heroKey": "REVIEWS_HUB_HERO",
+						"breadcrumb": "reviews-hub"
+					}
+				},
+				"grid": {
+					"kind": "resource.reviewsGrid"
+				},
+				"explore": {
+					"kind": "resource.reviewsExplore"
+				},
+				"pathways": {
+					"kind": "resource.pathways",
+					"props": {
+						"variant": "reviews-hub"
+					}
+				},
+				"funnel": {
+					"kind": "resource.funnel",
+					"props": {
+						"leadContextId": "reviews-hub"
+					}
+				}
+			}
+		},
+		"case-studies-hub": {
+			"main": {
+				"hero": {
+					"kind": "resource.hubHero",
+					"props": {
+						"leadContextId": "case-studies-hub",
+						"heroKey": "CASE_STUDIES_HUB_HERO",
+						"breadcrumb": "case-studies-hub"
+					}
+				},
+				"grid": {
+					"kind": "resource.caseStudiesGrid"
+				},
+				"pathways": {
+					"kind": "resource.pathways",
+					"props": {
+						"variant": "case-studies-hub"
+					}
+				},
+				"funnel": {
+					"kind": "resource.funnel",
+					"props": {
+						"leadContextId": "case-studies-hub"
+					}
+				}
+			}
+		},
+		"faq-hub": {
+			"main": {
+				"hero": {
+					"kind": "resource.hubHero",
+					"props": {
+						"leadContextId": "faq-hub",
+						"heroKey": "FAQ_HUB_HERO",
+						"breadcrumb": "faq-hub"
+					}
+				},
+				"categories": {
+					"kind": "resource.faqCategories"
+				},
+				"pathways": {
+					"kind": "resource.pathways",
+					"props": {
+						"variant": "faq-hub"
+					}
+				},
+				"funnel": {
+					"kind": "resource.funnel",
+					"props": {
+						"leadContextId": "faq-hub"
+					}
+				}
+			}
+		},
+		"guidebook-hub": {
+			"main": {
+				"hero": {
+					"kind": "resource.hubHero",
+					"props": {
+						"leadContextId": "guidebook-hub",
+						"heroKey": "GUIDEBOOK_HUB_HERO",
+						"breadcrumb": "guidebook-hub"
+					}
+				},
+				"chapters": {
+					"kind": "resource.guidebookChapters"
+				},
+				"pathways": {
+					"kind": "resource.pathways",
+					"props": {
+						"variant": "guidebook-hub"
+					}
+				},
+				"funnel": {
+					"kind": "resource.funnel",
+					"props": {
+						"leadContextId": "guidebook-hub"
+					}
+				}
+			}
+		},
+		"learn-hub": {
+			"main": {
+				"hero": {
+					"kind": "resource.hubHero",
+					"props": {
+						"leadContextId": "learn-hub",
+						"heroKey": "LEARN_HUB_HERO",
+						"breadcrumb": "learn-hub"
+					}
+				},
+				"introVideo": {
+					"kind": "learn.introVideo"
+				},
+				"feed": {
+					"kind": "resource.learnFeed"
+				},
+				"funnel": {
+					"kind": "resource.funnel",
+					"props": {
+						"leadContextId": "learn-hub"
+					}
+				}
+			}
+		},
+		"the-firm": {
+			"main": {
+				"hero": {
+					"kind": "resource.hubHero",
+					"props": {
+						"leadContextId": "the-firm",
+						"heroKey": "THE_FIRM_HERO",
+						"breadcrumb": "the-firm"
+					}
+				},
+				"mission": {
+					"kind": "firm.mission"
+				},
+				"pillars": {
+					"kind": "firm.pillars"
+				},
+				"founder": {
+					"kind": "firm.founder"
+				},
+				"statewide": {
+					"kind": "firm.statewide"
+				},
+				"funnel": {
+					"kind": "resource.funnel",
+					"props": {
+						"leadContextId": "the-firm"
+					}
+				}
+			}
+		},
+		"team": {
+			"main": {
+				"hero": {
+					"kind": "resource.hubHero",
+					"props": {
+						"leadContextId": "team",
+						"heroKey": "TEAM_HERO",
+						"breadcrumb": "team"
+					}
+				},
+				"roster": {
+					"kind": "team.roster"
+				},
+				"funnel": {
+					"kind": "resource.funnel",
+					"props": {
+						"leadContextId": "team"
+					}
+				}
+			}
+		},
+		"review-detail": {
+			"main": {
+				"hero": {
+					"kind": "detail.reviewHero"
+				},
+				"story": {
+					"kind": "detail.reviewStory"
+				},
+				"relatedQuestions": {
+					"kind": "detail.reviewRelatedQuestions"
+				},
+				"funnel": {
+					"kind": "resource.funnel",
+					"props": {
+						"leadContextId": "review-detail"
+					}
+				},
+				"keepExploring": {
+					"kind": "detail.reviewKeepExploring"
+				}
+			}
+		},
+		"case-study-detail": {
+			"main": {
+				"hero": {
+					"kind": "detail.caseStudyHero"
+				},
+				"narrative": {
+					"kind": "detail.caseStudyNarrative"
+				},
+				"relatedQuestions": {
+					"kind": "detail.caseStudyRelatedQuestions"
+				},
+				"funnel": {
+					"kind": "resource.funnel",
+					"props": {
+						"leadContextId": "case-study-detail"
+					}
+				},
+				"relatedContent": {
+					"kind": "detail.caseStudyRelatedContent"
+				}
+			}
+		},
+		"faq-detail": {
+			"main": {
+				"hero": {
+					"kind": "detail.faqHero"
+				},
+				"answer": {
+					"kind": "detail.faqAnswer"
+				},
+				"relatedQuestions": {
+					"kind": "detail.faqRelatedQuestions"
+				},
+				"statuteLinks": {
+					"kind": "detail.faqStatuteLinks"
+				},
+				"funnel": {
+					"kind": "resource.funnel",
+					"props": {
+						"leadContextId": "faq-detail"
+					}
+				}
+			}
+		},
+		"guidebook-chapter": {
+			"main": {
+				"hero": {
+					"kind": "detail.guidebookChapterHero"
+				},
+				"sections": {
+					"kind": "detail.guidebookChapterSections"
+				},
+				"chapterNav": {
+					"kind": "detail.guidebookChapterNav"
+				},
+				"funnel": {
+					"kind": "resource.funnel",
+					"props": {
+						"leadContextId": "guidebook-chapter"
+					}
+				}
+			}
+		},
+		"manufacturer-detail": {
+			"main": {
+				"hero": {
+					"kind": "detail.manufacturerHero",
+					"props": {
+						"leadContextId": "manufacturer-detail"
+					}
+				},
+				"commonIssues": {
+					"kind": "detail.manufacturerCommonIssues"
+				},
+				"howWeHandle": {
+					"kind": "detail.manufacturerHowWeHandle"
+				},
+				"rights": {
+					"kind": "detail.manufacturerRights"
+				},
+				"relatedQuestions": {
+					"kind": "detail.manufacturerRelatedQuestions"
+				},
+				"relatedContent": {
+					"kind": "detail.manufacturerRelatedContent"
+				},
+				"funnel": {
+					"kind": "resource.funnel",
+					"props": {
+						"leadContextId": "manufacturer-detail"
+					}
+				}
+			}
+		},
+		"blog-hub": {
+			"main": {
+				"hero": {
+					"kind": "resource.hubHero",
+					"props": {
+						"leadContextId": "blog-hub",
+						"heroKey": "BLOG_HUB_HERO",
+						"breadcrumb": "blog-hub"
+					}
+				},
+				"grid": {
+					"kind": "resource.editorialGrid",
+					"props": {
+						"collection": "blog"
+					}
+				},
+				"pathways": {
+					"kind": "resource.pathways",
+					"props": {
+						"variant": "blog-hub"
+					}
+				},
+				"funnel": {
+					"kind": "resource.funnel",
+					"props": {
+						"leadContextId": "blog-hub"
+					}
+				}
+			}
+		},
+		"locations-hub": {
+			"main": {
+				"hero": {
+					"kind": "resource.hubHero",
+					"props": {
+						"leadContextId": "locations-hub",
+						"heroKey": "LOCATIONS_HUB_HERO",
+						"breadcrumb": "locations-hub",
+						"align": "center"
+					}
+				},
+				"grid": {
+					"kind": "resource.editorialGrid",
+					"props": {
+						"collection": "locations"
+					}
+				},
+				"pathways": {
+					"kind": "resource.pathways",
+					"props": {
+						"variant": "locations-hub"
+					}
+				},
+				"funnel": {
+					"kind": "resource.funnel",
+					"props": {
+						"leadContextId": "locations-hub"
+					}
+				}
+			}
+		},
+		"info-hub": {
+			"main": {
+				"hero": {
+					"kind": "resource.hubHero",
+					"props": {
+						"leadContextId": "info-hub",
+						"heroKey": "INFO_HUB_HERO",
+						"breadcrumb": "info-hub"
+					}
+				},
+				"grid": {
+					"kind": "resource.editorialGrid",
+					"props": {
+						"collection": "info"
+					}
+				},
+				"pathways": {
+					"kind": "resource.pathways",
+					"props": {
+						"variant": "info-hub"
+					}
+				},
+				"funnel": {
+					"kind": "resource.funnel",
+					"props": {
+						"leadContextId": "info-hub"
+					}
+				}
+			}
+		},
+		"blog-detail": {
+			"main": {
+				"hero": {
+					"kind": "detail.editorialHero",
+					"props": {
+						"collection": "blog"
+					}
+				},
+				"body": {
+					"kind": "detail.editorialBody",
+					"props": {
+						"collection": "blog"
+					}
+				},
+				"pathways": {
+					"kind": "resource.pathways",
+					"props": {
+						"variant": "blog-detail"
+					}
+				},
+				"funnel": {
+					"kind": "resource.funnel",
+					"props": {
+						"leadContextId": "blog-detail"
+					}
+				}
+			}
+		},
+		"location-detail": {
+			"main": {
+				"hero": {
+					"kind": "detail.editorialHero",
+					"props": {
+						"collection": "locations",
+						"leadContextId": "location-detail"
+					}
+				},
+				"body": {
+					"kind": "detail.editorialBody",
+					"props": {
+						"collection": "locations"
+					}
+				},
+				"pathways": {
+					"kind": "resource.pathways",
+					"props": {
+						"variant": "location-detail"
+					}
+				},
+				"funnel": {
+					"kind": "resource.funnel",
+					"props": {
+						"leadContextId": "location-detail"
+					}
+				}
+			}
+		},
+		"info-detail": {
+			"main": {
+				"hero": {
+					"kind": "detail.editorialHero",
+					"props": {
+						"collection": "info"
+					}
+				},
+				"body": {
+					"kind": "detail.editorialBody",
+					"props": {
+						"collection": "info"
+					}
+				},
+				"pathways": {
+					"kind": "resource.pathways",
+					"props": {
+						"variant": "info-detail"
+					}
+				},
+				"funnel": {
+					"kind": "resource.funnel",
+					"props": {
+						"leadContextId": "info-detail"
+					}
+				}
+			}
+		},
+		"tool-shell": {
+			"chrome": {
+				"embedHeader": {
+					"kind": "chrome.embedHeader"
+				},
+				"scrollMarker": {
+					"kind": "chrome.marker"
+				},
+				"footer": {
+					"kind": "chrome.toolFooter"
+				},
+				"scrollFlag": {
+					"kind": "chrome.end"
+				},
+				"backToTop": {
+					"kind": "chrome.backToTop"
+				}
+			}
+		}
+	},
+	"description": "Block id → { kind, props? } specs consumed by createSiteRegistryById."
+}

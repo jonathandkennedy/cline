@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="en" data-cline-site-home="https://www.lemonlawlawyerscalifornia.com">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>Standalone tool embed preview · CLINE APC</title>
+		<style>
+			:root {
+				color-scheme: dark;
+				--bg: #010f27;
+				--panel: #0a1830;
+				--line: rgba(255, 255, 255, 0.1);
+				--text: #e8edf5;
+				--muted: #8b9bb8;
+				--gold: #c9a227;
+				--warn: #f0b429;
+			}
+			* {
+				box-sizing: border-box;
+			}
+			body {
+				margin: 0;
+				font-family:
+					system-ui,
+					-apple-system,
+					Segoe UI,
+					Roboto,
+					sans-serif;
+				background: var(--bg);
+				color: var(--text);
+				line-height: 1.45;
+			}
+			header {
+				padding: 1.25rem 1.5rem;
+				border-bottom: 1px solid var(--line);
+				background: var(--panel);
+			}
+			header h1 {
+				margin: 0 0 0.35rem;
+				font-size: 1.15rem;
+				font-weight: 700;
+			}
+			header p {
+				margin: 0;
+				font-size: 0.875rem;
+				color: var(--muted);
+				max-width: 72ch;
+			}
+			.origin-bar {
+				display: flex;
+				flex-wrap: wrap;
+				align-items: center;
+				gap: 0.5rem 0.75rem;
+				margin-top: 0.85rem;
+				padding: 0.65rem 0.75rem;
+				border-radius: 8px;
+				border: 1px solid var(--line);
+				background: rgba(0, 0, 0, 0.2);
+				font-size: 0.8rem;
+			}
+			.origin-bar label {
+				color: var(--muted);
+				white-space: nowrap;
+			}
+			.origin-bar input {
+				flex: 1 1 12rem;
+				min-width: 0;
+				padding: 0.35rem 0.5rem;
+				border-radius: 6px;
+				border: 1px solid var(--line);
+				background: var(--bg);
+				color: var(--text);
+				font: inherit;
+			}
+			.origin-bar button {
+				padding: 0.35rem 0.65rem;
+				border-radius: 6px;
+				border: 1px solid var(--gold);
+				background: transparent;
+				color: var(--gold);
+				font: inherit;
+				font-weight: 600;
+				cursor: pointer;
+			}
+			.origin-bar button:hover {
+				background: rgba(201, 162, 39, 0.12);
+			}
+			.banner {
+				margin: 0;
+				padding: 0.65rem 1.5rem;
+				font-size: 0.8rem;
+				border-bottom: 1px solid var(--line);
+			}
+			.banner--warn {
+				background: rgba(240, 180, 41, 0.12);
+				color: var(--warn);
+			}
+			.banner--ok {
+				background: rgba(72, 187, 120, 0.1);
+				color: #9ae6b4;
+			}
+			.banner[hidden] {
+				display: none;
+			}
+			main {
+				padding: 1.5rem;
+				display: grid;
+				gap: 1.75rem;
+			}
+			@media (min-width: 900px) {
+				main {
+					grid-template-columns: 1fr 1fr;
+				}
+				.embed-card--wide {
+					grid-column: 1 / -1;
+				}
+			}
+			.embed-card {
+				border: 1px solid var(--line);
+				border-radius: 12px;
+				overflow: hidden;
+				background: var(--panel);
+			}
+			.embed-card__head {
+				display: flex;
+				flex-wrap: wrap;
+				align-items: baseline;
+				justify-content: space-between;
+				gap: 0.5rem 1rem;
+				padding: 0.75rem 1rem;
+				border-bottom: 1px solid var(--line);
+			}
+			.embed-card__head h2 {
+				margin: 0;
+				font-size: 0.95rem;
+				font-weight: 600;
+			}
+			.embed-card__head a {
+				font-size: 0.8rem;
+				color: var(--gold);
+				text-decoration: none;
+			}
+			.embed-card__head a:hover {
+				text-decoration: underline;
+			}
+			.embed-card iframe {
+				display: block;
+				width: 100%;
+				border: 0;
+				background: #010f27;
+			}
+			.embed-card--eligibility iframe {
+				height: 720px;
+			}
+			.embed-card--buyback iframe {
+				height: 820px;
+			}
+			.embed-card--checklist iframe {
+				height: 760px;
+			}
+			.embed-card--form iframe {
+				height: 920px;
+			}
+			.embed-card--popup iframe {
+				height: min(88vh, 640px);
+				max-height: 640px;
+			}
+			.embed-card--popup {
+				max-width: 420px;
+			}
+			.note {
+				font-size: 0.8rem;
+				color: var(--muted);
+				padding: 0 1rem 0.75rem;
+			}
+		</style>
+	</head>
+	<body>
+		<header>
+			<h1>Standalone embed preview</h1>
+			<p>
+				Each iframe uses <code>?standalone</code> (no site header, footer, or
+				“next step” rails). Includes the three tools plus the independent
+				case-review form used as a WordPress popup/header embed. When opened as
+				a local <code>file://</code> page, iframes load from the dev server
+				below (run <code>bun run dev</code>).
+			</p>
+			<div class="origin-bar">
+				<label for="tool-origin">Tool app origin</label>
+				<input
+					id="tool-origin"
+					type="url"
+					spellcheck="false"
+					autocomplete="off"
+					placeholder="http://localhost:5000"
+				/>
+				<button type="button" id="apply-origin">Reload embeds</button>
+			</div>
+		</header>
+		<p id="banner-warn" class="banner banner--warn" hidden></p>
+		<p id="banner-ok" class="banner banner--ok" hidden>
+			Dev server reachable — embeds should load below.
+		</p>
+		<main>
+			<section class="embed-card embed-card--eligibility">
+				<div class="embed-card__head">
+					<h2>Eligibility checker</h2>
+					<a
+						data-tool-path="/tool/eligibility-checker?standalone"
+						target="_blank"
+						rel="noopener"
+						>Open tab</a
+					>
+				</div>
+				<p class="note">WordPress-style modal width ~ full content column</p>
+				<iframe
+					title="Eligibility checker (standalone)"
+					data-tool-path="/tool/eligibility-checker?standalone"
+					loading="lazy"
+				></iframe>
+			</section>
+
+			<section class="embed-card embed-card--eligibility">
+				<div class="embed-card__head">
+					<h2>Eligibility — card only</h2>
+					<a
+						data-tool-path="/tool/eligibility-checker?standalone&amp;start=1&amp;chrome=card"
+						target="_blank"
+						rel="noopener"
+						>Open tab</a
+					>
+				</div>
+				<p class="note">chrome=card — workbench card without header or backdrop</p>
+				<iframe
+					title="Eligibility checker (card only)"
+					data-tool-path="/tool/eligibility-checker?standalone&amp;start=1&amp;chrome=card"
+					loading="lazy"
+				></iframe>
+			</section>
+
+			<section class="embed-card embed-card--eligibility">
+				<div class="embed-card__head">
+					<h2>Eligibility — no header</h2>
+					<a
+						data-tool-path="/tool/eligibility-checker?standalone&amp;start=1&amp;chrome=no-header"
+						target="_blank"
+						rel="noopener"
+						>Open tab</a
+					>
+				</div>
+				<p class="note">chrome=no-header — backdrop kept, compact header hidden</p>
+				<iframe
+					title="Eligibility checker (no header)"
+					data-tool-path="/tool/eligibility-checker?standalone&amp;start=1&amp;chrome=no-header"
+					loading="lazy"
+				></iframe>
+			</section>
+
+			<section class="embed-card embed-card--buyback">
+				<div class="embed-card__head">
+					<h2>Buyback calculator</h2>
+					<a
+						data-tool-path="/tool/buyback-calculator?standalone"
+						target="_blank"
+						rel="noopener"
+						>Open tab</a
+					>
+				</div>
+				<iframe
+					title="Buyback calculator (standalone)"
+					data-tool-path="/tool/buyback-calculator?standalone"
+					loading="lazy"
+				></iframe>
+			</section>
+
+			<section class="embed-card embed-card--checklist">
+				<div class="embed-card__head">
+					<h2>Documentation checklist</h2>
+					<a
+						data-tool-path="/tool/documentation-checklist?standalone"
+						target="_blank"
+						rel="noopener"
+						>Open tab</a
+					>
+				</div>
+				<iframe
+					title="Documentation checklist (standalone)"
+					data-tool-path="/tool/documentation-checklist?standalone"
+					loading="lazy"
+				></iframe>
+			</section>
+
+			<section class="embed-card embed-card--form embed-card--wide">
+				<div class="embed-card__head">
+					<h2>Case-review form (standalone opt-in)</h2>
+					<a
+						data-tool-path="/embed/case-review?standalone&amp;source=preview"
+						target="_blank"
+						rel="noopener"
+						>Open tab</a
+					>
+				</div>
+				<p class="note">
+					Independent of the marketing site. Submit posts to
+					<code>/api/case-review</code> (Resend in production).
+				</p>
+				<iframe
+					title="Case review form (standalone)"
+					data-tool-path="/embed/case-review?standalone&amp;source=preview"
+					loading="lazy"
+				></iframe>
+			</section>
+
+			<section class="embed-card embed-card--popup embed-card--wide">
+				<div class="embed-card__head">
+					<h2>Popup-sized buyback (mobile modal)</h2>
+					<a
+						data-tool-path="/tool/buyback-calculator?standalone"
+						target="_blank"
+						rel="noopener"
+						>Open tab</a
+					>
+				</div>
+				<p class="note">Narrow frame to sanity-check sticky bars and scroll</p>
+				<iframe
+					title="Buyback calculator popup (standalone)"
+					data-tool-path="/tool/buyback-calculator?standalone"
+					loading="lazy"
+				></iframe>
+			</section>
+
+			<section class="embed-card embed-card--wide">
+				<div class="embed-card__head">
+					<h2>WordPress loader (<code>cline-tools.js</code>)</h2>
+					<a
+						href="/embed/cline-tools.js"
+						target="_blank"
+						rel="noopener"
+						>View script</a
+					>
+				</div>
+				<p class="note">
+					Auto-resize embed — same script used on lemonlawlawyerscalifornia.com Phase 1
+				</p>
+				<div
+					id="loader-demo"
+					data-cline-tool="eligibility-checker"
+					data-cline-title="Eligibility checker (loader demo)"
+					style="min-height: 480px"
+				></div>
+			</section>
+
+			<section class="embed-card embed-card--wide">
+				<div class="embed-card__head">
+					<h2>Loader demo — case-review form</h2>
+				</div>
+				<p class="note">
+					Same <code>cline-tools.js</code> mount used by the WordPress plugin
+					shortcode <code>[cline_form]</code>. MutationObserver picks up
+					late-injected popup markup.
+				</p>
+				<div
+					id="loader-demo-form"
+					data-cline-tool="case-review"
+					data-cline-source="preview-loader"
+					data-cline-title="Case review (loader demo)"
+					style="min-height: 480px"
+				></div>
+			</section>
+		</main>
+		<script src="/embed/cline-tools.js" defer></script>
+		<script>
+			(function () {
+				const DEFAULT_ORIGIN = 'http://localhost:5000';
+				const STORAGE_KEY = 'cline-standalone-embed-origin';
+				const originInput = document.getElementById('tool-origin');
+				const applyBtn = document.getElementById('apply-origin');
+				const bannerWarn = document.getElementById('banner-warn');
+				const bannerOk = document.getElementById('banner-ok');
+
+				function normalizeOrigin(raw) {
+					const trimmed = (raw || '').trim().replace(/\/$/, '');
+					if (!trimmed) return DEFAULT_ORIGIN;
+					try {
+						return new URL(trimmed).origin;
+					} catch {
+						return DEFAULT_ORIGIN;
+					}
+				}
+
+				function resolveInitialOrigin() {
+					const fromQuery = new URLSearchParams(location.search).get('origin');
+					if (fromQuery) return normalizeOrigin(fromQuery);
+					try {
+						const stored = localStorage.getItem(STORAGE_KEY);
+						if (stored) return normalizeOrigin(stored);
+					} catch (_) {}
+					if (location.protocol === 'file:') return DEFAULT_ORIGIN;
+					return location.origin;
+				}
+
+				function toolUrl(origin, path) {
+					return origin + path;
+				}
+
+				function wireEmbeds(origin) {
+					document.querySelectorAll('[data-tool-path]').forEach((el) => {
+						const path = el.getAttribute('data-tool-path');
+						if (!path) return;
+						const url = toolUrl(origin, path);
+						if (el.tagName === 'IFRAME') {
+							el.src = url;
+						} else if (el.tagName === 'A') {
+							el.href = url;
+						}
+					});
+				}
+
+				async function pingOrigin(origin) {
+					bannerOk.hidden = true;
+					bannerWarn.hidden = true;
+					if (location.protocol === 'file:') {
+						bannerWarn.hidden = false;
+						bannerWarn.textContent =
+							'Opened from disk — iframes load from ' +
+							origin +
+							'. Run bun run dev and reload this page if embeds stay blank.';
+						return;
+					}
+					try {
+						const res = await fetch(
+							origin + '/tool/buyback-calculator?standalone',
+							{ method: 'HEAD', mode: 'cors' },
+						);
+						if (res.ok) {
+							bannerOk.hidden = false;
+							return;
+						}
+					} catch (_) {}
+					bannerWarn.hidden = false;
+					bannerWarn.textContent =
+						'Cannot reach ' +
+						origin +
+						' — start the app with bun run dev, then click Reload embeds.';
+				}
+
+				function remountLoaderDemos(origin) {
+					document.documentElement.setAttribute(
+						'data-cline-tools-origin',
+						origin,
+					);
+					document
+						.querySelectorAll('[data-cline-tool]')
+						.forEach((el) => {
+							el.removeAttribute('data-cline-mounted');
+							el.innerHTML = '';
+						});
+					if (window.ClineApcTools && window.ClineApcTools.mountAll) {
+						window.ClineApcTools.mountAll();
+					}
+				}
+
+				function applyOrigin() {
+					const origin = normalizeOrigin(originInput.value);
+					originInput.value = origin;
+					try {
+						localStorage.setItem(STORAGE_KEY, origin);
+					} catch (_) {}
+					const url = new URL(location.href);
+					url.searchParams.set('origin', origin);
+					if (location.protocol !== 'file:') {
+						history.replaceState(null, '', url);
+					}
+					wireEmbeds(origin);
+					remountLoaderDemos(origin);
+					void pingOrigin(origin);
+				}
+
+				originInput.value = resolveInitialOrigin();
+				applyBtn.addEventListener('click', applyOrigin);
+				originInput.addEventListener('keydown', (e) => {
+					if (e.key === 'Enter') applyOrigin();
+				});
+				applyOrigin();
+			})();
+		</script>
+	</body>
+</html>

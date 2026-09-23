@@ -1,0 +1,39 @@
+{
+	"extends": "./tsconfig.base.json",
+	"compilerOptions": {
+		"baseUrl": ".",
+		"plugins": [{ "name": "next" }],
+		"paths": {
+			"@/*": ["./src/*"],
+			"@/data/*": ["./content/data/*"],
+			"@/kit/ui": ["./src/kit/ui/index.ts"],
+			"@/kit/ui/*": ["./src/kit/ui/*"],
+			"@/kit/layout": ["./src/kit/layout/index.ts"],
+			"@/kit/layout/*": ["./src/kit/layout/*"],
+			"@/kit/forms": ["./src/kit/forms/index.ts"],
+			"@/kit/forms/*": ["./src/kit/forms/*"],
+			"@/kit/promo": ["./src/kit/promo/index.ts"],
+			"@/kit/promo/*": ["./src/kit/promo/*"],
+			"@/kit/blocks": ["./src/kit/blocks/index.ts"],
+			"@/kit/blocks/*": ["./src/kit/blocks/*"],
+			"@/kit/shared": ["./src/kit/shared/index.ts"],
+			"@/kit/shared/*": ["./src/kit/shared/*"],
+			"@/kit/theme": ["./src/kit/theme/index.ts"],
+			"@/kit/theme/*": ["./src/kit/theme/*"],
+			"@/kit/catalog": ["./src/kit/catalog/index.ts"],
+			"@/kit/catalog/*": ["./src/kit/catalog/*"],
+			"@/kit/pipeline": ["./src/kit/pipeline/index.ts"],
+			"@/kit/pipeline/*": ["./src/kit/pipeline/*"]
+		}
+	},
+	"include": [
+		"next-env.d.ts",
+		"src/types/**/*.d.ts",
+		"src/**/*.ts",
+		"src/**/*.tsx",
+		"scripts/**/*.ts",
+		".next/types/**/*.ts",
+		".next/dev/types/**/*.ts"
+	],
+	"exclude": ["node_modules"]
+}

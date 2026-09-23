@@ -1,0 +1,77 @@
+{
+	"version": 1,
+	"TEAM_PAGE": {
+		"eyebrow": "Our people",
+		"headline": "Meet the attorneys and staff behind CLINE APC.",
+		"subhead": "Select a teammate to read their role and background. Three colleagues include full biographies from our firm site; others are listed by name and title.",
+		"selectorLabel": "Team members",
+		"selectedLabel": "Selected",
+		"ctaLabel": "Free case review",
+		"defaultMemberId": "brian-cline",
+		"defaultMemberHref": "/team#brian-cline"
+	},
+	"TEAM_MEMBERS": [
+		{
+			"id": "brian-cline",
+			"name": "Brian Cline",
+			"role": "Owner and Managing Attorney",
+			"image": "/images/brian-cline-capture-portrait.jpg",
+			"imageAlt": "Portrait of Brian Cline, Owner and Managing Attorney at CLINE APC",
+			"bio": [
+				"Mr. Brian K. Cline, owner and managing attorney for Cline, APC., has been practicing law in the state of California since December of 2006. His practice has covered a diverse range of cases, including the representation of California consumers under the Song-Beverly Consumer Warranty Act, also known as California\u2019s lemon law."
+			]
+		},
+		{
+			"id": "mark-johnson",
+			"name": "Mark Johnson",
+			"role": "Attorney",
+			"image": "/images/team/mark-johnson.jpg",
+			"imageAlt": "Portrait of Mark Johnson, Attorney at CLINE APC",
+			"bio": [
+				"Mark Johnson is an experienced trial attorney who concentrates his practice on consumer warranty protection and business litigation. He has represented hundreds of clients in state and federal court, at every stage of a lawsuit, including through jury verdict as first chair trial counsel. Mark works with his clients to determine their goals and takes the actions necessary to efficiently and effectively deliver results."
+			]
+		},
+		{
+			"id": "eric-natenstedt",
+			"name": "Eric Natenstedt",
+			"role": "Attorney",
+			"image": "/images/team/eric-natenstedt.png",
+			"imageAlt": "Placeholder portrait for Eric Natenstedt, Attorney at CLINE APC",
+			"bio": []
+		},
+		{
+			"id": "diana-de-la-cruz",
+			"name": "Diana De La Cruz",
+			"role": "Legal Secretary",
+			"image": "/images/team/diana-de-la-cruz.png",
+			"imageAlt": "Placeholder portrait for Diana De La Cruz, Legal Secretary at CLINE APC",
+			"bio": []
+		},
+		{
+			"id": "lisa-sassa",
+			"name": "Lisa Sassa",
+			"role": "Paralegal",
+			"image": "/images/team/lisa-sassa.jpg",
+			"imageAlt": "Portrait of Lisa Sassa, Paralegal at CLINE APC",
+			"bio": [
+				"Lisa Sassa is a paralegal who supports our civil litigation attorney\u2019s in preparing and organizing documents as well as aiding in client relations. Lisa earned her Paralegal Certificate through the University of California San Diego Extension program and spent time in a legal internship. Lisa enjoys surfing on the weekends and hiking with her dog."
+			]
+		},
+		{
+			"id": "john-evans",
+			"name": "John Evans",
+			"role": "Attorney",
+			"image": "/images/team/john-evans.png",
+			"imageAlt": "Placeholder portrait for John Evans, Attorney at CLINE APC",
+			"bio": []
+		},
+		{
+			"id": "ashley-yaddgo",
+			"name": "Ashley Yaddgo",
+			"role": "Attorney",
+			"image": "/images/team/ashley-yaddgo.png",
+			"imageAlt": "Placeholder portrait for Ashley Yaddgo, Attorney at CLINE APC",
+			"bio": []
+		}
+	]
+}

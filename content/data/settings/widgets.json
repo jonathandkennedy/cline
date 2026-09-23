@@ -1,0 +1,160 @@
+{
+	"version": 1,
+	"INTRO_STEPS": {
+		"eligibility-checker": [
+			"Answer 6 quick questions about your vehicle and repairs",
+			"See whether the defect first occurred during the original manufacturer warranty",
+			"Get an instant read on Song-Beverly indicators"
+		],
+		"buyback-calculator": [
+			"Set your cash price or lease total, mileage, repairs, and time in the shop",
+			"See your estimated recovery update instantly",
+			"Review the mileage offset, line by line"
+		],
+		"documentation-checklist": [
+			"Check off records you already have",
+			"Add private case notes as you review your file",
+			"Send your notes to CLINE APC in one step"
+		]
+	},
+	"TOOL_PREVIEW_CONFIG": {
+		"eligibility-checker": {
+			"kind": "chips",
+			"railLabel": "Warranty snapshot",
+			"badgeLabel": "Strong indicators",
+			"chips": ["4 repairs", "32 days", "In warranty"]
+		},
+		"buyback-calculator": {
+			"kind": "recovery",
+			"amount": "$54,760",
+			"segments": [
+				{
+					"className": "mega-preview-bar-64 h-full bg-recovery"
+				},
+				{
+					"className": "mega-preview-bar-22 h-full bg-gold"
+				},
+				{
+					"className": "mega-preview-bar-14 h-full bg-danger/70"
+				}
+			]
+		},
+		"documentation-checklist": {
+			"kind": "checklist",
+			"rows": [
+				{
+					"label": "Repair orders",
+					"done": true
+				},
+				{
+					"label": "Purchase contract",
+					"done": true
+				},
+				{
+					"label": "Out-of-service log",
+					"done": false
+				}
+			]
+		}
+	},
+	"INTRO_TRUST_ITEMS": [
+		{
+			"iconId": "badge-check",
+			"iconClass": "text-recovery",
+			"label": "100% Free"
+		},
+		{
+			"iconId": "lock",
+			"iconClass": "text-gold",
+			"label": "Private in your browser"
+		},
+		{
+			"iconId": "clock",
+			"iconClass": "text-gold",
+			"labelKind": "minutes"
+		}
+	],
+	"LEAD_FORM_TRUST_ITEMS": [
+		{
+			"iconId": "badge-check",
+			"iconClass": "text-recovery",
+			"label": "You never pay our fees"
+		},
+		{
+			"iconId": "lock",
+			"iconClass": "text-gold",
+			"label": "Confidential"
+		}
+	],
+	"LEAD_MODAL_SUCCESS_ITEMS": [
+		{
+			"id": "eyebrow",
+			"variant": "eyebrow",
+			"text": "Case Review"
+		},
+		{
+			"id": "heading",
+			"variant": "heading",
+			"text": "Request Received"
+		},
+		{
+			"id": "paragraph",
+			"variant": "paragraph",
+			"text": "Thank you. A CLINE APC Lemon Law specialist will personally review your details and reach out within one business day. You can also email info@clineapc.com or call now."
+		},
+		{
+			"id": "phone-prompt",
+			"variant": "phone",
+			"text": "Prefer to talk now?"
+		}
+	],
+	"headerLogo": {
+		"HEADER_LOGO_ARIA_LABEL": "CLINE APC California Lemon Law",
+		"HEADER_LOGO_HOME_HREF": "/",
+		"HEADER_LOGO_MARK": {
+			"height": 34,
+			"className": "shrink-0 transition-opacity group-hover:opacity-90"
+		},
+		"HEADER_LOGO_CHROME_TEXT_ITEMS": [
+			{
+				"key": "title",
+				"className": "truncate font-display text-[11px] font-extrabold uppercase tracking-[0.05em] text-fg sm:text-[12.5px] sm:tracking-[0.12em]"
+			},
+			{
+				"key": "subtitle",
+				"className": "mt-1 truncate text-[9.5px] font-semibold normal-case tracking-normal text-gold sm:text-[10px] sm:uppercase sm:tracking-[0.16em]"
+			}
+		],
+		"HEADER_LOGO_TITLE_MAX_WIDTH_BY_MODE": {
+			"tool": "max-w-full",
+			"home": "md:max-w-[220px] lg:max-w-[280px]"
+		},
+		"HEADER_LOGO_TEXT_COLUMN_BY_MODE": {
+			"tool": "flex min-w-0 flex-1",
+			"home": "hidden sm:flex"
+		},
+		"HEADER_LOGO_ROOT_BY_MODE": {
+			"tool": "min-w-0 flex-1",
+			"home": ""
+		},
+		"HEADER_LOGO_INNER_BY_MODE": {
+			"tool": "w-full min-w-0 flex-1 overflow-hidden",
+			"home": "shrink-0"
+		}
+	},
+	"TOOL_SECTION_LABELS": {
+		"eligibilityLiveAssessment": "Live Assessment",
+		"eligibilityQualifyingFactors": "Strong Case Indicators",
+		"eligibilityNotYet": "Not yet"
+	},
+	"TOOL_SUPPLEMENT_COPY": {
+		"aboutTool": "About this tool",
+		"attorneyPrompt": "Have a specific question? Speak with a CLINE APC attorney",
+		"nextStepEyebrow": "Next step in your case"
+	},
+	"TOOL_INTRO_KEYBOARD_HINT": {
+		"prefix": "Press",
+		"key": "Enter",
+		"suffix": "to begin"
+	}
+}

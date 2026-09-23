@@ -1,0 +1,927 @@
+{
+	"version": 1,
+	"FAQ_HUB_HERO": {
+		"eyebrow": "Questions, Answered",
+		"headline": "California Lemon Law, in plain English.",
+		"subhead": "Fees, timelines, and what qualifies under Song-Beverly. Open any topic, then talk with counsel when you are ready.",
+		"heroImage": "/images/hubs/faq.jpg",
+		"heroImageAlt": "Person reading legal information on a tablet in a car"
+	},
+	"FAQ_HUB_SEO": {
+		"seoTitle": "California Lemon Law FAQ | CLINE APC",
+		"seoDescription": "Answers on warranty timing, buybacks, fees, timelines, and documents from California's Premier Lemon Law Legal Group."
+	},
+	"REVIEWS_HUB_HERO": {
+		"eyebrow": "Client Results",
+		"headline": "Drivers who got made whole.",
+		"subhead": "4.9★ from 140+ verified Google and Yelp reviews. Past results do not guarantee future outcomes.",
+		"heroImage": "/images/hubs/reviews.jpg",
+		"heroImageAlt": "California driver beside a vehicle at sunset"
+	},
+	"REVIEWS_HUB_SEO": {
+		"seoTitle": "California Lemon Law Client Reviews | CLINE APC",
+		"seoDescription": "4.9★ average from 140+ verified Google and Yelp reviews. Past results do not guarantee future outcomes."
+	},
+	"REVIEW_REPRESENTATIVE_DISCLAIMER": "Reviews sourced from Google and Yelp. Past results do not guarantee future outcomes.",
+	"CASE_STUDIES_HUB_HERO": {
+		"eyebrow": "Case studies",
+		"headline": "From repair records to buybacks.",
+		"subhead": "Illustrative composites of persistent defects and buyback math. Your repair records control what is possible.",
+		"heroImage": "/images/hubs/case-studies.jpg",
+		"heroImageAlt": "Repair documents and car keys on a desk"
+	},
+	"CASE_STUDIES_HUB_SEO": {
+		"seoTitle": "California Lemon Law Case Studies | CLINE APC",
+		"seoDescription": "Representative Lemon Law case studies across major manufacturers. Past results do not guarantee future outcomes."
+	},
+	"CASE_STUDIES_HUB_GRID": {
+		"countLabel": "representative patterns",
+		"headline": "Compare defects, repairs, and outcomes"
+	},
+	"CASE_STUDY_REPRESENTATIVE_DISCLAIMER": "Representative case studies composited from common outcomes. Past results do not guarantee future outcomes.",
+	"GUIDEBOOK_HUB_HERO": {
+		"eyebrow": "Free Attorney Guide",
+		"headline": "The California Lemon Law Guidebook",
+		"subhead": "Rights, buybacks, and working with counsel. Read in order or jump to the chapter you need.",
+		"heroImage": "/images/hubs/guidebook.jpg",
+		"heroImageAlt": "Attorney guidebook and coffee on a dark wood desk"
+	},
+	"GUIDEBOOK_HUB_SEO": {
+		"seoTitle": "California Lemon Law Guidebook | CLINE APC",
+		"seoDescription": "Free attorney-written chapters on rights, buybacks, and working with a Lemon Law firm. Read online on the tools site."
+	},
+	"GUIDEBOOK_HUB_CHAPTERS": {
+		"countLabel": "chapters",
+		"headline": "Start anywhere, or read straight through",
+		"body": "Each chapter is written for California drivers, not generic legal blogs. Pick the topic you need, or follow the sequence from rights to working with counsel."
+	},
+	"GUIDEBOOK_HUB_GLANCE": {
+		"eyebrow": "At a glance",
+		"title": "Guide overview",
+		"chaptersLabel": "Chapters",
+		"readingTimeLabel": "Total reading time",
+		"bestForLabel": "Best for",
+		"bestForValue": "California drivers with warranty repairs",
+		"startCta": "Start with chapter 01"
+	},
+	"GUIDEBOOK_CHAPTER_NAV": {
+		"previous": "Previous chapter",
+		"next": "Next chapter"
+	},
+	"MANUFACTURERS_HUB_HERO": {
+		"eyebrow": "Manufacturers We Take On",
+		"headline": "Major automakers. One California firm.",
+		"subhead": "Browse the manufacturers we cover for common defects and Song-Beverly rights.",
+		"heroImage": "/images/hubs/manufacturers.jpg",
+		"heroImageAlt": "Row of luxury vehicles at a California dealership at dusk"
+	},
+	"MANUFACTURERS_HUB_CARD_CTA": "Learn More",
+	"REVIEWS_HUB_EXPLORE": {
+		"eyebrow": "Representative outcomes",
+		"title": "See how claims resolve in practice.",
+		"body": "Client reviews show the human side. Case studies walk through repair records, timelines, and buyback math for similar vehicles.",
+		"href": "/case-studies",
+		"ctaLabel": "View Case Studies",
+		"secondaryHref": "/guidebook",
+		"secondaryLabel": "Read the Guidebook"
+	},
+	"MANUFACTURERS_HUB_SEO": {
+		"seoTitle": "California Lemon Law by Manufacturer | CLINE APC",
+		"seoDescription": "California Lemon Law resources for major automakers, including Tesla, Ford, GM brands, Stellantis, import luxury, and more."
+	},
+	"MANUFACTURER_DETAIL_RIGHTS_EYEBROW": "Your rights",
+	"MANUFACTURER_DETAIL_RIGHTS_TITLE": "The Song-Beverly Act protects California drivers.",
+	"MANUFACTURER_DETAIL_RIGHTS_BODY": "If your {manufacturer} has a substantial defect that first occurred during the original manufacturer warranty and the dealer has not cured it within a reasonable number of attempts, Song-Beverly may require a buyback, replacement, or cash settlement. Manufacturers always pay our attorney fees - you never do.",
+	"MANUFACTURER_COMMON_ISSUES_EYEBROW": "Common issues",
+	"MANUFACTURER_HOW_WE_HANDLE_EYEBROW": "How we handle your claim",
+	"MANUFACTURER_RELATED_CONTENT_EYEBROW": "Related resources",
+	"MANUFACTURER_RELATED_CARD_KIND_LABEL": {
+		"faq": "FAQ",
+		"case-study": "Case Study",
+		"review": "Client Review"
+	},
+	"FAQ_DETAIL_HERO_EYEBROW": "Frequently Asked Questions",
+	"REVIEW_DETAIL_HERO_EYEBROW": "Representative Review",
+	"REVIEW_DETAIL_SECTIONS": {
+		"relatedTools": "Free tools",
+		"relatedGuides": "Guides & next steps",
+		"relatedQuestions": "Related Questions",
+		"relatedBody": "Read about fees, remedies, and records, then request a free case review.",
+		"clientStory": "In Their Words",
+		"manufacturerCardSuffix": "Lemon Law",
+		"readFullStory": "Read Full Story",
+		"eligibilityTeaser": "Get a 60-second read on warranty timing and repairs."
+	},
+	"FAQ_DETAIL_SECTIONS": {
+		"relatedQuestions": "Related Questions",
+		"statuteLinks": "California Statutes & Resources",
+		"plainAnswer": "Plain-English Answer",
+		"keyTakeaways": "Key Takeaways",
+		"contextCalloutTitle": "California Lemon Law Context",
+		"contextCalloutBody": "This answer is educational, not legal advice. A CLINE APC attorney can review your repair history and warranty records for free.",
+		"asideEyebrow": "Next step",
+		"asideTitle": "Talk to an attorney",
+		"asideBody": "Talk with a CLINE APC attorney. You never pay our fees.",
+		"introCtaEyebrow": "Next Steps",
+		"browseAllFaq": "Browse Full FAQ",
+		"openStatute": "Open statute"
+	},
+	"CASE_STUDY_DETAIL_SECTIONS": {
+		"situation": "The Situation",
+		"legalPath": "Legal Path",
+		"outcome": "Outcome",
+		"timeline": "Timeline",
+		"documents": "Documents That Mattered",
+		"lessons": "Lessons for Drivers",
+		"related": "Keep Exploring",
+		"relatedBody": "Manufacturer guides, FAQs, and client reviews tied to this vehicle and remedy.",
+		"manufacturerLink": "Manufacturer Lemon Law Page",
+		"manufacturerLinkDescription": "Defect patterns and how CLINE APC handles claims.",
+		"faqLinkPrefix": "FAQ",
+		"factsAsideTitle": "At a glance",
+		"factsVehicleLabel": "Vehicle",
+		"factsAmountLabel": "Representative result",
+		"factsOutcomeLabel": "Outcome",
+		"asideSimilarFactsTitle": "Similar facts?",
+		"asideSimilarFactsBody": "A confidential case review compares your repair history to similar outcomes.",
+		"outcomeCtaTitle": "Ready to compare your repair history?",
+		"outcomeCtaBody": "Request a confidential case review. You never pay our fees.",
+		"tocLabel": "On this page",
+		"tocSituation": "Situation",
+		"tocDefect": "Defect & repairs",
+		"tocLegal": "Legal path",
+		"tocTimeline": "Timeline",
+		"tocOutcome": "Outcome",
+		"tocDocuments": "Documents",
+		"tocLessons": "Lessons",
+		"heroRepresentativePill": "Illustrative matter",
+		"amountQualifier": "Representative only. Not a guarantee of your result."
+	},
+	"RESOURCE_TOOLS_STRIP": {
+		"eyebrow": "Free Tools",
+		"headline": "Start with a 60-second eligibility check.",
+		"body": "Private, browser-based tools from CLINE APC. No email required to begin. Each step mirrors how we evaluate real Lemon Law claims.",
+		"footerNote": "Every tool is free, private, and runs in your browser.",
+		"footerCtaLabel": "Talk to an attorney"
+	},
+	"RESOURCE_MEGA": {
+		"footerNote": "Attorney-written guides, FAQs, city pages, and manufacturer hubs.",
+		"footerCtaLabel": "Browse Manufacturers",
+		"footerCtaHref": "/manufacturers",
+		"catalogCtaLabel": "Explore"
+	},
+	"BLOG_HUB_HERO": {
+		"eyebrow": "Lemon Law Blog",
+		"headline": "Attorney articles on California Lemon Law.",
+		"subhead": "Song-Beverly updates, buybacks, repair records, and what changed in California law  -  written for drivers, not generic legal blogs.",
+		"heroImage": "/images/hubs/guidebook.jpg",
+		"heroImageAlt": "Attorney guidebook and coffee on a dark wood desk"
+	},
+	"BLOG_HUB_SEO": {
+		"seoTitle": "California Lemon Law Blog | CLINE APC",
+		"seoDescription": "Attorney-written articles on California Lemon Law, Song-Beverly buybacks, repair records, and new statutes from CLINE APC."
+	},
+	"BLOG_HUB_GRID": {
+		"countLabel": "articles",
+		"ctaLabel": "Read article",
+		"pageSize": 24,
+		"showingLabel": "Showing"
+	},
+	"LOCATIONS_HUB_HERO": {
+		"eyebrow": "Statewide",
+		"headline": "Lemon Law help in cities across California.",
+		"subhead": "CLINE APC represents drivers statewide. Open your city for local Song-Beverly context, then start a free case review.",
+		"heroImage": "/images/hubs/firm.jpg",
+		"heroImageAlt": "Modern California law office with warm accent lighting"
+	},
+	"LOCATIONS_HUB_SEO": {
+		"seoTitle": "California Lemon Law Lawyers Near You | CLINE APC",
+		"seoDescription": "City-by-city California Lemon Law pages from CLINE APC. Statewide Song-Beverly representation with no fees to you."
+	},
+	"LOCATIONS_HUB_GRID": {
+		"countLabel": "California cities",
+		"ctaLabel": "View city guide",
+		"align": "center"
+	},
+	"INFO_HUB_HERO": {
+		"eyebrow": "Guides",
+		"headline": "How California Lemon Law works, including fees.",
+		"subhead": "Imported from the main CLINE APC site: fees, the claim process, and long-form Song-Beverly guides.",
+		"heroImage": "/images/hubs/faq.jpg",
+		"heroImageAlt": "Person reading legal information on a tablet in a car"
+	},
+	"INFO_HUB_SEO": {
+		"seoTitle": "California Lemon Law Guides | CLINE APC",
+		"seoDescription": "Fees, how the claim process works, and attorney-written California Lemon Law guides from CLINE APC."
+	},
+	"INFO_HUB_GRID": {
+		"countLabel": "guides",
+		"ctaLabel": "Read guide"
+	},
+	"EDITORIAL_DETAIL_SECTIONS": {
+		"publishedLabel": "Published",
+		"updatedLabel": "Updated"
+	},
+	"LEARN_HUB_HERO": {
+		"eyebrow": "Tips from CLINE APC",
+		"headline": "Short lessons on California Lemon Law.",
+		"subhead": "Repair records, warranty timelines, and claim strategy from @lemonlawlegalgroup on Instagram. Scroll the live feed below and tap any post for the full caption.",
+		"heroImage": "/images/hubs/learn.jpg",
+		"heroImageAlt": "Phone showing social media Lemon Law tips beside car keys"
+	},
+	"LEARN_HUB_SEO": {
+		"seoTitle": "Learn: California Lemon Law Tips | CLINE APC",
+		"seoDescription": "Short Lemon Law lessons from CLINE APC on Instagram (@lemonlawlegalgroup): repair documentation, Song-Beverly basics, and when to pursue a buyback or refund."
+	},
+	"THE_FIRM_HERO": {
+		"eyebrow": "About CLINE APC",
+		"headline": "California's Premier Lemon Law Legal Group.",
+		"subhead": "CLINE APC represents drivers statewide in Song-Beverly claims against automakers and takes other consumer cases. Buybacks, replacements, and cash settlements, with no fees to you.",
+		"heroImage": "/images/hubs/firm.jpg",
+		"heroImageAlt": "Modern California law office with warm accent lighting"
+	},
+	"THE_FIRM_SEO": {
+		"seoTitle": "The Firm: California Lemon Law Attorneys | CLINE APC",
+		"seoDescription": "Meet CLINE APC, California's Premier Lemon Law Legal Group: buybacks, refunds, and cash settlements, plus other consumer cases. You never pay our fees."
+	},
+	"HOME_SEO": {
+		"seoTitle": "California Lemon Law Attorneys | CLINE APC",
+		"seoDescription": "California lemon law lawyer and attorney at CLINE APC. Free tools to check eligibility, estimate buyback recovery, and organize your file. You never pay our fees."
+	},
+	"HUB_PATHWAYS": {
+		"eyebrow": "Keep going",
+		"title": "Three smart next steps.",
+		"body": "Talk with counsel, read the guidebook, or compare real outcomes.",
+		"rows": [
+			{
+				"id": "eligibility",
+				"title": "Call CLINE APC",
+				"body": "Free case review. No documents required.",
+				"href": "tel:+18889826915",
+				"cta": "Call now"
+			},
+			{
+				"id": "guidebook",
+				"title": "Attorney guidebook",
+				"body": "Plain-English chapters on rights, buybacks, and records.",
+				"href": "/guidebook",
+				"cta": "Read chapters"
+			},
+			{
+				"id": "case-studies",
+				"title": "Case studies",
+				"body": "How defects move toward buybacks and settlements.",
+				"href": "/case-studies",
+				"cta": "View studies"
+			}
+		]
+	},
+	"HUB_FUNNEL": {
+		"eyebrow": "Ready when you are",
+		"title": "Free eligibility check, or speak with counsel.",
+		"body": "You never pay our fees. A CLINE APC attorney can review your repair history and next steps. Email info@clineapc.com if that is easier.",
+		"phoneLead": "Prefer the phone?",
+		"trust": ["You never pay our fees", "No upfront cost", "Attorney response in 1 business day"]
+	},
+	"FUNNEL_CTA_BACKGROUNDS": {
+		"default": {
+			"src": "/images/cta-california.jpg",
+			"alt": "San Diego bay and skyline at dusk with calm water in the foreground"
+		},
+		"guidebook-hub": {
+			"src": "/images/hubs/guidebook.jpg",
+			"alt": "Attorney guidebook and coffee on a dark wood desk"
+		},
+		"guidebook-chapter": {
+			"src": "/images/hubs/guidebook.jpg",
+			"alt": "Attorney guidebook and coffee on a dark wood desk"
+		},
+		"manufacturers-hub": {
+			"src": "/images/hubs/manufacturers.jpg",
+			"alt": "Row of luxury vehicles at a California dealership at dusk"
+		},
+		"manufacturer-detail": {
+			"src": "/images/hubs/manufacturers.jpg",
+			"alt": "Row of luxury vehicles at a California dealership at dusk"
+		},
+		"reviews-hub": {
+			"src": "/images/hubs/reviews.jpg",
+			"alt": "California driver beside a vehicle at sunset"
+		},
+		"review-detail": {
+			"src": "/images/hubs/reviews.jpg",
+			"alt": "California driver beside a vehicle at sunset"
+		},
+		"case-studies-hub": {
+			"src": "/images/hubs/case-studies.jpg",
+			"alt": "Repair documents and car keys on a desk"
+		},
+		"case-study-detail": {
+			"src": "/images/hubs/case-studies.jpg",
+			"alt": "Repair documents and car keys on a desk"
+		},
+		"faq-hub": {
+			"src": "/images/hubs/faq.jpg",
+			"alt": "Person reading legal information on a tablet in a car"
+		},
+		"faq-detail": {
+			"src": "/images/hubs/faq.jpg",
+			"alt": "Person reading legal information on a tablet in a car"
+		},
+		"learn-hub": {
+			"src": "/images/hubs/learn.jpg",
+			"alt": "Phone showing social media Lemon Law tips beside car keys"
+		},
+		"the-firm": {
+			"src": "/images/hubs/firm.jpg",
+			"alt": "Modern California law office with warm accent lighting"
+		},
+		"blog-hub": {
+			"src": "/images/hubs/guidebook.jpg",
+			"alt": "Attorney guidebook and coffee on a dark wood desk"
+		},
+		"blog-detail": {
+			"src": "/images/hubs/guidebook.jpg",
+			"alt": "Attorney guidebook and coffee on a dark wood desk"
+		},
+		"locations-hub": {
+			"src": "/images/hubs/firm.jpg",
+			"alt": "Modern California law office with warm accent lighting"
+		},
+		"location-detail": {
+			"src": "/images/hubs/firm.jpg",
+			"alt": "Modern California law office with warm accent lighting"
+		},
+		"info-hub": {
+			"src": "/images/hubs/faq.jpg",
+			"alt": "Person reading legal information on a tablet in a car"
+		},
+		"info-detail": {
+			"src": "/images/hubs/faq.jpg",
+			"alt": "Person reading legal information on a tablet in a car"
+		},
+		"team": {
+			"src": "/images/hubs/firm.jpg",
+			"alt": "Modern California law office with warm accent lighting"
+		}
+	},
+	"SITE_FUNNEL_JOURNEY": {
+		"eyebrow": "Your claim path",
+		"title": "Talk to counsel, learn your rights, research your brand, see real outcomes, then check eligibility.",
+		"ariaLabel": "California Lemon Law claim path",
+		"steps": [
+			{
+				"id": "counsel",
+				"label": "Call",
+				"hint": "Free case review",
+				"href": "tel:+18889826915",
+				"icon": "scale"
+			},
+			{
+				"id": "learn",
+				"label": "Learn",
+				"hint": "Guidebook & FAQ",
+				"href": "/guidebook",
+				"icon": "book-open"
+			},
+			{
+				"id": "research",
+				"label": "Research",
+				"hint": "By manufacturer",
+				"href": "/manufacturers",
+				"icon": "factory"
+			},
+			{
+				"id": "proof",
+				"label": "Proof",
+				"hint": "Reviews & studies",
+				"href": "/case-studies",
+				"icon": "file-text"
+			},
+			{
+				"id": "check",
+				"label": "Tools",
+				"hint": "Eligibility check",
+				"href": "/tool/eligibility-checker",
+				"icon": "file-search"
+			}
+		]
+	},
+	"HUB_PATHWAYS_VARIANTS": {
+		"default": {
+			"eyebrow": "Keep going",
+			"title": "Three smart next steps.",
+			"body": "Talk with counsel, read the guidebook, or compare real outcomes.",
+			"rows": [
+				{
+					"id": "eligibility",
+					"title": "Call CLINE APC",
+					"body": "Free case review. You never pay our fees.",
+					"href": "tel:+18889826915",
+					"cta": "Call now"
+				},
+				{
+					"id": "guidebook",
+					"title": "Attorney guidebook",
+					"body": "Plain-English chapters on rights, buybacks, and records.",
+					"href": "/guidebook",
+					"cta": "Read chapters"
+				},
+				{
+					"id": "case-studies",
+					"title": "Case studies",
+					"body": "How defects move toward buybacks and settlements.",
+					"href": "/case-studies",
+					"cta": "View studies"
+				}
+			]
+		},
+		"manufacturers-hub": {
+			"eyebrow": "After you pick a brand",
+			"title": "Three paths for a stronger claim.",
+			"body": "Similar outcomes and Song-Beverly rights.",
+			"rows": [
+				{
+					"id": "case-studies",
+					"title": "Case Studies",
+					"body": "Outcomes from similar California claims.",
+					"href": "/case-studies",
+					"cta": "View Studies"
+				},
+				{
+					"id": "guidebook",
+					"title": "Know Your Rights",
+					"body": "Song-Beverly on buybacks and records.",
+					"href": "/guidebook",
+					"cta": "Open Guidebook"
+				},
+				{
+					"id": "eligibility",
+					"title": "Eligibility Checker",
+					"body": "60-second read on warranty timing and repairs.",
+					"href": "/tool/eligibility-checker",
+					"cta": "Check eligibility"
+				}
+			]
+		},
+		"reviews-hub": {
+			"eyebrow": "From stories to strategy",
+			"title": "Turn inspiration into a plan.",
+			"body": "Compare outcomes or research your brand.",
+			"rows": [
+				{
+					"id": "case-studies",
+					"title": "Case studies",
+					"body": "Records, timelines, and buyback math for similar vehicles.",
+					"href": "/case-studies",
+					"cta": "Read studies"
+				},
+				{
+					"id": "manufacturers",
+					"title": "Manufacturer guides",
+					"body": "Common defects and how CLINE APC handles each brand.",
+					"href": "/manufacturers",
+					"cta": "Browse brands"
+				},
+				{
+					"id": "eligibility",
+					"title": "Eligibility checker",
+					"body": "60-second read on warranty timing and repairs.",
+					"href": "/tool/eligibility-checker",
+					"cta": "Check eligibility"
+				}
+			]
+		},
+		"case-studies-hub": {
+			"eyebrow": "Make It Personal",
+			"title": "Connect Studies to Your Vehicle.",
+			"body": "Find your manufacturer or read client voices.",
+			"rows": [
+				{
+					"id": "manufacturers",
+					"title": "Your Manufacturer",
+					"body": "Defect patterns, TSBs, and Song-Beverly strategy for your brand.",
+					"href": "/manufacturers",
+					"cta": "View Brands"
+				},
+				{
+					"id": "reviews",
+					"title": "Client Reviews",
+					"body": "Representative outcomes from California drivers in similar disputes.",
+					"href": "/reviews",
+					"cta": "Read Reviews"
+				},
+				{
+					"id": "eligibility",
+					"title": "Eligibility Checker",
+					"body": "60-second read on warranty timing and repairs.",
+					"href": "/tool/eligibility-checker",
+					"cta": "Check eligibility"
+				}
+			]
+		},
+		"faq-hub": {
+			"eyebrow": "Go deeper",
+			"title": "From answers to action.",
+			"body": "Guidebook chapters and brand pages for more context.",
+			"rows": [
+				{
+					"id": "guidebook",
+					"title": "Attorney guidebook",
+					"body": "Rights, buybacks, and working with counsel.",
+					"href": "/guidebook",
+					"cta": "Read chapters"
+				},
+				{
+					"id": "manufacturers",
+					"title": "Manufacturer hub",
+					"body": "Brand defects and claim paths statewide.",
+					"href": "/manufacturers",
+					"cta": "Pick your brand"
+				},
+				{
+					"id": "eligibility",
+					"title": "Eligibility checker",
+					"body": "60-second read on warranty timing and repairs.",
+					"href": "/tool/eligibility-checker",
+					"cta": "Check eligibility"
+				}
+			]
+		},
+		"guidebook-hub": {
+			"eyebrow": "Put the book to work",
+			"title": "Three practical next steps.",
+			"body": "Research your automaker or study buybacks.",
+			"rows": [
+				{
+					"id": "manufacturers",
+					"title": "Manufacturer guides",
+					"body": "Common defects and claims by brand.",
+					"href": "/manufacturers",
+					"cta": "Browse brands"
+				},
+				{
+					"id": "case-studies",
+					"title": "Case studies",
+					"body": "Timelines from repair records to buybacks.",
+					"href": "/case-studies",
+					"cta": "View studies"
+				},
+				{
+					"id": "eligibility",
+					"title": "Eligibility checker",
+					"body": "60-second read on warranty timing and repairs.",
+					"href": "/tool/eligibility-checker",
+					"cta": "Check eligibility"
+				}
+			]
+		},
+		"learn-hub": {
+			"eyebrow": "Beyond the feed",
+			"title": "Turn tips into claim strategy.",
+			"body": "Guidebook chapters and FAQs for more context.",
+			"rows": [
+				{
+					"id": "guidebook",
+					"title": "Guidebook",
+					"body": "Attorney chapters you can read in order.",
+					"href": "/guidebook",
+					"cta": "Open guidebook"
+				},
+				{
+					"id": "faq",
+					"title": "FAQ library",
+					"body": "Song-Beverly answers with related questions.",
+					"href": "/faq",
+					"cta": "Browse FAQ"
+				},
+				{
+					"id": "eligibility",
+					"title": "Eligibility checker",
+					"body": "60-second read on warranty timing and repairs.",
+					"href": "/tool/eligibility-checker",
+					"cta": "Check eligibility"
+				}
+			]
+		},
+		"manufacturer-detail": {
+			"eyebrow": "Your next moves",
+			"title": "Build on what you learned.",
+			"body": "Compare outcomes and read FAQs.",
+			"rows": [
+				{
+					"id": "case-studies",
+					"title": "Similar case studies",
+					"body": "Timelines and buyback math for this brand.",
+					"href": "/case-studies",
+					"cta": "View studies"
+				},
+				{
+					"id": "faq",
+					"title": "Related FAQ",
+					"body": "Answers on fees, recovery, and proof.",
+					"href": "/faq",
+					"cta": "Open FAQ"
+				},
+				{
+					"id": "eligibility",
+					"title": "Eligibility checker",
+					"body": "60-second read on warranty timing and repairs.",
+					"href": "/tool/eligibility-checker",
+					"cta": "Check eligibility"
+				}
+			]
+		},
+		"review-detail": {
+			"eyebrow": "Follow this path",
+			"title": "If this story sounds like yours.",
+			"body": "Research your brand or read a matching study.",
+			"rows": [
+				{
+					"id": "manufacturers",
+					"title": "Manufacturer page",
+					"body": "Defect patterns and strategy for your automaker.",
+					"href": "/manufacturers",
+					"cta": "Find your brand"
+				},
+				{
+					"id": "case-studies",
+					"title": "Case studies",
+					"body": "Repair-record walkthroughs with results.",
+					"href": "/case-studies",
+					"cta": "Browse studies"
+				},
+				{
+					"id": "eligibility",
+					"title": "Eligibility checker",
+					"body": "60-second read on warranty timing and repairs.",
+					"href": "/tool/eligibility-checker",
+					"cta": "Check eligibility"
+				}
+			]
+		},
+		"case-study-detail": {
+			"eyebrow": "Keep exploring",
+			"title": "Three links worth opening next.",
+			"body": "Manufacturer hub and FAQs.",
+			"rows": [
+				{
+					"id": "manufacturers",
+					"title": "Manufacturer hub",
+					"body": "Brand defects and how CLINE APC handles claims.",
+					"href": "/manufacturers",
+					"cta": "View brands"
+				},
+				{
+					"id": "faq",
+					"title": "FAQ",
+					"body": "Qualification, fees, and recovery.",
+					"href": "/faq",
+					"cta": "Browse FAQ"
+				},
+				{
+					"id": "eligibility",
+					"title": "Eligibility checker",
+					"body": "60-second read on warranty timing and repairs.",
+					"href": "/tool/eligibility-checker",
+					"cta": "Check eligibility"
+				}
+			]
+		},
+		"faq-detail": {
+			"eyebrow": "After this answer",
+			"title": "Three smart follow-ups.",
+			"body": "Guidebook chapters or your manufacturer.",
+			"rows": [
+				{
+					"id": "guidebook",
+					"title": "Guidebook",
+					"body": "Attorney chapters on rights and buybacks.",
+					"href": "/guidebook",
+					"cta": "Read guidebook"
+				},
+				{
+					"id": "manufacturers",
+					"title": "Manufacturers",
+					"body": "Your automaker: defects and strategy.",
+					"href": "/manufacturers",
+					"cta": "Browse brands"
+				},
+				{
+					"id": "eligibility",
+					"title": "Eligibility checker",
+					"body": "60-second read on warranty timing and repairs.",
+					"href": "/tool/eligibility-checker",
+					"cta": "Check eligibility"
+				}
+			]
+		},
+		"guidebook-chapter": {
+			"eyebrow": "Continue the book",
+			"title": "Apply what you just read.",
+			"body": "Research your brand or review outcomes.",
+			"rows": [
+				{
+					"id": "manufacturers",
+					"title": "Manufacturer guides",
+					"body": "Defect patterns and claims by brand.",
+					"href": "/manufacturers",
+					"cta": "Pick brand"
+				},
+				{
+					"id": "case-studies",
+					"title": "Case studies",
+					"body": "Repair records to buyback math.",
+					"href": "/case-studies",
+					"cta": "View studies"
+				},
+				{
+					"id": "eligibility",
+					"title": "Eligibility checker",
+					"body": "60-second read on warranty timing and repairs.",
+					"href": "/tool/eligibility-checker",
+					"cta": "Check eligibility"
+				}
+			]
+		},
+		"blog-hub": {
+			"eyebrow": "Keep reading",
+			"title": "From articles to a claim plan.",
+			"body": "City pages, the guidebook, or a 60-second eligibility check.",
+			"rows": [
+				{
+					"id": "locations",
+					"title": "California cities",
+					"body": "Local Song-Beverly pages for drivers statewide.",
+					"href": "/locations",
+					"cta": "Browse cities"
+				},
+				{
+					"id": "guidebook",
+					"title": "Attorney guidebook",
+					"body": "Plain-English chapters on rights and buybacks.",
+					"href": "/guidebook",
+					"cta": "Read chapters"
+				},
+				{
+					"id": "eligibility",
+					"title": "Eligibility checker",
+					"body": "60-second read on warranty timing and repairs.",
+					"href": "/tool/eligibility-checker",
+					"cta": "Check eligibility"
+				}
+			]
+		},
+		"locations-hub": {
+			"eyebrow": "After you pick a city",
+			"title": "Three paths for a stronger claim.",
+			"body": "Manufacturer guides, the blog, or eligibility.",
+			"rows": [
+				{
+					"id": "manufacturers",
+					"title": "Manufacturer guides",
+					"body": "Defect patterns and Song-Beverly strategy by brand.",
+					"href": "/manufacturers",
+					"cta": "Browse brands"
+				},
+				{
+					"id": "blog",
+					"title": "Lemon Law blog",
+					"body": "Attorney articles on statutes, buybacks, and records.",
+					"href": "/blog",
+					"cta": "Read articles"
+				},
+				{
+					"id": "eligibility",
+					"title": "Eligibility checker",
+					"body": "60-second read on warranty timing and repairs.",
+					"href": "/tool/eligibility-checker",
+					"cta": "Check eligibility"
+				}
+			]
+		},
+		"info-hub": {
+			"eyebrow": "Put the guides to work",
+			"title": "Three practical next steps.",
+			"body": "FAQ answers, the guidebook, or eligibility.",
+			"rows": [
+				{
+					"id": "faq",
+					"title": "FAQ library",
+					"body": "Song-Beverly answers on fees, timelines, and documents.",
+					"href": "/faq",
+					"cta": "Browse FAQ"
+				},
+				{
+					"id": "guidebook",
+					"title": "Attorney guidebook",
+					"body": "Chapters on rights, buybacks, and working with counsel.",
+					"href": "/guidebook",
+					"cta": "Read chapters"
+				},
+				{
+					"id": "eligibility",
+					"title": "Eligibility checker",
+					"body": "60-second read on warranty timing and repairs.",
+					"href": "/tool/eligibility-checker",
+					"cta": "Check eligibility"
+				}
+			]
+		},
+		"blog-detail": {
+			"eyebrow": "After this article",
+			"title": "Turn reading into a claim plan.",
+			"body": "City pages, FAQs, or a private eligibility check.",
+			"rows": [
+				{
+					"id": "locations",
+					"title": "California cities",
+					"body": "Local context for drivers statewide.",
+					"href": "/locations",
+					"cta": "Browse cities"
+				},
+				{
+					"id": "faq",
+					"title": "FAQ library",
+					"body": "Song-Beverly answers with related questions.",
+					"href": "/faq",
+					"cta": "Browse FAQ"
+				},
+				{
+					"id": "eligibility",
+					"title": "Eligibility checker",
+					"body": "60-second read on warranty timing and repairs.",
+					"href": "/tool/eligibility-checker",
+					"cta": "Check eligibility"
+				}
+			]
+		},
+		"location-detail": {
+			"eyebrow": "Your next moves",
+			"title": "Build on your city page.",
+			"body": "Manufacturer guides, articles, or eligibility.",
+			"rows": [
+				{
+					"id": "manufacturers",
+					"title": "Manufacturer guides",
+					"body": "Defect patterns and strategy for your automaker.",
+					"href": "/manufacturers",
+					"cta": "Find your brand"
+				},
+				{
+					"id": "blog",
+					"title": "Lemon Law blog",
+					"body": "Attorney articles on buybacks and new statutes.",
+					"href": "/blog",
+					"cta": "Read articles"
+				},
+				{
+					"id": "eligibility",
+					"title": "Eligibility checker",
+					"body": "60-second read on warranty timing and repairs.",
+					"href": "/tool/eligibility-checker",
+					"cta": "Check eligibility"
+				}
+			]
+		},
+		"info-detail": {
+			"eyebrow": "After this guide",
+			"title": "Three smart follow-ups.",
+			"body": "FAQ answers, the blog, or eligibility.",
+			"rows": [
+				{
+					"id": "faq",
+					"title": "FAQ library",
+					"body": "Qualification, fees, and recovery.",
+					"href": "/faq",
+					"cta": "Browse FAQ"
+				},
+				{
+					"id": "blog",
+					"title": "Lemon Law blog",
+					"body": "Current articles on California Lemon Law.",
+					"href": "/blog",
+					"cta": "Read articles"
+				},
+				{
+					"id": "eligibility",
+					"title": "Eligibility checker",
+					"body": "60-second read on warranty timing and repairs.",
+					"href": "/tool/eligibility-checker",
+					"cta": "Check eligibility"
+				}
+			]
+		}
+	},
+	"TEAM_HERO": {
+		"eyebrow": "Meet the Team",
+		"headline": "The people fighting for California drivers.",
+		"subhead": "Attorneys and staff at CLINE APC handle Song-Beverly claims statewide. Meet the team behind your free case review.",
+		"heroImage": "/images/hubs/firm.jpg",
+		"heroImageAlt": "Modern California law office with warm accent lighting"
+	},
+	"TEAM_SEO": {
+		"seoTitle": "Meet the Team: California Lemon Law Attorneys | CLINE APC",
+		"seoDescription": "Meet the CLINE APC team of California lemon law attorneys and staff. Free case reviews, buybacks, and consumer claims with no fees to you."
+	}
+}

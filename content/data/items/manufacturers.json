@@ -1,0 +1,281 @@
+{
+	"version": 1,
+	"MANUFACTURERS": [
+		{
+			"name": "Tesla",
+			"slug": "tesla",
+			"logo": "/images/manufacturers/tesla.svg",
+			"logoAspect": 1.002
+		},
+		{
+			"name": "Ford",
+			"slug": "ford",
+			"logo": "/images/manufacturers/ford.svg",
+			"hubLogoScale": 0.8,
+			"logoAspect": 2.865
+		},
+		{
+			"name": "Chevrolet",
+			"slug": "chevrolet",
+			"logo": "/images/manufacturers/chevrolet.svg",
+			"hubLogoScale": 0.8,
+			"logoAspect": 2.715
+		},
+		{
+			"name": "GMC",
+			"slug": "gmc",
+			"logo": "/images/manufacturers/gmc.svg",
+			"logoAspect": 2.249
+		},
+		{
+			"name": "RAM",
+			"slug": "ram",
+			"logo": "/images/manufacturers/ram.svg",
+			"logoAspect": 0.973
+		},
+		{
+			"name": "Mercedes-Benz",
+			"slug": "mercedes-benz",
+			"logo": "/images/manufacturers/mercedes-benz.svg",
+			"logoAspect": 1.582
+		},
+		{
+			"name": "Audi",
+			"slug": "audi",
+			"logo": "/images/manufacturers/audi.svg",
+			"hubLogoScale": 0.8,
+			"logoAspect": 2.804
+		},
+		{
+			"name": "Porsche",
+			"slug": "porsche",
+			"logo": "/images/manufacturers/porsche.svg",
+			"logoAspect": 0.778
+		},
+		{
+			"name": "Volkswagen",
+			"slug": "volkswagen",
+			"logo": "/images/manufacturers/volkswagen.svg",
+			"logoAspect": 1.0
+		},
+		{
+			"name": "Volvo",
+			"slug": "volvo",
+			"logo": "/images/manufacturers/volvo.svg",
+			"logoAspect": 1.001
+		},
+		{
+			"name": "Kia",
+			"slug": "kia",
+			"logo": "/images/manufacturers/kia.svg",
+			"hubLogoScale": 0.8,
+			"logoAspect": 4.196
+		},
+		{
+			"name": "Jaguar",
+			"slug": "jaguar",
+			"logo": "/images/manufacturers/jaguar.svg",
+			"logoAspect": 1.944
+		},
+		{
+			"name": "Rivian",
+			"slug": "rivian",
+			"logo": "/images/manufacturers/rivian.svg",
+			"hubLogoScale": 0.8,
+			"logoAspect": 4.938
+		},
+		{
+			"name": "BMW",
+			"slug": "bmw",
+			"logo": "/images/manufacturers/bmw.svg",
+			"logoAspect": 1.0
+		},
+		{
+			"name": "Toyota",
+			"slug": "toyota",
+			"logo": "/images/manufacturers/toyota.svg",
+			"logoAspect": 1.317
+		},
+		{
+			"name": "Honda",
+			"slug": "honda",
+			"logo": "/images/manufacturers/honda.svg",
+			"logoAspect": 1.162
+		},
+		{
+			"name": "Nissan",
+			"slug": "nissan",
+			"logo": "/images/manufacturers/nissan.svg",
+			"logoAspect": 1.14
+		},
+		{
+			"name": "Lexus",
+			"slug": "lexus",
+			"logo": "/images/manufacturers/lexus.svg",
+			"logoAspect": 4.914
+		},
+		{
+			"name": "Hyundai",
+			"slug": "hyundai",
+			"logo": "/images/manufacturers/hyundai.svg",
+			"logoAspect": 1.574
+		},
+		{
+			"name": "Jeep",
+			"slug": "jeep",
+			"logo": "/images/manufacturers/jeep.svg",
+			"logoAspect": 1.812
+		},
+		{
+			"name": "Dodge",
+			"slug": "dodge",
+			"logo": "/images/manufacturers/dodge.svg",
+			"logoAspect": 5.185
+		},
+		{
+			"name": "Chrysler",
+			"slug": "chrysler",
+			"logo": "/images/manufacturers/chrysler.svg",
+			"logoAspect": 0.882
+		},
+		{
+			"name": "Mazda",
+			"slug": "mazda",
+			"logo": "/images/manufacturers/mazda.svg",
+			"logoAspect": 1.176
+		},
+		{
+			"name": "Maserati",
+			"slug": "maserati",
+			"logo": "/images/manufacturers/maserati.svg",
+			"logoAspect": 0.781
+		}
+	],
+	"MANUFACTURER_LOGOS": [
+		{
+			"name": "Tesla",
+			"slug": "tesla",
+			"logo": "/images/manufacturers/tesla.svg"
+		},
+		{
+			"name": "Ford",
+			"slug": "ford",
+			"logo": "/images/manufacturers/ford.svg",
+			"hubLogoScale": 0.8
+		},
+		{
+			"name": "Chevrolet",
+			"slug": "chevrolet",
+			"logo": "/images/manufacturers/chevrolet.svg",
+			"hubLogoScale": 0.8
+		},
+		{
+			"name": "GMC",
+			"slug": "gmc",
+			"logo": "/images/manufacturers/gmc.svg"
+		},
+		{
+			"name": "RAM",
+			"slug": "ram",
+			"logo": "/images/manufacturers/ram.svg"
+		},
+		{
+			"name": "Mercedes-Benz",
+			"slug": "mercedes-benz",
+			"logo": "/images/manufacturers/mercedes-benz.svg"
+		},
+		{
+			"name": "Audi",
+			"slug": "audi",
+			"logo": "/images/manufacturers/audi.svg",
+			"hubLogoScale": 0.8
+		},
+		{
+			"name": "Porsche",
+			"slug": "porsche",
+			"logo": "/images/manufacturers/porsche.svg"
+		},
+		{
+			"name": "Volkswagen",
+			"slug": "volkswagen",
+			"logo": "/images/manufacturers/volkswagen.svg"
+		},
+		{
+			"name": "Volvo",
+			"slug": "volvo",
+			"logo": "/images/manufacturers/volvo.svg"
+		},
+		{
+			"name": "Kia",
+			"slug": "kia",
+			"logo": "/images/manufacturers/kia.svg",
+			"hubLogoScale": 0.8
+		},
+		{
+			"name": "Jaguar",
+			"slug": "jaguar",
+			"logo": "/images/manufacturers/jaguar.svg"
+		},
+		{
+			"name": "Rivian",
+			"slug": "rivian",
+			"logo": "/images/manufacturers/rivian.svg",
+			"hubLogoScale": 0.8
+		},
+		{
+			"name": "BMW",
+			"slug": "bmw",
+			"logo": "/images/manufacturers/bmw.svg"
+		},
+		{
+			"name": "Toyota",
+			"slug": "toyota",
+			"logo": "/images/manufacturers/toyota.svg"
+		},
+		{
+			"name": "Honda",
+			"slug": "honda",
+			"logo": "/images/manufacturers/honda.svg"
+		},
+		{
+			"name": "Nissan",
+			"slug": "nissan",
+			"logo": "/images/manufacturers/nissan.svg"
+		},
+		{
+			"name": "Lexus",
+			"slug": "lexus",
+			"logo": "/images/manufacturers/lexus.svg"
+		},
+		{
+			"name": "Hyundai",
+			"slug": "hyundai",
+			"logo": "/images/manufacturers/hyundai.svg"
+		},
+		{
+			"name": "Jeep",
+			"slug": "jeep",
+			"logo": "/images/manufacturers/jeep.svg"
+		},
+		{
+			"name": "Dodge",
+			"slug": "dodge",
+			"logo": "/images/manufacturers/dodge.svg"
+		},
+		{
+			"name": "Chrysler",
+			"slug": "chrysler",
+			"logo": "/images/manufacturers/chrysler.svg"
+		},
+		{
+			"name": "Mazda",
+			"slug": "mazda",
+			"logo": "/images/manufacturers/mazda.svg"
+		},
+		{
+			"name": "Maserati",
+			"slug": "maserati",
+			"logo": "/images/manufacturers/maserati.svg"
+		}
+	]
+}

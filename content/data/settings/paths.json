@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"MANUFACTURERS_HUB_PATH": "/manufacturers",
+	"REVIEWS_HUB_PATH": "/reviews",
+	"CASE_STUDIES_HUB_PATH": "/case-studies",
+	"FAQ_HUB_PATH": "/faq",
+	"GUIDEBOOK_HUB_PATH": "/guidebook",
+	"LEARN_HUB_PATH": "/learn",
+	"THE_FIRM_PATH": "/the-firm",
+	"BLOG_HUB_PATH": "/blog",
+	"LOCATIONS_HUB_PATH": "/locations",
+	"INFO_HUB_PATH": "/info",
+	"TEAM_PATH": "/team"
+}

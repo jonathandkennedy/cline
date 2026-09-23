@@ -1,0 +1,279 @@
+{
+	"version": 1,
+	"ELIGIBILITY_ANSWER_SUMMARY_FIELDS": [
+		{
+			"step": 1,
+			"label": "Vehicle type",
+			"key": "vehicleType"
+		},
+		{
+			"step": 2,
+			"label": "Defect during original warranty",
+			"key": "withinWindow"
+		},
+		{
+			"step": 3,
+			"label": "Repair attempts",
+			"key": "attempts"
+		},
+		{
+			"step": 4,
+			"label": "Days out of service",
+			"key": "daysOut"
+		},
+		{
+			"step": 5,
+			"label": "Substantial impairment",
+			"key": "impairs"
+		},
+		{
+			"step": 6,
+			"label": "Safety-related defect",
+			"key": "safety"
+		}
+	],
+	"ELIGIBILITY_FLOW_BY_INDEX": {
+		"1": {
+			"index": 1,
+			"kind": "vehicle",
+			"title": "What type of vehicle is it?",
+			"subtitle": "California Lemon Law covers new, certified pre-owned, and many used vehicles."
+		},
+		"2": {
+			"index": 2,
+			"kind": "yesno",
+			"title": "Did the defect first occur during the original manufacturer warranty?",
+			"subtitle": "That is the question that matters. An 18-month / 18,000-mile timeline is not required to have a case.",
+			"yesLabel": "Yes, During Warranty",
+			"noLabel": "No / Not Sure",
+			"answerKey": "withinWindow"
+		},
+		"3": {
+			"index": 3,
+			"kind": "range",
+			"title": "How many times has the same defect been repaired?",
+			"subtitle": "Count only repair visits for the identical problem (e.g. transmission, electrical, engine).",
+			"field": "attempts",
+			"min": 0,
+			"max": 8,
+			"unit": "attempts",
+			"hint": "Count only visits for the identical problem."
+		},
+		"4": {
+			"index": 4,
+			"kind": "range",
+			"title": "Total days out of service for repairs?",
+			"subtitle": "Add up every day the vehicle sat at the dealer or shop for warranty repairs.",
+			"field": "daysOut",
+			"min": 0,
+			"max": 90,
+			"unit": "days",
+			"hint": "Add every day the vehicle sat at the dealer for warranty repairs."
+		},
+		"5": {
+			"index": 5,
+			"kind": "yesno",
+			"title": "Does the defect impair the vehicle's use, value, or safety?",
+			"subtitle": "A substantial impairment is part of a Song-Beverly claim.",
+			"yesLabel": "Yes, Substantially",
+			"noLabel": "No / Not Sure",
+			"answerKey": "impairs"
+		},
+		"6": {
+			"index": 6,
+			"kind": "yesno",
+			"title": "Is it a safety-related defect?",
+			"subtitle": "A defect likely to cause death or serious injury (brakes, steering, airbags, stalling, fire risk) can strengthen a claim with fewer repair visits.",
+			"yesLabel": "Yes",
+			"noLabel": "No",
+			"answerKey": "safety"
+		}
+	},
+	"ELIGIBILITY_FLOW_STEPS": [
+		{
+			"index": 1,
+			"kind": "vehicle",
+			"title": "What type of vehicle is it?",
+			"subtitle": "California Lemon Law covers new, certified pre-owned, and many used vehicles."
+		},
+		{
+			"index": 2,
+			"kind": "yesno",
+			"title": "Did the defect first occur during the original manufacturer warranty?",
+			"subtitle": "That is the question that matters. An 18-month / 18,000-mile timeline is not required to have a case.",
+			"yesLabel": "Yes, During Warranty",
+			"noLabel": "No / Not Sure",
+			"answerKey": "withinWindow"
+		},
+		{
+			"index": 3,
+			"kind": "range",
+			"title": "How many times has the same defect been repaired?",
+			"subtitle": "Count only repair visits for the identical problem (e.g. transmission, electrical, engine).",
+			"field": "attempts",
+			"min": 0,
+			"max": 8,
+			"unit": "attempts",
+			"hint": "Count only visits for the identical problem."
+		},
+		{
+			"index": 4,
+			"kind": "range",
+			"title": "Total days out of service for repairs?",
+			"subtitle": "Add up every day the vehicle sat at the dealer or shop for warranty repairs.",
+			"field": "daysOut",
+			"min": 0,
+			"max": 90,
+			"unit": "days",
+			"hint": "Add every day the vehicle sat at the dealer for warranty repairs."
+		},
+		{
+			"index": 5,
+			"kind": "yesno",
+			"title": "Does the defect impair the vehicle's use, value, or safety?",
+			"subtitle": "A substantial impairment is part of a Song-Beverly claim.",
+			"yesLabel": "Yes, Substantially",
+			"noLabel": "No / Not Sure",
+			"answerKey": "impairs"
+		},
+		{
+			"index": 6,
+			"kind": "yesno",
+			"title": "Is it a safety-related defect?",
+			"subtitle": "A defect likely to cause death or serious injury (brakes, steering, airbags, stalling, fire risk) can strengthen a claim with fewer repair visits.",
+			"yesLabel": "Yes",
+			"noLabel": "No",
+			"answerKey": "safety"
+		}
+	],
+	"ELIGIBILITY_RANGE_STEP_INDICES": [3, 4],
+	"ELIGIBILITY_RESULTS_STEP": 7,
+	"VEHICLE_OPTIONS": [
+		{
+			"id": "New",
+			"label": "New",
+			"description": "Still under warranty"
+		},
+		{
+			"id": "Certified Pre-Owned",
+			"label": "Certified Pre-Owned",
+			"description": "Manufacturer-backed"
+		},
+		{
+			"id": "Used",
+			"label": "Used",
+			"description": "Often still covered"
+		}
+	],
+	"ELIGIBILITY_RAIL_FACTOR_ITEMS": [
+		{
+			"id": "window",
+			"label": "Defect During Original Warranty"
+		},
+		{
+			"id": "impairment",
+			"label": "Substantial Impairment"
+		},
+		{
+			"id": "repair",
+			"label": "Repeat Repair Visits"
+		},
+		{
+			"id": "safety",
+			"label": "Serious Safety Defect"
+		},
+		{
+			"id": "days",
+			"label": "Extended Time in the Shop"
+		}
+	],
+	"ELIGIBILITY_DISCLAIMER_ITEMS": [
+		"An educational snapshot, not legal advice. An 18-month / 18,000-mile window is not required to have a case."
+	],
+	"ELIGIBILITY_FOOT_LINK_ITEMS": [
+		{
+			"path": "/california-lemon-law/",
+			"campaign": "eligibility",
+			"label": "Read about California Lemon Law"
+		}
+	],
+	"ELIGIBILITY_STRENGTH_CHROME": {
+		"Strong": {
+			"displayLabel": "Strong warranty-period indicators",
+			"strengthColor": "text-recovery",
+			"meterColor": "bg-recovery",
+			"stickyTone": "recovery"
+		},
+		"Moderate": {
+			"displayLabel": "Promising warranty-period signs",
+			"strengthColor": "text-cta",
+			"meterColor": "bg-cta",
+			"stickyTone": "cta"
+		},
+		"Review": {
+			"displayLabel": "Worth a closer look",
+			"strengthColor": "text-gold-soft",
+			"meterColor": "bg-gold/70",
+			"stickyTone": "gold"
+		}
+	},
+	"ELIGIBILITY_SUMMARY_VALUE_BY_KEY": {},
+	"ELIGIBILITY_RESULT_POINTS": [
+		{
+			"id": "within-window",
+			"good": true,
+			"text": "Defect first appeared during the original manufacturer warranty."
+		},
+		{
+			"id": "impairs",
+			"good": true,
+			"text": "Defect substantially impairs use, value, or safety."
+		},
+		{
+			"id": "safety",
+			"good": true,
+			"text": "Safety-related defect — can strengthen a claim with fewer repair visits."
+		},
+		{
+			"id": "repair",
+			"good": true,
+			"text": "Repeat repair attempts for the same defect."
+		},
+		{
+			"id": "days",
+			"good": true,
+			"text": "Extended time out of service for warranty repairs."
+		},
+		{
+			"id": "outside-window",
+			"text": "If warranty timing is unclear, a CLINE APC attorney can review the facts a quiz misses."
+		},
+		{
+			"id": "not-qualified",
+			"text": "This snapshot is educational. A specialist can review your repair history even when the quiz is mixed."
+		}
+	],
+	"ELIGIBILITY_RESULTS_CHROME": {
+		"yourAnswersLabel": "Your Answers",
+		"assessmentResultEyebrow": "Assessment Result",
+		"qualifiesShort": "Strong indicators under Song-Beverly",
+		"qualifiesLong": "The defect first appeared during the original manufacturer warranty",
+		"notQualifiesShort": "Worth a conversation with counsel",
+		"notQualifiesLong": "Warranty timing is the key issue, and we will sort it out with your repair history",
+		"caseStrengthPrefix": "Case snapshot:",
+		"disclaimer": "This is an educational snapshot only. An 18-month / 18,000-mile window is not required to have a case.",
+		"editLabel": "Edit",
+		"startOverLabel": "Start a new assessment",
+		"evaluationCtaShort": "Call Now",
+		"evaluationCtaLong": "Call for a Free Case Review",
+		"recoveryCta": "Estimate Recovery"
+	},
+	"ELIGIBILITY_STICKY_BAR": {
+		"label": "Warranty read",
+		"cta": "Call Now"
+	},
+	"ELIGIBILITY_RAIL_COPY": {
+		"scoreAriaLabel": "Warranty-period case snapshot",
+		"scoreLivePrefix": "Case snapshot"
+	}
+}

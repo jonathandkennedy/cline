@@ -1,0 +1,6 @@
+[install]
+
+linker = "hoisted"
+
+# Allow patched brace-expansion releases before the global 7-day minimum-release-age window.
+minimumReleaseAgeExclude = ["brace-expansion"]

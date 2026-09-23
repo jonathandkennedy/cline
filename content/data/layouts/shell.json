@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"TOOL_SHELL_CHROME_BLOCKS": [
+		{
+			"id": "embedHeader",
+			"region": "head"
+		},
+		{
+			"id": "scrollMarker",
+			"region": "tail"
+		},
+		{
+			"id": "footer",
+			"region": "tail"
+		},
+		{
+			"id": "scrollFlag",
+			"region": "tail"
+		},
+		{
+			"id": "backToTop",
+			"region": "tail"
+		}
+	]
+}

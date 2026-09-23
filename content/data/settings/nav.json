@@ -1,0 +1,114 @@
+{
+	"version": 1,
+	"RESOURCE_HEADER_NAV_ITEMS": [
+		{
+			"id": "manufacturers",
+			"href": "/manufacturers",
+			"label": "Manufacturers",
+			"description": "Lemon Law help by automaker, including Tesla, Ford, GM, and more.",
+			"icon": "factory"
+		},
+		{
+			"id": "reviews",
+			"href": "/reviews",
+			"label": "Client Reviews",
+			"description": "Representative outcomes from California vehicle owners.",
+			"icon": "star"
+		},
+		{
+			"id": "case-studies",
+			"href": "/case-studies",
+			"label": "Case Studies",
+			"description": "How claims move from repair records to buybacks.",
+			"icon": "file-text"
+		},
+		{
+			"id": "faq",
+			"href": "/faq",
+			"label": "FAQ",
+			"description": "Song-Beverly answers on fees, timelines, and documents.",
+			"icon": "help-circle"
+		},
+		{
+			"id": "guidebook",
+			"href": "/guidebook",
+			"label": "Guidebook",
+			"description": "Attorney-written chapters on rights and the buyback process.",
+			"icon": "book-open"
+		},
+		{
+			"id": "blog",
+			"href": "/blog",
+			"label": "Blog",
+			"description": "Attorney articles on Song-Beverly, buybacks, and new California Lemon Law rules.",
+			"icon": "newspaper"
+		}
+	],
+	"LEARN_HEADER_NAV": {
+		"label": "Learn"
+	},
+	"THE_FIRM_HEADER_NAV": {
+		"label": "About"
+	},
+	"RESOURCE_FOOTER_NAV_ITEMS": [
+		{
+			"id": "manufacturers",
+			"href": "/manufacturers",
+			"label": "Manufacturers",
+			"description": "Manufacturers",
+			"icon": "factory"
+		},
+		{
+			"id": "reviews",
+			"href": "/reviews",
+			"label": "Client Reviews",
+			"description": "Client Reviews",
+			"icon": "star"
+		},
+		{
+			"id": "case-studies",
+			"href": "/case-studies",
+			"label": "Case Studies",
+			"description": "Case Studies",
+			"icon": "file-text"
+		},
+		{
+			"id": "faq",
+			"href": "/faq",
+			"label": "FAQ",
+			"description": "FAQ",
+			"icon": "help-circle"
+		},
+		{
+			"id": "guidebook",
+			"href": "/guidebook",
+			"label": "Guidebook",
+			"description": "Guidebook",
+			"icon": "book-open"
+		},
+		{
+			"id": "learn",
+			"href": "/learn",
+			"label": "Learn",
+			"description": "Learn",
+			"icon": "book-open"
+		},
+		{
+			"id": "blog",
+			"href": "/blog",
+			"label": "Blog",
+			"description": "Blog",
+			"icon": "newspaper"
+		},
+		{
+			"id": "locations",
+			"href": "/locations",
+			"label": "Locations",
+			"description": "Locations",
+			"icon": "map-pin"
+		}
+	],
+	"TEAM_HEADER_NAV": {
+		"label": "Team"
+	}
+}

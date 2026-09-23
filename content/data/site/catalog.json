@@ -1,0 +1,198 @@
+{
+	"version": 1,
+	"pages": {
+		"home": {
+			"id": "home",
+			"route": "/",
+			"registry": "home",
+			"shell": "home",
+			"main": {
+				"$ref": "pages/home.PAGE"
+			},
+			"footer": {
+				"$ref": "pages/home.PAGE_FOOTER"
+			}
+		},
+		"the-firm": {
+			"id": "the-firm",
+			"route": "/the-firm",
+			"registry": "the-firm",
+			"shell": "resource",
+			"main": {
+				"$ref": "layouts/hubs.THE_FIRM_PAGE_MAIN"
+			}
+		},
+		"team": {
+			"id": "team",
+			"route": "/team",
+			"registry": "team",
+			"shell": "resource",
+			"main": {
+				"$ref": "layouts/hubs.TEAM_PAGE_MAIN"
+			}
+		},
+		"manufacturers-hub": {
+			"id": "manufacturers-hub",
+			"route": "/manufacturers",
+			"registry": "manufacturers-hub",
+			"shell": "resource",
+			"main": {
+				"$ref": "layouts/hubs.MANUFACTURERS_HUB_PAGE_MAIN"
+			}
+		},
+		"reviews-hub": {
+			"id": "reviews-hub",
+			"route": "/reviews",
+			"registry": "reviews-hub",
+			"shell": "resource",
+			"main": {
+				"$ref": "layouts/hubs.REVIEWS_HUB_PAGE_MAIN"
+			}
+		},
+		"case-studies-hub": {
+			"id": "case-studies-hub",
+			"route": "/case-studies",
+			"registry": "case-studies-hub",
+			"shell": "resource",
+			"main": {
+				"$ref": "layouts/hubs.CASE_STUDIES_HUB_PAGE_MAIN"
+			}
+		},
+		"faq-hub": {
+			"id": "faq-hub",
+			"route": "/faq",
+			"registry": "faq-hub",
+			"shell": "resource",
+			"main": {
+				"$ref": "layouts/hubs.FAQ_HUB_PAGE_MAIN"
+			}
+		},
+		"guidebook-hub": {
+			"id": "guidebook-hub",
+			"route": "/guidebook",
+			"registry": "guidebook-hub",
+			"shell": "resource",
+			"main": {
+				"$ref": "layouts/hubs.GUIDEBOOK_HUB_PAGE_MAIN"
+			}
+		},
+		"learn-hub": {
+			"id": "learn-hub",
+			"route": "/learn",
+			"registry": "learn-hub",
+			"shell": "resource",
+			"main": {
+				"$ref": "layouts/hubs.LEARN_HUB_PAGE_MAIN"
+			}
+		},
+		"review-detail": {
+			"id": "review-detail",
+			"route": "/reviews/[slug]",
+			"registry": "review-detail",
+			"shell": "resource",
+			"main": {
+				"$ref": "layouts/hubs.REVIEW_DETAIL_PAGE_MAIN"
+			}
+		},
+		"case-study-detail": {
+			"id": "case-study-detail",
+			"route": "/case-studies/[slug]",
+			"registry": "case-study-detail",
+			"shell": "resource",
+			"main": {
+				"$ref": "layouts/hubs.CASE_STUDY_DETAIL_PAGE_MAIN"
+			}
+		},
+		"faq-detail": {
+			"id": "faq-detail",
+			"route": "/faq/[slug]",
+			"registry": "faq-detail",
+			"shell": "resource",
+			"main": {
+				"$ref": "layouts/hubs.FAQ_DETAIL_PAGE_MAIN"
+			}
+		},
+		"guidebook-chapter": {
+			"id": "guidebook-chapter",
+			"route": "/guidebook/[slug]",
+			"registry": "guidebook-chapter",
+			"shell": "resource",
+			"main": {
+				"$ref": "layouts/hubs.GUIDEBOOK_CHAPTER_PAGE_MAIN"
+			}
+		},
+		"manufacturer-detail": {
+			"id": "manufacturer-detail",
+			"route": "/manufacturers/[slug]",
+			"registry": "manufacturer-detail",
+			"shell": "resource",
+			"main": {
+				"$ref": "layouts/hubs.MANUFACTURER_DETAIL_PAGE_MAIN"
+			}
+		},
+		"blog-hub": {
+			"id": "blog-hub",
+			"route": "/blog",
+			"registry": "blog-hub",
+			"shell": "resource",
+			"main": {
+				"$ref": "layouts/hubs.BLOG_HUB_PAGE_MAIN"
+			}
+		},
+		"blog-detail": {
+			"id": "blog-detail",
+			"route": "/blog/[slug]",
+			"registry": "blog-detail",
+			"shell": "resource",
+			"main": {
+				"$ref": "layouts/hubs.BLOG_DETAIL_PAGE_MAIN"
+			}
+		},
+		"locations-hub": {
+			"id": "locations-hub",
+			"route": "/locations",
+			"registry": "locations-hub",
+			"shell": "resource",
+			"main": {
+				"$ref": "layouts/hubs.LOCATIONS_HUB_PAGE_MAIN"
+			}
+		},
+		"location-detail": {
+			"id": "location-detail",
+			"route": "/locations/[slug]",
+			"registry": "location-detail",
+			"shell": "resource",
+			"main": {
+				"$ref": "layouts/hubs.LOCATION_DETAIL_PAGE_MAIN"
+			}
+		},
+		"info-hub": {
+			"id": "info-hub",
+			"route": "/info",
+			"registry": "info-hub",
+			"shell": "resource",
+			"main": {
+				"$ref": "layouts/hubs.INFO_HUB_PAGE_MAIN"
+			}
+		},
+		"info-detail": {
+			"id": "info-detail",
+			"route": "/info/[slug]",
+			"registry": "info-detail",
+			"shell": "resource",
+			"main": {
+				"$ref": "layouts/hubs.INFO_DETAIL_PAGE_MAIN"
+			}
+		},
+		"tool-shell": {
+			"id": "tool-shell",
+			"route": "/tool/[slug]",
+			"registry": "tool-shell",
+			"shell": "tool",
+			"chrome": {
+				"$ref": "layouts/shell.TOOL_SHELL_CHROME_BLOCKS"
+			}
+		}
+	},
+	"description": "Route catalog for renderSitePage; layout trees via $ref into SITE_DATA_INDEX."
+}
