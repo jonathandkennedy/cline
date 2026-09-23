@@ -14,7 +14,14 @@
       "seoTitle": "10 Car Brands That Have Been Recalled in 2024 | CLINE APC",
       "seoDescription": "Recalls are a reality in the automotive industry, and that’s a good thing. This is how vehicle manufacturers address safety concerns or defects to protect consumers.",
       "thumbnail": "/images/blog/10-car-recalls-in-2024.jpg",
-      "thumbnailAlt": "10 Car Brands That Have Been Recalled in 2024"
+      "thumbnailAlt": "10 Car Brands That Have Been Recalled in 2024",
+      "topics": [
+        "recalls"
+      ],
+      "brands": [
+        "ford",
+        "toyota"
+      ]
     },
     {
       "slug": "2017-gmc-yukon-transmission-recall",
@@ -30,7 +37,14 @@
       "seoTitle": "2017 GMC Yukon Transmission Recall: What Should You Know If You Have One? | CLINE APC",
       "seoDescription": "The 2017 GMC Yukon has always had a certain reputation.",
       "thumbnail": "/images/blog/2017-gmc-yukon-transmission-recall.jpg",
-      "thumbnailAlt": "2017 GMC Yukon Transmission Recall: What Should You Know If You Have One?"
+      "thumbnailAlt": "2017 GMC Yukon Transmission Recall: What Should You Know If You Have One?",
+      "topics": [
+        "recalls",
+        "used-and-cpo-vehicles"
+      ],
+      "brands": [
+        "gmc"
+      ]
     },
     {
       "slug": "2019-21-chevy-cruze-problem-what-you-need-to-know",
@@ -46,7 +60,13 @@
       "seoTitle": "2019 – 2021 Chevy Cruze Problems: What You Should Know If You Own One in California | CLINE APC",
       "seoDescription": "Problems with the Chevy Cruze have been reported to overshadow the benefits of this particular model. The Cruze’s advertising boasts excellent gas mileage, handling, and longevity. However, it has been reported to als...",
       "thumbnail": "/images/blog/2019-21-chevy-cruze-problem-what-you-need-to-know.jpg",
-      "thumbnailAlt": "2019 2021 Chevy Cruze Problems: What You Should Know If You Own One in California"
+      "thumbnailAlt": "2019 2021 Chevy Cruze Problems: What You Should Know If You Own One in California",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": [
+        "chevrolet"
+      ]
     },
     {
       "slug": "4-lies-manufacturers-will-tell-consumers-in-the-buyback-process",
@@ -62,7 +82,12 @@
       "seoTitle": "4 Lies Manufacturers Will Tell Consumers in the Buyback Process | CLINE APC",
       "seoDescription": "Automakers in California have no intention of compensating consumers for mistakes in their manufacturing process. In addition to the refund costing them a pretty penny, a court ruling that they produced and sold a def...",
       "thumbnail": "/images/blog/4-lies-manufacturers-will-tell-consumers-in-the-buyback-process.jpg",
-      "thumbnailAlt": "4 Lies Manufacturers Will Tell Consumers in the Buyback Process"
+      "thumbnailAlt": "4 Lies Manufacturers Will Tell Consumers in the Buyback Process",
+      "topics": [
+        "buybacks-and-refunds",
+        "claim-process"
+      ],
+      "brands": []
     },
     {
       "slug": "4-things-to-remember-for-a-successful-first-meeting-with-your-lemon-law-attorney",
@@ -80,7 +105,11 @@
       "seoTitle": "4 Tips for a Successful First Meeting with Your Lemon Law Attorney | CLINE APC",
       "seoDescription": "Dealing with the lemon law process first-hand is no picnic. As this is more than likely your first experience with a lemon vehicle, it’s very important to be as prepared as possible before going into your first meetin...",
       "thumbnail": "/images/blog/4-things-to-remember-for-a-successful-first-meeting-with-your-lemon-law-attorney.jpg",
-      "thumbnailAlt": "4 Tips for a Successful First Meeting with Your Lemon Law Attorney"
+      "thumbnailAlt": "4 Tips for a Successful First Meeting with Your Lemon Law Attorney",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "4-tips-for-hiring-the-right-lemon-law-attorney",
@@ -98,7 +127,11 @@
       "seoTitle": "4 Tips for Hiring the Right Lemon Law Attorney | CLINE APC",
       "seoDescription": "If you find yourself in the unfortunate situation that your new or used vehicle is a lemon, you’re more than likely jumping to conclusions about how the process will end. However, the first thing on your to-do list sh...",
       "thumbnail": "/images/blog/4-tips-for-hiring-the-right-lemon-law-attorney.jpg",
-      "thumbnailAlt": "4 Tips for Hiring the Right Lemon Law Attorney"
+      "thumbnailAlt": "4 Tips for Hiring the Right Lemon Law Attorney",
+      "topics": [
+        "hiring-a-lemon-law-attorney"
+      ],
+      "brands": []
     },
     {
       "slug": "4-ways-california-lemon-lawyers-can-help-you-fight-against-a-faulty-auto-manufacturer",
@@ -115,7 +148,12 @@
       "seoTitle": "4 Ways California Lemon Lawyers Can Help You Fight Against a Faulty Auto Manufacturer | CLINE APC",
       "seoDescription": "Buying a new or used vehicle and finding out it’s a lemon is one of the most frustrating experiences you can face as a consumer. In the old days, when a customer bought a faulty car, it was a more or less “tough luck”...",
       "thumbnail": "/images/blog/4-ways-california-lemon-lawyers-can-help-you-fight-against-a-faulty-auto-manufacturer.jpg",
-      "thumbnailAlt": "4 Ways California Lemon Lawyers Can Help You Fight Against a Faulty Auto Manufacturer"
+      "thumbnailAlt": "4 Ways California Lemon Lawyers Can Help You Fight Against a Faulty Auto Manufacturer",
+      "topics": [
+        "used-and-cpo-vehicles",
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "5-sounds-that-might-indicate-your-vehicle-is-a-lemon",
@@ -132,7 +170,11 @@
       "seoTitle": "5 Noises That Might Indicate a Lemon Car Sound from Your Vehicle | CLINE APC",
       "seoDescription": "When you purchase a vehicle, the last thing in the world you want to hear is a weird sound coming from one of the car’s key components. A particular noise may be a lemon car sound.",
       "thumbnail": "/images/blog/5-sounds-that-might-indicate-your-vehicle-is-a-lemon.jpg",
-      "thumbnailAlt": "5 Noises That Might Indicate a Lemon Car Sound from Your Vehicle"
+      "thumbnailAlt": "5 Noises That Might Indicate a Lemon Car Sound from Your Vehicle",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "5-tips-to-win-a-lemon-claim-from-your-manufacturer",
@@ -149,7 +191,11 @@
       "seoTitle": "5 Tips to Win a Lemon Claim from Your Manufacturer | CLINE APC",
       "seoDescription": "Getting a new vehicle is a joy that is unparalleled. However, when that same vehicle has to go through a several maintenance and repair services instead of running smoothly on road, there has to be something more to i...",
       "thumbnail": "/images/blog/5-tips-to-win-a-lemon-claim-from-your-manufacturer.jpg",
-      "thumbnailAlt": "5 Tips to Win a Lemon Claim from Your Manufacturer"
+      "thumbnailAlt": "5 Tips to Win a Lemon Claim from Your Manufacturer",
+      "topics": [
+        "claim-process"
+      ],
+      "brands": []
     },
     {
       "slug": "6-sure-fire-signs-the-used-car-you-plan-to-buy-is-a-lemon",
@@ -166,7 +212,11 @@
       "seoTitle": "6 Sure-Fire Signs the Used Car You Plan to Buy is a Lemon | CLINE APC",
       "seoDescription": "Buying a used car always comes with a certain degree of risk. The harsh reality is there will more than likely be _something_ wrong with it. The key is being able to spot the imperfections and determine the seriousnes...",
       "thumbnail": "/images/blog/6-sure-fire-signs-the-used-car-you-plan-to-buy-is-a-lemon.jpg",
-      "thumbnailAlt": "6 Sure-Fire Signs the Used Car You Plan to Buy is a Lemon"
+      "thumbnailAlt": "6 Sure-Fire Signs the Used Car You Plan to Buy is a Lemon",
+      "topics": [
+        "used-and-cpo-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "6-things-know-recreational-vehicle-lemon",
@@ -183,7 +233,11 @@
       "seoTitle": "6 Things To Know If Your Recreational Vehicle is a Lemon | CLINE APC",
       "seoDescription": "Getting an RV or a motorhome is a major decision and requires thorough financial planning. As you end up paying a major sum for both new and used RV, there’s no way you should settle for something that is below par, s...",
       "thumbnail": "/images/blog/6-things-know-recreational-vehicle-lemon.jpg",
-      "thumbnailAlt": "6 Things To Know If Your Recreational Vehicle is a Lemon"
+      "thumbnailAlt": "6 Things To Know If Your Recreational Vehicle is a Lemon",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "a-detailed-california-lemon-law-guide-for-los-angeles-residents",
@@ -199,7 +253,11 @@
       "seoTitle": "A Detailed California Lemon Law Guide for Los Angeles Residents | CLINE APC",
       "seoDescription": "When tourists think of Los Angeles, many think of Hollywood, celebrities, and Disneyland. Locals think of heavy _traffic_.",
       "thumbnail": "/images/blog/a-detailed-california-lemon-law-guide-for-los-angeles-residents.jpg",
-      "thumbnailAlt": "A Detailed California Lemon Law Guide for Los Angeles Residents"
+      "thumbnailAlt": "A Detailed California Lemon Law Guide for Los Angeles Residents",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "a-guide-to-california-lemon-law-for-rv-owners",
@@ -216,7 +274,11 @@
       "seoTitle": "California Lemon Law for RV Owners: Why New RVs Are Now Protected Like Cars | CLINE APC",
       "seoDescription": "For many Californians, an RV is more than just a vehicle. It is a second home, a way to explore the coast, and sometimes even a full-time lifestyle. But when your brand-new RV spends more time in the repair shop than...",
       "thumbnail": "/images/blog/a-guide-to-california-lemon-law-for-rv-owners.jpg",
-      "thumbnailAlt": "California Lemon Law for RV Owners: Why New RVs Are Now Protected Like Cars"
+      "thumbnailAlt": "California Lemon Law for RV Owners: Why New RVs Are Now Protected Like Cars",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "a-new-ad-campaign-takes-aim-to-unmask-the-cjac",
@@ -232,7 +294,11 @@
       "seoTitle": "A New Ad Campaign Takes Aim to “Unmask” the CJAC | CLINE APC",
       "seoDescription": "Alliances between multi-billion-dollar corporations and politicians are nothing new in the United States - and California. Corporations are on a constant mission to preserve and increase their bottom lines, and their...",
       "thumbnail": "/images/blog/a-new-ad-campaign-takes-aim-to-unmask-the-cjac.jpg",
-      "thumbnailAlt": "A New Ad Campaign Takes Aim to “Unmask” the CJAC"
+      "thumbnailAlt": "A New Ad Campaign Takes Aim to “Unmask” the CJAC",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "are-illegal-car-sales-tactics-and-how-to-get-out-of-them",
@@ -248,7 +314,11 @@
       "seoTitle": "What Are Illegal Car Sales Tactics and How to Get Out of Them? | CLINE APC",
       "seoDescription": "We’d all like to believe that car dealers are honest, hardworking professionals who genuinely care about building customer relationships.",
       "thumbnail": "/images/blog/are-illegal-car-sales-tactics-and-how-to-get-out-of-them.jpg",
-      "thumbnailAlt": "What Are Illegal Car Sales Tactics and How to Get Out of Them?"
+      "thumbnailAlt": "What Are Illegal Car Sales Tactics and How to Get Out of Them?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "are-maserati-cars-reliable",
@@ -264,7 +334,14 @@
       "seoTitle": "Is Buying a Maserati Car Worth It? Here Is What You Need to Know | CLINE APC",
       "seoDescription": "A Maserati turns heads wherever it goes. But under the hood, is it as reliable as it looks?",
       "thumbnail": "/images/blog/are-maserati-cars-reliable.jpg",
-      "thumbnailAlt": "Is Buying a Maserati Car Worth It? Here Is What You Need to Know"
+      "thumbnailAlt": "Is Buying a Maserati Car Worth It? Here Is What You Need to Know",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": [
+        "maserati",
+        "mercedes-benz"
+      ]
     },
     {
       "slug": "are-teslas-covered-by-lemon-laws-debunking-myths-and-misconceptions",
@@ -281,7 +358,13 @@
       "seoTitle": "Are Teslas Covered by Lemon Laws? Debunking Myths and Misconceptions | CLINE APC",
       "seoDescription": "To say Tesla has changed the auto industry is no exaggeration.",
       "thumbnail": "/images/blog/are-teslas-covered-by-lemon-laws-debunking-myths-and-misconceptions.jpg",
-      "thumbnailAlt": "Are Teslas Covered by Lemon Laws? Debunking Myths and Misconceptions"
+      "thumbnailAlt": "Are Teslas Covered by Lemon Laws? Debunking Myths and Misconceptions",
+      "topics": [
+        "claim-process"
+      ],
+      "brands": [
+        "tesla"
+      ]
     },
     {
       "slug": "assessing-the-vast-ripple-effect-of-self-driving-cars",
@@ -298,7 +381,11 @@
       "seoTitle": "Assessing the Vast Ripple Effect of Self-Driving Cars | CLINE APC",
       "seoDescription": "Self-driving cars (also referred to as autonomous vehicles) are one of the most exciting technological breakthroughs of our time. Chances are, you’ve read something on the news about companies like Uber and Google exp...",
       "thumbnail": "/images/blog/assessing-the-vast-ripple-effect-of-self-driving-cars.jpg",
-      "thumbnailAlt": "Assessing the Vast Ripple Effect of Self-Driving Cars"
+      "thumbnailAlt": "Assessing the Vast Ripple Effect of Self-Driving Cars",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "audi-passenger-air-bag-issues",
@@ -314,7 +401,14 @@
       "seoTitle": "Audi Recall: 4 Recalled Models Due to Passenger Air Bag Issues Since 2015 | CLINE APC",
       "seoDescription": "Airbag defects are extremely serious - and can be the difference between life and death in a crash. According to Consumer Reports, last year, we saw an Audi recall get issued due to problems with airbags in several of...",
       "thumbnail": "/images/blog/audi-passenger-air-bag-issues.jpg",
-      "thumbnailAlt": "Audi Recall: 4 Recalled Models Due to Passenger Air Bag Issues Since 2015"
+      "thumbnailAlt": "Audi Recall: 4 Recalled Models Due to Passenger Air Bag Issues Since 2015",
+      "topics": [
+        "recalls"
+      ],
+      "brands": [
+        "audi",
+        "volkswagen"
+      ]
     },
     {
       "slug": "automakers-avoid-manufacturer-buyback",
@@ -330,7 +424,14 @@
       "seoTitle": "4 Hidden Ways Automakers Avoid a Manufacturer Buyback | CLINE APC",
       "seoDescription": "The purpose of lemon law in the United States is to protect consumers who have purchased a vehicle that has defect and to force manufacturers to live up to their warranty promises. If a vehicle meets the state’s speci...",
       "thumbnail": "/images/blog/automakers-avoid-manufacturer-buyback.jpg",
-      "thumbnailAlt": "4 Hidden Ways Automakers Avoid a Manufacturer Buyback"
+      "thumbnailAlt": "4 Hidden Ways Automakers Avoid a Manufacturer Buyback",
+      "topics": [
+        "buybacks-and-refunds",
+        "claim-process"
+      ],
+      "brands": [
+        "tesla"
+      ]
     },
     {
       "slug": "avoid-buying-a-car-as-is-from-a-dealership",
@@ -348,7 +449,11 @@
       "seoTitle": "Why You Should Always Avoid Buying a Car “As Is” from a Dealership | CLINE APC",
       "seoDescription": "Buying a used car is a nerve-racking experience. For the most part, you never _really_ know what you are going to get or where the car has been, even with all the right precautions.",
       "thumbnail": "/images/blog/avoid-buying-a-car-as-is-from-a-dealership.jpg",
-      "thumbnailAlt": "Why You Should Always Avoid Buying a Car “As Is” from a Dealership"
+      "thumbnailAlt": "Why You Should Always Avoid Buying a Car “As Is” from a Dealership",
+      "topics": [
+        "used-and-cpo-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "begin-lemon-law-case-during-covid-19",
@@ -364,7 +469,11 @@
       "seoTitle": "Can You Still Begin a Lemon Law Case During COVID-19? | CLINE APC",
       "seoDescription": "COVID-19 has changed things for a lot of businesses and organizations all over the country - including the legal system. Courts across the United States have temporarily suspended all in-person hearings and extended c...",
       "thumbnail": "/images/blog/begin-lemon-law-case-during-covid-19.jpg",
-      "thumbnailAlt": "Can You Still Begin a Lemon Law Case During COVID-19?"
+      "thumbnailAlt": "Can You Still Begin a Lemon Law Case During COVID-19?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "best-lemon-law-attorney-san-diego-key-qualities-to-look-for-in-2026",
@@ -380,7 +489,11 @@
       "seoTitle": "Best Lemon Law Attorney San Diego: Key Qualities to Look for in 2026 | CLINE APC",
       "seoDescription": "Vehicle defects can create repeated inconvenience, unexpected expenses, and serious safety concerns. When repairs fail to resolve warranty-covered problems, the California Lemon Law may provide legal remedies. Working...",
       "thumbnail": "/images/blog/best-lemon-law-attorney-san-diego-key-qualities-to-look-for-in-2026.jpg",
-      "thumbnailAlt": "Best Lemon Law Attorney San Diego: Key Qualities to Look for in 2026"
+      "thumbnailAlt": "Best Lemon Law Attorney San Diego: Key Qualities to Look for in 2026",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "best-lemon-law-attorneys-in-los-angeles-for-used-car-claims",
@@ -396,7 +509,11 @@
       "seoTitle": "Best Lemon Law Attorneys In Los Angeles for Used Car Claims | CLINE APC",
       "seoDescription": "Buying a used vehicle often feels like a practical financial decision. Many drivers expect dependable transportation at a lower price than a new model. Problems arise when the vehicle develops repeated mechanical fail...",
       "thumbnail": "/images/blog/best-lemon-law-attorneys-in-los-angeles-for-used-car-claims.jpg",
-      "thumbnailAlt": "Best Lemon Law Attorneys In Los Angeles for Used Car Claims"
+      "thumbnailAlt": "Best Lemon Law Attorneys In Los Angeles for Used Car Claims",
+      "topics": [
+        "used-and-cpo-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "big-news-governor-gavin-newsom-signs-new-ca-lemon-law-bill-despite-reservations",
@@ -412,7 +529,12 @@
       "seoTitle": "California Lemon Law Changes: What AB 1755 Means for Consumers | CLINE APC",
       "seoDescription": "California’s lemon law - long one of the strongest consumer protection laws in the country - has officially entered a new chapter.",
       "thumbnail": "/images/blog/big-news-governor-gavin-newsom-signs-new-ca-lemon-law-bill-despite-reservations.jpg",
-      "thumbnailAlt": "California Lemon Law Changes: What AB 1755 Means for Consumers"
+      "thumbnailAlt": "California Lemon Law Changes: What AB 1755 Means for Consumers",
+      "topics": [
+        "used-and-cpo-vehicles",
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "buying-a-new-car-in-los-angeles-things-to-take-care",
@@ -428,7 +550,11 @@
       "seoTitle": "10 Things to Keep in Mind While Buying a New Car in Los Angeles | CLINE APC",
       "seoDescription": "Buying a new car in Los Angeles can quickly go from exciting to frustrating, especially if you are not ready. It isn’t as easy as picking up your favorite sourdough. It’s an intricate and time-consuming process that i...",
       "thumbnail": "/images/blog/buying-a-new-car-in-los-angeles-things-to-take-care.jpg",
-      "thumbnailAlt": "10 Things to Keep in Mind While Buying a New Car in Los Angeles"
+      "thumbnailAlt": "10 Things to Keep in Mind While Buying a New Car in Los Angeles",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "cadillac-lyriq-brake-recall-21000-vehicles",
@@ -444,7 +570,11 @@
       "seoTitle": "GM Recalls Over 21,000 Cadillac LYRIQ Vehicles for Brake Defect | CLINE APC",
       "seoDescription": "If you drive a 2023 or 2024 Cadillac LYRIQ with all-wheel drive, there is a potential serious safety issue you should know about.",
       "thumbnail": "/images/blog/cadillac-lyriq-brake-recall-21000-vehicles.jpg",
-      "thumbnailAlt": "GM Recalls Over 21,000 Cadillac LYRIQ Vehicles for Brake Defect"
+      "thumbnailAlt": "GM Recalls Over 21,000 Cadillac LYRIQ Vehicles for Brake Defect",
+      "topics": [
+        "recalls"
+      ],
+      "brands": []
     },
     {
       "slug": "california-ab-1755-explained-new-pre-suit-notice-requirements-for-lemon-law-claims",
@@ -460,7 +590,12 @@
       "seoTitle": "California AB 1755 Explained: New Pre-Suit Notice Requirements for Lemon Law Claims | CLINE APC",
       "seoDescription": "California Lemon Law provides important protections for consumers dealing with defective vehicles. Recent legislative changes have added new procedural requirements for certain claims. For anyone researching the best...",
       "thumbnail": "/images/blog/california-ab-1755-explained-new-pre-suit-notice-requirements-for-lemon-law-claims.jpg",
-      "thumbnailAlt": "California AB 1755 Explained: New Pre-Suit Notice Requirements for Lemon Law Claims"
+      "thumbnailAlt": "California AB 1755 Explained: New Pre-Suit Notice Requirements for Lemon Law Claims",
+      "topics": [
+        "claim-process",
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "california-buyback-lemon-law-what-happens-to-lemon-vehicles",
@@ -476,7 +611,11 @@
       "seoTitle": "What Happens to The Lemon Car After a Manufacturer Buyback? | CLINE APC",
       "seoDescription": "It’s estimated that roughly 150,000 defective vehicles are sold every year. When we buy a car, we assume that it works flawlessly - but that’s not always the case.",
       "thumbnail": "/images/blog/california-buyback-lemon-law-what-happens-to-lemon-vehicles.jpg",
-      "thumbnailAlt": "What Happens to The Lemon Car After a Manufacturer Buyback?"
+      "thumbnailAlt": "What Happens to The Lemon Car After a Manufacturer Buyback?",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "california-lemon-law-101-brush-knowledge-consulting-lawyer",
@@ -493,7 +632,11 @@
       "seoTitle": "California Lemon Law 101: Brush Up Your Knowledge before Consulting a Lawyer | CLINE APC",
       "seoDescription": "Got a new pickup truck at an unbelievable price but broke down on your maiden journey?",
       "thumbnail": "/images/blog/california-lemon-law-101-brush-knowledge-consulting-lawyer.jpg",
-      "thumbnailAlt": "California Lemon Law 101: Brush Up Your Knowledge before Consulting a Lawyer"
+      "thumbnailAlt": "California Lemon Law 101: Brush Up Your Knowledge before Consulting a Lawyer",
+      "topics": [
+        "leased-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "california-lemon-law-and-business-vehicles-how-does-it-work",
@@ -509,7 +652,11 @@
       "seoTitle": "California Lemon Law and Business Vehicles: How Does it Work? | CLINE APC",
       "seoDescription": "As a lemon law lawyer in California, I get asked all sorts of questions about defective vehicles. One of the big ones I get from time-to-time involves business vehicles - and how the lemon law process differs from per...",
       "thumbnail": "/images/blog/california-lemon-law-and-business-vehicles-how-does-it-work.jpg",
-      "thumbnailAlt": "California Lemon Law and Business Vehicles: How Does it Work?"
+      "thumbnailAlt": "California Lemon Law and Business Vehicles: How Does it Work?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "california-lemon-law-basics",
@@ -525,7 +672,11 @@
       "seoTitle": "California Lemon Law Basics Every Consumer Should Know | CLINE APC",
       "seoDescription": "No one thinks they’re going to end up with a lemon. Most people have no idea what lemon law is until they come face-to-face with it. But what is the lemon law exactly? Why does it exist?",
       "thumbnail": "/images/blog/california-lemon-law-basics.jpg",
-      "thumbnailAlt": "California Lemon Law Basics Every Consumer Should Know"
+      "thumbnailAlt": "California Lemon Law Basics Every Consumer Should Know",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "california-lemon-law-buybacks-busted",
@@ -542,7 +693,12 @@
       "seoTitle": "3 Myths About California Lemon Law Buybacks Busted | CLINE APC",
       "seoDescription": "From a consumer standpoint, lemon law in California can certainly be a confusing concept. This is likely due to the fact that most people affected by a lemon are dealing with the situation for the first time.",
       "thumbnail": "/images/blog/california-lemon-law-buybacks-busted.jpg",
-      "thumbnailAlt": "3 Myths About California Lemon Law Buybacks Busted"
+      "thumbnailAlt": "3 Myths About California Lemon Law Buybacks Busted",
+      "topics": [
+        "buybacks-and-refunds",
+        "used-and-cpo-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "california-lemon-law-claim-documents",
@@ -558,7 +714,12 @@
       "seoTitle": "What Documentation Do You Need to File a California Lemon Law Claim? | CLINE APC",
       "seoDescription": "Documentation is everything in a lemon law claim. Lemon law - or the Magnuson-Moss Consumer Warranty Act - exists to help individuals who have purchased or leased a defective vehicle. The law provides consumers with l...",
       "thumbnail": "/images/blog/california-lemon-law-claim-documents.jpg",
-      "thumbnailAlt": "What Documentation Do You Need to File a California Lemon Law Claim?"
+      "thumbnailAlt": "What Documentation Do You Need to File a California Lemon Law Claim?",
+      "topics": [
+        "claim-process",
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "california-lemon-law-for-different-state-vehicle",
@@ -574,7 +735,11 @@
       "seoTitle": "Does California Lemon Law Apply to A Vehicle If Bought from Another State? | CLINE APC",
       "seoDescription": "California state lemon law protects consumers if they purchased or leased a defective vehicle in California. The law holds manufacturers to the promises they made in the terms of the warranty - and requires them to fi...",
       "thumbnail": "/images/blog/california-lemon-law-for-different-state-vehicle.jpg",
-      "thumbnailAlt": "Does California Lemon Law Apply to A Vehicle If Bought from Another State?"
+      "thumbnailAlt": "Does California Lemon Law Apply to A Vehicle If Bought from Another State?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "california-lemon-law-presumption-what-qualifies-a-vehicle-as-a-lemon",
@@ -590,7 +755,11 @@
       "seoTitle": "California Lemon Law Presumption: What Qualifies a Vehicle as a Lemon? | CLINE APC",
       "seoDescription": "Buying or leasing a vehicle should provide reliable transportation and confidence on the road. Persistent mechanical or safety problems can disrupt that expectation and create significant financial concerns. Californi...",
       "thumbnail": "/images/blog/california-lemon-law-presumption-what-qualifies-a-vehicle-as-a-lemon.jpg",
-      "thumbnailAlt": "California Lemon Law Presumption: What Qualifies a Vehicle as a Lemon?"
+      "thumbnailAlt": "California Lemon Law Presumption: What Qualifies a Vehicle as a Lemon?",
+      "topics": [
+        "leased-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "california-lemon-law-presumption",
@@ -608,7 +777,11 @@
       "seoTitle": "What You Need to Know about the California Lemon Law Presumption | CLINE APC",
       "seoDescription": "Lemon law in California is taken very seriously. With the highest population and nearly 15 million registered vehicles on the road (the most in the country), it’s easy to see why.",
       "thumbnail": "/images/blog/california-lemon-law-presumption.jpg",
-      "thumbnailAlt": "What You Need to Know about the California Lemon Law Presumption"
+      "thumbnailAlt": "What You Need to Know about the California Lemon Law Presumption",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "california-lemon-law-tips",
@@ -624,7 +797,11 @@
       "seoTitle": "Top 5 California lemon law tips | CLINE APC",
       "seoDescription": "The last thing anyone expects when they purchase a new or used vehicle is for it to have chronic mechanical defects. Yet, it happens from time to time.",
       "thumbnail": "/images/blog/california-lemon-law-tips.jpg",
-      "thumbnailAlt": "Top 5 California lemon law tips"
+      "thumbnailAlt": "Top 5 California lemon law tips",
+      "topics": [
+        "claim-process"
+      ],
+      "brands": []
     },
     {
       "slug": "californias-lemon-law-controversy",
@@ -640,7 +817,11 @@
       "seoTitle": "California’s Lemon Law Controversy: What You Need to Know About the Recent Changes and Fixes | CLINE APC",
       "seoDescription": "For more than 50 years, California’s lemon law has protected consumers from being stuck with defective vehicles. It guarantees car buyers a refund or replacement if their new car has persistent issues that the manufac...",
       "thumbnail": "/images/blog/californias-lemon-law-controversy.jpg",
-      "thumbnailAlt": "California’s Lemon Law Controversy: What You Need to Know About the Recent Changes and Fixes"
+      "thumbnailAlt": "California’s Lemon Law Controversy: What You Need to Know About the Recent Changes and Fixes",
+      "topics": [
+        "used-and-cpo-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "car-dealership-scams-to-look-out",
@@ -656,7 +837,11 @@
       "seoTitle": "6 Common Car Dealership Scams to Look Out For | CLINE APC",
       "seoDescription": "Generally speaking, car salespeople don’t always have the cleanest reputations. Every year, consumers in the United States lose substantial sums of money to car dealer scams.",
       "thumbnail": "/images/blog/car-dealership-scams-to-look-out.jpg",
-      "thumbnailAlt": "6 Common Car Dealership Scams to Look Out For"
+      "thumbnailAlt": "6 Common Car Dealership Scams to Look Out For",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "car-dealerships-vs-car-manufacturers-california-lemon-law",
@@ -673,7 +858,15 @@
       "seoTitle": "Car Dealerships Vs Car Manufacturers: How Does California Lemon Law Apply? | CLINE APC",
       "seoDescription": "There are three ways you can buy a car: from the manufacturer, from a dealership, or from a private seller. In the scenario, you purchase a defective vehicle, the Song Beverly Consumer Warranty Act (California lemon l...",
       "thumbnail": "/images/blog/car-dealerships-vs-car-manufacturers-california-lemon-law.jpg",
-      "thumbnailAlt": "Car Dealerships Vs Car Manufacturers: How Does California Lemon Law Apply?"
+      "thumbnailAlt": "Car Dealerships Vs Car Manufacturers: How Does California Lemon Law Apply?",
+      "topics": [
+        "claim-process",
+        "buybacks-and-refunds",
+        "used-and-cpo-vehicles"
+      ],
+      "brands": [
+        "tesla"
+      ]
     },
     {
       "slug": "car-defects-not-covered-under-lemon-law-california",
@@ -689,7 +882,11 @@
       "seoTitle": "5 Car Defects Not Covered Under Lemon Law California￼ | CLINE APC",
       "seoDescription": "Lemon law in California seems fairly straightforward on the surface. But the law is jam-packed with small, game-changing details when you look under the hood (pun intended). The most important distinction is what _doe...",
       "thumbnail": "/images/blog/car-defects-not-covered-under-lemon-law-california.jpg",
-      "thumbnailAlt": "5 Car Defects Not Covered Under Lemon Law California￼"
+      "thumbnailAlt": "5 Car Defects Not Covered Under Lemon Law California￼",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "car-purchase-contracts-and-cancellation-agreements",
@@ -706,7 +903,11 @@
       "seoTitle": "Everything You Need to Know About Car Purchase Contracts and Cancellation Agreements | CLINE APC",
       "seoDescription": "We’d all love to believe buying a car is as easy as picking one and driving off into the sunset.",
       "thumbnail": "/images/blog/car-purchase-contracts-and-cancellation-agreements.jpg",
-      "thumbnailAlt": "Everything You Need to Know About Car Purchase Contracts and Cancellation Agreements"
+      "thumbnailAlt": "Everything You Need to Know About Car Purchase Contracts and Cancellation Agreements",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "cash-and-keep-settlement",
@@ -722,7 +923,11 @@
       "seoTitle": "What Is a Cash-and-Keep Settlement and Should I Accept It? | CLINE APC",
       "seoDescription": "If you’ve had the unfortunate luck of buying/leasing a lemon, you’re probably in talks with the manufacturer about your lemon law settlement options.",
       "thumbnail": "/images/blog/cash-and-keep-settlement.jpg",
-      "thumbnailAlt": "What Is a Cash-and-Keep Settlement and Should I Accept It?"
+      "thumbnailAlt": "What Is a Cash-and-Keep Settlement and Should I Accept It?",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "certified-pre-owned-cars-ca-lemon-law-protection",
@@ -738,7 +943,13 @@
       "seoTitle": "Certified Pre-Owned Cars: Why Only Manufacturer-Certified Vehicles Qualify for Protection | CLINE APC",
       "seoDescription": "Buying a Certified Pre-Owned (CPO) vehicle often feels like the best of both worlds. You get the savings of a used car, but with the added confidence of thorough inspections and warranty coverage that bring peace of m...",
       "thumbnail": "/images/blog/certified-pre-owned-cars-ca-lemon-law-protection.jpg",
-      "thumbnailAlt": "Certified Pre-Owned Cars: Why Only Manufacturer-Certified Vehicles Qualify for Protection"
+      "thumbnailAlt": "Certified Pre-Owned Cars: Why Only Manufacturer-Certified Vehicles Qualify for Protection",
+      "topics": [
+        "used-and-cpo-vehicles"
+      ],
+      "brands": [
+        "bmw"
+      ]
     },
     {
       "slug": "chevrolet-evs-recall-over-risk-of-bursting-into-flames",
@@ -754,7 +965,14 @@
       "seoTitle": "Chevrolet EVs Recall Over Risk of Bursting into Flames: What to Know | CLINE APC",
       "seoDescription": "The American electric vehicle industry was recently hit by a major recall.",
       "thumbnail": "/images/blog/chevrolet-evs-recall-over-risk-of-bursting-into-flames.jpg",
-      "thumbnailAlt": "Chevrolet EVs Recall Over Risk of Bursting into Flames: What to Know"
+      "thumbnailAlt": "Chevrolet EVs Recall Over Risk of Bursting into Flames: What to Know",
+      "topics": [
+        "recalls",
+        "electric-vehicles"
+      ],
+      "brands": [
+        "chevrolet"
+      ]
     },
     {
       "slug": "chevy-cruze-problems",
@@ -771,7 +989,13 @@
       "seoTitle": "Chevy Cruze Problems Consumers Should Be Aware of | CLINE APC",
       "seoDescription": "The Chevy Cruze, first launched in 2008, is no stranger to mechanical issues. The sporty compact car designed to compete with the likes of the Toyota Camry and Honda Civic has been subjected to numerous recalls and a...",
       "thumbnail": "/images/blog/chevy-cruze-problems.jpg",
-      "thumbnailAlt": "Chevy Cruze Problems Consumers Should Be Aware of"
+      "thumbnailAlt": "Chevy Cruze Problems Consumers Should Be Aware of",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": [
+        "chevrolet"
+      ]
     },
     {
       "slug": "chevy-gmc-consumer-alert",
@@ -788,7 +1012,14 @@
       "seoTitle": "Everything You Need to Know About the Chevy & GMC Consumer Alert | CLINE APC",
       "seoDescription": "There have been several consumer alerts issued by GM and Chevy in the past few years. In this post, we want to examine the finer details of the issues, and what the course of action should be for the victims.",
       "thumbnail": "/images/blog/chevy-gmc-consumer-alert.jpg",
-      "thumbnailAlt": "Everything You Need to Know About the Chevy & GMC Consumer Alert"
+      "thumbnailAlt": "Everything You Need to Know About the Chevy & GMC Consumer Alert",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": [
+        "chevrolet",
+        "gmc"
+      ]
     },
     {
       "slug": "chrysler-pacifica-electric-hybrid-recall-should-you-contact-a-lawyer",
@@ -805,7 +1036,14 @@
       "seoTitle": "Chrysler Pacifica Electric Hybrid Recall: Should You Contact a Lawyer? | CLINE APC",
       "seoDescription": "Over 27,000 Chrysler Pacifica Hybrid minivans have been recalled as of June 10, 2020. FCA (Fiat Chrysler Automotive) issued a statement alerting vehicle owners that a defect related to the 12-volt battery system could...",
       "thumbnail": "/images/blog/chrysler-pacifica-electric-hybrid-recall-should-you-contact-a-lawyer.jpg",
-      "thumbnailAlt": "Chrysler Pacifica Electric Hybrid Recall: Should You Contact a Lawyer?"
+      "thumbnailAlt": "Chrysler Pacifica Electric Hybrid Recall: Should You Contact a Lawyer?",
+      "topics": [
+        "electric-vehicles",
+        "recalls"
+      ],
+      "brands": [
+        "chrysler"
+      ]
     },
     {
       "slug": "chrysler-pacifica-electric-hybrid-recall-what-is-it",
@@ -821,7 +1059,14 @@
       "seoTitle": "Chrysler Pacifica Electric Hybrid Recall: What is it? | CLINE APC",
       "seoDescription": "The Chrysler Pacifica has been a vehicle of many “firsts.” This vehicle was actually one of the first minivans ever created when it debuted in 1984. It was marketed as a great option for families who wanted a comforta...",
       "thumbnail": "/images/blog/chrysler-pacifica-electric-hybrid-recall-what-is-it.jpg",
-      "thumbnailAlt": "Chrysler Pacifica Electric Hybrid Recall: What is it?"
+      "thumbnailAlt": "Chrysler Pacifica Electric Hybrid Recall: What is it?",
+      "topics": [
+        "electric-vehicles",
+        "recalls"
+      ],
+      "brands": [
+        "chrysler"
+      ]
     },
     {
       "slug": "common-bmw-defects-that-could-qualify-for-lemon-law-claims",
@@ -837,7 +1082,13 @@
       "seoTitle": "Common BMW Defects That Could Qualify for Lemon Law Claims | CLINE APC",
       "seoDescription": "A BMW is a status symbol. After all, it is “_the_ _ultimate driving machine.”_",
       "thumbnail": "/images/blog/common-bmw-defects-that-could-qualify-for-lemon-law-claims.jpg",
-      "thumbnailAlt": "Common BMW Defects That Could Qualify for Lemon Law Claims"
+      "thumbnailAlt": "Common BMW Defects That Could Qualify for Lemon Law Claims",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": [
+        "bmw"
+      ]
     },
     {
       "slug": "common-cadillac-lemon-law-issues",
@@ -854,7 +1105,11 @@
       "seoTitle": "10 Common Issues Found in Cadillac Lemon Cars | CLINE APC",
       "seoDescription": "Cadillac is a popular luxury car brand with a reputation for quality and performance. However, even the best cars can have issues, and Cadillac vehicles are not immune to defects. It’s just the nature of mass-produced...",
       "thumbnail": "/images/blog/common-cadillac-lemon-law-issues.jpg",
-      "thumbnailAlt": "10 Common Issues Found in Cadillac Lemon Cars"
+      "thumbnailAlt": "10 Common Issues Found in Cadillac Lemon Cars",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "common-car-defects-in-lemon-car",
@@ -870,7 +1125,11 @@
       "seoTitle": "What Are Some Common Defects Found in A Lemon Car? | CLINE APC",
       "seoDescription": "When you purchase or lease a vehicle, you have certain expectations as to the condition of that car. The biggest of which is that it will be safe and reliable. Unfortunately, every now and again, car defects slip thro...",
       "thumbnail": "/images/blog/common-car-defects-in-lemon-car.jpg",
-      "thumbnailAlt": "What Are Some Common Defects Found in A Lemon Car?"
+      "thumbnailAlt": "What Are Some Common Defects Found in A Lemon Car?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "common-challenges-california-lemon-law-process",
@@ -886,7 +1145,12 @@
       "seoTitle": "5 Common Challenges in The California Lemon Law Process | CLINE APC",
       "seoDescription": "The lemon law process sounds pretty straightforward on the surface. But once you get into the nuts and bolts, every case is unique and has its own set of challenges. As a lemon law attorney in California, I can tell y...",
       "thumbnail": "/images/blog/common-challenges-california-lemon-law-process.jpg",
-      "thumbnailAlt": "5 Common Challenges in The California Lemon Law Process"
+      "thumbnailAlt": "5 Common Challenges in The California Lemon Law Process",
+      "topics": [
+        "buybacks-and-refunds",
+        "used-and-cpo-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "common-challenges-faced-by-california-lemon-law-lawyers",
@@ -902,7 +1166,11 @@
       "seoTitle": "What Are the Common Challenges Faced by California Lemon Law Lawyers? | CLINE APC",
       "seoDescription": "California’s lemon law is designed to protect you when your new car turns out to be a dud and the dealer cannot seem to fix it, no matter how many times you bring it back.",
       "thumbnail": "/images/blog/common-challenges-faced-by-california-lemon-law-lawyers.jpg",
-      "thumbnailAlt": "What Are the Common Challenges Faced by California Lemon Law Lawyers?"
+      "thumbnailAlt": "What Are the Common Challenges Faced by California Lemon Law Lawyers?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "common-lemon-law-faqs",
@@ -919,7 +1187,12 @@
       "seoTitle": "The California Lemon Law FAQs We See the Most | CLINE APC",
       "seoDescription": "Did you know that less than 1% of the vehicles sold in California end up as lemons?",
       "thumbnail": "/images/blog/common-lemon-law-faqs.jpg",
-      "thumbnailAlt": "The California Lemon Law FAQs We See the Most"
+      "thumbnailAlt": "The California Lemon Law FAQs We See the Most",
+      "topics": [
+        "buybacks-and-refunds",
+        "claim-process"
+      ],
+      "brands": []
     },
     {
       "slug": "common-myths-lemon-law-lawyers",
@@ -935,7 +1208,12 @@
       "seoTitle": "Debunking 3 Common Myths About Lemon Law Lawyers | CLINE APC",
       "seoDescription": "There are many false and misleading myths about lemon law attorneys who represent consumers. Most are nothing more than ad campaigns bought and paid for by the major auto manufacturers and car dealerships disguised as...",
       "thumbnail": "/images/blog/common-myths-lemon-law-lawyers.jpg",
-      "thumbnailAlt": "Debunking 3 Common Myths About Lemon Law Lawyers"
+      "thumbnailAlt": "Debunking 3 Common Myths About Lemon Law Lawyers",
+      "topics": [
+        "claim-process",
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "common-nissan-sentra-problems",
@@ -951,7 +1229,14 @@
       "seoTitle": "Common Nissan Sentra Problems – and How California Lemon Law Protects You | CLINE APC",
       "seoDescription": "If you’ve been sold a defective Nissan Sentra, you’ll be relieved to know that you have the right to seek justice. Nissan Sentra problems have been seen by our lemon law office in many owners and lessees across Califo...",
       "thumbnail": "/images/blog/common-nissan-sentra-problems.jpg",
-      "thumbnailAlt": "Common Nissan Sentra Problems – and How California Lemon Law Protects You"
+      "thumbnailAlt": "Common Nissan Sentra Problems – and How California Lemon Law Protects You",
+      "topics": [
+        "buybacks-and-refunds",
+        "hiring-a-lemon-law-attorney"
+      ],
+      "brands": [
+        "nissan"
+      ]
     },
     {
       "slug": "common-problems-chevy-equinox-models",
@@ -968,7 +1253,13 @@
       "seoTitle": "The Most Common Problems with Chevy Equinox Models | CLINE APC",
       "seoDescription": "Let me start by saying the Chevy Equinox is a great compact SUV with a fantastic selection of driver-assist features. The model is both capable, highly practical and handles exceedingly well - if it’s built properly....",
       "thumbnail": "/images/blog/common-problems-chevy-equinox-models.jpg",
-      "thumbnailAlt": "The Most Common Problems with Chevy Equinox Models"
+      "thumbnailAlt": "The Most Common Problems with Chevy Equinox Models",
+      "topics": [
+        "recalls"
+      ],
+      "brands": [
+        "chevrolet"
+      ]
     },
     {
       "slug": "consumer-mistakes-that-doom-lemon-law-cases",
@@ -985,7 +1276,11 @@
       "seoTitle": "5 Giant Consumer Mistakes that Doom Lemon Law Cases | CLINE APC",
       "seoDescription": "When people find themselves in the situation that their new, used, or leased vehicle is a lemon, everyone wants to get the problem resolved as quickly as possible - understandably. However, many assume that this invol...",
       "thumbnail": "/images/blog/consumer-mistakes-that-doom-lemon-law-cases.jpg",
-      "thumbnailAlt": "5 Giant Consumer Mistakes that Doom Lemon Law Cases"
+      "thumbnailAlt": "5 Giant Consumer Mistakes that Doom Lemon Law Cases",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "consumer-safety-groups-appeal-federal-ruling-enabling-car-dealers-to-conceal-recall-information",
@@ -1001,7 +1296,11 @@
       "seoTitle": "Consumer Safety Groups Appeal Federal Ruling Enabling Car Dealers to Conceal Recall Information | CLINE APC",
       "seoDescription": "As lemon law lawyers, it never ceases to amaze us how big corporations find ways to bend the rules and short-change consumers in the shadows. In a recent development, we’re seeing consumer/safety groups push back agai...",
       "thumbnail": "/images/blog/consumer-safety-groups-appeal-federal-ruling-enabling-car-dealers-to-conceal-recall-information.jpg",
-      "thumbnailAlt": "Consumer Safety Groups Appeal Federal Ruling Enabling Car Dealers to Conceal Recall Information"
+      "thumbnailAlt": "Consumer Safety Groups Appeal Federal Ruling Enabling Car Dealers to Conceal Recall Information",
+      "topics": [
+        "recalls"
+      ],
+      "brands": []
     },
     {
       "slug": "consumers-speed-up-california-lemon-law-buyback-process",
@@ -1018,7 +1317,11 @@
       "seoTitle": "4 Ways Consumers Can Speed Up the California Lemon Law Buyback Process | CLINE APC",
       "seoDescription": "No one thinks they’re going to end up with a lemon - and very few are fully prepared for the long, cumbersome process. As a California lemon law lawyer, I’ll tell you first hand that manufacturers will do everything i...",
       "thumbnail": "/images/blog/consumers-speed-up-california-lemon-law-buyback-process.jpg",
-      "thumbnailAlt": "4 Ways Consumers Can Speed Up the California Lemon Law Buyback Process"
+      "thumbnailAlt": "4 Ways Consumers Can Speed Up the California Lemon Law Buyback Process",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "corruption-lemons-white-house-atty-allegedly-lied-for-toyota",
@@ -1035,7 +1338,13 @@
       "seoTitle": "Corruption & Lemons: White House Atty Allegedly Lied for Toyota | CLINE APC",
       "seoDescription": "The lemon law was created to protect consumers in the scenario they purchase a defective product. It holds the manufacturer or warrantor accountable and obligates them to make it right. If the consumer is David and th...",
       "thumbnail": "/images/blog/corruption-lemons-white-house-atty-allegedly-lied-for-toyota.jpg",
-      "thumbnailAlt": "Corruption Lemons: White House Atty Allegedly Lied for Toyota"
+      "thumbnailAlt": "Corruption Lemons: White House Atty Allegedly Lied for Toyota",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": [
+        "toyota"
+      ]
     },
     {
       "slug": "covid-19-hurt-lemon-law-case",
@@ -1051,7 +1360,11 @@
       "seoTitle": "Could COVID-19 Hurt Your Lemon Law Case? | CLINE APC",
       "seoDescription": "Having a car with mechanical issues is a big problem - no matter how you look at it. If you’ve run into continuous issues with a vehicle, you might have a lemon on your hands.",
       "thumbnail": "/images/blog/covid-19-hurt-lemon-law-case.jpg",
-      "thumbnailAlt": "Could COVID-19 Hurt Your Lemon Law Case?"
+      "thumbnailAlt": "Could COVID-19 Hurt Your Lemon Law Case?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "cpo-cars-in-san-diego-lemon-law-buyer-tips",
@@ -1067,7 +1380,11 @@
       "seoTitle": "Buying a Certified Pre-Owned Vehicle in San Diego: What You Need to Know | CLINE APC",
       "seoDescription": "New car prices have climbed to record highs in recent years, with the average new vehicle topping $48,000 according to Kelley Blue Book. For many San Diego drivers already juggling a high cost of living, that kind of...",
       "thumbnail": "/images/blog/cpo-cars-in-san-diego-lemon-law-buyer-tips.jpg",
-      "thumbnailAlt": "Buying a Certified Pre-Owned Vehicle in San Diego: What You Need to Know"
+      "thumbnailAlt": "Buying a Certified Pre-Owned Vehicle in San Diego: What You Need to Know",
+      "topics": [
+        "used-and-cpo-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "dealerships-holding-car-for-more-than-30-days-for-repair",
@@ -1085,7 +1402,11 @@
       "seoTitle": "Can Dealerships Hold Your Car for More Than 30 Days For Repair? | CLINE APC",
       "seoDescription": "There’s nothing more frustrating than purchasing or leasing a vehicle to find it has manufacturer defects. Fortunately, there are laws in place to protect you and hold the manufacturer/dealership accountable. These la...",
       "thumbnail": "/images/blog/dealerships-holding-car-for-more-than-30-days-for-repair.jpg",
-      "thumbnailAlt": "Can Dealerships Hold Your Car for More Than 30 Days For Repair?"
+      "thumbnailAlt": "Can Dealerships Hold Your Car for More Than 30 Days For Repair?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "defective-car-causes-an-accident",
@@ -1102,7 +1423,11 @@
       "seoTitle": "What to do When your Defective Car Causes an Accident | CLINE APC",
       "seoDescription": "A big misconception about car accidents is that the human drivers at the scene are the only ones who can potentially be responsible. It’s relatively common that the root cause of an accident can be a defect caused at...",
       "thumbnail": "/images/blog/defective-car-causes-an-accident.jpg",
-      "thumbnailAlt": "What to do When your Defective Car Causes an Accident"
+      "thumbnailAlt": "What to do When your Defective Car Causes an Accident",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "defective-car-models-2024",
@@ -1118,7 +1443,15 @@
       "seoTitle": "The Most Defective Car Models of 2024 By Brand | CLINE APC",
       "seoDescription": "2024 has been a transitional year for the auto industry.",
       "thumbnail": "/images/blog/defective-car-models-2024.jpg",
-      "thumbnailAlt": "The Most Defective Car Models of 2024 By Brand"
+      "thumbnailAlt": "The Most Defective Car Models of 2024 By Brand",
+      "topics": [
+        "recalls",
+        "electric-vehicles"
+      ],
+      "brands": [
+        "honda",
+        "tesla"
+      ]
     },
     {
       "slug": "defective-vehicle-purchase-rights",
@@ -1135,7 +1468,11 @@
       "seoTitle": "What Are My Rights After Buying a Faulty Car? | CLINE APC",
       "seoDescription": "No one wants to face the fallout of buying a defective vehicle.",
       "thumbnail": "/images/blog/defective-vehicle-purchase-rights.jpg",
-      "thumbnailAlt": "What Are My Rights After Buying a Faulty Car?"
+      "thumbnailAlt": "What Are My Rights After Buying a Faulty Car?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "did-you-lease-a-lemon-understand-your-situation-factors-in",
@@ -1153,7 +1490,11 @@
       "seoTitle": "Did You Lease a Lemon? Here’s What You Can Do to Understand How Your Situation Factors In | CLINE APC",
       "seoDescription": "Leasing a vehicle has numerous benefits compared to purchasing. There may be no down payment, you aren’t paying interest on a loan after the lease term, you get to drive a newer model, and you don’t have to worry abou...",
       "thumbnail": "/images/blog/did-you-lease-a-lemon-understand-your-situation-factors-in.jpg",
-      "thumbnailAlt": "Did You Lease a Lemon? Here’s What You Can Do to Understand How Your Situation Factors In"
+      "thumbnailAlt": "Did You Lease a Lemon? Here’s What You Can Do to Understand How Your Situation Factors In",
+      "topics": [
+        "leased-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "differences-between-federal-lemon-law-and-california-lemon-law",
@@ -1169,7 +1510,12 @@
       "seoTitle": "What are the Differences Between Federal Lemon Law and California Lemon Law? | CLINE APC",
       "seoDescription": "For many people, buying a car is more than just a purchase. It’s an investment. Naturally, the last thing you want is to end up with a “lemon.” But should that happen, there are two sets of laws, the California lemon...",
       "thumbnail": "/images/blog/differences-between-federal-lemon-law-and-california-lemon-law.jpg",
-      "thumbnailAlt": "What are the Differences Between Federal Lemon Law and California Lemon Law?"
+      "thumbnailAlt": "What are the Differences Between Federal Lemon Law and California Lemon Law?",
+      "topics": [
+        "buybacks-and-refunds",
+        "leased-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "diy-lemon-law-vs-hiring-an-attorney",
@@ -1185,7 +1531,12 @@
       "seoTitle": "DIY Lemon Law vs. Hiring an Attorney: Pros and Cons for Consumers | CLINE APC",
       "seoDescription": "You purchased a vehicle with manufacturer defects - you’re rightfully angry.",
       "thumbnail": "/images/blog/diy-lemon-law-vs-hiring-an-attorney.jpg",
-      "thumbnailAlt": "DIY Lemon Law vs. Hiring an Attorney: Pros and Cons for Consumers"
+      "thumbnailAlt": "DIY Lemon Law vs. Hiring an Attorney: Pros and Cons for Consumers",
+      "topics": [
+        "buybacks-and-refunds",
+        "hiring-a-lemon-law-attorney"
+      ],
+      "brands": []
     },
     {
       "slug": "do-airbags-expire",
@@ -1201,7 +1552,11 @@
       "seoTitle": "Is There an Expiration Date on Airbags? | CLINE APC",
       "seoDescription": "One of the most important safety features in modern vehicles is the airbag. Airbags are designed to protect occupants in the event of a collision by absorbing the force and cushioning them from impact.",
       "thumbnail": "/images/blog/do-airbags-expire.jpg",
-      "thumbnailAlt": "Is There an Expiration Date on Airbags?"
+      "thumbnailAlt": "Is There an Expiration Date on Airbags?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "do-all-states-have-used-vehicle-lemon-laws",
@@ -1217,7 +1572,11 @@
       "seoTitle": "Do All States Have Used Vehicle Lemon Laws? What to Do If Yours Doesn’t | CLINE APC",
       "seoDescription": "Purchasing a used car always comes with some risk. You hope for a reliable ride, but sometimes, you end up with a vehicle that’s more trouble than it’s worth.",
       "thumbnail": "/images/blog/do-all-states-have-used-vehicle-lemon-laws.jpg",
-      "thumbnailAlt": "Do All States Have Used Vehicle Lemon Laws? What to Do If Yours Doesn’t"
+      "thumbnailAlt": "Do All States Have Used Vehicle Lemon Laws? What to Do If Yours Doesn’t",
+      "topics": [
+        "used-and-cpo-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "do-recreational-vehicles-fall-under-california-lemon-law",
@@ -1234,7 +1593,11 @@
       "seoTitle": "Do Recreational Vehicles Fall Under California Lemon Law? | CLINE APC",
       "seoDescription": "Recreational vehicles (RVs) are a life-changing investment. Families who purchase one are looking forward to comfortable road trips and seeing the countryside. There’s nothing more disappointing than finding out the R...",
       "thumbnail": "/images/blog/do-recreational-vehicles-fall-under-california-lemon-law.jpg",
-      "thumbnailAlt": "Do Recreational Vehicles Fall Under California Lemon Law?"
+      "thumbnailAlt": "Do Recreational Vehicles Fall Under California Lemon Law?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "does-your-2020-or-newer-car-qualify-for-california-lemon-law",
@@ -1251,7 +1614,11 @@
       "seoTitle": "Does Your 2020 or Newer Car Qualify Under California’s New Lemon Law? | CLINE APC",
       "seoDescription": "Buying a 2020 or newer vehicle in California should mean peace of mind. Modern safety features, reliable performance, and the confidence that you’re protected if it turns out to be a lemon.",
       "thumbnail": "/images/blog/does-your-2020-or-newer-car-qualify-for-california-lemon-law.jpg",
-      "thumbnailAlt": "Does Your 2020 or Newer Car Qualify Under California’s New Lemon Law?"
+      "thumbnailAlt": "Does Your 2020 or Newer Car Qualify Under California’s New Lemon Law?",
+      "topics": [
+        "used-and-cpo-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "essential-steps-filing-emon-law-claim",
@@ -1268,7 +1635,11 @@
       "seoTitle": "The 5 Essential Steps to Filing a Lemon Law Claim | CLINE APC",
       "seoDescription": "The legal system often confuses (and sometimes scares) people. There is certainly a lot to it - which is why it is typically best to ask for help when it comes to handling legal matters.",
       "thumbnail": "/images/blog/essential-steps-filing-emon-law-claim.jpg",
-      "thumbnailAlt": "The 5 Essential Steps to Filing a Lemon Law Claim"
+      "thumbnailAlt": "The 5 Essential Steps to Filing a Lemon Law Claim",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "fact-about-lemon-law-arbitration",
@@ -1284,7 +1655,13 @@
       "seoTitle": "The FAIR Act and Lemon Law Arbitration: Here’s What it Means for Consumers | CLINE APC",
       "seoDescription": "Last fall, the House passed the Forced Arbitration Injustice Repeal Act - known as the FAIR Act in a 225-186 vote. The groundbreaking bill is a huge win for both consumers and employees. Arbitration has long been an u...",
       "thumbnail": "/images/blog/fact-about-lemon-law-arbitration.jpg",
-      "thumbnailAlt": "The FAIR Act and Lemon Law Arbitration: Here’s What it Means for Consumers"
+      "thumbnailAlt": "The FAIR Act and Lemon Law Arbitration: Here’s What it Means for Consumers",
+      "topics": [
+        "claim-process"
+      ],
+      "brands": [
+        "tesla"
+      ]
     },
     {
       "slug": "fact-or-fiction-the-ultimate-california-lemon-law-factsheet",
@@ -1301,7 +1678,11 @@
       "seoTitle": "Fact or Fiction: The Ultimate California Lemon Law Factsheet | CLINE APC",
       "seoDescription": "Lemon law is a field that’s chock-full of misinformation. Given that the details of the law vary from state to state, it’s easy to get confused and read contrasting information online. All too often, consumers assume...",
       "thumbnail": "/images/blog/fact-or-fiction-the-ultimate-california-lemon-law-factsheet.jpg",
-      "thumbnailAlt": "Fact or Fiction: The Ultimate California Lemon Law Factsheet"
+      "thumbnailAlt": "Fact or Fiction: The Ultimate California Lemon Law Factsheet",
+      "topics": [
+        "claim-process"
+      ],
+      "brands": []
     },
     {
       "slug": "factors-influence-ability-win-lemon-law-case",
@@ -1317,7 +1698,11 @@
       "seoTitle": "3 Key Factors that Influence Your Ability to Win a Lemon Law Case | CLINE APC",
       "seoDescription": "Winning a lemon law case is not always straightforward. In California, there are many, many factors that come into play that influence your ability to prevail. While your lemon law California attorney will be there to...",
       "thumbnail": "/images/blog/factors-influence-ability-win-lemon-law-case.jpg",
-      "thumbnailAlt": "3 Key Factors that Influence Your Ability to Win a Lemon Law Case"
+      "thumbnailAlt": "3 Key Factors that Influence Your Ability to Win a Lemon Law Case",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "facts-and-myths-about-car-purchase-decisions-in-los-angeles",
@@ -1334,7 +1719,11 @@
       "seoTitle": "Facts and Myths About Car Purchase Decisions in Los Angeles | CLINE APC",
       "seoDescription": "Los Angeles- the city of stars, traffic jams, and car culture. With over 1.78 car sales in 2023 alone, California is a car lover’s paradise.",
       "thumbnail": "/images/blog/facts-and-myths-about-car-purchase-decisions-in-los-angeles.jpg",
-      "thumbnailAlt": "Facts and Myths About Car Purchase Decisions in Los Angeles"
+      "thumbnailAlt": "Facts and Myths About Car Purchase Decisions in Los Angeles",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "faulty-car-transmission-inspection",
@@ -1350,7 +1739,11 @@
       "seoTitle": "How Do You Know If You Have a Faulty Car Transmission? | CLINE APC",
       "seoDescription": "Cars can be a blessing and a curse. It’s all smooth sailing until you hear a strange noise while driving and go, “That can’t be good.”",
       "thumbnail": "/images/blog/faulty-car-transmission-inspection.jpg",
-      "thumbnailAlt": "How Do You Know If You Have a Faulty Car Transmission?"
+      "thumbnailAlt": "How Do You Know If You Have a Faulty Car Transmission?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "file-lemon-law-claim-california",
@@ -1366,7 +1759,11 @@
       "seoTitle": "4 Tips to File a Claim Under Lemon Law California | CLINE APC",
       "seoDescription": "If done wrong, dealing with a lemon vehicle can be a hassle - no matter where you are.",
       "thumbnail": "/images/blog/file-lemon-law-claim-california.jpg",
-      "thumbnailAlt": "4 Tips to File a Claim Under Lemon Law California"
+      "thumbnailAlt": "4 Tips to File a Claim Under Lemon Law California",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "find-trustworthy-california-lemon-law-attorney",
@@ -1383,7 +1780,11 @@
       "seoTitle": "How to Find a Trustworthy California Lemon Law Attorney | CLINE APC",
       "seoDescription": "The best way to set yourself up to prevail in your lemon case in California is to hire an experienced and knowledgeable California lemon law attorney - there’s no way around this.",
       "thumbnail": "/images/blog/find-trustworthy-california-lemon-law-attorney.jpg",
-      "thumbnailAlt": "How to Find a Trustworthy California Lemon Law Attorney"
+      "thumbnailAlt": "How to Find a Trustworthy California Lemon Law Attorney",
+      "topics": [
+        "hiring-a-lemon-law-attorney"
+      ],
+      "brands": []
     },
     {
       "slug": "ford-and-lemon-law-a-history-of-faulty-products",
@@ -1400,7 +1801,13 @@
       "seoTitle": "Ford and Lemon Law: A History of Faulty Products | CLINE APC",
       "seoDescription": "No auto manufacturer is immune to producing defective products - and Ford is no exception. As a California lemon law attorney, we’ve seen our fair share of faulty Ford vehicles.",
       "thumbnail": "/images/blog/ford-and-lemon-law-a-history-of-faulty-products.jpg",
-      "thumbnailAlt": "Ford and Lemon Law: A History of Faulty Products"
+      "thumbnailAlt": "Ford and Lemon Law: A History of Faulty Products",
+      "topics": [
+        "recalls"
+      ],
+      "brands": [
+        "ford"
+      ]
     },
     {
       "slug": "ford-car-lemon-law",
@@ -1416,7 +1823,13 @@
       "seoTitle": "What Happens to Owners of Ford Lemon Cars? The Steps in Earning Justice | CLINE APC",
       "seoDescription": "Ford is one of the most popular American car brands on the market - but it’s certainly not immune to mistakes. We have seen defects that range from extremely minor to life-and-death situations. Regardless, consumers s...",
       "thumbnail": "/images/blog/ford-car-lemon-law.jpg",
-      "thumbnailAlt": "What Happens to Owners of Ford Lemon Cars? The Steps in Earning Justice"
+      "thumbnailAlt": "What Happens to Owners of Ford Lemon Cars? The Steps in Earning Justice",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": [
+        "ford"
+      ]
     },
     {
       "slug": "ford-car-recalls",
@@ -1432,7 +1845,13 @@
       "seoTitle": "Ford Car Recalls: A Quick Overview of Ford’s 2024 Recalls | CLINE APC",
       "seoDescription": "Drive down any street, any time of day, and you’re almost certain to spot a Ford. As one of the most iconic American automakers, Ford has become a symbol of reliability, innovation, and the spirit of the open road.",
       "thumbnail": "/images/blog/ford-car-recalls.jpg",
-      "thumbnailAlt": "Ford Car Recalls: A Quick Overview of Ford’s 2024 Recalls"
+      "thumbnailAlt": "Ford Car Recalls: A Quick Overview of Ford’s 2024 Recalls",
+      "topics": [
+        "recalls"
+      ],
+      "brands": [
+        "ford"
+      ]
     },
     {
       "slug": "getting-justice-from-general-motors",
@@ -1448,7 +1867,11 @@
       "seoTitle": "Getting Justice from General Motors | CLINE APC",
       "seoDescription": "This case involves a 2016 GMC Sierra truck. Our client, Mr. Rodriguez (client name has been changed for privacy), purchased General Motors’ flagship truck brand new in 2016. After spending some time searching, our cli...",
       "thumbnail": "/images/blog/getting-justice-from-general-motors.jpg",
-      "thumbnailAlt": "Getting Justice from General Motors"
+      "thumbnailAlt": "Getting Justice from General Motors",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "gmc-recalls-over-90000-vehicles-due-to-transmission-defect",
@@ -1464,7 +1887,13 @@
       "seoTitle": "GMC Recalls Over 90,000 Vehicles Due to Transmission Defect: A Quick Overview | CLINE APC",
       "seoDescription": "General Motors is back in the spotlight - this time over a transmission control issue that could lead to dangerous wheel lock-ups.",
       "thumbnail": "/images/blog/gmc-recalls-over-90000-vehicles-due-to-transmission-defect.jpg",
-      "thumbnailAlt": "GMC Recalls Over 90,000 Vehicles Due to Transmission Defect: A Quick Overview"
+      "thumbnailAlt": "GMC Recalls Over 90,000 Vehicles Due to Transmission Defect: A Quick Overview",
+      "topics": [
+        "recalls"
+      ],
+      "brands": [
+        "gmc"
+      ]
     },
     {
       "slug": "gmc-truck-recalls-models-that-have-been-recalled-recently",
@@ -1481,7 +1910,13 @@
       "seoTitle": "GMC Truck Recalls: Models That Have Been Recalled Recently | CLINE APC",
       "seoDescription": "General Motors Company (GMC), a subsidiary of General Motors (GM), is one of the most trusted SUV and pickup truck brands in the world. However, even reliable automakers occasionally need to issue recalls to maintain...",
       "thumbnail": "/images/blog/gmc-truck-recalls-models-that-have-been-recalled-recently.jpg",
-      "thumbnailAlt": "GMC Truck Recalls: Models That Have Been Recalled Recently"
+      "thumbnailAlt": "GMC Truck Recalls: Models That Have Been Recalled Recently",
+      "topics": [
+        "recalls"
+      ],
+      "brands": [
+        "gmc"
+      ]
     },
     {
       "slug": "gms-recent-transmission-defect",
@@ -1498,7 +1933,14 @@
       "seoTitle": "GM New 8-Speed Automatic Transmissions Lawsuit | CLINE APC",
       "seoDescription": "You may have heard about the GM 8 Speed Transmission recall that was issued back in 2019. General Motors came under fire over an alleged defect in their 8-speed transmission. While the situation is ongoing, the series...",
       "thumbnail": "/images/blog/gms-recent-transmission-defect.jpg",
-      "thumbnailAlt": "GM New 8-Speed Automatic Transmissions Lawsuit"
+      "thumbnailAlt": "GM New 8-Speed Automatic Transmissions Lawsuit",
+      "topics": [
+        "claim-process"
+      ],
+      "brands": [
+        "chevrolet",
+        "gmc"
+      ]
     },
     {
       "slug": "guide-purchasing-lemon-law-buy-back",
@@ -1514,7 +1956,11 @@
       "seoTitle": "What You Need to Know About Purchasing a Lemon Law Buyback in CA | CLINE APC",
       "seoDescription": "A lemon law buyback is a defective vehicle that was repurchased by the manufacturer due to recurring issues. The fact that it was deemed a “lemon)” means the manufacturer was unable to repair the defect after a “reaso...",
       "thumbnail": "/images/blog/guide-purchasing-lemon-law-buy-back.jpg",
-      "thumbnailAlt": "What You Need to Know About Purchasing a Lemon Law Buyback in CA"
+      "thumbnailAlt": "What You Need to Know About Purchasing a Lemon Law Buyback in CA",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "guide-to-2022-volkswagen-taos-recall",
@@ -1530,7 +1976,13 @@
       "seoTitle": "Everything You Need to Know About 2022 Volkswagen Taos Recalls | CLINE APC",
       "seoDescription": "For years, Volkswagen has repeatedly ranked as one of the most reliable car brands on the market. However, even the most reliable brands have their fair share of issues, and the 2022 Volkswagen Tao is no exception.",
       "thumbnail": "/images/blog/guide-to-2022-volkswagen-taos-recall.jpg",
-      "thumbnailAlt": "Everything You Need to Know About 2022 Volkswagen Taos Recalls"
+      "thumbnailAlt": "Everything You Need to Know About 2022 Volkswagen Taos Recalls",
+      "topics": [
+        "recalls"
+      ],
+      "brands": [
+        "volkswagen"
+      ]
     },
     {
       "slug": "guide-to-common-bmw-problems",
@@ -1547,7 +1999,13 @@
       "seoTitle": "6 Common Defects BMW Owners Face in Most of The Models | CLINE APC",
       "seoDescription": "BMW ranks third on Consumer Reports’most reliable car brands of 2022. However, even companies with the best reputation are guilty of producing faulty products from time to time.",
       "thumbnail": "/images/blog/guide-to-common-bmw-problems.jpg",
-      "thumbnailAlt": "6 Common Defects BMW Owners Face in Most of The Models"
+      "thumbnailAlt": "6 Common Defects BMW Owners Face in Most of The Models",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": [
+        "bmw"
+      ]
     },
     {
       "slug": "guide-to-hyundai-car-recalls-in-2024",
@@ -1563,7 +2021,13 @@
       "seoTitle": "A Guide to Hyundai Car Recalls in 2024 | CLINE APC",
       "seoDescription": "Hyundai Motor Company has led the charge in Korea’s auto industry since 1975. Over the years, the brand has grown into a global powerhouse, with its cars now reaching over 200 countries around the world.",
       "thumbnail": "/images/blog/guide-to-hyundai-car-recalls-in-2024.jpg",
-      "thumbnailAlt": "A Guide to Hyundai Car Recalls in 2024"
+      "thumbnailAlt": "A Guide to Hyundai Car Recalls in 2024",
+      "topics": [
+        "recalls"
+      ],
+      "brands": [
+        "hyundai"
+      ]
     },
     {
       "slug": "handle-lemon-law-disputes-with-car-dealerships-in-orange-county",
@@ -1580,7 +2044,11 @@
       "seoTitle": "How Do You Handle Lemon Law Disputes with Car Dealerships in Orange County? | CLINE APC",
       "seoDescription": "Buying a car is a big ticket purchase, and it’s incredibly frustrating when you end up with a lemon. The car stays in the shop, but your lender continues to deduct your car payments - it’s a situation nobody wants to...",
       "thumbnail": "/images/blog/handle-lemon-law-disputes-with-car-dealerships-in-orange-county.jpg",
-      "thumbnailAlt": "How Do You Handle Lemon Law Disputes with Car Dealerships in Orange County?"
+      "thumbnailAlt": "How Do You Handle Lemon Law Disputes with Car Dealerships in Orange County?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "honda-car-recalls-in-2024",
@@ -1596,7 +2064,13 @@
       "seoTitle": "A Closer Look at the Honda Car Recalls in 2024 | CLINE APC",
       "seoDescription": "Honda has been well-known for providing high-quality vehicles at affordable prices.",
       "thumbnail": "/images/blog/honda-car-recalls-in-2024.jpg",
-      "thumbnailAlt": "A Closer Look at the Honda Car Recalls in 2024"
+      "thumbnailAlt": "A Closer Look at the Honda Car Recalls in 2024",
+      "topics": [
+        "recalls"
+      ],
+      "brands": [
+        "honda"
+      ]
     },
     {
       "slug": "honda-lemon-car-complaints",
@@ -1612,7 +2086,13 @@
       "seoTitle": "5 Honda Lemon Cars with the Most Complaints | CLINE APC",
       "seoDescription": "According to Consumer Reports, Honda ranks amongst the most reliable automakers on the market. However, even the best companies are guilty of producing faulty products from time to time.",
       "thumbnail": "/images/blog/honda-lemon-car-complaints.jpg",
-      "thumbnailAlt": "5 Honda Lemon Cars with the Most Complaints"
+      "thumbnailAlt": "5 Honda Lemon Cars with the Most Complaints",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": [
+        "honda"
+      ]
     },
     {
       "slug": "how-california-lemon-law-protects-fleets-and-businesses",
@@ -1628,7 +2108,11 @@
       "seoTitle": "How California Lemon Law Applies to Fleet and Commercial Vehicles | CLINE APC",
       "seoDescription": "A broken-down truck can stall your entire business. Missed deadlines, frustrated customers, and unexpected repair bills pile up quickly when a vehicle just won’t stay fixed.",
       "thumbnail": "/images/blog/how-california-lemon-law-protects-fleets-and-businesses.jpg",
-      "thumbnailAlt": "How California Lemon Law Applies to Fleet and Commercial Vehicles"
+      "thumbnailAlt": "How California Lemon Law Applies to Fleet and Commercial Vehicles",
+      "topics": [
+        "hiring-a-lemon-law-attorney"
+      ],
+      "brands": []
     },
     {
       "slug": "how-does-a-product-recall-affect-lemon-law-claims",
@@ -1646,7 +2130,14 @@
       "seoTitle": "How Does a Product Recall Affect Lemon Law Claims? | CLINE APC",
       "seoDescription": "Purchasing a vehicle and having it get recalled is very stressful, frustrating, and depending on the issue, extremely dangerous. There have been many massive recalls in recent history, including a recall of 10 million...",
       "thumbnail": "/images/blog/how-does-a-product-recall-affect-lemon-law-claims.jpg",
-      "thumbnailAlt": "How Does a Product Recall Affect Lemon Law Claims?"
+      "thumbnailAlt": "How Does a Product Recall Affect Lemon Law Claims?",
+      "topics": [
+        "recalls",
+        "used-and-cpo-vehicles"
+      ],
+      "brands": [
+        "toyota"
+      ]
     },
     {
       "slug": "how-does-lemon-law-affect-electric-cars",
@@ -1663,7 +2154,13 @@
       "seoTitle": "A Changing Auto Culture: How Does Lemon Law Affect Electric Cars? | CLINE APC",
       "seoDescription": "Electric cars are taking over the road more and more every day. Believe it or not, the first concept of the electric car dates back to the 1800s. However, the widespread popularity of these models did not hit the mark...",
       "thumbnail": "/images/blog/how-does-lemon-law-affect-electric-cars.jpg",
-      "thumbnailAlt": "A Changing Auto Culture: How Does Lemon Law Affect Electric Cars?"
+      "thumbnailAlt": "A Changing Auto Culture: How Does Lemon Law Affect Electric Cars?",
+      "topics": [
+        "electric-vehicles"
+      ],
+      "brands": [
+        "tesla"
+      ]
     },
     {
       "slug": "how-does-open-repair-affect-lemon-law-claims",
@@ -1680,7 +2177,11 @@
       "seoTitle": "What Exactly Does “Open Repair” Mean? How Does It Affect Lemon Law Claims? | CLINE APC",
       "seoDescription": "There are many, _many_ elements that go into lemon law claims. Moreover, there are some that seem minuscule but are extremely important in how the case plays out. The term “open repair” falls into this category.",
       "thumbnail": "/images/blog/how-does-open-repair-affect-lemon-law-claims.jpg",
-      "thumbnailAlt": "What Exactly Does Open Repair Mean? How Does It Affect Lemon Law Claims?"
+      "thumbnailAlt": "What Exactly Does Open Repair Mean? How Does It Affect Lemon Law Claims?",
+      "topics": [
+        "claim-process"
+      ],
+      "brands": []
     },
     {
       "slug": "how-gm-is-working-to-dismantle-california-lemon-law",
@@ -1696,7 +2197,11 @@
       "seoTitle": "How GM is Working to Dismantle California Lemon Law | CLINE APC",
       "seoDescription": "California lemon law - the Song-Beverly Consumer Warranty Act - is one of the most consumer-friendly laws in the entire country, and it’s under attack… again. General Motors has a long, checkered history of trying to...",
       "thumbnail": "/images/blog/how-gm-is-working-to-dismantle-california-lemon-law.jpg",
-      "thumbnailAlt": "How GM is Working to Dismantle California Lemon Law"
+      "thumbnailAlt": "How GM is Working to Dismantle California Lemon Law",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "how-lemon-law-attorneys-work-on-a-contingency-fee-agreement",
@@ -1712,7 +2217,11 @@
       "seoTitle": "How Lemon Law Attorneys Work on a Contingency Fee Agreement: Exploring the Benefits | CLINE APC",
       "seoDescription": "Fees are - without a doubt - the biggest hesitation when people need to hire lemon law lawyers, or lawyers in general.",
       "thumbnail": "/images/blog/how-lemon-law-attorneys-work-on-a-contingency-fee-agreement.jpg",
-      "thumbnailAlt": "How Lemon Law Attorneys Work on a Contingency Fee Agreement: Exploring the Benefits"
+      "thumbnailAlt": "How Lemon Law Attorneys Work on a Contingency Fee Agreement: Exploring the Benefits",
+      "topics": [
+        "hiring-a-lemon-law-attorney"
+      ],
+      "brands": []
     },
     {
       "slug": "how-mileage-offset-affects-your-california-lemon-law-repurchase-settlement",
@@ -1729,7 +2238,11 @@
       "seoTitle": "How Mileage Offset Affects Your California Lemon Law Repurchase Settlement | CLINE APC",
       "seoDescription": "If you’re pursuing a lemon law settlement in California, one term you’ll likely hear early on is “mileage offset.”",
       "thumbnail": "/images/blog/how-mileage-offset-affects-your-california-lemon-law-repurchase-settlement.jpg",
-      "thumbnailAlt": "How Mileage Offset Affects Your California Lemon Law Repurchase Settlement"
+      "thumbnailAlt": "How Mileage Offset Affects Your California Lemon Law Repurchase Settlement",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "how-the-best-lemon-law-attorney-in-san-diego-evaluates-defective-vehicle-cases",
@@ -1745,7 +2258,11 @@
       "seoTitle": "How the Best Lemon Law Attorney in San Diego Evaluates Defective Vehicle Cases | CLINE APC",
       "seoDescription": "Vehicle defects can create ongoing disruptions for owners who expect dependable transportation. Repeated repair visits, unresolved mechanical problems, and safety concerns may indicate that a vehicle qualifies for pro...",
       "thumbnail": "/images/blog/how-the-best-lemon-law-attorney-in-san-diego-evaluates-defective-vehicle-cases.jpg",
-      "thumbnailAlt": "How the Best Lemon Law Attorney in San Diego Evaluates Defective Vehicle Cases"
+      "thumbnailAlt": "How the Best Lemon Law Attorney in San Diego Evaluates Defective Vehicle Cases",
+      "topics": [
+        "claim-process"
+      ],
+      "brands": []
     },
     {
       "slug": "how-to-avoid-buying-lemon-when-used-car-shopping",
@@ -1762,7 +2279,11 @@
       "seoTitle": "How to Avoid Buying a Lemon when Used Car Shopping | CLINE APC",
       "seoDescription": "Purchasing a used vehicle is a great way to get a good deal on the type of car you are looking for. In fact, every year, there are more than twice as many used cars sold compared to new vehicles in the United States.",
       "thumbnail": "/images/blog/how-to-avoid-buying-lemon-when-used-car-shopping.jpg",
-      "thumbnailAlt": "How to Avoid Buying a Lemon when Used Car Shopping"
+      "thumbnailAlt": "How to Avoid Buying a Lemon when Used Car Shopping",
+      "topics": [
+        "used-and-cpo-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "how-to-get-lemon-law-legal-advice-during-covid-19",
@@ -1778,7 +2299,11 @@
       "seoTitle": "How to Get Lemon Law Legal Advice During COVID-19 | CLINE APC",
       "seoDescription": "Due to the ongoing situation regarding COVID-19, many courtrooms have temporarily shut their doors. This leaves people wondering about the status of their claims and cases - and unfortunately, no one knows yet when th...",
       "thumbnail": "/images/blog/how-to-get-lemon-law-legal-advice-during-covid-19.jpg",
-      "thumbnailAlt": "How to Get Lemon Law Legal Advice During COVID-19"
+      "thumbnailAlt": "How to Get Lemon Law Legal Advice During COVID-19",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "how-to-get-the-most-from-your-manufacturer-when-life-gives-you-a-lemon",
@@ -1795,7 +2320,12 @@
       "seoTitle": "How to Get the Most from Your Manufacturer When Life Gives You a Lemon | CLINE APC",
       "seoDescription": "Realizing that you’re stuck with a lemon vehicle can be incredibly frustrating and stressful; even more so when you think about all of your legal rights that will inevitably follow. That being said, knowing your right...",
       "thumbnail": "/images/blog/how-to-get-the-most-from-your-manufacturer-when-life-gives-you-a-lemon.jpg",
-      "thumbnailAlt": "How to Get the Most from Your Manufacturer When Life Gives You a Lemon"
+      "thumbnailAlt": "How to Get the Most from Your Manufacturer When Life Gives You a Lemon",
+      "topics": [
+        "buybacks-and-refunds",
+        "claim-process"
+      ],
+      "brands": []
     },
     {
       "slug": "how-to-know-vehicle-lemon-history",
@@ -1811,7 +2341,11 @@
       "seoTitle": "How to Tell If a Car Has a Reported Lemon History | CLINE APC",
       "seoDescription": "It’s important to conduct due diligence when shopping for a vehicle - especially if you’re buying a used one. Even the car brands you trust the most are guilty of producing defective vehicles from time to time.",
       "thumbnail": "/images/blog/how-to-know-vehicle-lemon-history.jpg",
-      "thumbnailAlt": "How to Tell If a Car Has a Reported Lemon History"
+      "thumbnailAlt": "How to Tell If a Car Has a Reported Lemon History",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "hyundai-car-recalls-2022",
@@ -1827,7 +2361,13 @@
       "seoTitle": "5 Hyundai Car Models That Have Been Recalled in 2022 | CLINE APC",
       "seoDescription": "Hyundai is one of the most reliable car brands on the market. However, even the most reliable brands can have recalls. Hyundai has had several recalls in recent years, and 2022 is no different.",
       "thumbnail": "/images/blog/hyundai-car-recalls-2022.jpg",
-      "thumbnailAlt": "5 Hyundai Car Models That Have Been Recalled in 2022"
+      "thumbnailAlt": "5 Hyundai Car Models That Have Been Recalled in 2022",
+      "topics": [
+        "recalls"
+      ],
+      "brands": [
+        "hyundai"
+      ]
     },
     {
       "slug": "hyundai-lawsuit-automaker-sanctioned-for-spoliation-of-engines",
@@ -1843,7 +2383,13 @@
       "seoTitle": "Hyundai Lawsuit: Automaker Sanctioned for Spoliation of Engines | CLINE APC",
       "seoDescription": "The recent Hyundai lawsuit has landed the South Korean automaker in hot water.",
       "thumbnail": "/images/blog/hyundai-lawsuit-automaker-sanctioned-for-spoliation-of-engines.jpg",
-      "thumbnailAlt": "Hyundai Lawsuit: Automaker Sanctioned for Spoliation of Engines"
+      "thumbnailAlt": "Hyundai Lawsuit: Automaker Sanctioned for Spoliation of Engines",
+      "topics": [
+        "claim-process"
+      ],
+      "brands": [
+        "hyundai"
+      ]
     },
     {
       "slug": "implied-car-warranty-lemon-law-protection",
@@ -1860,7 +2406,11 @@
       "seoTitle": "How Does Lemon Law Protect Consumers with an Implied Car Warranty? | CLINE APC",
       "seoDescription": "Buying a defective vehicle is a challenge that no consumer should have to go through. People buy vehicles with the expectation they function properly. But everyone makes mistakes - even big-name automakers. Fortunatel...",
       "thumbnail": "/images/blog/implied-car-warranty-lemon-law-protection.jpg",
-      "thumbnailAlt": "How Does Lemon Law Protect Consumers with an Implied Car Warranty?"
+      "thumbnailAlt": "How Does Lemon Law Protect Consumers with an Implied Car Warranty?",
+      "topics": [
+        "used-and-cpo-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "inspection-guide-for-buying-a-used-vehicle",
@@ -1877,7 +2427,11 @@
       "seoTitle": "The Ultimate Pre-Purchase Car Inspection Guide for Buying a Used Vehicle | CLINE APC",
       "seoDescription": "Buying a used vehicle is always somewhat of a mystery - no matter how you look at it. Even with a fair average price, you never know exactly what kind of condition the car is in, and if there are any hidden problems l...",
       "thumbnail": "/images/blog/inspection-guide-for-buying-a-used-vehicle.jpg",
-      "thumbnailAlt": "The Ultimate Pre-Purchase Car Inspection Guide for Buying a Used Vehicle"
+      "thumbnailAlt": "The Ultimate Pre-Purchase Car Inspection Guide for Buying a Used Vehicle",
+      "topics": [
+        "used-and-cpo-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "is-mazda-a-reliable-car-brand",
@@ -1894,7 +2448,13 @@
       "seoTitle": "Is Mazda A Reliable Car Brand? What You Need to Know | CLINE APC",
       "seoDescription": "Mazda is one of the most common car brands we see on the roads today. As California lemon law lawyers, our job isn’t to dissuade people from purchasing or leasing vehicles from certain manufacturers.",
       "thumbnail": "/images/blog/is-mazda-a-reliable-car-brand.jpg",
-      "thumbnailAlt": "Is Mazda A Reliable Car Brand? What You Need to Know"
+      "thumbnailAlt": "Is Mazda A Reliable Car Brand? What You Need to Know",
+      "topics": [
+        "recalls"
+      ],
+      "brands": [
+        "mazda"
+      ]
     },
     {
       "slug": "is-my-car-a-lemon",
@@ -1910,7 +2470,11 @@
       "seoTitle": "Is my car a lemon? | CLINE APC",
       "seoDescription": "You bought a car. You expected it to run. Instead, it keeps breaking down.",
       "thumbnail": "/images/blog/is-my-car-a-lemon.jpg",
-      "thumbnailAlt": "Is my car a lemon?"
+      "thumbnailAlt": "Is my car a lemon?",
+      "topics": [
+        "used-and-cpo-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "is-there-a-time-limit-to-file-a-lemon-law-claim",
@@ -1927,7 +2491,11 @@
       "seoTitle": "Is There a Time Limit to File a Lemon Law Claim? | CLINE APC",
       "seoDescription": "The nitty-gritty details of California lemon law can get a bit complicated. Much of the confusion oftentimes relate back to the timelines. There are so many lemon law cases that go bad simply because the consumer wasn...",
       "thumbnail": "/images/blog/is-there-a-time-limit-to-file-a-lemon-law-claim.jpg",
-      "thumbnailAlt": "Is There a Time Limit to File a Lemon Law Claim?"
+      "thumbnailAlt": "Is There a Time Limit to File a Lemon Law Claim?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "is-your-boat-a-lemon",
@@ -1943,7 +2511,11 @@
       "seoTitle": "Is Your Boat a Lemon? Signs to Watch for and Steps to Take | CLINE APC",
       "seoDescription": "If you’re familiar with lemon law - or the Magnuson-Moss Warranty Act - you may assume this law only applies to automobiles. While lemon law exists across the country, state lemon laws can vary.",
       "thumbnail": "/images/blog/is-your-boat-a-lemon.jpg",
-      "thumbnailAlt": "Is Your Boat a Lemon? Signs to Watch for and Steps to Take"
+      "thumbnailAlt": "Is Your Boat a Lemon? Signs to Watch for and Steps to Take",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "is-your-chevrolet-a-lemon-signs-to-watch-for-and-what-to-do-next",
@@ -1959,7 +2531,13 @@
       "seoTitle": "Is Your Chevrolet a Lemon? Signs to Watch for and What to Do Next | CLINE APC",
       "seoDescription": "Chevrolet has a long history of producing category-defining vehicles like the Corvette, Silverado, and Camaro. But not every Chevy lives up to that standard.",
       "thumbnail": "/images/blog/is-your-chevrolet-a-lemon-signs-to-watch-for-and-what-to-do-next.jpg",
-      "thumbnailAlt": "Is Your Chevrolet a Lemon? Signs to Watch for and What to Do Next"
+      "thumbnailAlt": "Is Your Chevrolet a Lemon? Signs to Watch for and What to Do Next",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": [
+        "chevrolet"
+      ]
     },
     {
       "slug": "is-your-vehicles-warranty-valid-for-a-california-lemon-law-claim",
@@ -1976,7 +2554,11 @@
       "seoTitle": "Is Your Vehicle’s Warranty Valid for a California Lemon Law Claim? | CLINE APC",
       "seoDescription": "As California lemon law lawyers, we get countless questions about car warranties. The terms of the car warranty are the foundation of how to start a lemon law claim. In the state of California, there are several types...",
       "thumbnail": "/images/blog/is-your-vehicles-warranty-valid-for-a-california-lemon-law-claim.jpg",
-      "thumbnailAlt": "Is Your Vehicle s Warranty Valid for a California Lemon Law Claim?"
+      "thumbnailAlt": "Is Your Vehicle s Warranty Valid for a California Lemon Law Claim?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "issues-to-avoid-lemon-buy-backs",
@@ -1993,7 +2575,12 @@
       "seoTitle": "4 Major Issues to Avoid with Lemon Buybacks | CLINE APC",
       "seoDescription": "A buyback - or refund - is generally the most common outcome when a consumer wins a lemon law case. Lemon buybacks occur when an automaker re-acquires a vehicle due to one or more specified warranty-covered defects. T...",
       "thumbnail": "/images/blog/issues-to-avoid-lemon-buy-backs.jpg",
-      "thumbnailAlt": "4 Major Issues to Avoid with Lemon Buybacks"
+      "thumbnailAlt": "4 Major Issues to Avoid with Lemon Buybacks",
+      "topics": [
+        "buybacks-and-refunds",
+        "claim-process"
+      ],
+      "brands": []
     },
     {
       "slug": "japanese-car-brands-with-the-most-reliability-concerns",
@@ -2009,7 +2596,14 @@
       "seoTitle": "Japanese Car Brands with the Most Reliability Concerns | CLINE APC",
       "seoDescription": "Japanese automakers have long been known for building vehicles that go the distance. From efficient sedans to advanced hybrids, their reputation for dependability has earned the trust of millions of drivers.",
       "thumbnail": "/images/blog/japanese-car-brands-with-the-most-reliability-concerns.jpg",
-      "thumbnailAlt": "Japanese Car Brands with the Most Reliability Concerns"
+      "thumbnailAlt": "Japanese Car Brands with the Most Reliability Concerns",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": [
+        "nissan",
+        "mazda"
+      ]
     },
     {
       "slug": "jeep-transmission-problems",
@@ -2025,7 +2619,14 @@
       "seoTitle": "Jeep Auto Transmission Problems: Here’s What You Can Do | CLINE APC",
       "seoDescription": "The Jeep is one of the world’s most beloved vehicles. Jeeps have been used for military purposes, off-roading, everyday driving, and more.",
       "thumbnail": "/images/blog/jeep-transmission-problems.jpg",
-      "thumbnailAlt": "Jeep Auto Transmission Problems: Here’s What You Can Do"
+      "thumbnailAlt": "Jeep Auto Transmission Problems: Here’s What You Can Do",
+      "topics": [
+        "buybacks-and-refunds",
+        "claim-process"
+      ],
+      "brands": [
+        "jeep"
+      ]
     },
     {
       "slug": "kia-models-with-the-most-lemon-law-complaints",
@@ -2041,7 +2642,13 @@
       "seoTitle": "Kia Models with the Most Lemon Law Complaints: Are You Driving One? | CLINE APC",
       "seoDescription": "_Kia didn’t just tiptoe into the big leagues. It stormed in. _",
       "thumbnail": "/images/blog/kia-models-with-the-most-lemon-law-complaints.jpg",
-      "thumbnailAlt": "Kia Models with the Most Lemon Law Complaints: Are You Driving One?"
+      "thumbnailAlt": "Kia Models with the Most Lemon Law Complaints: Are You Driving One?",
+      "topics": [
+        "recalls"
+      ],
+      "brands": [
+        "kia"
+      ]
     },
     {
       "slug": "know-differences-lemon-law-auto-fraud-avoid-getting-duped",
@@ -2059,7 +2666,11 @@
       "seoTitle": "Know the differences between Lemon Law and Auto Fraud and Avoid Getting Duped | CLINE APC",
       "seoDescription": "Did you recently purchase a vehicle and found it to be defective? Does the defect compromise the vehicle’s functionality and put you at risk? Did you purchase a car and end up coughing up more than its actual cost?",
       "thumbnail": "/images/blog/know-differences-lemon-law-auto-fraud-avoid-getting-duped.jpg",
-      "thumbnailAlt": "Know the differences between Lemon Law and Auto Fraud and Avoid Getting Duped"
+      "thumbnailAlt": "Know the differences between Lemon Law and Auto Fraud and Avoid Getting Duped",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "latest-consumer-complaint-report-lemon-law-claims",
@@ -2076,7 +2687,11 @@
       "seoTitle": "What The Latest Consumer Complaint Report Means for California Lemon Law Claims | CLINE APC",
       "seoDescription": "Every year, the Consumer Federation of America (CFA) issues a survey to identify patterns related to complaints reported from various industries. This consumer complaint report publishes data regarding the most common...",
       "thumbnail": "/images/blog/latest-consumer-complaint-report-lemon-law-claims.jpg",
-      "thumbnailAlt": "What The Latest Consumer Complaint Report Means for California Lemon Law Claims"
+      "thumbnailAlt": "What The Latest Consumer Complaint Report Means for California Lemon Law Claims",
+      "topics": [
+        "recalls"
+      ],
+      "brands": []
     },
     {
       "slug": "leased-car-lemon-law",
@@ -2092,7 +2707,14 @@
       "seoTitle": "Leased Car Lemon Law: 5 Things to Know Before Leasing a Car to Avoid a Lemon | CLINE APC",
       "seoDescription": "Leasing a vehicle is generally believed to be a safer option compared to buying. You get to drive newer vehicle models and don’t have to worry about depreciation. But unfortunately, no vehicle - leased or not - is imm...",
       "thumbnail": "/images/blog/leased-car-lemon-law.jpg",
-      "thumbnailAlt": "Leased Car Lemon Law: 5 Things to Know Before Leasing a Car to Avoid a Lemon"
+      "thumbnailAlt": "Leased Car Lemon Law: 5 Things to Know Before Leasing a Car to Avoid a Lemon",
+      "topics": [
+        "leased-vehicles"
+      ],
+      "brands": [
+        "ford",
+        "nissan"
+      ]
     },
     {
       "slug": "leasing-car-advantages-dodge-traps-car-leasing-companies",
@@ -2108,7 +2730,13 @@
       "seoTitle": "How to Dodge the Traps of Car Leasing Companies & Leased Car Lemon Law Issues | CLINE APC",
       "seoDescription": "Leasing a car has many benefits compared to purchasing. You get to drive the latest models, enjoy lower monthly payments, lower taxes, and most importantly, you avoid the potential headaches that come with buying a us...",
       "thumbnail": "/images/blog/leasing-car-advantages-dodge-traps-car-leasing-companies.jpg",
-      "thumbnailAlt": "How to Dodge the Traps of Car Leasing Companies Leased Car Lemon Law Issues"
+      "thumbnailAlt": "How to Dodge the Traps of Car Leasing Companies Leased Car Lemon Law Issues",
+      "topics": [
+        "leased-vehicles"
+      ],
+      "brands": [
+        "dodge"
+      ]
     },
     {
       "slug": "lemon-driver-abuse",
@@ -2125,7 +2753,11 @@
       "seoTitle": "Lemon or Driver Abuse: What Are Your Rights? | CLINE APC",
       "seoDescription": "In a lemon law case, your mission is to get a refund of your hard earned money from an automaker for selling you a defective vehicle. The automaker has no interest in giving it to you.",
       "thumbnail": "/images/blog/lemon-driver-abuse.jpg",
-      "thumbnailAlt": "Lemon or Driver Abuse: What Are Your Rights?"
+      "thumbnailAlt": "Lemon or Driver Abuse: What Are Your Rights?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "lemon-law-arbitration-why-you-shouldnt-do-it",
@@ -2141,7 +2773,11 @@
       "seoTitle": "What is Lemon Law Arbitration? (And Why You Shouldn’t Do It) | CLINE APC",
       "seoDescription": "Lemon law arbitration is a route that tends to stack the cards against the consumer. The good news is you do not have to take this route if you’ve been sold a lemon.",
       "thumbnail": "/images/blog/lemon-law-arbitration-why-you-shouldnt-do-it.jpg",
-      "thumbnailAlt": "What is Lemon Law Arbitration? (And Why You Shouldn’t Do It)"
+      "thumbnailAlt": "What is Lemon Law Arbitration? (And Why You Shouldn’t Do It)",
+      "topics": [
+        "claim-process"
+      ],
+      "brands": []
     },
     {
       "slug": "lemon-law-buyback-process-california",
@@ -2157,7 +2793,11 @@
       "seoTitle": "What Is the Lemon Law California Buyback Process? | CLINE APC",
       "seoDescription": "A lemon buyback is essentially a refund that a manufacturer must provide if a vehicle they sold is defective. The lemon law in California has a unique process for these refunds.",
       "thumbnail": "/images/blog/lemon-law-buyback-process-california.jpg",
-      "thumbnailAlt": "What Is the Lemon Law California Buyback Process?"
+      "thumbnailAlt": "What Is the Lemon Law California Buyback Process?",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "lemon-law-buyback-vs-regular-refunds",
@@ -2173,7 +2813,11 @@
       "seoTitle": "Lemon Law Buyback vs. Regular Refunds: What’s the Difference? | CLINE APC",
       "seoDescription": "​​Americans buy and lease millions of vehicles every year - some of which leave the factory with persistent problems.",
       "thumbnail": "/images/blog/lemon-law-buyback-vs-regular-refunds.jpg",
-      "thumbnailAlt": "Lemon Law Buyback vs. Regular Refunds: What’s the Difference?"
+      "thumbnailAlt": "Lemon Law Buyback vs. Regular Refunds: What’s the Difference?",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "lemon-law-buybacks-what-to-expect",
@@ -2191,7 +2835,11 @@
       "seoTitle": "California Lemon Law Buybacks Program: What To Expect | CLINE APC",
       "seoDescription": "So you’ve recently purchased a vehicle and have made the unfortunate determination it meets the criteria of lemon law in California. There are probably a lot of things running through your mind about what to do next....",
       "thumbnail": "/images/blog/lemon-law-buybacks-what-to-expect.jpg",
-      "thumbnailAlt": "California Lemon Law Buybacks Program: What To Expect"
+      "thumbnailAlt": "California Lemon Law Buybacks Program: What To Expect",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "lemon-law-case-prepare-for-the-trial",
@@ -2208,7 +2856,11 @@
       "seoTitle": "Lemon Law Case: How Should I Prepare for The Trial? | CLINE APC",
       "seoDescription": "Lemon law court trials do not happen with every lemon law case and are actually very rare. In fact, we can tell you first-hand as California lemon law lawyers that the vast majority of claims are settled without a cou...",
       "thumbnail": "/images/blog/lemon-law-case-prepare-for-the-trial.jpg",
-      "thumbnailAlt": "Lemon Law Case: How Should I Prepare for The Trial?"
+      "thumbnailAlt": "Lemon Law Case: How Should I Prepare for The Trial?",
+      "topics": [
+        "claim-process"
+      ],
+      "brands": []
     },
     {
       "slug": "lemon-law-case-worth-lemon-law-buyback-calculator",
@@ -2225,7 +2877,11 @@
       "seoTitle": "How Much Money Is Your Manufacturer Buyback? The Lemon Law Buyback Calculator | CLINE APC",
       "seoDescription": "Prevailing in a lemon law manufacturer buyback case is a great feeling - and receiving the full compensation for a faulty vehicle is even better. But if you are in the middle of a lemon law claim or considering filing...",
       "thumbnail": "/images/blog/lemon-law-case-worth-lemon-law-buyback-calculator.jpg",
-      "thumbnailAlt": "How Much Money Is Your Manufacturer Buyback? The Lemon Law Buyback Calculator"
+      "thumbnailAlt": "How Much Money Is Your Manufacturer Buyback? The Lemon Law Buyback Calculator",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "lemon-law-claims-and-software-glitches-in-a-car",
@@ -2241,7 +2897,11 @@
       "seoTitle": "The Impact of Software Glitches and Infotainment Failures on Lemon Law Claims | CLINE APC",
       "seoDescription": "Modern vehicles offer more features than ever before, but advanced technology comes with its own set of challenges. In the United States, more and more drivers are reporting problems related to onboard software and in...",
       "thumbnail": "/images/blog/lemon-law-claims-and-software-glitches-in-a-car.jpg",
-      "thumbnailAlt": "The Impact of Software Glitches and Infotainment Failures on Lemon Law Claims"
+      "thumbnailAlt": "The Impact of Software Glitches and Infotainment Failures on Lemon Law Claims",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "lemon-law-facts-and-stats-in-orange-county",
@@ -2257,7 +2917,11 @@
       "seoTitle": "Orange County Facts and Stats About Lemon Law and Defective Cars | CLINE APC",
       "seoDescription": "Orange County - known as “The O.C.” - is known for sunshine and picturesque beaches, and of course, the home of Disneyland.",
       "thumbnail": "/images/blog/lemon-law-facts-and-stats-in-orange-county.jpg",
-      "thumbnailAlt": "Orange County Facts and Stats About Lemon Law and Defective Cars"
+      "thumbnailAlt": "Orange County Facts and Stats About Lemon Law and Defective Cars",
+      "topics": [
+        "hiring-a-lemon-law-attorney"
+      ],
+      "brands": []
     },
     {
       "slug": "lemon-law-for-buyers-with-disabilities",
@@ -2273,7 +2937,11 @@
       "seoTitle": "Lemon Law for Car Buyers with Disabilities: What Additional Protections Exist? | CLINE APC",
       "seoDescription": "Mobility doesn’t mean just getting from point A to point B. For many people with disabilities, a reliable vehicle is independence itself.",
       "thumbnail": "/images/blog/lemon-law-for-buyers-with-disabilities.jpg",
-      "thumbnailAlt": "Lemon Law for Car Buyers with Disabilities: What Additional Protections Exist?"
+      "thumbnailAlt": "Lemon Law for Car Buyers with Disabilities: What Additional Protections Exist?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "lemon-law-for-private-vehicle-sale",
@@ -2289,7 +2957,11 @@
       "seoTitle": "What Are Your Rights Under Lemon Law for a Private Vehicle Sale? | CLINE APC",
       "seoDescription": "Used car marketing in the United States has seen a massive shift due to the pandemic. In what was once thought to be unheard of, people are now selling their used vehicles for _more_ than the purchase price. Buying a...",
       "thumbnail": "/images/blog/lemon-law-for-private-vehicle-sale.jpg",
-      "thumbnailAlt": "What Are Your Rights Under Lemon Law for a Private Vehicle Sale?"
+      "thumbnailAlt": "What Are Your Rights Under Lemon Law for a Private Vehicle Sale?",
+      "topics": [
+        "used-and-cpo-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "lemon-law-protections-for-high-end-vehicles-in-los-angeles",
@@ -2305,7 +2977,11 @@
       "seoTitle": "The Luxury Car Appeal: Understanding Lemon Law Protections for High-End Vehicles in Los Angeles | CLINE APC",
       "seoDescription": "When you splurge on a luxury car in Los Angeles, you’re purchasing much more than just transportation. You’re buying into a world of precision engineering, unmatched comfort, and undeniable status. Superior driving ex...",
       "thumbnail": "/images/blog/lemon-law-protections-for-high-end-vehicles-in-los-angeles.jpg",
-      "thumbnailAlt": "The Luxury Car Appeal: Understanding Lemon Law Protections for High-End Vehicles in Los Angeles"
+      "thumbnailAlt": "The Luxury Car Appeal: Understanding Lemon Law Protections for High-End Vehicles in Los Angeles",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "lemon-law-recall-does-your-vehicle-qualify-for-legal-protections",
@@ -2321,7 +2997,11 @@
       "seoTitle": "Lemon Car Recall: Can a Vehicle That Was Repaired Under a Recall Qualify as a Lemon? | CLINE APC",
       "seoDescription": "When you buy or lease a new vehicle, you expect it to keep you safe and running reliably. Yet, even with today’s strict manufacturing standards, problems still happen.",
       "thumbnail": "/images/blog/lemon-law-recall-does-your-vehicle-qualify-for-legal-protections.jpg",
-      "thumbnailAlt": "Lemon Car Recall: Can a Vehicle That Was Repaired Under a Recall Qualify as a Lemon?"
+      "thumbnailAlt": "Lemon Car Recall: Can a Vehicle That Was Repaired Under a Recall Qualify as a Lemon?",
+      "topics": [
+        "recalls"
+      ],
+      "brands": []
     },
     {
       "slug": "lemon-law-vs-warranty-whats-the-difference",
@@ -2337,7 +3017,11 @@
       "seoTitle": "Lemon Law vs. Warranty: What’s the Difference and How Do They Work | CLINE APC",
       "seoDescription": "Imagine cruising down the California coast in your new car. Suddenly, an odd sound starts humming from under the hood and a flickering dashboard light comes on. You bought a defective vehicle thanks to the manufacture...",
       "thumbnail": "/images/blog/lemon-law-vs-warranty-whats-the-difference.jpg",
-      "thumbnailAlt": "Lemon Law vs. Warranty: What s the Difference and How Do They Work"
+      "thumbnailAlt": "Lemon Law vs. Warranty: What s the Difference and How Do They Work",
+      "topics": [
+        "hiring-a-lemon-law-attorney"
+      ],
+      "brands": []
     },
     {
       "slug": "lemon-product-liability",
@@ -2353,7 +3037,11 @@
       "seoTitle": "Lemon or Product Liability: Are You Entitled to Benefits? | CLINE APC",
       "seoDescription": "The potential scenarios that can play out with a defective vehicle are practically endless. As a lemon law lawyer in California, we’ve seen just about every situation imaginable. In this post, we want to make the dist...",
       "thumbnail": "/images/blog/lemon-product-liability.jpg",
-      "thumbnailAlt": "Lemon or Product Liability: Are You Entitled to Benefits?"
+      "thumbnailAlt": "Lemon or Product Liability: Are You Entitled to Benefits?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "let-a-lemon-law-attorney-handle-your-case",
@@ -2371,7 +3059,11 @@
       "seoTitle": "Did Life Hand You a Lemon? Let A Lemon Law Attorney Handle Your Case | CLINE APC",
       "seoDescription": "From statistics, we know that lemons are more common than we think. With one lemon per 76,808 vehicles manufactured. And according to a survey, 21% of respondents said they ended up with a lemon car purchased from a n...",
       "thumbnail": "/images/blog/let-a-lemon-law-attorney-handle-your-case.jpg",
-      "thumbnailAlt": "Lemon Car"
+      "thumbnailAlt": "Lemon Car",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "litigation-arbitration-whats-better",
@@ -2387,7 +3079,14 @@
       "seoTitle": "Litigation or Arbitration: What’s the Better Option Under California Lemon Law? | CLINE APC",
       "seoDescription": "For most consumers, lemon law in California can be a delicate and daunting process. There is never a convenient time to be sold a defective vehicle. Most - if not all - consumers are facing this situation for the firs...",
       "thumbnail": "/images/blog/litigation-arbitration-whats-better.jpg",
-      "thumbnailAlt": "Litigation or Arbitration: What’s the Better Option Under California Lemon Law?"
+      "thumbnailAlt": "Litigation or Arbitration: What’s the Better Option Under California Lemon Law?",
+      "topics": [
+        "claim-process",
+        "buybacks-and-refunds"
+      ],
+      "brands": [
+        "tesla"
+      ]
     },
     {
       "slug": "luxury-vehicles-major-mechanical-problems",
@@ -2404,7 +3103,14 @@
       "seoTitle": "5 Luxury Vehicles Most Likely to Have Major Mechanical Problems | CLINE APC",
       "seoDescription": "We tend to associate items with a higher price to mean that it is also higher quality - especially when it comes to vehicles. Expensive vehicles should offer a superior driving experience and be made with the absolute...",
       "thumbnail": "/images/blog/luxury-vehicles-major-mechanical-problems.jpg",
-      "thumbnailAlt": "5 Luxury Vehicles Most Likely to Have Major Mechanical Problems"
+      "thumbnailAlt": "5 Luxury Vehicles Most Likely to Have Major Mechanical Problems",
+      "topics": [
+        "recalls"
+      ],
+      "brands": [
+        "bmw",
+        "tesla"
+      ]
     },
     {
       "slug": "manufacturers-defense-lawyers-ruin-california-lemon-law-claim",
@@ -2421,7 +3127,12 @@
       "seoTitle": "Manufacturer’s Defense Lawyers Can Ruin Your California Lemon Law Claim – Here’s How to Stop Them | CLINE APC",
       "seoDescription": "Filing a California lemon law claim can be an intimidating process for many people. Not only do you have to prove that your vehicle meets your state’s requirements for a lemon, but you also have to go against extremel...",
       "thumbnail": "/images/blog/manufacturers-defense-lawyers-ruin-california-lemon-law-claim.jpg",
-      "thumbnailAlt": "Manufacturer’s Defense Lawyers Can Ruin Your California Lemon Law Claim – Here’s How to Stop Them"
+      "thumbnailAlt": "Manufacturer’s Defense Lawyers Can Ruin Your California Lemon Law Claim – Here’s How to Stop Them",
+      "topics": [
+        "claim-process",
+        "hiring-a-lemon-law-attorney"
+      ],
+      "brands": []
     },
     {
       "slug": "measures-take-car-lemon",
@@ -2438,7 +3149,11 @@
       "seoTitle": "What Measures to Take When My Car is a Lemon? | CLINE APC",
       "seoDescription": "Buying a new car can be as daunting as it is exciting.",
       "thumbnail": "/images/blog/measures-take-car-lemon.jpg",
-      "thumbnailAlt": "What Measures to Take When My Car is a Lemon?"
+      "thumbnailAlt": "What Measures to Take When My Car is a Lemon?",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "mistakes-avoid-during-lemon-law-buyback-process",
@@ -2454,7 +3169,13 @@
       "seoTitle": "4 Mistakes to Avoid During the Lemon Law Buyback Process | CLINE APC",
       "seoDescription": "Having a vehicle with defects can be a major headache - but trying to get your money back from the manufacturer can be an even bigger issue, if you don’t have a good legal team on your side.",
       "thumbnail": "/images/blog/mistakes-avoid-during-lemon-law-buyback-process.jpg",
-      "thumbnailAlt": "4 Mistakes to Avoid During the Lemon Law Buyback Process"
+      "thumbnailAlt": "4 Mistakes to Avoid During the Lemon Law Buyback Process",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": [
+        "mercedes-benz"
+      ]
     },
     {
       "slug": "models-to-avoid-while-purchasing-a-lexus-car",
@@ -2472,7 +3193,13 @@
       "seoTitle": "5 Models To Avoid While Purchasing A Lexus Car | CLINE APC",
       "seoDescription": "Lexus is generally recognized for producing comfortable and dependable vehicles. For many drivers, purchasing a Lexus car feels like a safe, low-risk decision.",
       "thumbnail": "/images/blog/models-to-avoid-while-purchasing-a-lexus-car.jpg",
-      "thumbnailAlt": "5 Models To Avoid While Purchasing A Lexus Car"
+      "thumbnailAlt": "5 Models To Avoid While Purchasing A Lexus Car",
+      "topics": [
+        "leased-vehicles"
+      ],
+      "brands": [
+        "lexus"
+      ]
     },
     {
       "slug": "most-reliable-cars-tructs-suvs-2022",
@@ -2488,7 +3215,14 @@
       "seoTitle": "Consumer Reports: The Top 10 Most (and Least) Reliable Cars, Trucks, and SUVs of 2022 | CLINE APC",
       "seoDescription": "With every new year comes a new crop of car models from the world’s most famous automakers. Some models take the world by storm and revolutionize driving - others fall flat. Each year, Consumer Reports puts together a...",
       "thumbnail": "/images/blog/most-reliable-cars-tructs-suvs-2022.jpg",
-      "thumbnailAlt": "Consumer Reports: The Top 10 Most (and Least) Reliable Cars, Trucks, and SUVs of 2022"
+      "thumbnailAlt": "Consumer Reports: The Top 10 Most (and Least) Reliable Cars, Trucks, and SUVs of 2022",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": [
+        "toyota",
+        "mazda"
+      ]
     },
     {
       "slug": "most-sued-auto-manufacturers-in-los-angeles",
@@ -2504,7 +3238,13 @@
       "seoTitle": "5 Most Commonly Sued Auto Manufacturers in Los Angeles | CLINE APC",
       "seoDescription": "The auto industry is no stranger to lawsuits.",
       "thumbnail": "/images/blog/most-sued-auto-manufacturers-in-los-angeles.jpg",
-      "thumbnailAlt": "5 Most Commonly Sued Auto Manufacturers in Los Angeles"
+      "thumbnailAlt": "5 Most Commonly Sued Auto Manufacturers in Los Angeles",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": [
+        "ford"
+      ]
     },
     {
       "slug": "new-car-keeps-breaking-down",
@@ -2521,7 +3261,11 @@
       "seoTitle": "What to Do If My New Car Keeps Breaking Down? | CLINE APC",
       "seoDescription": "When you buy a new car, you expect it to run without any issues - at the minimum. You just spent thousands of dollars - and dealing with ongoing issues when a car keeps breaking down is extremely infuriating.",
       "thumbnail": "/images/blog/new-car-keeps-breaking-down.jpg",
-      "thumbnailAlt": "What to Do If My New Car Keeps Breaking Down?"
+      "thumbnailAlt": "What to Do If My New Car Keeps Breaking Down?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "new-car-lemon-law-qa",
@@ -2538,7 +3282,11 @@
       "seoTitle": "California Lemon Law New Car Q&A | CLINE APC",
       "seoDescription": "The California lemon law new car process may sound straightforward on the surface - but many, many minute details can muddle the answers you might be looking for. To make things even more complicated, the internet is...",
       "thumbnail": "/images/blog/new-car-lemon-law-qa.jpg",
-      "thumbnailAlt": "California Lemon Law New Car Q A"
+      "thumbnailAlt": "California Lemon Law New Car Q A",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "nhtsa-defective-car-complaint",
@@ -2554,7 +3302,11 @@
       "seoTitle": "How To File a Defective Car Complaint to the NHTSA? | CLINE APC",
       "seoDescription": "You have certain expectations when you purchase a car. You expect that it will be safe, reliable, and perform as advertised.",
       "thumbnail": "/images/blog/nhtsa-defective-car-complaint.jpg",
-      "thumbnailAlt": "How To File a Defective Car Complaint to the NHTSA?"
+      "thumbnailAlt": "How To File a Defective Car Complaint to the NHTSA?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "no-cooling-off-period-in-california-lemon-law",
@@ -2570,7 +3322,11 @@
       "seoTitle": "What Is the “No Cooling-Off Period” Rule in California Lemon Law? | CLINE APC",
       "seoDescription": "Buying cars has always been an intimidating process. The stereotypical car salesman comes with images of aggressive, high-pressure sales tactics and other shady practices.",
       "thumbnail": "/images/blog/no-cooling-off-period-in-california-lemon-law.jpg",
-      "thumbnailAlt": "What Is the “No Cooling-Off Period” Rule in California Lemon Law?"
+      "thumbnailAlt": "What Is the “No Cooling-Off Period” Rule in California Lemon Law?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "prevailed-lemon-law-case-now-what",
@@ -2586,7 +3342,11 @@
       "seoTitle": "You Prevailed in Your Lemon Law Case – Now What? | CLINE APC",
       "seoDescription": "Millions of people purchase new cars every year - and statistically, quite a few of those vehicles wind up having mechanical defects. In fact, it is estimated that about 5% of all vehicles sold every year are lemon -...",
       "thumbnail": "/images/blog/prevailed-lemon-law-case-now-what.jpg",
-      "thumbnailAlt": "You Prevailed in Your Lemon Law Case – Now What?"
+      "thumbnailAlt": "You Prevailed in Your Lemon Law Case – Now What?",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "primer-defects-repairs-californias-lemon-law",
@@ -2603,7 +3363,11 @@
       "seoTitle": "A Primer on Defects and Repairs Under California’s Lemon Law | CLINE APC",
       "seoDescription": "When you put your heart, soul, and hard-earned money into buying a car, and then find out it’s a lemon, the disappointment can seem overwhelming.",
       "thumbnail": "/images/blog/primer-defects-repairs-californias-lemon-law.jpg",
-      "thumbnailAlt": "A Primer on Defects and Repairs Under California’s Lemon Law"
+      "thumbnailAlt": "A Primer on Defects and Repairs Under California’s Lemon Law",
+      "topics": [
+        "used-and-cpo-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "proposals-and-recent-updates-to-california-lemon-law",
@@ -2619,7 +3383,11 @@
       "seoTitle": "The Future of Lemon Law: Proposed Reforms and their Potential Impact | CLINE APC",
       "seoDescription": "At CLINE APC - a California lemon law firm - we’ve been helping consumers in the Golden State manage lemon law claims to earn compensation after being sold defective vehicles.",
       "thumbnail": "/images/blog/proposals-and-recent-updates-to-california-lemon-law.jpg",
-      "thumbnailAlt": "The Future of Lemon Law: Proposed Reforms and their Potential Impact"
+      "thumbnailAlt": "The Future of Lemon Law: Proposed Reforms and their Potential Impact",
+      "topics": [
+        "electric-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "prove-car-delership-fraud",
@@ -2636,7 +3404,11 @@
       "seoTitle": "How Do You Prove Car Dealership Fraud? | CLINE APC",
       "seoDescription": "Dealerships are required to abide by certain laws when they sell a vehicle. Consumers that have been given false or misleading information that resulted in them purchasing a defective vehicle may be entitled to benefits.",
       "thumbnail": "/images/blog/prove-car-delership-fraud.jpg",
-      "thumbnailAlt": "How Do You Prove Car Dealership Fraud?"
+      "thumbnailAlt": "How Do You Prove Car Dealership Fraud?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "ram-trucks-with-lemon-law-issues",
@@ -2652,7 +3424,14 @@
       "seoTitle": "3 RAM Trucks with Known Lemon Law Issues – And the Common Problems | CLINE APC",
       "seoDescription": "RAM has been a fixture in the American truck market since 1980. Originally sold under the Dodge badge, the line spun off as RAM Trucks in 2010 and quickly earned its own reputation for strength, performance, and innov...",
       "thumbnail": "/images/blog/ram-trucks-with-lemon-law-issues.jpg",
-      "thumbnailAlt": "3 RAM Trucks with Known Lemon Law Issues – And the Common Problems"
+      "thumbnailAlt": "3 RAM Trucks with Known Lemon Law Issues – And the Common Problems",
+      "topics": [
+        "used-and-cpo-vehicles",
+        "recalls"
+      ],
+      "brands": [
+        "ram"
+      ]
     },
     {
       "slug": "recalls-by-toyota",
@@ -2668,7 +3447,13 @@
       "seoTitle": "4 Toyota Recent Recalls You Should Know About | CLINE APC",
       "seoDescription": "Toyota is often ranked among the most reliable car brands on the market. However, every auto manufacturer is guilty of producing defective vehicles from time to time - even those with the best reputations.",
       "thumbnail": "/images/blog/recalls-by-toyota.jpg",
-      "thumbnailAlt": "4 Toyota Recent Recalls You Should Know About"
+      "thumbnailAlt": "4 Toyota Recent Recalls You Should Know About",
+      "topics": [
+        "recalls"
+      ],
+      "brands": [
+        "toyota"
+      ]
     },
     {
       "slug": "recent-developments-in-california-lemon-law",
@@ -2684,7 +3469,11 @@
       "seoTitle": "Recent Changes to California Lemon Law: It’s Time to Stand Up for Consumers | CLINE APC",
       "seoDescription": "Every year, big corporations are working behind closed doors to slowly strip away the rights of consumers. This year in California, the Alliance for Automotive Innovation, an organization comprised of auto manufacture...",
       "thumbnail": "/images/blog/recent-developments-in-california-lemon-law.jpg",
-      "thumbnailAlt": "Recent Changes to California Lemon Law: It’s Time to Stand Up for Consumers"
+      "thumbnailAlt": "Recent Changes to California Lemon Law: It’s Time to Stand Up for Consumers",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "recent-porsche-car-recalls",
@@ -2700,7 +3489,13 @@
       "seoTitle": "5 Recent Porsche Car Recalls Due to Manufacturing Defects | CLINE APC",
       "seoDescription": "Over the last few years, the luxury car manufacturer, Porsche, has faced considerable challenges over the manufacturing defects in some of their vehicles.",
       "thumbnail": "/images/blog/recent-porsche-car-recalls.jpg",
-      "thumbnailAlt": "5 Recent Porsche Car Recalls Due to Manufacturing Defects"
+      "thumbnailAlt": "5 Recent Porsche Car Recalls Due to Manufacturing Defects",
+      "topics": [
+        "recalls"
+      ],
+      "brands": [
+        "porsche"
+      ]
     },
     {
       "slug": "refund-law-private-sale",
@@ -2716,7 +3511,12 @@
       "seoTitle": "Refund Laws for Private Sales: Can You Ask for a Refund from a Private Seller? | CLINE APC",
       "seoDescription": "Auto refund laws for private sales can seem like a gray area. Unfortunately, these laws do not favor buyers in the same way lemon laws protect them in transactions directly from manufacturers and dealerships.",
       "thumbnail": "/images/blog/refund-law-private-sale.jpg",
-      "thumbnailAlt": "Refund Laws for Private Sales: Can You Ask for a Refund from a Private Seller?"
+      "thumbnailAlt": "Refund Laws for Private Sales: Can You Ask for a Refund from a Private Seller?",
+      "topics": [
+        "buybacks-and-refunds",
+        "used-and-cpo-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "safety-concerns-ford-car-defects",
@@ -2733,7 +3533,13 @@
       "seoTitle": "Safety Concerns: Ford Car Defects You Should Know About | CLINE APC",
       "seoDescription": "When many people think of Ford, they think of reliability and safety. Since its inception in 1903, the Ford Motor Company has been one of the leading brands in the American auto industry, with a long history of produc...",
       "thumbnail": "/images/blog/safety-concerns-ford-car-defects.jpg",
-      "thumbnailAlt": "Safety Concerns: Ford Car Defects You Should Know About"
+      "thumbnailAlt": "Safety Concerns: Ford Car Defects You Should Know About",
+      "topics": [
+        "recalls"
+      ],
+      "brands": [
+        "ford"
+      ]
     },
     {
       "slug": "salvage-vs-reconstructed-titles-what-are-the-differences",
@@ -2749,7 +3555,11 @@
       "seoTitle": "Salvage Vs Reconstructed Titles: What Are The Differences? | CLINE APC",
       "seoDescription": "You’re scrolling through used car listings, and something catches your eye: “salvage title” or “reconstructed title.” The price looks great - but it seems too good to be true. What do these terms really mean, and what...",
       "thumbnail": "/images/blog/salvage-vs-reconstructed-titles-what-are-the-differences.jpg",
-      "thumbnailAlt": "Salvage Vs Reconstructed Titles: What Are The Differences?"
+      "thumbnailAlt": "Salvage Vs Reconstructed Titles: What Are The Differences?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "santa-ana-lemon-law-attorney-common-questions-about-california-lemon-law-claims",
@@ -2765,7 +3575,11 @@
       "seoTitle": "Santa Ana Lemon Law Attorney: Common Questions About California Lemon Law Claims | CLINE APC",
       "seoDescription": "Vehicle defects create frustration, unexpected expenses, and concerns about personal safety. Speaking with a Santa Ana Lemon Law Attorney can help consumers understand whether California’s Lemon Law applies to their s...",
       "thumbnail": "/images/blog/santa-ana-lemon-law-attorney-common-questions-about-california-lemon-law-claims.jpg",
-      "thumbnailAlt": "Santa Ana Lemon Law Attorney: Common Questions About California Lemon Law Claims"
+      "thumbnailAlt": "Santa Ana Lemon Law Attorney: Common Questions About California Lemon Law Claims",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "santa-ana-lemon-law-attorney-guidance-for-california-vehicle-defect-claims",
@@ -2781,7 +3595,11 @@
       "seoTitle": "Santa Ana Lemon Law Attorney Guidance for California Vehicle Defect Claims | CLINE APC",
       "seoDescription": "Vehicle problems can create serious disruptions for California drivers. A car that spends weeks in the repair shop often affects daily schedules, work obligations, and personal safety. In Orange County traffic, depend...",
       "thumbnail": "/images/blog/santa-ana-lemon-law-attorney-guidance-for-california-vehicle-defect-claims.jpg",
-      "thumbnailAlt": "Santa Ana Lemon Law Attorney Guidance for California Vehicle Defect Claims"
+      "thumbnailAlt": "Santa Ana Lemon Law Attorney Guidance for California Vehicle Defect Claims",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "self-driving-cars-affect-lemon-law-three-bold-predictions",
@@ -2799,7 +3617,11 @@
       "seoTitle": "How Will Self-Driving Cars Affect Lemon Law? Three Bold Predictions | CLINE APC",
       "seoDescription": "Self-driving cars have been a human fantasy for years. In the past decade, we’ve seen a great deal of progress in turning this sci-fi pipe dream into a reality. Uber has been experimenting with self-driving cars for r...",
       "thumbnail": "/images/blog/self-driving-cars-affect-lemon-law-three-bold-predictions.jpg",
-      "thumbnailAlt": "How Will Self-Driving Cars Affect Lemon Law? Three Bold Predictions"
+      "thumbnailAlt": "How Will Self-Driving Cars Affect Lemon Law? Three Bold Predictions",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "selling-a-lemon-car-in-california-what-to-know",
@@ -2815,7 +3637,11 @@
       "seoTitle": "Can I Sell My Lemon Car in California? | CLINE APC",
       "seoDescription": "Lemon law in California - known as the Song-Beverly Consumer Warranty Act - has many nuances. Nearly all consumers forced to navigate the complexities are doing so for the first time. Generally speaking, there are thr...",
       "thumbnail": "/images/blog/selling-a-lemon-car-in-california-what-to-know.jpg",
-      "thumbnailAlt": "Can I Sell My Lemon Car in California?"
+      "thumbnailAlt": "Can I Sell My Lemon Car in California?",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "should-yo-buy-an-extended-warranty-for-cars",
@@ -2831,7 +3657,11 @@
       "seoTitle": "Should You Buy an Extended Warranty for Cars While Purchasing? | CLINE APC",
       "seoDescription": "When you drive off the lot with a new car, you’re covered by a manufacturer’s warranty - but that coverage won’t last forever.",
       "thumbnail": "/images/blog/should-yo-buy-an-extended-warranty-for-cars.jpg",
-      "thumbnailAlt": "Should You Buy an Extended Warranty for Cars While Purchasing?"
+      "thumbnailAlt": "Should You Buy an Extended Warranty for Cars While Purchasing?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "signs-of-faulty-car-electric-systems",
@@ -2848,7 +3678,11 @@
       "seoTitle": "5 Signs That Your Car Has a Faulty Electric System | CLINE APC",
       "seoDescription": "Like any complex machine, cars are prone to a range of issues that can affect a properly functioning electrical system. This can be due to everything from battery issues, to defective wiring, or a malfunctioning alter...",
       "thumbnail": "/images/blog/signs-of-faulty-car-electric-systems.jpg",
-      "thumbnailAlt": "5 Signs That Your Car Has a Faulty Electric System"
+      "thumbnailAlt": "5 Signs That Your Car Has a Faulty Electric System",
+      "topics": [
+        "electric-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "signs-of-lemon-electric-car",
@@ -2864,7 +3698,11 @@
       "seoTitle": "10 Signs Your Electric Car Is a Lemon | CLINE APC",
       "seoDescription": "Electric cars are becoming more and more popular in California - and for good reason. They’re better for the environment, cheaper to operate and provide a better overall driving experience. It’s even estimated that by...",
       "thumbnail": "/images/blog/signs-of-lemon-electric-car.jpg",
-      "thumbnailAlt": "10 Signs Your Electric Car Is a Lemon"
+      "thumbnailAlt": "10 Signs Your Electric Car Is a Lemon",
+      "topics": [
+        "electric-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "signs-your-motorcycle-is-lemon",
@@ -2880,7 +3718,11 @@
       "seoTitle": "Is Your Motorcycle a Lemon? Signs to Look for and What to Do Next | CLINE APC",
       "seoDescription": "Motorcycles are more than just two-wheeled vehicles - they represent a way of life for many enthusiasts. Purchasing a new bike is an extremely exciting moment. But finding out yours was sold with defects is extremely...",
       "thumbnail": "/images/blog/signs-your-motorcycle-is-lemon.jpg",
-      "thumbnailAlt": "Is Your Motorcycle a Lemon? Signs to Look for and What to Do Next"
+      "thumbnailAlt": "Is Your Motorcycle a Lemon? Signs to Look for and What to Do Next",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "stuck-with-your-defective-car-know-how-lemon-law-can-help-you-to-take-it-out",
@@ -2898,7 +3740,13 @@
       "seoTitle": "Stuck With Your Defective Car: Know How Lemon Law Can Help You To Take It Out | CLINE APC",
       "seoDescription": "When you buy a car, you expect it to work seamlessly. But unfortunately, there are instances when buyers get stuck with a defective leased car, used vehicle or even a brand-new one. When things don’t work quite as the...",
       "thumbnail": "/images/blog/stuck-with-your-defective-car-know-how-lemon-law-can-help-you-to-take-it-out.jpg",
-      "thumbnailAlt": "Stuck With Your Defective Car: Know How Lemon Law Can Help You To Take It Out"
+      "thumbnailAlt": "Stuck With Your Defective Car: Know How Lemon Law Can Help You To Take It Out",
+      "topics": [
+        "buybacks-and-refunds",
+        "leased-vehicles",
+        "claim-process"
+      ],
+      "brands": []
     },
     {
       "slug": "teslas-arbitration-agreement-hurt-lemon-law-case",
@@ -2915,7 +3763,13 @@
       "seoTitle": "Tesla’s Arbitration Agreement Can Hurt Your Lemon Law Case | CLINE APC",
       "seoDescription": "Tesla is one of the trendiest luxury car brands on the market - even for being such a young company. They sold a record-breaking 367,500 vehicles in 2019, meaning that there are over one million of these electric vehi...",
       "thumbnail": "/images/blog/teslas-arbitration-agreement-hurt-lemon-law-case.jpg",
-      "thumbnailAlt": "Tesla’s Arbitration Agreement Can Hurt Your Lemon Law Case"
+      "thumbnailAlt": "Tesla’s Arbitration Agreement Can Hurt Your Lemon Law Case",
+      "topics": [
+        "claim-process"
+      ],
+      "brands": [
+        "tesla"
+      ]
     },
     {
       "slug": "the-components-of-a-lemon-law-refund-in-california",
@@ -2931,7 +3785,12 @@
       "seoTitle": "What are the Components of a Lemon Law Refund in California? | CLINE APC",
       "seoDescription": "California is the most populous state in the US. Naturally, there is no shortage of vehicles on the road, with millions of new ones registered every year. In 2021, California had the most automobile registrations, wit...",
       "thumbnail": "/images/blog/the-components-of-a-lemon-law-refund-in-california.jpg",
-      "thumbnailAlt": "What are the Components of a Lemon Law Refund in California?"
+      "thumbnailAlt": "What are the Components of a Lemon Law Refund in California?",
+      "topics": [
+        "buybacks-and-refunds",
+        "leased-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "the-impact-of-stop-and-go-traffic-on-vehicle-reliability",
@@ -2948,7 +3807,11 @@
       "seoTitle": "The Impact of Stop-and-Go Traffic on Vehicle Reliability: Lemon Law Considerations for Los Angeles Drivers | CLINE APC",
       "seoDescription": "LA drivers are no strangers to stop-and-go traffic. The city, with its congested highways, is home to one of the slowest-moving traffic in the country. In 2021, LA drivers lost 62 hours to the gridlock, a figure that...",
       "thumbnail": "/images/blog/the-impact-of-stop-and-go-traffic-on-vehicle-reliability.jpg",
-      "thumbnailAlt": "The Impact of Stop-and-Go Traffic on Vehicle Reliability: Lemon Law Considerations for Los Angeles Drivers"
+      "thumbnailAlt": "The Impact of Stop-and-Go Traffic on Vehicle Reliability: Lemon Law Considerations for Los Angeles Drivers",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "things-california-lemon-law-applies",
@@ -2965,7 +3828,11 @@
       "seoTitle": "Does California Lemon Law Cover Products Other Than Cars? | CLINE APC",
       "seoDescription": "California lemon law - and lemon law in general - is primarily tied to defective cars. While cars are the most common items for which lemon claims are filed, the law is much broader. CA lemon law is part of the Song-B...",
       "thumbnail": "/images/blog/things-california-lemon-law-applies.jpg",
-      "thumbnailAlt": "Does California Lemon Law Cover Products Other Than Cars?"
+      "thumbnailAlt": "Does California Lemon Law Cover Products Other Than Cars?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "think-your-used-car-might-be-a-lemon-heres-what-you-can-do",
@@ -2983,7 +3850,12 @@
       "seoTitle": "Think Your Used Car Might be a Lemon? Here’s What You Can Do | CLINE APC",
       "seoDescription": "Purchasing a car - either new or used - is a huge financial move. The basic expectations are that the vehicle functions properly and keeps you safe on the road, especially in a populous state like California.",
       "thumbnail": "/images/blog/think-your-used-car-might-be-a-lemon-heres-what-you-can-do.jpg",
-      "thumbnailAlt": "Think Your Used Car Might be a Lemon? Here’s What You Can Do"
+      "thumbnailAlt": "Think Your Used Car Might be a Lemon? Here’s What You Can Do",
+      "topics": [
+        "used-and-cpo-vehicles",
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "tips-for-lemon-law-challenges-in-los-angeles",
@@ -2999,7 +3871,11 @@
       "seoTitle": "Navigating Lemon Law Challenges in Los Angeles: Tips from Legal Experts | CLINE APC",
       "seoDescription": "Los Angeles County has approximately 7.8 million vehicles registered - which is among the highest concentrations of automobiles in the United States. Having a defective car in this city is extremely dangerous, both fo...",
       "thumbnail": "/images/blog/tips-for-lemon-law-challenges-in-los-angeles.jpg",
-      "thumbnailAlt": "Navigating Lemon Law Challenges in Los Angeles: Tips from Legal Experts"
+      "thumbnailAlt": "Navigating Lemon Law Challenges in Los Angeles: Tips from Legal Experts",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "tips-for-negotiating-with-car-dealers-in-a-lemon-case",
@@ -3015,7 +3891,11 @@
       "seoTitle": "5 Tips for Negotiating with Manufacturers and Dealers in Lemon Law Cases | CLINE APC",
       "seoDescription": "Car buying - new or used - is an exciting event. This excitement can quickly become frustrating when you discover the vehicle has a manufacturer defect(s). If the manufacturer’s certified repair facility cannot repair...",
       "thumbnail": "/images/blog/tips-for-negotiating-with-car-dealers-in-a-lemon-case.jpg",
-      "thumbnailAlt": "5 Tips for Negotiating with Manufacturers and Dealers in Lemon Law Cases"
+      "thumbnailAlt": "5 Tips for Negotiating with Manufacturers and Dealers in Lemon Law Cases",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "top-10-automakers-with-the-most-car-recalls-in-2023",
@@ -3031,7 +3911,14 @@
       "seoTitle": "Top 10 Car Brands with The Most Recalls in 2023 | CLINE APC",
       "seoDescription": "Car recalls are inevitable. Every year, we see new problems come up in both old and newer models. It’s important to understand that no auto brand is perfect - and just because you see them on this list, it doesn’t nec...",
       "thumbnail": "/images/blog/top-10-automakers-with-the-most-car-recalls-in-2023.jpg",
-      "thumbnailAlt": "Top 10 Car Brands with The Most Recalls in 2023"
+      "thumbnailAlt": "Top 10 Car Brands with The Most Recalls in 2023",
+      "topics": [
+        "recalls"
+      ],
+      "brands": [
+        "ford",
+        "tesla"
+      ]
     },
     {
       "slug": "top-10-most-popular-cars-in-los-angeles-in-2024",
@@ -3047,7 +3934,14 @@
       "seoTitle": "Top 10 Most Popular Cars in Los Angeles in 2024 | CLINE APC",
       "seoDescription": "California consistently leads the country in the number of registered vehicles. Per the CA Auto Outlook, there were 1.78 million new vehicle registrations in 2023, up nearly 12% from 2022. Projections show an estimate...",
       "thumbnail": "/images/blog/top-10-most-popular-cars-in-los-angeles-in-2024.jpg",
-      "thumbnailAlt": "Top 10 Most Popular Cars in Los Angeles in 2024"
+      "thumbnailAlt": "Top 10 Most Popular Cars in Los Angeles in 2024",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": [
+        "toyota",
+        "honda"
+      ]
     },
     {
       "slug": "top-audi-models-with-lemon-law-complaints",
@@ -3063,7 +3957,13 @@
       "seoTitle": "Top Audi Models with Lemon Law Complaints: Are You Driving One? | CLINE APC",
       "seoDescription": "Audi - a subsidiary of Volkswagen - is a standout brand known for high performance, advanced technology, and elegant design features.",
       "thumbnail": "/images/blog/top-audi-models-with-lemon-law-complaints.jpg",
-      "thumbnailAlt": "Top Audi Models with Lemon Law Complaints: Are You Driving One?"
+      "thumbnailAlt": "Top Audi Models with Lemon Law Complaints: Are You Driving One?",
+      "topics": [
+        "recalls"
+      ],
+      "brands": [
+        "audi"
+      ]
     },
     {
       "slug": "top-most-common-defects-in-ford-cars",
@@ -3079,7 +3979,13 @@
       "seoTitle": "Top 10 Most Common Defects in Ford Cars | CLINE APC",
       "seoDescription": "When you buy a car from a well-known brand like Ford, you expect complete reliability and minimal problems. Established in 1903, The Ford Motor Company has a long-standing reputation for quality in the auto industry,...",
       "thumbnail": "/images/blog/top-most-common-defects-in-ford-cars.jpg",
-      "thumbnailAlt": "Top 10 Most Common Defects in Ford Cars"
+      "thumbnailAlt": "Top 10 Most Common Defects in Ford Cars",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": [
+        "ford"
+      ]
     },
     {
       "slug": "toyota-8-speed-transmission-problems-trucks",
@@ -3095,7 +4001,13 @@
       "seoTitle": "Toyota 8-Speed Transmission Problems Owners Need to Know About | CLINE APC",
       "seoDescription": "Transmission 8-speed transmission problems pose a serious safety risk for drivers and other people on the road. They can lead to complete loss of power while driving, cause the vehicle to stall, or result in sudden ac...",
       "thumbnail": "/images/blog/toyota-8-speed-transmission-problems-trucks.jpg",
-      "thumbnailAlt": "Toyota 8-Speed Transmission Problems Owners Need to Know About"
+      "thumbnailAlt": "Toyota 8-Speed Transmission Problems Owners Need to Know About",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": [
+        "toyota"
+      ]
     },
     {
       "slug": "toyota-car-recalls-2024",
@@ -3111,7 +4023,15 @@
       "seoTitle": "Toyota Car Recalls in 2024: What You Need to Know | CLINE APC",
       "seoDescription": "Toyota vehicles often offer peace of mind - they’re known to be reliable, efficient, and safe.",
       "thumbnail": "/images/blog/toyota-car-recalls-2024.jpg",
-      "thumbnailAlt": "Toyota Car Recalls in 2024: What You Need to Know"
+      "thumbnailAlt": "Toyota Car Recalls in 2024: What You Need to Know",
+      "topics": [
+        "recalls",
+        "electric-vehicles"
+      ],
+      "brands": [
+        "toyota",
+        "lexus"
+      ]
     },
     {
       "slug": "transmission-problems-fiat-500-fiat-500-defects-2013-fiat-500-problems",
@@ -3127,7 +4047,11 @@
       "seoTitle": "Transmission problems FIAT 500 | FIAT 500 lemon law | FIAT 500 problems | CLINE APC",
       "seoDescription": "Attention California consumers who own a 2012 FIAT 500 through 2015 FIAT 500, gas or electric. The California Lemon Law Legal Group has identified recurring FIAT transmission problems and other common defects that may...",
       "thumbnail": "/images/blog/transmission-problems-fiat-500-fiat-500-defects-2013-fiat-500-problems.jpg",
-      "thumbnailAlt": "transmission problems FIAT 500"
+      "thumbnailAlt": "transmission problems FIAT 500",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "tricks-an-auto-fraud-attorney-can-help-you-avoid",
@@ -3143,7 +4067,11 @@
       "seoTitle": "20 Common Tricks Dealerships Use to Commit Auto Fraud in Los Angeles | CLINE APC",
       "seoDescription": "If you’ve been to Los Angeles, you’ve surely noticed there is no shortage of cars on the roads. Unlike other large metropolitans like New York City and Chicago, there isn’t a robust train and public transportation sys...",
       "thumbnail": "/images/blog/tricks-an-auto-fraud-attorney-can-help-you-avoid.jpg",
-      "thumbnailAlt": "20 Common Tricks Dealerships Use to Commit Auto Fraud in Los Angeles"
+      "thumbnailAlt": "20 Common Tricks Dealerships Use to Commit Auto Fraud in Los Angeles",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "trustworthy-lemon-law-attorneys-california",
@@ -3160,7 +4088,11 @@
       "seoTitle": "The 4 Top Priorities of Trustworthy Lemon Law Attorneys in California | CLINE APC",
       "seoDescription": "The legal field is full of different personalities. As much as we’d love to tell you that all lawyers are compassionate, kind-hearted people, this is unfortunately not always the case. If this was true, lawyer jokes w...",
       "thumbnail": "/images/blog/trustworthy-lemon-law-attorneys-california.jpg",
-      "thumbnailAlt": "The 4 Top Priorities of Trustworthy Lemon Law Attorneys in California"
+      "thumbnailAlt": "The 4 Top Priorities of Trustworthy Lemon Law Attorneys in California",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "truth-behind-extended-car-warranties",
@@ -3177,7 +4109,11 @@
       "seoTitle": "The Truth Behind Extended Car Warranties | CLINE APC",
       "seoDescription": "Warranties are the foundation for any claim made under lemon law California.",
       "thumbnail": "/images/blog/truth-behind-extended-car-warranties.jpg",
-      "thumbnailAlt": "The Truth Behind Extended Car Warranties"
+      "thumbnailAlt": "The Truth Behind Extended Car Warranties",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "understanding-lemon-law-basics-small-business-owners",
@@ -3193,7 +4129,13 @@
       "seoTitle": "Understanding Lemon Law Basics for Small Business Owners | CLINE APC",
       "seoDescription": "Most of the lemon law basics in the state of California are applicable to sole proprietors and small business owners. However, there are several subtle differences between the two - of which not many people know about.",
       "thumbnail": "/images/blog/understanding-lemon-law-basics-small-business-owners.jpg",
-      "thumbnailAlt": "Understanding Lemon Law Basics for Small Business Owners"
+      "thumbnailAlt": "Understanding Lemon Law Basics for Small Business Owners",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": [
+        "ford"
+      ]
     },
     {
       "slug": "used-car-lemon-law-in-orange-county-buyer-beware",
@@ -3211,7 +4153,11 @@
       "seoTitle": "The Role of Lemon Law in Orange County’s Used Car Market: Buyer Beware | CLINE APC",
       "seoDescription": "Buying used motor vehicles has always been an intimidating task - some consider the negotiation process an art or a science.",
       "thumbnail": "/images/blog/used-car-lemon-law-in-orange-county-buyer-beware.jpg",
-      "thumbnailAlt": "The Role of Lemon Law in Orange County s Used Car Market: Buyer Beware"
+      "thumbnailAlt": "The Role of Lemon Law in Orange County s Used Car Market: Buyer Beware",
+      "topics": [
+        "used-and-cpo-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "used-car-no-warranty-lemon-law-california",
@@ -3227,7 +4173,11 @@
       "seoTitle": "Does Lemon Law California for Used Cars Apply with No Warranty? | CLINE APC",
       "seoDescription": "Lemon law - also known as the Moss-Magnuson Consumer Warranty Act - was enacted in 1975 to protect customers if they unknowingly purchased a defective vehicle. Lemon law differs from state to state - and only a few of...",
       "thumbnail": "/images/blog/used-car-no-warranty-lemon-law-california.jpg",
-      "thumbnailAlt": "Does Lemon Law California for Used Cars Apply with No Warranty?"
+      "thumbnailAlt": "Does Lemon Law California for Used Cars Apply with No Warranty?",
+      "topics": [
+        "used-and-cpo-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "using-a-leased-vehicle-in-orange-county",
@@ -3244,7 +4194,11 @@
       "seoTitle": "Using A Leased Vehicle in Orange County: Here’s What You Need to Know | CLINE APC",
       "seoDescription": "Orange County is one of the best places to live in California. Its sandy beaches, lively neighborhoods, and diverse cuisine and culture make Orange County a sought-after place. But life can quickly go from fabulous to...",
       "thumbnail": "/images/blog/using-a-leased-vehicle-in-orange-county.jpg",
-      "thumbnailAlt": "Using A Leased Vehicle in Orange County: Here’s What You Need to Know"
+      "thumbnailAlt": "Using A Leased Vehicle in Orange County: Here’s What You Need to Know",
+      "topics": [
+        "leased-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "vehicle-doesnt-meet-requirements-of-lemon-law",
@@ -3261,7 +4215,11 @@
       "seoTitle": "What Happens if Your Vehicle Doesn’t Meet the Exact Requirements of Lemon Law? | CLINE APC",
       "seoDescription": "On the surface, lemon law appears to have very strict guidelines. While the numbers and stipulations vary from state-to-state, many assume that if their vehicle doesn’t meet every single bit of the criteria, they are...",
       "thumbnail": "/images/blog/vehicle-doesnt-meet-requirements-of-lemon-law.jpg",
-      "thumbnailAlt": "What Happens if Your Vehicle Doesn’t Meet the Exact Requirements of Lemon Law?"
+      "thumbnailAlt": "What Happens if Your Vehicle Doesn’t Meet the Exact Requirements of Lemon Law?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "vehicle-recalls-and-lemon-laws-can-you-get-a-buyback-or-compensation",
@@ -3277,7 +4235,12 @@
       "seoTitle": "Vehicle Recalls and Lemon Laws: Can You Get a Buyback or Compensation? | CLINE APC",
       "seoDescription": "Every year, thousands of cars are recalled due to safety defects or manufacturing issues that render them unreliable - or even dangerous - to drive. While recalls may sound alarming, they’re a sign that automakers are...",
       "thumbnail": "/images/blog/vehicle-recalls-and-lemon-laws-can-you-get-a-buyback-or-compensation.jpg",
-      "thumbnailAlt": "Vehicle Recalls and Lemon Laws: Can You Get a Buyback or Compensation?"
+      "thumbnailAlt": "Vehicle Recalls and Lemon Laws: Can You Get a Buyback or Compensation?",
+      "topics": [
+        "recalls",
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "volvo-dealership-in-bakersfield-shuts-down",
@@ -3294,7 +4257,13 @@
       "seoTitle": "Bakersfield Volvo Dealership Shuts Down: Your Rights Under Lemon Law California | CLINE APC",
       "seoDescription": "_What happens if the dealership you bought a vehicle from shuts down while it’s still under warranty?_",
       "thumbnail": "/images/blog/volvo-dealership-in-bakersfield-shuts-down.jpg",
-      "thumbnailAlt": "Bakersfield Volvo Dealership Shuts Down: Your Rights Under Lemon Law California"
+      "thumbnailAlt": "Bakersfield Volvo Dealership Shuts Down: Your Rights Under Lemon Law California",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": [
+        "volvo"
+      ]
     },
     {
       "slug": "warning-sings-of-a-faulty-car-engine",
@@ -3310,7 +4279,11 @@
       "seoTitle": "8 Warning Signs Of A Bad Engine | CLINE APC",
       "seoDescription": "Noticing something is off with your engine is a terrible realization - not to mention scary.",
       "thumbnail": "/images/blog/warning-sings-of-a-faulty-car-engine.jpg",
-      "thumbnailAlt": "8 Warning Signs Of A Bad Engine"
+      "thumbnailAlt": "8 Warning Signs Of A Bad Engine",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "what-are-certified-pre-owned-car-scams",
@@ -3328,7 +4301,11 @@
       "seoTitle": "What Are Certified Pre-Owned Car Scams and What Do You Need to Know? | CLINE APC",
       "seoDescription": "There’s nothing more frustrating than thinking you’ve struck gold after buying a certified used car, only to find a series of hidden issues.",
       "thumbnail": "/images/blog/what-are-certified-pre-owned-car-scams.jpg",
-      "thumbnailAlt": "What Are Certified Pre-Owned Car Scams and What Do You Need to Know?"
+      "thumbnailAlt": "What Are Certified Pre-Owned Car Scams and What Do You Need to Know?",
+      "topics": [
+        "used-and-cpo-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "what-are-common-causes-of-car-accidents-in-los-angeles",
@@ -3344,7 +4321,11 @@
       "seoTitle": "What Are Common Causes of Car Accidents in Los Angeles? | CLINE APC",
       "seoDescription": "If Los Angeles locals and tourists can agree on one thing, it’s that the traffic is terrible.",
       "thumbnail": "/images/blog/what-are-common-causes-of-car-accidents-in-los-angeles.jpg",
-      "thumbnailAlt": "What Are Common Causes of Car Accidents in Los Angeles?"
+      "thumbnailAlt": "What Are Common Causes of Car Accidents in Los Angeles?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "what-are-the-impact-of-defects-on-ford-car-resale-value",
@@ -3360,7 +4341,13 @@
       "seoTitle": "What Are the Impact of Defects on Ford Car Resale Value? | CLINE APC",
       "seoDescription": "When you buy a Ford, you expect it to work smoothly and safely - but more importantly, maintain a decent resale value.",
       "thumbnail": "/images/blog/what-are-the-impact-of-defects-on-ford-car-resale-value.jpg",
-      "thumbnailAlt": "What Are the Impact of Defects on Ford Car Resale Value?"
+      "thumbnailAlt": "What Are the Impact of Defects on Ford Car Resale Value?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": [
+        "ford"
+      ]
     },
     {
       "slug": "what-are-the-major-obligations-and-penalties-tied-to-lemon-law",
@@ -3377,7 +4364,11 @@
       "seoTitle": "What Are the Major Obligations and Penalties Tied to Lemon Law? | CLINE APC",
       "seoDescription": "Lemon law is an area of the legal system packed full of gray areas and varying stipulations. If you buy a product that ends up being defective, manufacturers will commonly try to exploit these gray areas as much as po...",
       "thumbnail": "/images/blog/what-are-the-major-obligations-and-penalties-tied-to-lemon-law.jpg",
-      "thumbnailAlt": "What Are the Major Obligations and Penalties Tied to Lemon Law?"
+      "thumbnailAlt": "What Are the Major Obligations and Penalties Tied to Lemon Law?",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "what-counts-as-a-warranty-breach-under-the-song-beverly-consumer-warranty-act",
@@ -3394,7 +4385,11 @@
       "seoTitle": "What Counts as a Warranty Breach Under the Song-Beverly Consumer Warranty Act? | CLINE APC",
       "seoDescription": "The old “buyer beware” mindset doesn’t carry much weight anymore.",
       "thumbnail": "/images/blog/what-counts-as-a-warranty-breach-under-the-song-beverly-consumer-warranty-act.jpg",
-      "thumbnailAlt": "What Counts as a Warranty Breach Under the Song-Beverly Consumer Warranty Act?"
+      "thumbnailAlt": "What Counts as a Warranty Breach Under the Song-Beverly Consumer Warranty Act?",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "what-happens-to-a-car-loan-in-a-lemon-case",
@@ -3410,7 +4405,11 @@
       "seoTitle": "What Happens to a Car Loan in A Lemon Case? | CLINE APC",
       "seoDescription": "Like many car buyers, you may have purchased your vehicle via financing. California lemon law lawyers get asked about car loans with just about every lemon law case they handle. We want to clear this up today.",
       "thumbnail": "/images/blog/what-happens-to-a-car-loan-in-a-lemon-case.jpg",
-      "thumbnailAlt": "What Happens to a Car Loan in A Lemon Case?"
+      "thumbnailAlt": "What Happens to a Car Loan in A Lemon Case?",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "what-happens-when-a-vehicle-gets-recalled",
@@ -3427,7 +4426,11 @@
       "seoTitle": "What is a Vehicle Recall & What Happens When Your Vehicle is Recalled? | CLINE APC",
       "seoDescription": "As a lemon law lawyer in California, I get a lot of questions about vehicle recalls.",
       "thumbnail": "/images/blog/what-happens-when-a-vehicle-gets-recalled.jpg",
-      "thumbnailAlt": "What is a Vehicle Recall What Happens When Your Vehicle is Recalled?"
+      "thumbnailAlt": "What is a Vehicle Recall What Happens When Your Vehicle is Recalled?",
+      "topics": [
+        "recalls"
+      ],
+      "brands": []
     },
     {
       "slug": "what-is-the-role-of-a-lemon-law-attorney-in-securing-fair-settlements",
@@ -3443,7 +4446,13 @@
       "seoTitle": "What Is the Role of a Lemon Law Attorney in Securing Fair Settlements? | CLINE APC",
       "seoDescription": "When a new car starts breaking down within months of purchase, it can feel like a personal insult. You paid top dollar expecting reliability, and instead, you’re stuck scheduling repair after repair.",
       "thumbnail": "/images/blog/what-is-the-role-of-a-lemon-law-attorney-in-securing-fair-settlements.jpg",
-      "thumbnailAlt": "What Is the Role of a Lemon Law Attorney in Securing Fair Settlements?"
+      "thumbnailAlt": "What Is the Role of a Lemon Law Attorney in Securing Fair Settlements?",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": [
+        "mercedes-benz"
+      ]
     },
     {
       "slug": "what-records-are-needed-in-california-lemon-law-cases",
@@ -3459,7 +4468,11 @@
       "seoTitle": "What Records Do I Need to Keep for a California Lemon Law Case? | CLINE APC",
       "seoDescription": "Navigating through a California lemon law case requires more than just _recognizing_ you have a defective vehicle.",
       "thumbnail": "/images/blog/what-records-are-needed-in-california-lemon-law-cases.jpg",
-      "thumbnailAlt": "What Records Do I Need to Keep for a California Lemon Law Case?"
+      "thumbnailAlt": "What Records Do I Need to Keep for a California Lemon Law Case?",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "what-to-do-if-you-have-a-defective-ford-car",
@@ -3475,7 +4488,13 @@
       "seoTitle": "What to Do if You Have a Defective Ford Car? | CLINE APC",
       "seoDescription": "Buying a new car is an exciting experience for many, especially when you invest in a brand like Ford. For over a century, the Ford Motor Company has produced vehicles that have led the American automobile industry.",
       "thumbnail": "/images/blog/what-to-do-if-you-have-a-defective-ford-car.jpg",
-      "thumbnailAlt": "What to Do if You Have a Defective Ford Car?"
+      "thumbnailAlt": "What to Do if You Have a Defective Ford Car?",
+      "topics": [
+        "recalls"
+      ],
+      "brands": [
+        "ford"
+      ]
     },
     {
       "slug": "what-to-expect-lemon-law-case-during-covid-19",
@@ -3491,7 +4510,11 @@
       "seoTitle": "What to Expect with Your Lemon Law Case During COVID-19 | CLINE APC",
       "seoDescription": "COVID-19 has put a lot of people’s lives seemingly “on hold” for the foreseeable future. If you are in the middle of a lemon law claim or are considering beginning one, you may be wondering how COVID-19 could impact y...",
       "thumbnail": "/images/blog/what-to-expect-lemon-law-case-during-covid-19.jpg",
-      "thumbnailAlt": "What to Expect with Your Lemon Law Case During COVID-19"
+      "thumbnailAlt": "What to Expect with Your Lemon Law Case During COVID-19",
+      "topics": [
+        "claim-process"
+      ],
+      "brands": []
     },
     {
       "slug": "what-to-expect-when-you-win-a-lemon-lawsuit",
@@ -3508,7 +4531,12 @@
       "seoTitle": "What to Expect When You Win a Lemon Lawsuit | CLINE APC",
       "seoDescription": "What happens when you win a lemon law settlement?",
       "thumbnail": "/images/blog/what-to-expect-when-you-win-a-lemon-lawsuit.jpg",
-      "thumbnailAlt": "What to Expect When You Win a Lemon Lawsuit"
+      "thumbnailAlt": "What to Expect When You Win a Lemon Lawsuit",
+      "topics": [
+        "buybacks-and-refunds",
+        "claim-process"
+      ],
+      "brands": []
     },
     {
       "slug": "what-voids-car-warranty",
@@ -3524,7 +4552,11 @@
       "seoTitle": "What Voids a Car Warranty? | CLINE APC",
       "seoDescription": "Buying a car is an exciting and important investment, and a warranty is often included to _protect_ that investment. A warranty - commonly sold with new vehicles and used vehicles at dealerships - is a promise from a...",
       "thumbnail": "/images/blog/what-voids-car-warranty.jpg",
-      "thumbnailAlt": "What Voids a Car Warranty?"
+      "thumbnailAlt": "What Voids a Car Warranty?",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "whats-changed-a-guide-to-updated-ca-lemon-law",
@@ -3541,7 +4573,11 @@
       "seoTitle": "What’s Changed? A Consumer’s Guide to California’s Updated Lemon Law | CLINE APC",
       "seoDescription": "Buying or leasing a vehicle in California should carry peace of mind. If your car spends more time in the repair shop than on the road, the state’s lemon law is designed to protect you from paying the full price.",
       "thumbnail": "/images/blog/whats-changed-a-guide-to-updated-ca-lemon-law.jpg",
-      "thumbnailAlt": "What’s Changed? A Consumer’s Guide to California’s Updated Lemon Law"
+      "thumbnailAlt": "What’s Changed? A Consumer’s Guide to California’s Updated Lemon Law",
+      "topics": [
+        "used-and-cpo-vehicles"
+      ],
+      "brands": []
     },
     {
       "slug": "when-a-lemon-law-attorney-can-help-with-a-defective-vehicle-claim",
@@ -3557,7 +4593,11 @@
       "seoTitle": "When a Lemon Law Attorney Can Help With a Defective Vehicle Claim | CLINE APC",
       "seoDescription": "Purchasing a vehicle is a significant investment. When serious defects appear and repeated repairs fail to solve the problem, understanding available legal protections becomes essential. A Lemon Law attorney can help...",
       "thumbnail": "/images/blog/when-a-lemon-law-attorney-can-help-with-a-defective-vehicle-claim.jpg",
-      "thumbnailAlt": "When a Lemon Law Attorney Can Help With a Defective Vehicle Claim"
+      "thumbnailAlt": "When a Lemon Law Attorney Can Help With a Defective Vehicle Claim",
+      "topics": [
+        "hiring-a-lemon-law-attorney"
+      ],
+      "brands": []
     },
     {
       "slug": "which-cars-could-have-the-most-lemon-complaints",
@@ -3574,7 +4614,14 @@
       "seoTitle": "Beware: Which Cars Could Have the Most Lemon Complaints? | CLINE APC",
       "seoDescription": "Buying a new vehicle can be an extremely stressful process. You are searching far and wide to find a vehicle that fits your needs - and your budget.",
       "thumbnail": "/images/blog/which-cars-could-have-the-most-lemon-complaints.jpg",
-      "thumbnailAlt": "Beware: Which Cars Could Have the Most Lemon Complaints?"
+      "thumbnailAlt": "Beware: Which Cars Could Have the Most Lemon Complaints?",
+      "topics": [
+        "recalls"
+      ],
+      "brands": [
+        "ford",
+        "jeep"
+      ]
     },
     {
       "slug": "why-hire-an-orange-county-lemon-law-lawyer-environmental-factors",
@@ -3590,7 +4637,11 @@
       "seoTitle": "Environmental Factors and Lemon Law Claims in Orange County: Understanding the Local Impact | CLINE APC",
       "seoDescription": "There are nearly 3 million vehicles registered in Orange County. More vehicles equal a greater risk of _defective_ vehicles - which compromises the safety of everyone on the road.",
       "thumbnail": "/images/blog/why-hire-an-orange-county-lemon-law-lawyer-environmental-factors.jpg",
-      "thumbnailAlt": "Environmental Factors and Lemon Law Claims in Orange County: Understanding the Local Impact"
+      "thumbnailAlt": "Environmental Factors and Lemon Law Claims in Orange County: Understanding the Local Impact",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": []
     },
     {
       "slug": "why-lemon-law-protections-are-crucial-for-mercedes-owners",
@@ -3607,7 +4658,13 @@
       "seoTitle": "Luxury Doesn’t Mean Perfect: Why Lemon Law Protections Are Crucial for Mercedes Owners | CLINE APC",
       "seoDescription": "Mercedes-Benz holds a unique place in automotive history. It introduced the world’s first production car - and decades later, it’s still seen as the gold standard in luxury engineering.",
       "thumbnail": "/images/blog/why-lemon-law-protections-are-crucial-for-mercedes-owners.jpg",
-      "thumbnailAlt": "Luxury Doesn’t Mean Perfect: Why Lemon Law Protections Are Crucial for Mercedes Owners"
+      "thumbnailAlt": "Luxury Doesn’t Mean Perfect: Why Lemon Law Protections Are Crucial for Mercedes Owners",
+      "topics": [
+        "lemon-law-basics"
+      ],
+      "brands": [
+        "mercedes-benz"
+      ]
     },
     {
       "slug": "why-the-repair-invoice-is-the-foundation-of-your-lemon-law-claim",
@@ -3624,7 +4681,11 @@
       "seoTitle": "Why the Repair Invoice is the Foundation of Your Lemon Law Claim | CLINE APC",
       "seoDescription": "When it comes down to brass tax, strong lemon law claims stem from comprehensive warranty repair invoices. It’s truly amazing how many consumers we see get burned by a lemon because their paperwork didn’t provide enou...",
       "thumbnail": "/images/blog/why-the-repair-invoice-is-the-foundation-of-your-lemon-law-claim.jpg",
-      "thumbnailAlt": "Why the Repair Invoice is the Foundation of Your Lemon Law Claim"
+      "thumbnailAlt": "Why the Repair Invoice is the Foundation of Your Lemon Law Claim",
+      "topics": [
+        "claim-process"
+      ],
+      "brands": []
     },
     {
       "slug": "your-car-is-a-lemon-know-what-the-manufacturer-should-be-paying-you",
@@ -3640,7 +4701,11 @@
       "seoTitle": "Your Car Is A Lemon! Know What the Manufacturer Should be Paying You | CLINE APC",
       "seoDescription": "If you have a car that spends more time in the repair shop than it does on the road and you are tired of its repeated problems, there is no need to stand for these issues. Lemon laws are here to safeguard your interes...",
       "thumbnail": "/images/blog/your-car-is-a-lemon-know-what-the-manufacturer-should-be-paying-you.jpg",
-      "thumbnailAlt": "Your Car Is A Lemon! Know What the Manufacturer Should be Paying You"
+      "thumbnailAlt": "Your Car Is A Lemon! Know What the Manufacturer Should be Paying You",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     },
     {
       "slug": "your-rights-under-motorcycle-law-california",
@@ -3656,7 +4721,11 @@
       "seoTitle": "Motorcycle Lemon Law: Know Your Rights and Protections as a Rider | CLINE APC",
       "seoDescription": "Riding a motorcycle is more than just transportation for many enthusiasts; it’s a way of life.",
       "thumbnail": "/images/blog/your-rights-under-motorcycle-law-california.jpg",
-      "thumbnailAlt": "Motorcycle Lemon Law: Know Your Rights and Protections as a Rider"
+      "thumbnailAlt": "Motorcycle Lemon Law: Know Your Rights and Protections as a Rider",
+      "topics": [
+        "buybacks-and-refunds"
+      ],
+      "brands": []
     }
   ]
 }
