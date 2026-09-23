@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 
-import { BRAND } from '@/lib/cms';
+import { SITE_URL } from '@/lib/cms';
 
 function absolutePageTitle(seoTitle: string): Metadata['title'] {
 	return { absolute: seoTitle };
@@ -12,7 +12,7 @@ export function pageMetadata(input: {
 	canonical: string;
 	type?: 'website' | 'article';
 }): Metadata {
-	const url = `${BRAND.toolsUrl}${input.canonical}`;
+	const url = `${SITE_URL}${input.canonical}`;
 	const type = input.type ?? 'website';
 	return {
 		title: absolutePageTitle(input.title),

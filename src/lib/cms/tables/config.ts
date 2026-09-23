@@ -11,6 +11,13 @@ import { numericKeyRecord, table } from '../parse';
 import type { FaqIntroCtaItem, ResourceNavItem, StickyCtaItem } from '../types';
 
 export const BRAND = table(brandTable.BRAND);
+
+/**
+ * Canonical origin for every URL the site advertises to crawlers (canonicals, Open Graph,
+ * sitemap, robots, JSON-LD). Defaults to the production host so a build can never leak the
+ * staging hostname; override with NEXT_PUBLIC_SITE_URL only for a different production domain.
+ */
+export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || brandTable.BRAND.site).replace(/\/+$/, '');
 export const BRAND_COLORS = table(brandTable.BRAND_COLORS);
 export const BRAND_LOGO = table(brandTable.BRAND_LOGO);
 export const LAYOUT_CHROME = table(brandTable.LAYOUT_CHROME);

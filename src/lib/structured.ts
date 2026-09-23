@@ -1,5 +1,6 @@
 import {
 	BRAND,
+	SITE_URL,
 	BRAND_LOGO,
 	breadcrumbListJsonLd,
 	buildCaseStudiesHubBreadcrumbs,
@@ -74,8 +75,8 @@ import { getSitePageDefinition } from '@/lib/cms/catalog';
 
 const SCHEMA_CONTEXT = 'https://schema.org';
 const ORGANIZATION_ID = `${BRAND.site}/#organization`;
-const WEBSITE_ID = `${BRAND.toolsUrl}/#website`;
-const TOOLS_LOGO_URL = `${BRAND.toolsUrl}${BRAND_LOGO.paths.primary}`;
+const WEBSITE_ID = `${SITE_URL}/#website`;
+const TOOLS_LOGO_URL = `${SITE_URL}${BRAND_LOGO.paths.primary}`;
 
 const HOME_PAGE_TITLE = homePageTitle();
 const HOME_PAGE_DESCRIPTION = homePageDescription();
@@ -114,7 +115,7 @@ function webPageNode(title: string, description: string, url: string) {
 }
 
 function absoluteBreadcrumbListLd(items: SiteBreadcrumbItem[]) {
-	const base = BRAND.toolsUrl;
+	const base = SITE_URL;
 	return {
 		...breadcrumbListJsonLd(items),
 		itemListElement: items.map((item, index) => ({
@@ -145,7 +146,7 @@ function resourcePageGraph(
 	path: string,
 	extra: object[] = [],
 ) {
-	const url = `${BRAND.toolsUrl}${path}`;
+	const url = `${SITE_URL}${path}`;
 	return {
 		'@context': SCHEMA_CONTEXT,
 		'@graph': [
@@ -163,7 +164,7 @@ function collectionHubLd(
 	path: string,
 	listEntries: readonly { name: string; url: string }[],
 ) {
-	const url = `${BRAND.toolsUrl}${path}`;
+	const url = `${SITE_URL}${path}`;
 	return {
 		'@context': SCHEMA_CONTEXT,
 		'@graph': [
@@ -225,7 +226,7 @@ export function webSiteLd() {
 		'@type': 'WebSite',
 		'@id': WEBSITE_ID,
 		name: webSiteLdName(),
-		url: BRAND.toolsUrl,
+		url: SITE_URL,
 		description: HOME_PAGE_DESCRIPTION,
 		publisher: publisherRef(),
 		inLanguage: 'en-US',
@@ -233,7 +234,7 @@ export function webSiteLd() {
 }
 
 export function homeLd() {
-	const url = BRAND.toolsUrl;
+	const url = SITE_URL;
 	return {
 		'@context': SCHEMA_CONTEXT,
 		'@graph': [
@@ -252,7 +253,7 @@ export function homeLd() {
 export function toolLd(slug: string) {
 	const tool = getTool(slug);
 	if (!tool) return null;
-	const url = `${BRAND.toolsUrl}/tool/${tool.slug}`;
+	const url = `${SITE_URL}/tool/${tool.slug}`;
 	return {
 		'@context': SCHEMA_CONTEXT,
 		'@graph': [
@@ -280,7 +281,7 @@ export function toolLd(slug: string) {
 export function manufacturersHubLd() {
 	const entries = MANUFACTURER_PAGE_DETAILS.map((detail) => ({
 		name: detail.headline,
-		url: `${BRAND.toolsUrl}${manufacturerDetailPath(detail.slug)}`,
+		url: `${SITE_URL}${manufacturerDetailPath(detail.slug)}`,
 	}));
 	return collectionHubLd(
 		buildManufacturersHubBreadcrumbs(),
@@ -296,7 +297,7 @@ export function manufacturerDetailLd(slug: string) {
 	if (!detail) return null;
 	const manufacturer = MANUFACTURERS.find((m) => m.slug === slug);
 	const path = manufacturerDetailPath(slug);
-	const url = `${BRAND.toolsUrl}${path}`;
+	const url = `${SITE_URL}${path}`;
 	const webPage = {
 		...webPageNode(detail.seoTitle, detail.seoDescription, url),
 		...(manufacturer
@@ -318,7 +319,7 @@ export function manufacturerDetailLd(slug: string) {
 export function reviewsHubLd() {
 	const entries = REVIEW_DETAILS.map((review) => ({
 		name: `${review.name} · ${review.vehicle}`,
-		url: `${BRAND.toolsUrl}${reviewDetailPath(review.slug)}`,
+		url: `${SITE_URL}${reviewDetailPath(review.slug)}`,
 	}));
 	return collectionHubLd(
 		buildReviewsHubBreadcrumbs(),
@@ -333,7 +334,7 @@ export function reviewDetailLd(slug: string) {
 	const detail = getReviewBySlug(slug);
 	if (!detail) return null;
 	const path = reviewDetailPath(slug);
-	const url = `${BRAND.toolsUrl}${path}`;
+	const url = `${SITE_URL}${path}`;
 	return resourcePageGraph(
 		buildReviewDetailBreadcrumbs(slug),
 		detail.seoTitle,
@@ -361,7 +362,7 @@ export function reviewDetailLd(slug: string) {
 export function caseStudiesHubLd() {
 	const entries = CASE_STUDY_DETAILS.map((study) => ({
 		name: study.headline,
-		url: `${BRAND.toolsUrl}${caseStudyDetailPath(study.slug)}`,
+		url: `${SITE_URL}${caseStudyDetailPath(study.slug)}`,
 	}));
 	return collectionHubLd(
 		buildCaseStudiesHubBreadcrumbs(),
@@ -376,7 +377,7 @@ export function caseStudyDetailLd(slug: string) {
 	const detail = getCaseStudyBySlug(slug);
 	if (!detail) return null;
 	const path = caseStudyDetailPath(slug);
-	const url = `${BRAND.toolsUrl}${path}`;
+	const url = `${SITE_URL}${path}`;
 	const articleBody = [
 		detail.situation,
 		detail.situationDetail,
@@ -413,7 +414,7 @@ export function caseStudyDetailLd(slug: string) {
 }
 
 export function faqHubLd() {
-	const url = `${BRAND.toolsUrl}${FAQ_HUB_PATH}`;
+	const url = `${SITE_URL}${FAQ_HUB_PATH}`;
 	return {
 		'@context': SCHEMA_CONTEXT,
 		'@graph': [
@@ -433,7 +434,7 @@ export function faqDetailLd(slug: string) {
 	const detail = getFaqBySlug(slug);
 	if (!detail) return null;
 	const path = faqDetailPath(slug);
-	const url = `${BRAND.toolsUrl}${path}`;
+	const url = `${SITE_URL}${path}`;
 	return {
 		'@context': SCHEMA_CONTEXT,
 		'@graph': [
@@ -452,7 +453,7 @@ export function faqDetailLd(slug: string) {
 export function guidebookHubLd() {
 	const entries = GUIDEBOOK_CHAPTERS.map((chapter) => ({
 		name: chapter.title,
-		url: `${BRAND.toolsUrl}${guidebookChapterPath(chapter.slug)}`,
+		url: `${SITE_URL}${guidebookChapterPath(chapter.slug)}`,
 	}));
 	return collectionHubLd(
 		buildGuidebookHubBreadcrumbs(),
@@ -464,7 +465,7 @@ export function guidebookHubLd() {
 }
 
 export function learnHubLd() {
-	const url = `${BRAND.toolsUrl}${LEARN_HUB_PATH}`;
+	const url = `${SITE_URL}${LEARN_HUB_PATH}`;
 	return {
 		'@context': SCHEMA_CONTEXT,
 		'@graph': [
@@ -478,7 +479,7 @@ export function guidebookChapterLd(slug: string) {
 	const detail = getGuidebookChapterBySlug(slug);
 	if (!detail) return null;
 	const path = guidebookChapterPath(slug);
-	const url = `${BRAND.toolsUrl}${path}`;
+	const url = `${SITE_URL}${path}`;
 	const articleBody = detail.sections.flatMap((section) => [...section.paragraphs]).join('\n\n');
 	return resourcePageGraph(
 		buildGuidebookChapterBreadcrumbs(slug),
@@ -507,7 +508,7 @@ function editorialArticleBody(blocks: readonly { type: string; text: string }[])
 export function blogHubLd() {
 	const entries = BLOG_POSTS.map((post) => ({
 		name: post.title,
-		url: `${BRAND.toolsUrl}${blogDetailPath(post.slug)}`,
+		url: `${SITE_URL}${blogDetailPath(post.slug)}`,
 	}));
 	return collectionHubLd(
 		buildBlogHubBreadcrumbs(),
@@ -522,7 +523,7 @@ export function blogDetailLd(slug: string) {
 	const post = getBlogBySlug(slug);
 	if (!post) return null;
 	const path = blogDetailPath(slug);
-	const url = `${BRAND.toolsUrl}${path}`;
+	const url = `${SITE_URL}${path}`;
 	return resourcePageGraph(
 		buildBlogDetailBreadcrumbs(slug),
 		post.seoTitle,
@@ -547,7 +548,7 @@ export function blogDetailLd(slug: string) {
 export function locationsHubLd() {
 	const entries = LOCATION_PAGES.map((page) => ({
 		name: page.title,
-		url: `${BRAND.toolsUrl}${locationDetailPath(page.slug)}`,
+		url: `${SITE_URL}${locationDetailPath(page.slug)}`,
 	}));
 	return collectionHubLd(
 		buildLocationsHubBreadcrumbs(),
@@ -562,7 +563,7 @@ export function locationDetailLd(slug: string) {
 	const page = getLocationPageBySlug(slug);
 	if (!page) return null;
 	const path = locationDetailPath(slug);
-	const url = `${BRAND.toolsUrl}${path}`;
+	const url = `${SITE_URL}${path}`;
 	return resourcePageGraph(
 		buildLocationDetailBreadcrumbs(slug),
 		page.seoTitle,
@@ -585,7 +586,7 @@ export function locationDetailLd(slug: string) {
 export function infoHubLd() {
 	const entries = EDITORIAL_PAGES.map((page) => ({
 		name: page.title,
-		url: `${BRAND.toolsUrl}${infoDetailPath(page.slug)}`,
+		url: `${SITE_URL}${infoDetailPath(page.slug)}`,
 	}));
 	return collectionHubLd(
 		buildInfoHubBreadcrumbs(),
@@ -600,7 +601,7 @@ export function infoDetailLd(slug: string) {
 	const page = getEditorialPageBySlug(slug);
 	if (!page) return null;
 	const path = infoDetailPath(slug);
-	const url = `${BRAND.toolsUrl}${path}`;
+	const url = `${SITE_URL}${path}`;
 	return resourcePageGraph(
 		buildInfoDetailBreadcrumbs(slug),
 		page.seoTitle,

@@ -18,7 +18,7 @@ Use your ~/.agents
 | `content/data/items/`                                                | Entity indexes; **blog/locations/editorial JSON is metadata only** (no `blocks`).                                             |
 | `content/collections/`                                               | **Article SSOT** — `.mdc` for blog, info, locations. After edits run `bun scripts/syncmdc.ts` (also runs at `bun run build`). |
 | `wordpress/`                                                         | `cline-apc-tools` plugin (builder admin); zip via `scripts/plugin.ts`.                                                        |
-| `scripts/`                                                           | `syncmdc.ts` (index + runtime bundle from MDC), `blog.ts`, `plugin.ts`.                                                       |
+| `scripts/`                                                           | `syncmdc.ts` (index + runtime bundle from MDC), `plugin.ts`.                                                       |
 
 Single-package layout at repo root (`next.config.ts`, `src/`, `public/`). Tool definitions live under `src/kit/pipeline/`. JSON CMS shards are imported as `@/data/*` → `content/data/*`.
 

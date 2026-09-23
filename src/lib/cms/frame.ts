@@ -2,7 +2,7 @@ import type { Metadata, Viewport } from 'next';
 import type { MetadataRoute } from 'next';
 import appShellTable from '@/data/settings/frame.json';
 import hubHeroesTable from '@/data/pages/heroes.json';
-import { BRAND } from './tables/config';
+import { SITE_URL } from './tables/config';
 import { formatBrandTemplate } from './brandtemplate';
 
 type AppShellTable = typeof appShellTable;
@@ -29,7 +29,7 @@ function interpolateDeep<T>(value: T): T {
 export function siteMetadata(): Metadata {
 	const meta = interpolateDeep(APP_SHELL.metadata);
 	return {
-		metadataBase: new URL(meta.metadataBase),
+		metadataBase: new URL(SITE_URL),
 		title: meta.title,
 		description: meta.description,
 		applicationName: meta.applicationName,
@@ -72,7 +72,7 @@ export function siteManifest(): MetadataRoute.Manifest {
 		name: m.name,
 		short_name: m.short_name,
 		description: m.description,
-		id: `${BRAND.toolsUrl}/`,
+		id: `${SITE_URL}/`,
 		start_url: '/',
 		display: 'standalone',
 		background_color: '#0a0a0b',

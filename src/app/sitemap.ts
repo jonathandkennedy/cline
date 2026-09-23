@@ -1,6 +1,6 @@
 import type { MetadataRoute } from 'next';
+import { SITE_URL } from '@/lib/cms';
 import {
-	BRAND,
 	CASE_STUDIES_HUB_PATH,
 	caseStudyDetailPath,
 	FAQ_HUB_PATH,
@@ -33,7 +33,7 @@ import {
 
 /** Hub/detail paths mirror catalog routes; lists from CMS accessors (SSOT items). */
 export default function sitemap(): MetadataRoute.Sitemap {
-	const base = BRAND.toolsUrl;
+	const base = SITE_URL;
 	const now = new Date();
 	const monthly = 'monthly' as const;
 
