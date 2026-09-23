@@ -3,8 +3,9 @@ import { notFound } from 'next/navigation';
 import type { SitePageId } from '@/lib/cms/catalog';
 import { JsonLd } from '@/components';
 import { SiteCatalogPage } from '@/lib/site/catalog';
+import { getEditorialPageBySlug } from '@/lib/cms/content/records';
+import { EditorialRecordProvider } from '@/lib/cms/content/current';
 import {
-	getEditorialPageBySlug,
 	infoDetailPath,
 	listEditorialPageSlugs,
 	slugSegmentGenerateMetadata,
@@ -37,12 +38,15 @@ export function generateMetadata({
 
 export default async function InfoDetailRoute({ params }: { params: Promise<{ slug: string }> }) {
 	const { slug } = await params;
-	if (!getEditorialPageBySlug(slug)) notFound();
+	const record = getEditorialPageBySlug(slug);
+	if (!record) notFound();
 	const ld = infoDetailLd(slug);
 	return (
 		<>
 			{ld ? <JsonLd data={ld} /> : null}
-			<SiteCatalogPage pageId={PAGE_ID} />
+			<EditorialRecordProvider record={record}>
+				<SiteCatalogPage pageId={PAGE_ID} />
+			</EditorialRecordProvider>
 		</>
 	);
 }

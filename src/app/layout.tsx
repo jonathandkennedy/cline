@@ -3,6 +3,8 @@ import { Archivo, Geist, Geist_Mono } from 'next/font/google';
 import './globals.css';
 import { DesktopTelNotice, SiteToaster, UaDesktopHint } from '@/components/chrome';
 import { LayoutProvider, RouteTransition, SiteHeader } from '@/components/layout';
+import { EMBED_MODE_SCRIPT } from '@/components/layout/shell';
+import { Analytics } from '@/components/analytics';
 import { JsonLd } from '@/components/markup';
 import { siteMetadata, siteViewport } from '@/lib/cms';
 import { organizationLd, webSiteLd } from '@/lib/structured';
@@ -46,6 +48,7 @@ export default function RootLayout({
 			className={`${geistSans.variable} ${geistMono.variable} ${archivo.variable} h-full antialiased dark`}
 		>
 			<body className={`${geistSans.className} min-h-full flex flex-col bg-base text-fg`}>
+				<script dangerouslySetInnerHTML={{ __html: EMBED_MODE_SCRIPT }} />
 				<a
 					href="#main"
 					className="sr-only focus-visible:not-sr-only focus-visible:fixed focus-visible:left-4 focus-visible:top-4 focus-visible:z-[60] focus-visible:rounded-lg focus-visible:bg-cta focus-visible:px-4 focus-visible:py-2 focus-visible:text-sm focus-visible:font-semibold focus-visible:text-black"
@@ -59,6 +62,7 @@ export default function RootLayout({
 				</LayoutProvider>
 				<DesktopTelNotice />
 				<SiteToaster />
+				<Analytics />
 				<JsonLd data={organizationLd()} />
 				<JsonLd data={webSiteLd()} />
 			</body>

@@ -11,7 +11,8 @@
 		"lint": "eslint .",
 		"format": "prettier --write .",
 		"typecheck": "tsc --noEmit",
-		"sync:mdc": "bun scripts/syncmdc.ts"
+		"sync:mdc": "bun scripts/syncmdc.ts",
+		"test": "vitest run"
 	},
 	"dependencies": {
 		"@hookform/resolvers": "5.4.0",

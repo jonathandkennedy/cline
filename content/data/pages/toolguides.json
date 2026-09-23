@@ -1,0 +1,197 @@
+{
+	"version": 1,
+	"TOOL_GUIDES": {
+		"buyback-calculator": {
+			"heading": "How the California lemon law buyback calculator works",
+			"intro": [
+				"When a new vehicle can't be fixed after a reasonable number of repair attempts, California's lemon law (the Song-Beverly Consumer Warranty Act, Civil Code section 1793.2) requires the manufacturer to either replace it or buy it back. A buyback is called restitution: the manufacturer refunds what you paid, then subtracts a small amount for the miles you drove before the problem first appeared. This calculator runs that math with your numbers so you can see a realistic range before you talk to a lawyer.",
+				"The calculator runs entirely in your browser. Nothing you type is sent to us unless you choose to request a case review."
+			],
+			"sections": [
+				{
+					"heading": "The buyback formula in plain terms",
+					"paragraphs": [
+						"Restitution starts with the actual price paid or payable for the vehicle. That includes the cash price or lease payments, plus collateral charges such as sales tax, license and registration fees, and other official fees. Incidental damages, such as towing, rental cars and some finance charges, are added on top.",
+						"From that total the manufacturer may deduct a mileage offset, which is the only reduction the statute allows for your use of the vehicle:"
+					],
+					"list": [
+						"Buyback ≈ price paid or payable + collateral charges + incidental damages − mileage offset",
+						"Mileage offset = (miles driven before the first repair visit for the defect ÷ 120,000) × price paid for the vehicle"
+					]
+				},
+				{
+					"heading": "Why the 120,000-mile denominator matters",
+					"paragraphs": [
+						"The statute treats 120,000 miles as the expected life of a vehicle, so the offset charges you only for the share of that life you used before the defect showed up. Miles driven after your first repair visit for the problem are not counted. That is why the date and odometer reading on your first repair order are among the most important documents in a lemon law claim."
+					]
+				}
+			],
+			"examplesHeading": "Three worked examples",
+			"examples": [
+				{
+					"title": "New SUV, defect at 6,000 miles",
+					"body": "Price paid $40,000. Offset: 6,000 ÷ 120,000 × $40,000 = $2,000. Before taxes, fees and incidentals, the refund would start from about $38,000."
+				},
+				{
+					"title": "Luxury sedan, defect at 15,000 miles",
+					"body": "Price paid $62,000. Offset: 15,000 ÷ 120,000 × $62,000 = $7,750. Collateral charges such as sales tax and registration are added back before the offset is applied."
+				},
+				{
+					"title": "Electric vehicle, defect in the first week",
+					"body": "Price paid $55,000, first repair visit at 400 miles. Offset: 400 ÷ 120,000 × $55,000 ≈ $183. When a problem appears early, the offset is close to zero."
+				}
+			],
+			"faq": [
+				{
+					"q": "Is the calculator's number what I will receive?",
+					"a": "No. It is an educational estimate. The final figure depends on your contract, your repair history, loan payoff, any rebates, and how the manufacturer responds. An attorney can check the numbers against your paperwork."
+				},
+				{
+					"q": "Do I pay attorney fees out of the buyback?",
+					"a": "No. Under Civil Code section 1794(d), a consumer who prevails recovers attorney fees and costs from the manufacturer. CLINE APC does not charge clients for lemon law representation."
+				},
+				{
+					"q": "What if I financed or leased the vehicle?",
+					"a": "A buyback typically pays off the lender and refunds what you have paid, including your down payment and monthly payments. Leases are covered too; the calculation uses lease payments made instead of a cash price."
+				},
+				{
+					"q": "Can the manufacturer deduct more than the mileage offset?",
+					"a": "The statute allows the use offset and, in some cases, deductions for non-manufacturer items such as third-party add-ons. Damage beyond normal wear can also be raised. Anything else should be questioned."
+				},
+				{
+					"q": "What can increase the recovery?",
+					"a": "If a manufacturer willfully fails to meet its obligations, the law allows a civil penalty of up to two times actual damages. Whether a penalty is available depends on the facts of your case."
+				}
+			]
+		},
+		"eligibility-checker": {
+			"heading": "Does your car qualify under California lemon law?",
+			"intro": [
+				"The eligibility checker asks the same questions a lemon law attorney asks in a first call: what the problem is, how many times the dealer has tried to fix it, how long the vehicle has been in the shop, and whether it is still under the manufacturer's warranty. Your answers are scored against the Song-Beverly Consumer Warranty Act so you know whether your situation is worth a closer look.",
+				"The check takes about a minute and runs in your browser. It is not legal advice, and a borderline result is a reason to talk to an attorney, not a reason to give up."
+			],
+			"sections": [
+				{
+					"heading": "What California lemon law requires",
+					"paragraphs": [
+						"The Song-Beverly Act covers vehicles sold or leased in California with a manufacturer's new vehicle warranty. It applies when a defect covered by that warranty substantially impairs the vehicle's use, value or safety, and the manufacturer or its dealers can't fix it after a reasonable number of attempts."
+					]
+				},
+				{
+					"heading": "The presumption: the 18-month / 18,000-mile rule",
+					"paragraphs": [
+						"California law presumes a reasonable number of attempts has been made if, within 18 months of delivery or 18,000 miles (whichever comes first), any of the following happened:"
+					],
+					"list": [
+						"The same defect was repaired four or more times.",
+						"A defect likely to cause death or serious injury was repaired two or more times, and you notified the manufacturer directly.",
+						"The vehicle was out of service for repairs for more than 30 days in total."
+					],
+					"after": [
+						"The presumption is a shortcut, not a requirement. Many vehicles qualify outside those limits, for example a defect that first appeared at 25,000 miles while the warranty was still in effect."
+					]
+				}
+			],
+			"examplesHeading": "Three common situations",
+			"examples": [
+				{
+					"title": "Transmission repaired four times in a year",
+					"body": "Four repair orders for the same shifting problem within 18 months meets the repair-attempt presumption. This is a strong fact pattern."
+				},
+				{
+					"title": "Brakes repaired twice",
+					"body": "Two attempts on a safety-related defect can meet the presumption if the manufacturer was notified directly. Keep a copy of that notice."
+				},
+				{
+					"title": "EV in the shop for 34 days",
+					"body": "More than 30 cumulative days out of service within 18 months meets the presumption even if the problems were different each visit."
+				}
+			],
+			"faq": [
+				{
+					"q": "Do used cars qualify?",
+					"a": "Sometimes. Coverage for used vehicles is narrower than for new ones and depends on how the car was sold and what warranty came with it. An attorney can tell you whether yours is covered."
+				},
+				{
+					"q": "Does the problem have to be the same every time?",
+					"a": "For the four-attempt rule, yes. For the 30-day rule, the days can add up across different warranty repairs."
+				},
+				{
+					"q": "What if the dealer said they couldn't find the problem?",
+					"a": "A visit where the dealer could not duplicate the issue can still count as a repair opportunity. Keep every repair order, even the ones that say no problem found."
+				},
+				{
+					"q": "Is there a deadline?",
+					"a": "Yes. Claims are generally subject to a four-year statute of limitations, and recent changes to California law add pre-suit notice steps for some claims. Don't wait to get advice."
+				},
+				{
+					"q": "What does it cost to have an attorney review my case?",
+					"a": "Nothing. The review is free, and in a successful lemon law case the manufacturer pays the attorney fees."
+				}
+			]
+		},
+		"documentation-checklist": {
+			"heading": "The documents that make a lemon law case",
+			"intro": [
+				"Lemon law claims are won on paper. The documentation checklist walks you through the records a California lemon law attorney will ask for, lets you mark what you have, and builds a summary you can print or share. It runs in your browser and nothing is uploaded unless you choose to send it.",
+				"If you are missing something, don't worry: dealers and manufacturers keep copies of repair orders, and an attorney can request them."
+			],
+			"sections": [
+				{
+					"heading": "What to gather",
+					"list": [
+						"Purchase or lease contract, including the price, taxes, fees and any add-ons.",
+						"Every repair order, with dates, odometer readings and the complaint written by the service advisor.",
+						"Any written communication with the manufacturer, such as a customer-care case number or a letter asking for a buyback.",
+						"Receipts for towing, rental cars and other out-of-pocket costs caused by the defect.",
+						"Loan or lease statements showing payments made and the current payoff.",
+						"Photos or videos of warning lights or the defect happening, with the date."
+					]
+				},
+				{
+					"heading": "Why repair orders matter most",
+					"paragraphs": [
+						"Repair orders prove how many times the dealer tried to fix the problem and how long the vehicle was out of service, which is how the 18-month / 18,000-mile presumption is measured. The odometer reading on the first repair order for the defect also sets the mileage offset in a buyback. Before you leave the dealer, read the complaint line and ask them to correct it if it doesn't describe the problem the way you reported it."
+					]
+				}
+			],
+			"examplesHeading": "Three tips from real files",
+			"examples": [
+				{
+					"title": "Ask for a closed repair order every visit",
+					"body": "Even if the dealer found nothing, request a printed or emailed repair order. An undocumented visit is hard to count."
+				},
+				{
+					"title": "Describe the symptom, not a diagnosis",
+					"body": "\"Car shudders and hesitates between 20 and 40 mph\" is more useful than \"transmission issue\"; it ties later visits to the same defect."
+				},
+				{
+					"title": "Keep a simple timeline",
+					"body": "Date, mileage, what happened and who you spoke to. A one-page timeline saves time in the first consultation."
+				}
+			],
+			"faq": [
+				{
+					"q": "What if I lost my repair orders?",
+					"a": "Your dealer's service department can reprint them, and an attorney can request the manufacturer's warranty history for your VIN."
+				},
+				{
+					"q": "Do I need to contact the manufacturer myself?",
+					"a": "For some safety-related defects the presumption requires direct notice to the manufacturer. Recent changes to California law also add pre-suit steps. An attorney can handle this for you."
+				},
+				{
+					"q": "Should I keep driving the vehicle?",
+					"a": "Only if it is safe. If a defect affects braking, steering or power, stop and have it towed, and keep the towing receipt."
+				},
+				{
+					"q": "Is my information saved?",
+					"a": "The checklist stores your progress only in your browser. It is not sent to CLINE APC unless you submit a case review."
+				},
+				{
+					"q": "What happens after I send my documents?",
+					"a": "An attorney reviews them, explains whether the lemon law likely applies, and outlines next steps. The review is free."
+				}
+			]
+		}
+	}
+}

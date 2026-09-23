@@ -2,7 +2,7 @@ import type { Metadata, Viewport } from 'next';
 import type { MetadataRoute } from 'next';
 import appShellTable from '@/data/settings/frame.json';
 import hubHeroesTable from '@/data/pages/heroes.json';
-import { BRAND } from './tables/config';
+import { SITE_URL } from './tables/config';
 import { formatBrandTemplate } from './brandtemplate';
 
 type AppShellTable = typeof appShellTable;
@@ -29,13 +29,11 @@ function interpolateDeep<T>(value: T): T {
 export function siteMetadata(): Metadata {
 	const meta = interpolateDeep(APP_SHELL.metadata);
 	return {
-		metadataBase: new URL(meta.metadataBase),
+		metadataBase: new URL(SITE_URL),
 		title: meta.title,
 		description: meta.description,
 		applicationName: meta.applicationName,
 		authors: meta.authors,
-		keywords: meta.keywords,
-		alternates: { canonical: '/' },
 		openGraph: {
 			...meta.openGraph,
 			images: [
@@ -49,6 +47,11 @@ export function siteMetadata(): Metadata {
 		},
 		twitter: meta.twitter,
 		robots: meta.robots,
+		// Search Console: prefer DNS verification (survives platform moves); this meta tag is a
+		// fallback when NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION is set.
+		...(process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION
+			? { verification: { google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION } }
+			: {}),
 	};
 }
 
@@ -72,11 +75,11 @@ export function siteManifest(): MetadataRoute.Manifest {
 		name: m.name,
 		short_name: m.short_name,
 		description: m.description,
-		id: `${BRAND.toolsUrl}/`,
+		id: `${SITE_URL}/`,
 		start_url: '/',
 		display: 'standalone',
-		background_color: '#0a0a0b',
-		theme_color: '#0a0a0b',
+		background_color: '#010F27',
+		theme_color: '#010F27',
 		icons: [
 			{
 				src: '/icon.png',

@@ -67,6 +67,9 @@ export {
 	caseStudyDetailPath,
 	defineSlugCollection,
 	faqDetailPath,
+	faqTopicPath,
+	faqCategoryIdForTopicSlug,
+	listFaqTopicSlugs,
 	findCaseStudyByManufacturerSlug,
 	formatChecklistHeaderProgress,
 	formatManufacturerRightsBody,
@@ -81,9 +84,6 @@ export {
 	getManufacturerPageBySlug,
 	getReviewBySlug,
 	getReviewSocialProofAvatars,
-	getBlogBySlug,
-	getLocationPageBySlug,
-	getEditorialPageBySlug,
 	guidebookChapterPath,
 	indexBySlug,
 	leadCaptureContext,
@@ -114,6 +114,7 @@ export { buildGuidebookHubGlanceFacts, buybackStatesEqual } from './helpers';
 export { brandLogoSrc, HEADER_LOGO_CHROME_TEXT_CLASS } from './mark';
 export {
 	BRAND,
+	SITE_URL,
 	BRAND_COLORS,
 	BRAND_LOGO,
 	BLOG_DETAIL_PAGE_MAIN,

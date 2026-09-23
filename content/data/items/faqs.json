@@ -347,5 +347,13 @@
 		"recovery": "Recovery & Buybacks",
 		"process": "Timeline & Process",
 		"documentation": "Documents & Proof"
+	},
+	"FAQ_CATEGORY_SLUGS": {
+		"basics": "lemon-law-basics",
+		"coverage": "coverage-and-vehicles",
+		"fees": "fees-and-cost",
+		"recovery": "recovery-and-buybacks",
+		"process": "timeline-and-process",
+		"documentation": "documents-and-proof"
 	}
 }

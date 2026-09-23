@@ -3,8 +3,9 @@ import { notFound } from 'next/navigation';
 import type { SitePageId } from '@/lib/cms/catalog';
 import { JsonLd } from '@/components';
 import { SiteCatalogPage } from '@/lib/site/catalog';
+import { getLocationPageBySlug } from '@/lib/cms/content/records';
+import { EditorialRecordProvider } from '@/lib/cms/content/current';
 import {
-	getLocationPageBySlug,
 	listLocationPageSlugs,
 	locationDetailPath,
 	slugSegmentGenerateMetadata,
@@ -41,12 +42,15 @@ export default async function LocationDetailRoute({
 	params: Promise<{ slug: string }>;
 }) {
 	const { slug } = await params;
-	if (!getLocationPageBySlug(slug)) notFound();
+	const record = getLocationPageBySlug(slug);
+	if (!record) notFound();
 	const ld = locationDetailLd(slug);
 	return (
 		<>
 			{ld ? <JsonLd data={ld} /> : null}
-			<SiteCatalogPage pageId={PAGE_ID} />
+			<EditorialRecordProvider record={record}>
+				<SiteCatalogPage pageId={PAGE_ID} />
+			</EditorialRecordProvider>
 		</>
 	);
 }

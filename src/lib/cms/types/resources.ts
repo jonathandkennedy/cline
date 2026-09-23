@@ -207,6 +207,10 @@ export interface EditorialIndexRecord {
 	seoDescription: string;
 	thumbnail?: string;
 	thumbnailAlt?: string;
+	/** Blog only: subject topic slugs (content/data/settings/topics.json), set by syncmdc. */
+	topics?: readonly string[];
+	/** Blog only: manufacturer slugs the post is about, set by syncmdc. */
+	brands?: readonly string[];
 }
 
 export interface EditorialRecord extends EditorialIndexRecord {

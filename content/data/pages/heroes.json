@@ -184,7 +184,7 @@
 	"BLOG_HUB_GRID": {
 		"countLabel": "articles",
 		"ctaLabel": "Read article",
-		"pageSize": 24,
+		"pageSize": 12,
 		"showingLabel": "Showing"
 	},
 	"LOCATIONS_HUB_HERO": {

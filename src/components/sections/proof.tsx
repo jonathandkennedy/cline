@@ -26,7 +26,9 @@ function ProofComponent({ showCaseStudyExplore = true }: ProofProps) {
 									<span className={components.homeSocialProofRatingValue}>{BRAND.rating}</span>
 								</div>
 								<p className={components.homeSocialProofCaption}>
-									{HOME_SOCIAL_PROOF.successStoriesCaption}
+									{HOME_SOCIAL_PROOF.successStoriesCaption
+										.replace('{{rating}}', BRAND.rating)
+										.replace('{{reviewCount}}', String(BRAND.reviewCount))}
 								</p>
 							</div>
 						</Link>
@@ -44,6 +46,10 @@ function ProofComponent({ showCaseStudyExplore = true }: ProofProps) {
 
 					<div className={components.homeSocialProofTickerWrap}>
 						<SuccessTicker />
+						{/* Same disclosure the case-study pages carry, on the same screen as the amounts. */}
+						<p className="mt-2 text-center text-[13px] font-semibold leading-snug text-fg/90">
+							{HOME_SOCIAL_PROOF.resultsDisclaimer}
+						</p>
 					</div>
 
 					{showCaseStudyExplore ? (

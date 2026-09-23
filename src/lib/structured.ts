@@ -1,12 +1,10 @@
 import {
 	BRAND,
-	BRAND_LOGO,
+	SITE_URL,
 	breadcrumbListJsonLd,
 	buildCaseStudiesHubBreadcrumbs,
 	buildCaseStudyDetailBreadcrumbs,
-	buildFaqDetailBreadcrumbs,
 	buildFaqHubBreadcrumbs,
-	buildGuidebookChapterBreadcrumbs,
 	buildGuidebookHubBreadcrumbs,
 	buildLearnHubBreadcrumbs,
 	buildBlogHubBreadcrumbs,
@@ -23,11 +21,8 @@ import {
 	CASE_STUDIES_HUB_SEO,
 	CASE_STUDY_DETAILS,
 	caseStudyDetailPath,
-	FAQ_DETAILS,
 	FAQ_HUB_PATH,
 	FAQ_HUB_SEO,
-	FAQS,
-	faqDetailPath,
 	GUIDEBOOK_CHAPTERS,
 	GUIDEBOOK_HUB_PATH,
 	GUIDEBOOK_HUB_SEO,
@@ -45,12 +40,7 @@ import {
 	INFO_HUB_SEO,
 	EDITORIAL_PAGES,
 	infoDetailPath,
-	getBlogBySlug,
-	getLocationPageBySlug,
-	getEditorialPageBySlug,
 	getCaseStudyBySlug,
-	getFaqBySlug,
-	getGuidebookChapterBySlug,
 	getManufacturerPageBySlug,
 	getReviewBySlug,
 	getTool,
@@ -71,11 +61,16 @@ import {
 	webSiteLdName,
 } from '@/lib/cms';
 import { getSitePageDefinition } from '@/lib/cms/catalog';
+import {
+	getBlogBySlug,
+	getEditorialPageBySlug,
+	getLocationPageBySlug,
+} from '@/lib/cms/content/records';
 
 const SCHEMA_CONTEXT = 'https://schema.org';
 const ORGANIZATION_ID = `${BRAND.site}/#organization`;
-const WEBSITE_ID = `${BRAND.toolsUrl}/#website`;
-const TOOLS_LOGO_URL = `${BRAND.toolsUrl}${BRAND_LOGO.paths.primary}`;
+const WEBSITE_ID = `${SITE_URL}/#website`;
+const LOGO_URL = `${SITE_URL}/images/logos/primary-600.png`;
 
 const HOME_PAGE_TITLE = homePageTitle();
 const HOME_PAGE_DESCRIPTION = homePageDescription();
@@ -92,14 +87,6 @@ function telephoneSchemaValue() {
 	return BRAND.phoneHref.replace(/^tel:/i, '');
 }
 
-function faqQuestionEntity(q: string, a: string) {
-	return {
-		'@type': 'Question' as const,
-		name: q,
-		acceptedAnswer: { '@type': 'Answer' as const, text: a },
-	};
-}
-
 function webPageNode(title: string, description: string, url: string) {
 	return {
 		'@type': 'WebPage' as const,
@@ -114,7 +101,7 @@ function webPageNode(title: string, description: string, url: string) {
 }
 
 function absoluteBreadcrumbListLd(items: SiteBreadcrumbItem[]) {
-	const base = BRAND.toolsUrl;
+	const base = SITE_URL;
 	return {
 		...breadcrumbListJsonLd(items),
 		itemListElement: items.map((item, index) => ({
@@ -145,7 +132,7 @@ function resourcePageGraph(
 	path: string,
 	extra: object[] = [],
 ) {
-	const url = `${BRAND.toolsUrl}${path}`;
+	const url = `${SITE_URL}${path}`;
 	return {
 		'@context': SCHEMA_CONTEXT,
 		'@graph': [
@@ -163,7 +150,7 @@ function collectionHubLd(
 	path: string,
 	listEntries: readonly { name: string; url: string }[],
 ) {
-	const url = `${BRAND.toolsUrl}${path}`;
+	const url = `${SITE_URL}${path}`;
 	return {
 		'@context': SCHEMA_CONTEXT,
 		'@graph': [
@@ -183,38 +170,73 @@ function collectionHubLd(
 	};
 }
 
+/** Public profiles for the firm (Google Business Profile, Yelp, Instagram). */
+const SAME_AS = [
+	'https://www.google.com/maps/place/Cline+APC+-+San+Diego+Lemon+Law+Attorney/@32.8472368,-117.2717058,17z/data=!4m6!3m5!1s0x80dc03fcec330fa9:0xea7719a1c043b1bd!8m2!3d32.8472368!4d-117.2717058!16s%2Fg%2F11bwn3gb9q',
+	'https://www.yelp.com/biz/cline-apc-a-california-lemon-law-legal-group-la-jolla',
+	'https://www.instagram.com/lemonlawlegalgroup/',
+];
+
+/** La Jolla office coordinates, from the firm's Google Business Profile. */
+const MAIN_OFFICE_GEO = { latitude: 32.8472368, longitude: -117.2717058 };
+
+function postalAddress(office: (typeof OFFICES)[number]) {
+	const postalCode = office.region.match(/\b\d{5}\b/)?.[0];
+	return {
+		'@type': 'PostalAddress' as const,
+		streetAddress: office.address,
+		addressLocality: office.city,
+		addressRegion: 'CA',
+		...(postalCode ? { postalCode } : {}),
+		addressCountry: 'US',
+	};
+}
+
+export const AUTHOR_ID = `${SITE_URL}/team/brian-cline#person`;
+
+/** Named attorney author for articles (the WordPress site attributed posts the same way). */
+export function authorRef() {
+	return {
+		'@type': 'Person' as const,
+		'@id': AUTHOR_ID,
+		name: 'Brian K. Cline',
+		url: `${SITE_URL}/team/brian-cline`,
+	};
+}
+
 export function organizationLd() {
+	const [mainOffice, ...otherOffices] = OFFICES;
 	return {
 		'@context': SCHEMA_CONTEXT,
 		'@type': 'LegalService',
 		'@id': ORGANIZATION_ID,
 		name: BRAND.legalName,
 		alternateName: BRAND.name,
-		url: BRAND.site,
-		logo: TOOLS_LOGO_URL,
-		image: TOOLS_LOGO_URL,
+		url: SITE_URL,
+		logo: { '@type': 'ImageObject', url: LOGO_URL, width: 600, height: 201 },
+		image: `${SITE_URL}/images/og/default.jpg`,
 		telephone: telephoneSchemaValue(),
+		email: BRAND.email,
 		description:
 			'California Lemon Law firm that pursues manufacturer buybacks and other consumer matters. Clients never pay attorney fees.',
 		areaServed: { '@type': 'State', name: 'California' },
 		founder: { '@type': 'Person', name: BRAND.founder },
-		aggregateRating: {
-			'@type': 'AggregateRating',
-			ratingValue: BRAND.rating,
-			reviewCount: BRAND.reviewCount,
-		},
+		foundingDate: String(BRAND.firmEstablished),
 		knowsAbout: [
 			'California Lemon Law',
 			'Song-Beverly Consumer Warranty Act',
 			'Vehicle buyback',
 			'Defective vehicles',
 		],
-		address: OFFICES.map((o) => ({
-			'@type': 'PostalAddress',
-			streetAddress: o.address,
-			addressLocality: o.city,
-			addressRegion: 'CA',
-			addressCountry: 'US',
+		address: postalAddress(mainOffice),
+		geo: { '@type': 'GeoCoordinates', ...MAIN_OFFICE_GEO },
+		hasMap: SAME_AS[0],
+		sameAs: SAME_AS,
+		department: otherOffices.map((office) => ({
+			'@type': 'LegalService',
+			name: `${BRAND.name} · ${office.city} office`,
+			telephone: telephoneSchemaValue(),
+			address: postalAddress(office),
 		})),
 	};
 }
@@ -225,7 +247,7 @@ export function webSiteLd() {
 		'@type': 'WebSite',
 		'@id': WEBSITE_ID,
 		name: webSiteLdName(),
-		url: BRAND.toolsUrl,
+		url: SITE_URL,
 		description: HOME_PAGE_DESCRIPTION,
 		publisher: publisherRef(),
 		inLanguage: 'en-US',
@@ -233,17 +255,11 @@ export function webSiteLd() {
 }
 
 export function homeLd() {
-	const url = BRAND.toolsUrl;
+	const url = SITE_URL;
 	return {
 		'@context': SCHEMA_CONTEXT,
 		'@graph': [
 			webPageNode(HOME_PAGE_TITLE, HOME_PAGE_DESCRIPTION, url),
-			{
-				'@type': 'FAQPage',
-				'@id': `${url}#faq`,
-				isPartOf: webSiteRef(),
-				mainEntity: FAQS.map((f) => faqQuestionEntity(f.q, f.a)),
-			},
 			absoluteBreadcrumbListLd([SITE_HOME_BREADCRUMB]),
 		],
 	};
@@ -252,7 +268,7 @@ export function homeLd() {
 export function toolLd(slug: string) {
 	const tool = getTool(slug);
 	if (!tool) return null;
-	const url = `${BRAND.toolsUrl}/tool/${tool.slug}`;
+	const url = `${SITE_URL}/tool/${tool.slug}`;
 	return {
 		'@context': SCHEMA_CONTEXT,
 		'@graph': [
@@ -280,7 +296,7 @@ export function toolLd(slug: string) {
 export function manufacturersHubLd() {
 	const entries = MANUFACTURER_PAGE_DETAILS.map((detail) => ({
 		name: detail.headline,
-		url: `${BRAND.toolsUrl}${manufacturerDetailPath(detail.slug)}`,
+		url: `${SITE_URL}${manufacturerDetailPath(detail.slug)}`,
 	}));
 	return collectionHubLd(
 		buildManufacturersHubBreadcrumbs(),
@@ -296,7 +312,7 @@ export function manufacturerDetailLd(slug: string) {
 	if (!detail) return null;
 	const manufacturer = MANUFACTURERS.find((m) => m.slug === slug);
 	const path = manufacturerDetailPath(slug);
-	const url = `${BRAND.toolsUrl}${path}`;
+	const url = `${SITE_URL}${path}`;
 	const webPage = {
 		...webPageNode(detail.seoTitle, detail.seoDescription, url),
 		...(manufacturer
@@ -318,7 +334,7 @@ export function manufacturerDetailLd(slug: string) {
 export function reviewsHubLd() {
 	const entries = REVIEW_DETAILS.map((review) => ({
 		name: `${review.name} · ${review.vehicle}`,
-		url: `${BRAND.toolsUrl}${reviewDetailPath(review.slug)}`,
+		url: `${SITE_URL}${reviewDetailPath(review.slug)}`,
 	}));
 	return collectionHubLd(
 		buildReviewsHubBreadcrumbs(),
@@ -332,36 +348,20 @@ export function reviewsHubLd() {
 export function reviewDetailLd(slug: string) {
 	const detail = getReviewBySlug(slug);
 	if (!detail) return null;
-	const path = reviewDetailPath(slug);
-	const url = `${BRAND.toolsUrl}${path}`;
+	// Self-published Review markup is ignored by Google (and invites a manual action), so the
+	// quote stays on the page as text only.
 	return resourcePageGraph(
 		buildReviewDetailBreadcrumbs(slug),
 		detail.seoTitle,
 		detail.seoDescription,
-		path,
-		[
-			{
-				'@type': 'Review' as const,
-				'@id': `${url}#review`,
-				itemReviewed: {
-					'@type': 'Product' as const,
-					name: detail.vehicle,
-				},
-				reviewBody: detail.fullStory,
-				author: {
-					'@type': 'Person' as const,
-					name: detail.name,
-				},
-				publisher: publisherRef(),
-			},
-		],
+		reviewDetailPath(slug),
 	);
 }
 
 export function caseStudiesHubLd() {
 	const entries = CASE_STUDY_DETAILS.map((study) => ({
 		name: study.headline,
-		url: `${BRAND.toolsUrl}${caseStudyDetailPath(study.slug)}`,
+		url: `${SITE_URL}${caseStudyDetailPath(study.slug)}`,
 	}));
 	return collectionHubLd(
 		buildCaseStudiesHubBreadcrumbs(),
@@ -376,19 +376,7 @@ export function caseStudyDetailLd(slug: string) {
 	const detail = getCaseStudyBySlug(slug);
 	if (!detail) return null;
 	const path = caseStudyDetailPath(slug);
-	const url = `${BRAND.toolsUrl}${path}`;
-	const articleBody = [
-		detail.situation,
-		detail.situationDetail,
-		detail.defectSummary,
-		detail.defectDetail,
-		detail.legalPath,
-		detail.legalDetail,
-		detail.outcomeSummary,
-		detail.outcomeDetail,
-	]
-		.filter(Boolean)
-		.join('\n\n');
+	const url = `${SITE_URL}${path}`;
 	return resourcePageGraph(
 		buildCaseStudyDetailBreadcrumbs(slug),
 		detail.seoTitle,
@@ -400,8 +388,7 @@ export function caseStudyDetailLd(slug: string) {
 				'@id': `${url}#article`,
 				headline: detail.headline,
 				description: detail.seoDescription,
-				articleBody,
-				author: publisherRef(),
+				author: authorRef(),
 				publisher: publisherRef(),
 				about: {
 					'@type': 'Product' as const,
@@ -413,38 +400,12 @@ export function caseStudyDetailLd(slug: string) {
 }
 
 export function faqHubLd() {
-	const url = `${BRAND.toolsUrl}${FAQ_HUB_PATH}`;
+	const url = `${SITE_URL}${FAQ_HUB_PATH}`;
 	return {
 		'@context': SCHEMA_CONTEXT,
 		'@graph': [
 			webPageNode(FAQ_HUB_SEO.seoTitle, FAQ_HUB_SEO.seoDescription, url),
-			{
-				'@type': 'FAQPage',
-				'@id': `${url}#faq`,
-				isPartOf: webSiteRef(),
-				mainEntity: FAQ_DETAILS.map((f) => faqQuestionEntity(f.q, f.a)),
-			},
 			absoluteBreadcrumbListLd(buildFaqHubBreadcrumbs()),
-		],
-	};
-}
-
-export function faqDetailLd(slug: string) {
-	const detail = getFaqBySlug(slug);
-	if (!detail) return null;
-	const path = faqDetailPath(slug);
-	const url = `${BRAND.toolsUrl}${path}`;
-	return {
-		'@context': SCHEMA_CONTEXT,
-		'@graph': [
-			webPageNode(detail.seoTitle, detail.seoDescription, url),
-			{
-				'@type': 'FAQPage',
-				'@id': `${url}#faq`,
-				isPartOf: webSiteRef(),
-				mainEntity: faqQuestionEntity(detail.q, detail.a),
-			},
-			absoluteBreadcrumbListLd(buildFaqDetailBreadcrumbs(slug)),
 		],
 	};
 }
@@ -452,7 +413,7 @@ export function faqDetailLd(slug: string) {
 export function guidebookHubLd() {
 	const entries = GUIDEBOOK_CHAPTERS.map((chapter) => ({
 		name: chapter.title,
-		url: `${BRAND.toolsUrl}${guidebookChapterPath(chapter.slug)}`,
+		url: `${SITE_URL}${guidebookChapterPath(chapter.slug)}`,
 	}));
 	return collectionHubLd(
 		buildGuidebookHubBreadcrumbs(),
@@ -464,7 +425,7 @@ export function guidebookHubLd() {
 }
 
 export function learnHubLd() {
-	const url = `${BRAND.toolsUrl}${LEARN_HUB_PATH}`;
+	const url = `${SITE_URL}${LEARN_HUB_PATH}`;
 	return {
 		'@context': SCHEMA_CONTEXT,
 		'@graph': [
@@ -474,40 +435,10 @@ export function learnHubLd() {
 	};
 }
 
-export function guidebookChapterLd(slug: string) {
-	const detail = getGuidebookChapterBySlug(slug);
-	if (!detail) return null;
-	const path = guidebookChapterPath(slug);
-	const url = `${BRAND.toolsUrl}${path}`;
-	const articleBody = detail.sections.flatMap((section) => [...section.paragraphs]).join('\n\n');
-	return resourcePageGraph(
-		buildGuidebookChapterBreadcrumbs(slug),
-		detail.seoTitle,
-		detail.seoDescription,
-		path,
-		[
-			{
-				'@type': 'Article' as const,
-				'@id': `${url}#article`,
-				headline: detail.title,
-				description: detail.summary,
-				articleBody,
-				timeRequired: `PT${detail.estimatedReadMinutes}M`,
-				author: publisherRef(),
-				publisher: publisherRef(),
-			},
-		],
-	);
-}
-
-function editorialArticleBody(blocks: readonly { type: string; text: string }[]) {
-	return blocks.map((block) => block.text).join('\n\n');
-}
-
 export function blogHubLd() {
 	const entries = BLOG_POSTS.map((post) => ({
 		name: post.title,
-		url: `${BRAND.toolsUrl}${blogDetailPath(post.slug)}`,
+		url: `${SITE_URL}${blogDetailPath(post.slug)}`,
 	}));
 	return collectionHubLd(
 		buildBlogHubBreadcrumbs(),
@@ -522,7 +453,7 @@ export function blogDetailLd(slug: string) {
 	const post = getBlogBySlug(slug);
 	if (!post) return null;
 	const path = blogDetailPath(slug);
-	const url = `${BRAND.toolsUrl}${path}`;
+	const url = `${SITE_URL}${path}`;
 	return resourcePageGraph(
 		buildBlogDetailBreadcrumbs(slug),
 		post.seoTitle,
@@ -536,8 +467,17 @@ export function blogDetailLd(slug: string) {
 				description: post.description,
 				datePublished: post.date,
 				dateModified: post.modified,
-				articleBody: editorialArticleBody(post.blocks),
-				author: publisherRef(),
+				...(post.thumbnail
+					? {
+							image: {
+								'@type': 'ImageObject' as const,
+								url: `${SITE_URL}${post.thumbnail}`,
+								width: 1200,
+								height: 675,
+							},
+						}
+					: {}),
+				author: authorRef(),
 				publisher: publisherRef(),
 			},
 		],
@@ -547,7 +487,7 @@ export function blogDetailLd(slug: string) {
 export function locationsHubLd() {
 	const entries = LOCATION_PAGES.map((page) => ({
 		name: page.title,
-		url: `${BRAND.toolsUrl}${locationDetailPath(page.slug)}`,
+		url: `${SITE_URL}${locationDetailPath(page.slug)}`,
 	}));
 	return collectionHubLd(
 		buildLocationsHubBreadcrumbs(),
@@ -562,7 +502,7 @@ export function locationDetailLd(slug: string) {
 	const page = getLocationPageBySlug(slug);
 	if (!page) return null;
 	const path = locationDetailPath(slug);
-	const url = `${BRAND.toolsUrl}${path}`;
+	const url = `${SITE_URL}${path}`;
 	return resourcePageGraph(
 		buildLocationDetailBreadcrumbs(slug),
 		page.seoTitle,
@@ -574,8 +514,7 @@ export function locationDetailLd(slug: string) {
 				'@id': `${url}#article`,
 				headline: page.title,
 				description: page.description,
-				articleBody: editorialArticleBody(page.blocks),
-				author: publisherRef(),
+				author: authorRef(),
 				publisher: publisherRef(),
 			},
 		],
@@ -585,7 +524,7 @@ export function locationDetailLd(slug: string) {
 export function infoHubLd() {
 	const entries = EDITORIAL_PAGES.map((page) => ({
 		name: page.title,
-		url: `${BRAND.toolsUrl}${infoDetailPath(page.slug)}`,
+		url: `${SITE_URL}${infoDetailPath(page.slug)}`,
 	}));
 	return collectionHubLd(
 		buildInfoHubBreadcrumbs(),
@@ -600,7 +539,7 @@ export function infoDetailLd(slug: string) {
 	const page = getEditorialPageBySlug(slug);
 	if (!page) return null;
 	const path = infoDetailPath(slug);
-	const url = `${BRAND.toolsUrl}${path}`;
+	const url = `${SITE_URL}${path}`;
 	return resourcePageGraph(
 		buildInfoDetailBreadcrumbs(slug),
 		page.seoTitle,
@@ -612,10 +551,36 @@ export function infoDetailLd(slug: string) {
 				'@id': `${url}#article`,
 				headline: page.title,
 				description: page.description,
-				articleBody: editorialArticleBody(page.blocks),
-				author: publisherRef(),
+				author: authorRef(),
 				publisher: publisherRef(),
 			},
 		],
 	);
+}
+
+export function contactLd() {
+	const url = `${SITE_URL}/contact`;
+	return {
+		'@context': SCHEMA_CONTEXT,
+		'@graph': [
+			{
+				'@type': 'ContactPage' as const,
+				'@id': url,
+				name: 'Free California Lemon Law Case Review',
+				url,
+				isPartOf: webSiteRef(),
+				about: publisherRef(),
+				inLanguage: 'en-US',
+			},
+			absoluteBreadcrumbListLd([SITE_HOME_BREADCRUMB, { label: 'Contact', href: '/contact' }]),
+		],
+	};
+}
+
+export function publisherLdRef() {
+	return publisherRef();
+}
+
+export function breadcrumbLd(items: SiteBreadcrumbItem[]) {
+	return absoluteBreadcrumbListLd(items);
 }

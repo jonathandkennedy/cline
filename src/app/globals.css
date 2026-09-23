@@ -88,6 +88,11 @@
 	}
 }
 
+/* Embedded tools (iframe) hide the site header before first paint; see EMBED_MODE_SCRIPT. */
+html[data-embed] [data-site-header] {
+	display: none;
+}
+
 html {
 	font-size: 17px;
 	scroll-behavior: auto;

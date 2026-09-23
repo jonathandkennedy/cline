@@ -24,7 +24,7 @@ Other scripts: `bun run build`, `bun run lint`, `bun run typecheck`, `bun format
 | `content/data/items/`                          | Entity indexes (blog, FAQ, reviews, …); editorial indexes are metadata-only                 |
 | `content/collections/`                         | Article SSOT (`.mdc` for blog, info, locations); run `bun scripts/syncmdc.ts` after changes |
 | `wordpress/cline-apc-tools`                    | WordPress admin plugin                                                                      |
-| `scripts/`                                     | Redirect merge, plugin zip, MDC index sync                                                  |
+| `scripts/`                                     | Plugin zip, MDC index sync                                                              |
 
 Imports in app code use the `@/data/*` alias, which resolves to `content/data/*`.
 
@@ -32,4 +32,4 @@ Agent-oriented notes: see [AGENTS.md](./AGENTS.md).
 
 ## Config
 
-Site chrome, nav, redirects, and legacy blog paths live under `content/data/settings/` (`frame.json`, `redirects.json`, `legacy.json`, etc.). Next.js merges WP and legacy redirects in root `next.config.ts` via `scripts/blog.ts`.
+Site chrome, nav, redirects, and legacy blog paths live under `content/data/settings/` (`frame.json`, `redirects.json`, `legacy.json`, etc.). Legacy URLs are resolved in one 301 hop (trailing slash, case, WP map) by `src/proxy.ts` via `src/lib/redirects.ts`.

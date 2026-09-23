@@ -1,83 +1,75 @@
 import type { MetadataRoute } from 'next';
+import { faqTopicPath, SITE_URL } from '@/lib/cms';
+import { listTeamProfileIds, teamMemberPath } from '@/lib/cms/tables/team';
 import {
-	BRAND,
+	BLOG_HUB_PATH,
+	BLOG_POSTS,
+	blogDetailPath,
 	CASE_STUDIES_HUB_PATH,
 	caseStudyDetailPath,
+	EDITORIAL_PAGES,
+	FAQ_CATEGORY_LABELS,
 	FAQ_HUB_PATH,
-	faqDetailPath,
 	GUIDEBOOK_HUB_PATH,
-	guidebookChapterPath,
+	INFO_HUB_PATH,
+	infoDetailPath,
 	LEARN_HUB_PATH,
 	listCaseStudySlugs,
-	listFaqSlugs,
-	listGuidebookChapterSlugs,
 	listManufacturerPageSlugs,
-	listReviewSlugs,
-	listBlogSlugs,
-	listLocationPageSlugs,
-	listEditorialPageSlugs,
+	LOCATION_PAGES,
+	LOCATIONS_HUB_PATH,
+	locationDetailPath,
 	MANUFACTURERS_HUB_PATH,
 	manufacturerDetailPath,
 	REVIEWS_HUB_PATH,
-	reviewDetailPath,
-	THE_FIRM_PATH,
 	TEAM_PATH,
-	BLOG_HUB_PATH,
-	blogDetailPath,
-	LOCATIONS_HUB_PATH,
-	locationDetailPath,
-	INFO_HUB_PATH,
-	infoDetailPath,
+	THE_FIRM_PATH,
 	TOOLS,
 } from '@/lib/site';
+import { BLOG_TOPICS, BLOG_TOPICS_PATH, blogTopicPath } from '@/lib/topics';
 
-/** Hub/detail paths mirror catalog routes; lists from CMS accessors (SSOT items). */
+type Dated = { modified?: string; date?: string };
+
+/** Newest real content date in a set, or undefined when the content carries no dates. */
+function newest(items: readonly Dated[]): string | undefined {
+	const dates = items.map((item) => item.modified ?? item.date).filter(Boolean) as string[];
+	return dates.length > 0 ? dates.sort().at(-1) : undefined;
+}
+
+/**
+ * Only indexable, canonical URLs. lastmod is the content's own modified date where one exists
+ * and is omitted otherwise (a build timestamp on every URL teaches Google to ignore it);
+ * priority and changefreq are ignored by Google and left out.
+ */
 export default function sitemap(): MetadataRoute.Sitemap {
-	const base = BRAND.toolsUrl;
-	const now = new Date();
-	const monthly = 'monthly' as const;
-
-	const hub = (path: string, priority: number) => ({
-		url: `${base}${path}`,
-		lastModified: now,
-		changeFrequency: monthly,
-		priority,
-	});
-
-	const detail = (path: string, priority: number) => ({
-		url: `${base}${path}`,
-		lastModified: now,
-		changeFrequency: monthly,
-		priority,
+	const entry = (path: string, lastModified?: string): MetadataRoute.Sitemap[number] => ({
+		url: `${SITE_URL}${path}`,
+		...(lastModified ? { lastModified } : {}),
 	});
 
 	return [
-		hub('/', 1),
-		hub('/contact', 0.9),
-		...TOOLS.map((t) => ({
-			url: `${base}/tool/${t.slug}`,
-			lastModified: now,
-			changeFrequency: monthly,
-			priority: 0.9,
-		})),
-		hub(MANUFACTURERS_HUB_PATH, 0.8),
-		...listManufacturerPageSlugs().map((slug) => detail(manufacturerDetailPath(slug), 0.65)),
-		hub(REVIEWS_HUB_PATH, 0.8),
-		...listReviewSlugs().map((slug) => detail(reviewDetailPath(slug), 0.65)),
-		hub(CASE_STUDIES_HUB_PATH, 0.8),
-		...listCaseStudySlugs().map((slug) => detail(caseStudyDetailPath(slug), 0.65)),
-		hub(FAQ_HUB_PATH, 0.8),
-		...listFaqSlugs().map((slug) => detail(faqDetailPath(slug), 0.65)),
-		hub(GUIDEBOOK_HUB_PATH, 0.8),
-		...listGuidebookChapterSlugs().map((slug) => detail(guidebookChapterPath(slug), 0.7)),
-		hub(LEARN_HUB_PATH, 0.75),
-		hub(THE_FIRM_PATH, 0.75),
-		hub(TEAM_PATH, 0.75),
-		hub(BLOG_HUB_PATH, 0.8),
-		...listBlogSlugs().map((slug) => detail(blogDetailPath(slug), 0.6)),
-		hub(LOCATIONS_HUB_PATH, 0.75),
-		...listLocationPageSlugs().map((slug) => detail(locationDetailPath(slug), 0.55)),
-		hub(INFO_HUB_PATH, 0.7),
-		...listEditorialPageSlugs().map((slug) => detail(infoDetailPath(slug), 0.6)),
+		entry('/'),
+		entry('/contact'),
+		...TOOLS.map((tool) => entry(`/tool/${tool.slug}`)),
+		entry(MANUFACTURERS_HUB_PATH),
+		...listManufacturerPageSlugs().map((slug) => entry(manufacturerDetailPath(slug))),
+		entry(REVIEWS_HUB_PATH),
+		entry(CASE_STUDIES_HUB_PATH),
+		...listCaseStudySlugs().map((slug) => entry(caseStudyDetailPath(slug))),
+		entry(FAQ_HUB_PATH),
+		...Object.keys(FAQ_CATEGORY_LABELS).map((id) => entry(faqTopicPath(id))),
+		entry(GUIDEBOOK_HUB_PATH),
+		entry(LEARN_HUB_PATH),
+		entry(THE_FIRM_PATH),
+		entry(TEAM_PATH),
+		...listTeamProfileIds().map((id) => entry(teamMemberPath(id))),
+		entry(BLOG_HUB_PATH, newest(BLOG_POSTS)),
+		entry(BLOG_TOPICS_PATH, newest(BLOG_POSTS)),
+		...BLOG_TOPICS.map((topic) => entry(blogTopicPath(topic.slug), newest(topic.posts))),
+		...BLOG_POSTS.map((post) => entry(blogDetailPath(post.slug), post.modified)),
+		entry(LOCATIONS_HUB_PATH, newest(LOCATION_PAGES)),
+		...LOCATION_PAGES.map((page) => entry(locationDetailPath(page.slug), page.modified)),
+		entry(INFO_HUB_PATH, newest(EDITORIAL_PAGES)),
+		...EDITORIAL_PAGES.map((page) => entry(infoDetailPath(page.slug), page.modified)),
 	];
 }

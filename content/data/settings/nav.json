@@ -101,6 +101,13 @@
 			"icon": "newspaper"
 		},
 		{
+			"id": "blog-topics",
+			"href": "/blog/topics",
+			"label": "Articles by Topic",
+			"description": "Articles by Topic",
+			"icon": "newspaper"
+		},
+		{
 			"id": "locations",
 			"href": "/locations",
 			"label": "Locations",

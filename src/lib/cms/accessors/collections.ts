@@ -1,4 +1,3 @@
-import { hydrateEditorialRecord } from '../content/editorial';
 import { buildHubBreadcrumbs, defineSlugCollection } from '../gather';
 import {
 	CASE_STUDIES_HUB_PATH,
@@ -35,7 +34,6 @@ import type {
 	ReviewDetailRecord,
 	ReviewSlug,
 	EditorialIndexRecord,
-	EditorialRecord,
 } from '../types';
 import {
 	caseStudyDetailPath,
@@ -140,10 +138,6 @@ const blogCollection = defineSlugCollection<EditorialIndexRecord>({
 });
 
 export const listBlogSlugs = () => blogCollection.listSlugs();
-export const getBlogBySlug = (slug: string): EditorialRecord | undefined => {
-	const index = blogCollection.getBySlug(slug);
-	return index ? hydrateEditorialRecord(index) : undefined;
-};
 export const buildBlogHubBreadcrumbs = blogCollection.buildHubBreadcrumbs;
 export const buildBlogDetailBreadcrumbs = blogCollection.buildDetailBreadcrumbs;
 
@@ -156,10 +150,6 @@ const locationCollection = defineSlugCollection<EditorialIndexRecord>({
 });
 
 export const listLocationPageSlugs = () => locationCollection.listSlugs();
-export const getLocationPageBySlug = (slug: string): EditorialRecord | undefined => {
-	const index = locationCollection.getBySlug(slug);
-	return index ? hydrateEditorialRecord(index) : undefined;
-};
 export const buildLocationsHubBreadcrumbs = locationCollection.buildHubBreadcrumbs;
 export const buildLocationDetailBreadcrumbs = locationCollection.buildDetailBreadcrumbs;
 
@@ -172,9 +162,5 @@ const editorialCollection = defineSlugCollection<EditorialIndexRecord>({
 });
 
 export const listEditorialPageSlugs = () => editorialCollection.listSlugs();
-export const getEditorialPageBySlug = (slug: string): EditorialRecord | undefined => {
-	const index = editorialCollection.getBySlug(slug);
-	return index ? hydrateEditorialRecord(index) : undefined;
-};
 export const buildInfoHubBreadcrumbs = editorialCollection.buildHubBreadcrumbs;
 export const buildInfoDetailBreadcrumbs = editorialCollection.buildDetailBreadcrumbs;

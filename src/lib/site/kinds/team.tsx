@@ -5,6 +5,8 @@ import { useEffect, useId, useState } from 'react';
 import { CaseReviewCtaButton, PhoneCta, Reveal } from '@/components';
 import { cn } from '@/kit/ui/functions/cn';
 import { TEAM_MEMBERS, TEAM_PAGE } from '@/lib/site';
+import { teamMemberPath } from '@/lib/cms/tables/team';
+import { Link } from '@/components/link';
 import type { SiteComponentKindMap } from '@/kit/catalog';
 import { ResourceBand } from '@/kit/blocks/spotlight';
 
@@ -99,6 +101,15 @@ function TeamRosterPanel() {
 							</div>
 						) : null}
 
+						{selected.profile ? (
+							<Link
+								href={teamMemberPath(selected.id)}
+								className="text-[15px] font-semibold text-gold underline-offset-4 hover:underline"
+							>
+								Read {selected.name}&rsquo;s full biography
+							</Link>
+						) : null}
+
 						<div className="flex flex-wrap gap-3 pt-1">
 							<CaseReviewCtaButton leadContextId="team" className="btn btn-primary btn-md">
 								{TEAM_PAGE.ctaLabel}
@@ -108,6 +119,18 @@ function TeamRosterPanel() {
 					</div>
 				</Reveal>
 			</div>
+
+			<nav aria-label="Attorney biographies" className="text-[14px] text-muted">
+				<span className="mr-2 font-semibold text-fg">Full biographies:</span>
+				{TEAM_MEMBERS.filter((member) => member.profile).map((member, index) => (
+					<span key={member.id}>
+						{index > 0 ? ' · ' : null}
+						<Link href={teamMemberPath(member.id)} className="text-gold hover:underline">
+							{member.name}
+						</Link>
+					</span>
+				))}
+			</nav>
 
 			{/* Compact portrait selector — lighter than v1 card grid */}
 			<div className="space-y-5 border-t border-line/50 pt-8 md:pt-10">

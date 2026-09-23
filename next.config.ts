@@ -1,8 +1,6 @@
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import type { NextConfig } from 'next';
-import wpRedirects from './content/data/settings/redirects.json';
-import { mergeWpAndLegacyRedirects } from './scripts/blog';
 
 const repoRoot = path.dirname(fileURLToPath(import.meta.url));
 
@@ -14,9 +12,9 @@ const nextConfig: NextConfig = {
 		root: repoRoot,
 	},
 	allowedDevOrigins: ['abruptive.napoleon-kardashev.ts.net', '*.napoleon-kardashev.ts.net'],
-	async redirects() {
-		return mergeWpAndLegacyRedirects(wpRedirects.WP_REDIRECTS);
-	},
+	// Legacy WordPress URLs, trailing slashes and mixed-case paths are resolved in one 301 hop
+	// by src/proxy.ts; Next's own trailing-slash redirect would add a second hop.
+	skipTrailingSlashRedirect: true,
 	async headers() {
 		const ancestors =
 			process.env.EMBED_FRAME_ANCESTORS ??
@@ -40,6 +38,9 @@ const nextConfig: NextConfig = {
 						key: 'Content-Security-Policy',
 						value: `frame-ancestors ${ancestors};`,
 					},
+					{ key: 'X-Content-Type-Options', value: 'nosniff' },
+					{ key: 'Referrer-Policy', value: 'strict-origin-when-cross-origin' },
+					{ key: 'Permissions-Policy', value: 'camera=(), microphone=(), geolocation=()' },
 				],
 			},
 		];

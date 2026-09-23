@@ -13,12 +13,20 @@ export function slugSegmentStaticParams(listSlugs: () => readonly string[]): { s
 type RouteSegmentSeo = {
 	seoTitle: string;
 	seoDescription: string;
+	kind?: string;
+	date?: string;
+	modified?: string;
+	thumbnail?: string;
+	thumbnailAlt?: string;
+	cardImage?: string;
+	cardImageAlt?: string;
 };
 
 type SlugDetailMetadataOptions = {
 	resolve: (slug: string) => RouteSegmentSeo | undefined;
 	canonicalPath: (slug: string) => string;
 	notFoundTitle: string;
+	noindex?: boolean;
 };
 
 export async function slugSegmentGenerateMetadata(
@@ -28,10 +36,27 @@ export async function slugSegmentGenerateMetadata(
 	const { slug } = await params;
 	const page = options.resolve(slug);
 	if (!page) return { title: options.notFoundTitle };
+	// Blog and case-study images are 1200×675; smaller thumbnails fall back to the template card.
+	const imageUrl = page.kind === 'blog' ? page.thumbnail : page.cardImage;
+	const isArticle = Boolean(page.date);
 	return pageMetadata({
 		title: page.seoTitle,
 		description: page.seoDescription,
 		canonical: options.canonicalPath(slug),
+		noindex: options.noindex,
+		type: isArticle ? 'article' : 'website',
+		publishedTime: page.date,
+		modifiedTime: page.modified,
+		...(imageUrl
+			? {
+					image: {
+						url: imageUrl,
+						alt: page.thumbnailAlt ?? page.cardImageAlt,
+						width: 1200,
+						height: 675,
+					},
+				}
+			: {}),
 	});
 }
 
@@ -59,7 +84,7 @@ export async function toolSlugSegmentGenerateMetadata(
 	if (!tool) return { title: 'Tool not found' };
 
 	return pageMetadata({
-		title: `${tool.seoTitle} · Free`,
+		title: `${tool.seoTitle} | CLINE APC`,
 		description: tool.seoDescription,
 		canonical: `/tool/${tool.slug}`,
 	});

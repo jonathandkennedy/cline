@@ -107,6 +107,49 @@ export const guidebookHubKinds: SiteComponentKindMap = {
 								})}
 							</ol>
 						</nav>
+
+						{GUIDEBOOK_CHAPTERS.map((chapter, index) => (
+							<section
+								key={chapter.slug}
+								id={chapter.slug}
+								aria-labelledby={`${chapter.slug}-title`}
+								className="mt-14 scroll-mt-28 border-t border-line/50 pt-10"
+							>
+								<p className={components.resourceUi.shared.k007}>
+									Chapter {String(index + 1).padStart(2, '0')}
+								</p>
+								<h2
+									id={`${chapter.slug}-title`}
+									className="mt-2 text-[clamp(1.4rem,3vw,1.9rem)] font-semibold text-fg"
+								>
+									{chapter.title}
+								</h2>
+								<p className="mt-3 text-[16px] leading-relaxed text-fg/85">{chapter.summary}</p>
+								{chapter.sections.map((section) => (
+									<div key={section.id}>
+										<h3 className="mt-7 text-lg font-semibold text-fg">{section.title}</h3>
+										{section.paragraphs.map((paragraph) => (
+											<p
+												key={paragraph.slice(0, 40)}
+												className="mt-3 text-[16px] leading-relaxed text-muted"
+											>
+												{paragraph}
+											</p>
+										))}
+									</div>
+								))}
+							</section>
+						))}
+						<p className="mt-14 text-[16px] text-muted">
+							For the full statute-by-statute treatment, read our{' '}
+							<Link
+								href="/info/a-comprehensive-guide-to-california-lemon-law"
+								className="font-semibold text-gold hover:underline"
+							>
+								comprehensive guide to California lemon law
+							</Link>
+							.
+						</p>
 					</div>
 				}
 				aside={

@@ -3,7 +3,7 @@
 	"TEAM_PAGE": {
 		"eyebrow": "Our people",
 		"headline": "Meet the attorneys and staff behind CLINE APC.",
-		"subhead": "Select a teammate to read their role and background. Three colleagues include full biographies from our firm site; others are listed by name and title.",
+		"subhead": "Select a teammate to read their role and background, or open a full biography.",
 		"selectorLabel": "Team members",
 		"selectedLabel": "Selected",
 		"ctaLabel": "Free case review",
@@ -18,8 +18,21 @@
 			"image": "/images/brian-cline-capture-portrait.jpg",
 			"imageAlt": "Portrait of Brian Cline, Owner and Managing Attorney at CLINE APC",
 			"bio": [
-				"Mr. Brian K. Cline, owner and managing attorney for Cline, APC., has been practicing law in the state of California since December of 2006. His practice has covered a diverse range of cases, including the representation of California consumers under the Song-Beverly Consumer Warranty Act, also known as California\u2019s lemon law."
-			]
+				"Mr. Brian K. Cline, owner and managing attorney for Cline, APC., has been practicing law in the state of California since December of 2006. His practice has covered a diverse range of cases, including the representation of California consumers under the Song-Beverly Consumer Warranty Act, also known as California’s lemon law.",
+				"Mr. Cline has also served as an attorney in cases of personal injury law, employment injustices, insurance bad faith, civil rights violations, and breaches of contract. In addition to representing plaintiffs, Mr. Cline had the unique experience of defending the San Diego Police Department and its respected officers in a high-profile, excessive use of force case with the San Diego City Attorney’s Office – Civil Division.",
+				"Mr. Cline has spent a majority of his career protecting consumers under the Song-Beverly Consumer Warranty Act or “lemon law.” He has litigated lemon law cases against all major manufacturers throughout the state of California, including but not limited to BMW, Ford, Mercedes-Benz, and Forest River Motor Homes.",
+				"As a native of California, he received his undergraduate degree in economics from the University of California at San Diego. Mr. Cline then earned his Juris Doctor from the Columbus School of Law, Catholic University of America in Washington D.C. He has called San Diego his home since 1996, and he is a member of the State Bar of California and the La Jolla Bar Association."
+			],
+			"profile": {
+				"jobTitle": "Owner and Managing Attorney",
+				"email": "brian@clineapc.com",
+				"alumniOf": [
+					"University of California, San Diego",
+					"Columbus School of Law, The Catholic University of America"
+				],
+				"memberOf": ["State Bar of California", "La Jolla Bar Association"],
+				"knowsAbout": ["California lemon law", "Song-Beverly Consumer Warranty Act"]
+			}
 		},
 		{
 			"id": "mark-johnson",
@@ -28,8 +41,18 @@
 			"image": "/images/team/mark-johnson.jpg",
 			"imageAlt": "Portrait of Mark Johnson, Attorney at CLINE APC",
 			"bio": [
-				"Mark Johnson is an experienced trial attorney who concentrates his practice on consumer warranty protection and business litigation. He has represented hundreds of clients in state and federal court, at every stage of a lawsuit, including through jury verdict as first chair trial counsel. Mark works with his clients to determine their goals and takes the actions necessary to efficiently and effectively deliver results."
-			]
+				"Mark Johnson is an experienced trial attorney who concentrates his practice on consumer warranty protection and business litigation. He has represented hundreds of clients in state and federal court, at every stage of a lawsuit, including through jury verdict as first chair trial counsel. Mark works with his clients to determine their goals and takes the actions necessary to efficiently and effectively deliver results.",
+				"In addition to representing hard working consumers, Mark has experience in business litigation, business formation, contracts, franchise disputes, and managing business affairs. He has a proven track record of success of handling complex problems and delivering results.",
+				"Prior to joining Cline APC, Mark drove and owned the commercial division of an aviation company. In his role, he oversaw the commercial expansion in North and South America, handled contract and procurement negotiations, and provided the business strategy and legal guidance for the Americas.",
+				"Mark is licensed to practice law in the states of California and Tennessee and before the United States District Courts for the Southern, Northern, Eastern and Central Districts of California. While earning his Juris Doctor from Loyola Law School Los Angeles, Mark was a member of the Loyola Law Review. Mark received his undergraduate degree in Marketing from Azusa Pacific University and studied abroad in Australia."
+			],
+			"profile": {
+				"jobTitle": "Attorney",
+				"email": "mark@clineapc.com",
+				"alumniOf": ["Loyola Law School, Los Angeles", "Azusa Pacific University"],
+				"memberOf": ["State Bar of California"],
+				"knowsAbout": ["Consumer warranty law", "Business litigation"]
+			}
 		},
 		{
 			"id": "eric-natenstedt",
@@ -54,8 +77,13 @@
 			"image": "/images/team/lisa-sassa.jpg",
 			"imageAlt": "Portrait of Lisa Sassa, Paralegal at CLINE APC",
 			"bio": [
-				"Lisa Sassa is a paralegal who supports our civil litigation attorney\u2019s in preparing and organizing documents as well as aiding in client relations. Lisa earned her Paralegal Certificate through the University of California San Diego Extension program and spent time in a legal internship. Lisa enjoys surfing on the weekends and hiking with her dog."
-			]
+				"Lisa Sassa is a paralegal who supports our civil litigation attorneys in preparing and organizing documents as well as aiding in client relations. Lisa earned her Paralegal Certificate through the University of California San Diego Extension program and spent time in a legal internship. Lisa enjoys surfing on the weekends and hiking with her dog."
+			],
+			"profile": {
+				"jobTitle": "Paralegal",
+				"email": "lisa@clineapc.com",
+				"alumniOf": ["UC San Diego Extension"]
+			}
 		},
 		{
 			"id": "john-evans",

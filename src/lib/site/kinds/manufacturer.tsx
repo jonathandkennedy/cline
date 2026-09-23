@@ -6,6 +6,8 @@ import { BrandLogo, Checklist, Reveal } from '@/components';
 import { PrimaryCallCta } from '@/components/fields/primarycall';
 import { leadCaptureInlineSlot } from '@/components/leads/inline';
 import Link from '@/components/link';
+import { PostList } from '@/components/blog/related';
+import { blogTopicPath, getBlogTopic, postsForBrand } from '@/lib/topics';
 import type { ManufacturerDetailBlockId } from '@/lib/cms';
 import {
 	buildManufacturerDetailBreadcrumbs,
@@ -196,11 +198,32 @@ function createManufacturerDetailBlockRegistry(
 				const relatedFaq = getFaqBySlug(faqSlug);
 				return relatedFaq ? [relatedFaq] : [];
 			});
+			const brandPosts = postsForBrand(slug).slice(0, 6);
+			const brandHub = getBlogTopic(slug);
 			return (
-				<ResourceRelatedQuestionsGrid
-					faqs={relatedFaqs}
-					title={FAQ_DETAIL_SECTIONS.relatedQuestions}
-				/>
+				<>
+					<ResourceRelatedQuestionsGrid
+						faqs={relatedFaqs}
+						title={FAQ_DETAIL_SECTIONS.relatedQuestions}
+					/>
+					{brandPosts.length > 0 ? (
+						<ResourceBand pad="default" bleedClassName={RESOURCE_BLEED_MAIN}>
+							<h2 className="text-xl font-semibold text-fg">
+								{manufacturer?.name ?? detail.headline} articles from our blog
+							</h2>
+							<div className="mt-6">
+								<PostList posts={brandPosts} headingLevel="h3" />
+							</div>
+							{brandHub ? (
+								<p className="mt-6">
+									<Link href={blogTopicPath(brandHub.slug)} className="font-semibold text-gold">
+										All {brandHub.label} articles
+									</Link>
+								</p>
+							) : null}
+						</ResourceBand>
+					) : null}
+				</>
 			);
 		},
 		relatedContent: () => {
